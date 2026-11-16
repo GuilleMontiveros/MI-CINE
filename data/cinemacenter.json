@@ -1,66 +1,518 @@
 {
- "actualizado": "2026-11-16T22:11:05.864752+00:00",
+ "actualizado": "2026-11-16T22:17:50.368786+00:00",
  "peliculas": [
   {
-   "titulo": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-NWXZF4P'); var oIF = true; '); if (!opts) opts = {t:2}; if (document.epl != undefined) { if (opts.custF) document.epl.setCustomAdShow(eID,opts.custF); document.epl.setSpace(eID, opts); } else { eplAdsArray.push(new Array(eID, opts)); } } //-->",
-   "horarios_txt": "DESDE EL 12/11/2026 AL 18/11/2026 HORARIOS Lunes 16 de Noviembre de 2026 22:10 Martes 17 de Noviembre de 2026 22:10 Miércoles 18 de Noviembre de 2026 22:00 COMPRAR ONLINE * Los horarios en color Azul corresponden a las funciones de MATINEE * Los horarios en color Rojo corresponden a las funciones de TRASNOCHE (La TRASNOCHE se proyecta pasadas las 24hs del día de función seleccionado.) IMPRIMIR CARTELERA"
+   "titulo": "El Corazon De La Bestia",
+   "funciones": [
+    {
+     "formato": "2d cast",
+     "dias": {
+      "2026-11-16": [
+       "22:10"
+      ],
+      "2026-11-17": [
+       "22:10"
+      ],
+      "2026-11-18": [
+       "22:00"
+      ]
+     }
+    }
+   ],
+   "id": 1263337,
+   "poster": "/ya8iLCNyoVpBO7B7JrNJVj3g7tK.jpg",
+   "mia": true
   },
   {
-   "titulo": "MADRE SINIESTRA - 2D CAST",
-   "horarios_txt": "DESDE EL 12/11/2026 AL 18/11/2026 HORARIOS Lunes 16 de Noviembre de 2026 22:50 Martes 17 de Noviembre de 2026 22:50 Miércoles 18 de Noviembre de 2026 22:50 COMPRAR ONLINE * Los horarios en color Azul corresponden a las funciones de MATINEE * Los horarios en color Rojo corresponden a las funciones de TRASNOCHE (La TRASNOCHE se proyecta pasadas las 24hs del día de función seleccionado.) IMPRIMIR CARTELERA"
+   "titulo": "Madre Siniestra",
+   "funciones": [
+    {
+     "formato": "2d cast",
+     "dias": {
+      "2026-11-16": [
+       "22:50"
+      ],
+      "2026-11-17": [
+       "22:50"
+      ],
+      "2026-11-18": [
+       "22:50"
+      ]
+     }
+    }
+   ],
+   "id": 1400837,
+   "poster": "/USCOKXrHBCeeK96qXmS0NyDHYL.jpg",
+   "mia": false
   },
   {
-   "titulo": "GODZILLA MINUS ZERO - 2D CAST",
-   "horarios_txt": "DESDE EL 12/11/2026 AL 18/11/2026 HORARIOS Miércoles 18 de Noviembre de 2026 18:40 COMPRAR ONLINE * Los horarios en color Azul corresponden a las funciones de MATINEE * Los horarios en color Rojo corresponden a las funciones de TRASNOCHE (La TRASNOCHE se proyecta pasadas las 24hs del día de función seleccionado.) IMPRIMIR CARTELERA"
+   "titulo": "Godzilla Minus Zero",
+   "funciones": [
+    {
+     "formato": "2d cast",
+     "dias": {
+      "2026-11-18": [
+       "18:40"
+      ]
+     }
+    },
+    {
+     "formato": "2d cast",
+     "dias": {
+      "2026-11-16": [
+       "18:40",
+       "18:40"
+      ],
+      "2026-11-17": [
+       "18:40",
+       "18:40"
+      ],
+      "2026-11-18": [
+       "16:10"
+      ]
+     }
+    }
+   ],
+   "id": 1381071,
+   "poster": "/2B7ZSUutCgwUAE5U0X7WlD8yiun.jpg",
+   "mia": true
   },
   {
-   "titulo": "WILDWOOD: EL BOSQUE SALVAJE - 2D CAST",
-   "horarios_txt": "DESDE EL 12/11/2026 AL 18/11/2026 HORARIOS Lunes 16 de Noviembre de 2026 17:20 20:10 Martes 17 de Noviembre de 2026 17:20 20:10 Miércoles 18 de Noviembre de 2026 17:20 20:10 COMPRAR ONLINE * Los horarios en color Azul corresponden a las funciones de MATINEE * Los horarios en color Rojo corresponden a las funciones de TRASNOCHE (La TRASNOCHE se proyecta pasadas las 24hs del día de función seleccionado.) IMPRIMIR CARTELERA"
+   "titulo": "Wildwood: El Bosque Salvaje",
+   "funciones": [
+    {
+     "formato": "2d cast",
+     "dias": {
+      "2026-11-16": [
+       "17:20",
+       "17:20"
+      ],
+      "2026-11-17": [
+       "17:20",
+       "17:20"
+      ],
+      "2026-11-18": [
+       "17:20",
+       "17:20"
+      ]
+     }
+    }
+   ],
+   "id": 791523,
+   "poster": "/sJ1uZ4DKsjs2iqLtCX46TifxqoE.jpg",
+   "mia": true
   },
   {
-   "titulo": "EL GATO CON SOMBRERO - 2D CAST",
-   "horarios_txt": "DESDE EL 12/11/2026 AL 18/11/2026 HORARIOS Lunes 16 de Noviembre de 2026 18:00 19:40 Martes 17 de Noviembre de 2026 18:00 19:40 Miércoles 18 de Noviembre de 2026 18:00 19:40 COMPRAR ONLINE * Los horarios en color Azul corresponden a las funciones de MATINEE * Los horarios en color Rojo corresponden a las funciones de TRASNOCHE (La TRASNOCHE se proyecta pasadas las 24hs del día de función seleccionado.) IMPRIMIR CARTELERA"
+   "titulo": "El Gato Con Sombrero",
+   "funciones": [
+    {
+     "formato": "2d cast",
+     "dias": {
+      "2026-11-16": [
+       "18:00",
+       "18:00"
+      ],
+      "2026-11-17": [
+       "18:00",
+       "18:00"
+      ],
+      "2026-11-18": [
+       "18:00",
+       "18:00"
+      ]
+     }
+    },
+    {
+     "formato": "3d cast",
+     "dias": {
+      "2026-11-16": [
+       "17:10"
+      ],
+      "2026-11-17": [
+       "17:10"
+      ],
+      "2026-11-18": [
+       "17:10"
+      ]
+     }
+    }
+   ],
+   "id": 1117898,
+   "poster": "/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
+   "mia": false
   },
   {
-   "titulo": "EL GATO CON SOMBRERO - 3D CAST",
-   "horarios_txt": "DESDE EL 12/11/2026 AL 18/11/2026 HORARIOS Lunes 16 de Noviembre de 2026 17:10 Martes 17 de Noviembre de 2026 17:10 Miércoles 18 de Noviembre de 2026 17:10 COMPRAR ONLINE * Los horarios en color Azul corresponden a las funciones de MATINEE * Los horarios en color Rojo corresponden a las funciones de TRASNOCHE (La TRASNOCHE se proyecta pasadas las 24hs del día de función seleccionado.) IMPRIMIR CARTELERA"
+   "titulo": "Los Juegos Del Hambre: Amanecer En La Cosecha",
+   "funciones": [
+    {
+     "formato": "2d cast",
+     "dias": {
+      "2026-11-18": [
+       "19:00",
+       "19:00"
+      ]
+     }
+    }
+   ],
+   "id": 1300968,
+   "poster": "/nijGyrqQbDhSGss4uugQokvBAsG.jpg",
+   "mia": false
   },
   {
-   "titulo": "GODZILLA MINUS ZERO - 2D CAST (SALA ATMOS)",
-   "horarios_txt": "DESDE EL 12/11/2026 AL 18/11/2026 HORARIOS Lunes 16 de Noviembre de 2026 18:40 21:40 Martes 17 de Noviembre de 2026 18:40 21:40 Miércoles 18 de Noviembre de 2026 16:10 COMPRAR ONLINE * Los horarios en color Azul corresponden a las funciones de MATINEE * Los horarios en color Rojo corresponden a las funciones de TRASNOCHE (La TRASNOCHE se proyecta pasadas las 24hs del día de función seleccionado.) IMPRIMIR CARTELERA"
+   "titulo": "El Agua Nunca Doli",
+   "funciones": [
+    {
+     "formato": "2d cast",
+     "dias": {
+      "2026-11-16": [
+       "21:30"
+      ],
+      "2026-11-17": [
+       "21:30"
+      ],
+      "2026-11-18": [
+       "21:30"
+      ]
+     }
+    }
+   ],
+   "id": 1526844,
+   "poster": "/u7pVncqI37dgP6UYzOiE6spekLI.jpg",
+   "mia": false
   },
   {
-   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA - 2D CAST (SALA ATMOS)",
-   "horarios_txt": "DESDE EL 12/11/2026 AL 18/11/2026 HORARIOS Miércoles 18 de Noviembre de 2026 19:00 22:10 COMPRAR ONLINE * Los horarios en color Azul corresponden a las funciones de MATINEE * Los horarios en color Rojo corresponden a las funciones de TRASNOCHE (La TRASNOCHE se proyecta pasadas las 24hs del día de función seleccionado.) IMPRIMIR CARTELERA"
+   "titulo": "Caballo Salvaje Nueve",
+   "funciones": [
+    {
+     "formato": "2d sub",
+     "dias": {
+      "2026-11-16": [
+       "19:50",
+       "19:50"
+      ],
+      "2026-11-17": [
+       "19:50",
+       "19:50"
+      ],
+      "2026-11-18": [
+       "19:50",
+       "19:50"
+      ]
+     }
+    }
+   ],
+   "id": 891621,
+   "poster": "/bLDrHn76oiNYiELv1qw3Tfdkqc8.jpg",
+   "mia": true
   },
   {
-   "titulo": "EL AGUA NUNCA DOLI - 2D CAST",
-   "horarios_txt": "DESDE EL 12/11/2026 AL 18/11/2026 HORARIOS Lunes 16 de Noviembre de 2026 21:30 Martes 17 de Noviembre de 2026 21:30 Miércoles 18 de Noviembre de 2026 21:30 COMPRAR ONLINE * Los horarios en color Azul corresponden a las funciones de MATINEE * Los horarios en color Rojo corresponden a las funciones de TRASNOCHE (La TRASNOCHE se proyecta pasadas las 24hs del día de función seleccionado.) IMPRIMIR CARTELERA"
+   "titulo": "Como Robar Un Banco",
+   "funciones": [
+    {
+     "formato": "2d cast",
+     "dias": {
+      "2026-11-16": [
+       "17:40",
+       "17:40",
+       "17:40"
+      ],
+      "2026-11-17": [
+       "17:40",
+       "17:40",
+       "17:40"
+      ],
+      "2026-11-18": [
+       "17:40",
+       "17:40",
+       "17:40"
+      ]
+     }
+    }
+   ],
+   "id": 1437511,
+   "poster": "/xS35fgWgRdF2em5MGxg5WG9dPKd.jpg",
+   "mia": false
   },
   {
-   "titulo": "CABALLO SALVAJE NUEVE - 2D SUB",
-   "horarios_txt": "DESDE EL 12/11/2026 AL 18/11/2026 HORARIOS Lunes 16 de Noviembre de 2026 19:50 22:20 Martes 17 de Noviembre de 2026 19:50 22:20 Miércoles 18 de Noviembre de 2026 19:50 22:20 COMPRAR ONLINE * Los horarios en color Azul corresponden a las funciones de MATINEE * Los horarios en color Rojo corresponden a las funciones de TRASNOCHE (La TRASNOCHE se proyecta pasadas las 24hs del día de función seleccionado.) IMPRIMIR CARTELERA"
+   "titulo": "Aniquilacin",
+   "funciones": [
+    {
+     "formato": "2d cast",
+     "dias": {
+      "2026-11-16": [
+       "20:30"
+      ],
+      "2026-11-17": [
+       "20:30"
+      ],
+      "2026-11-18": [
+       "20:30"
+      ]
+     }
+    }
+   ],
+   "mia": false
   },
   {
-   "titulo": "COMO ROBAR UN BANCO - 2D CAST",
-   "horarios_txt": "DESDE EL 12/11/2026 AL 18/11/2026 HORARIOS Lunes 16 de Noviembre de 2026 17:40 20:20 23:00 Martes 17 de Noviembre de 2026 17:40 20:20 23:00 Miércoles 18 de Noviembre de 2026 17:40 20:20 23:00 COMPRAR ONLINE * Los horarios en color Azul corresponden a las funciones de MATINEE * Los horarios en color Rojo corresponden a las funciones de TRASNOCHE (La TRASNOCHE se proyecta pasadas las 24hs del día de función seleccionado.) IMPRIMIR CARTELERA"
+   "titulo": "Ju-On: El Grito",
+   "funciones": [
+    {
+     "formato": "2d cast",
+     "dias": {
+      "2026-11-16": [
+       "22:40"
+      ],
+      "2026-11-17": [
+       "22:40"
+      ],
+      "2026-11-18": [
+       "22:40"
+      ]
+     }
+    }
+   ],
+   "id": 259233,
+   "poster": "/wJHee7DW3NACAsBXsEqlTofbb0Q.jpg",
+   "mia": false
   },
   {
-   "titulo": "ANIQUILACIN - 2D CAST",
-   "horarios_txt": "DESDE EL 12/11/2026 AL 18/11/2026 HORARIOS Lunes 16 de Noviembre de 2026 20:30 Martes 17 de Noviembre de 2026 20:30 Miércoles 18 de Noviembre de 2026 20:30 COMPRAR ONLINE * Los horarios en color Azul corresponden a las funciones de MATINEE * Los horarios en color Rojo corresponden a las funciones de TRASNOCHE (La TRASNOCHE se proyecta pasadas las 24hs del día de función seleccionado.) IMPRIMIR CARTELERA"
+   "titulo": "Ebenezer: Los Fantasmas De Navidad",
+   "funciones": [
+    {
+     "formato": "2d cast",
+     "dias": {
+      "2026-11-16": [
+       "16:50",
+       "16:50",
+       "16:50"
+      ],
+      "2026-11-17": [
+       "16:50",
+       "16:50",
+       "16:50"
+      ],
+      "2026-11-18": [
+       "19:20",
+       "19:20"
+      ]
+     }
+    }
+   ],
+   "id": 1567605,
+   "poster": "/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
+   "mia": false
   },
   {
-   "titulo": "JU-ON: EL GRITO - 2D CAST (RE ESTRENO)",
-   "horarios_txt": "DESDE EL 12/11/2026 AL 18/11/2026 HORARIOS Lunes 16 de Noviembre de 2026 22:40 Martes 17 de Noviembre de 2026 22:40 Miércoles 18 de Noviembre de 2026 22:40 COMPRAR ONLINE * Los horarios en color Azul corresponden a las funciones de MATINEE * Los horarios en color Rojo corresponden a las funciones de TRASNOCHE (La TRASNOCHE se proyecta pasadas las 24hs del día de función seleccionado.) IMPRIMIR CARTELERA"
-  },
-  {
-   "titulo": "EBENEZER: LOS FANTASMAS DE NAVIDAD - 2D CAST",
-   "horarios_txt": "DESDE EL 12/11/2026 AL 18/11/2026 HORARIOS Lunes 16 de Noviembre de 2026 16:50 19:20 21:50 Martes 17 de Noviembre de 2026 16:50 19:20 21:50 Miércoles 18 de Noviembre de 2026 19:20 21:50 COMPRAR ONLINE * Los horarios en color Azul corresponden a las funciones de MATINEE * Los horarios en color Rojo corresponden a las funciones de TRASNOCHE (La TRASNOCHE se proyecta pasadas las 24hs del día de función seleccionado.) IMPRIMIR CARTELERA"
-  },
-  {
-   "titulo": "PLUMAS OPERACION RESCATE - 2D CAST",
-   "horarios_txt": "DESDE EL 12/11/2026 AL 18/11/2026 HORARIOS Lunes 16 de Noviembre de 2026 17:50 Martes 17 de Noviembre de 2026 17:50 Miércoles 18 de Noviembre de 2026 17:50 COMPRAR ONLINE * Los horarios en color Azul corresponden a las funciones de MATINEE * Los horarios en color Rojo corresponden a las funciones de TRASNOCHE (La TRASNOCHE se proyecta pasadas las 24hs del día de función seleccionado.) IMPRIMIR CARTELERA"
+   "titulo": "Plumas Operacion Rescate",
+   "funciones": [
+    {
+     "formato": "2d cast",
+     "dias": {
+      "2026-11-16": [
+       "17:50"
+      ],
+      "2026-11-17": [
+       "17:50"
+      ],
+      "2026-11-18": [
+       "17:50"
+      ]
+     }
+    }
+   ],
+   "id": 1280405,
+   "poster": "/12N7a0AqUK8tDYo8RgBXIZQ7kgJ.jpg",
+   "mia": false
   }
  ],
- "proximos": []
+ "proximos": [
+  {
+   "titulo": "Yo Soy Rocky",
+   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3636_img2.jpg",
+   "genero": "Biográfica",
+   "id": 1286656,
+   "poster": "/6ItqVHcsb2swkE7ajS6EVCH2mpd.jpg",
+   "mia": false
+  },
+  {
+   "titulo": "Los Juegos El Hambre: Amanecer En La Cosecha",
+   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3408_img2.jpg",
+   "genero": "Acción",
+   "id": 1300968,
+   "poster": "/nijGyrqQbDhSGss4uugQokvBAsG.jpg",
+   "mia": false
+  },
+  {
+   "titulo": "Recen Por Mí: La Historia De Francisco",
+   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3673_img2.jpg",
+   "genero": "Documental",
+   "id": 1510295,
+   "poster": "/gnmbwuCoGwFblQ0tvvxHHh8LhTU.jpg",
+   "mia": false
+  },
+  {
+   "titulo": "La Asistente De La Morgue",
+   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3508_img2.jpg",
+   "genero": "Terror",
+   "id": 1470130,
+   "poster": "/6wVW8SnkRhIAPPk8QqFuf45kRt8.jpg",
+   "mia": false
+  },
+  {
+   "titulo": "Bichos Del Mar",
+   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3674_img2.jpg",
+   "genero": "Documental",
+   "id": 1797377,
+   "poster": "/uYTQGXobST0zbqoBXmGBsuezb8h.jpg",
+   "mia": false
+  },
+  {
+   "titulo": "La Nueva Focker",
+   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3546_img2.jpg",
+   "genero": "Comedia",
+   "id": 1400336,
+   "poster": "/iU2XxFhMxC5Z2gOPASkRmtuDjJQ.jpg",
+   "mia": false
+  },
+  {
+   "titulo": "Hechizo: Bienvenidos A Heze",
+   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3581_img2.jpg",
+   "genero": "Animación",
+   "mia": false
+  },
+  {
+   "titulo": "Noche Sin Paz 2",
+   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3615_img2.jpg",
+   "genero": "Comedia",
+   "id": 1078446,
+   "poster": "/bMGudrgP3ZVD9IPF73BYLdnrNSE.jpg",
+   "mia": false
+  },
+  {
+   "titulo": "La Psicópata",
+   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3616_img2.jpg",
+   "genero": "Drama",
+   "id": 1379486,
+   "poster": "/2r09thBfqsWkoyGVtrxc00uYpSy.jpg",
+   "mia": false
+  },
+  {
+   "titulo": "El Nacimiento De Cristo",
+   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3654_img2.jpg",
+   "genero": "Drama",
+   "id": 1408207,
+   "poster": "/wTlKaVl85SvxBCgKSdBSa5ZY7EJ.jpg",
+   "mia": false
+  },
+  {
+   "titulo": "El Ángel Guardián",
+   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3688_img2.jpg",
+   "genero": "Acción",
+   "id": 1562642,
+   "poster": "/4SGiw29f5tqLcfBIJV3Kv3bw73m.jpg",
+   "mia": false
+  },
+  {
+   "titulo": "Realmente Amor (Re)",
+   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3692_img2.jpg",
+   "genero": "Comedia Romántica",
+   "mia": false
+  },
+  {
+   "titulo": "Avengers: Doomsday",
+   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3440_img2.jpg",
+   "genero": "Ciencia Ficción",
+   "id": 1003596,
+   "poster": "/7bQczUMnjz8iwxNP9YrmLkfI8od.jpg",
+   "mia": true
+  },
+  {
+   "titulo": "Duna: Parte 3",
+   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3521_img2.jpg",
+   "genero": "Acción",
+   "id": 1170608,
+   "poster": "/uj4EuGmFNAc4CHBVEtRZ04MXzka.jpg",
+   "mia": true
+  },
+  {
+   "titulo": "Jumanji: En El Mundo Real",
+   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3672_img2.jpg",
+   "genero": "Aventuras",
+   "id": 1260649,
+   "poster": "/ntjF2gemedf3ZcWzARGt6cuZlnJ.jpg",
+   "mia": false
+  },
+  {
+   "titulo": "Sanguine",
+   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3689_img2.jpg",
+   "genero": "Terror",
+   "id": 1468846,
+   "poster": "/fDvZvNmLIwUcKKQ4Cfb6TmQJM7M.jpg",
+   "mia": false
+  },
+  {
+   "titulo": "Angry Birds 3",
+   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3587_img2.jpg",
+   "genero": "Animación",
+   "id": 1300926,
+   "poster": "/xyml31x5gu23tOMIFJ43XO4aTD6.jpg",
+   "mia": false
+  },
+  {
+   "titulo": "Werwulf",
+   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3607_img2.jpg",
+   "genero": "Drama",
+   "id": 1421903,
+   "poster": "/bzJ1pupikR5SvU6eT0zVlgF0CWP.jpg",
+   "mia": true
+  },
+  {
+   "titulo": "La Era De Hielo: Mundo De Lava",
+   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3585_img2.jpg",
+   "genero": "Animación",
+   "id": 1384758,
+   "poster": "/l4rsiRkdfXyyS4pbnUT8lOsIEJ8.jpg",
+   "mia": false
+  },
+  {
+   "titulo": "Nunca Olvides Que Te Quiero",
+   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3637_img2.jpg",
+   "genero": "Drama",
+   "id": 1425859,
+   "poster": "/tgvWVZNixthTH7kVz6ObBBaZcKm.jpg",
+   "mia": false
+  },
+  {
+   "titulo": "Rastro Mortal",
+   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3663_img2.jpg",
+   "genero": "Acción",
+   "id": 1202816,
+   "poster": "/qci9am94Atnlqwm0BlMqbme1bbB.jpg",
+   "mia": false
+  },
+  {
+   "titulo": "Narnia: El Sobrino Del Mago",
+   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3664_img2.jpg",
+   "genero": "Fantasía",
+   "id": 1147572,
+   "poster": "/7Wzwr8TQM8pHB2IaHKwm0MdyEzl.jpg",
+   "mia": false
+  },
+  {
+   "titulo": "Gatto",
+   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3668_img2.jpg",
+   "genero": "Animación",
+   "id": 26503,
+   "poster": "/AnyOPXp4vioGsgVYo2dzR3ZV9b0.jpg",
+   "mia": false
+  },
+  {
+   "titulo": "El Exorcista: Mártires",
+   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3667_img2.jpg",
+   "genero": "Terror",
+   "id": 1297467,
+   "poster": "/nituVk6sSSyOk1Q3SWjs5DmefVU.jpg",
+   "mia": false
+  }
+ ]
 }
