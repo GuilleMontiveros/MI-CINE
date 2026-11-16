@@ -10,6 +10,7 @@
    "poster": "/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
    "fondo": "/mIi99BK2mDpLp2lGsa8jCBDFit4.jpg",
    "puntaje": 8.0,
+   "sinopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
    "hd": false,
    "motivo": null,
    "digital_ar": null,
@@ -21,6 +22,24 @@
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
+   "director": [
+    "Christopher Nolan"
+   ],
+   "reparto": [
+    "Matt Damon",
+    "Tom Holland",
+    "Anne Hathaway",
+    "Robert Pattinson",
+    "Himesh Patel"
+   ],
+   "trailer": "X9nUrOnHlz0",
+   "lema": "Desafía a los dioses.",
+   "duracion": 173,
+   "generos": [
+    "Aventura",
+    "Acción",
+    "Fantasía"
+   ],
    "puesto": 1
   },
   {
@@ -31,6 +50,7 @@
    "poster": "/g2PKUCpDChvYvT7IaUOYfjO0mbG.jpg",
    "fondo": "/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
    "puntaje": 8.9,
+   "sinopsis": "Treinta y cuatro días antes de ingresar en prisión, la famosa fundadora de Theranos, Elizabeth Holmes, invita a un equipo de rodaje escéptico a documentar cada uno de sus movimientos. Lo que comienza como un retrato íntimo se convierte en un alucinante viaje de tres años.",
    "hd": false,
    "motivo": null,
    "digital_ar": null,
@@ -42,6 +62,23 @@
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
+   "director": [
+    "Nathan Fielder",
+    "Lance Oppenheim"
+   ],
+   "reparto": [
+    "Elizabeth Holmes",
+    "Nathan Fielder",
+    "Billy Evans",
+    "Amanda Seyfried",
+    "Christopher Abbott"
+   ],
+   "trailer": "-B-gh1BlS4w",
+   "lema": "",
+   "duracion": 175,
+   "generos": [
+    "Documental"
+   ],
    "agregada": "2026-11-17",
    "hd_desde": null,
    "prioridad": true,
@@ -55,6 +92,7 @@
    "poster": "/t1azKLExwUxKj6v6m2L535evuRa.jpg",
    "fondo": "/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
    "puntaje": 8.0,
+   "sinopsis": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
    "hd": false,
    "motivo": null,
    "digital_ar": null,
@@ -66,6 +104,24 @@
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
+   "director": [
+    "Javier Ambrossi",
+    "Javier Calvo"
+   ],
+   "reparto": [
+    "Guitarricadelafuente",
+    "Miguel Bernardeau",
+    "Carlos González",
+    "Milo Quifes",
+    "Lola Dueñas"
+   ],
+   "trailer": "9NNU-vSeOB0",
+   "lema": "",
+   "duracion": 159,
+   "generos": [
+    "Drama",
+    "Bélica"
+   ],
    "puesto": 3
   },
   {
@@ -76,6 +132,7 @@
    "poster": "/bLDrHn76oiNYiELv1qw3Tfdkqc8.jpg",
    "fondo": "/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
    "puntaje": 8.0,
+   "sinopsis": "Poco antes del golpe de Estado chileno de 1973, los agentes de la CIA Chris y Lee son enviados desde Santiago a la Isla de Pascua por su jefa de la oficina, MJ. Entre las emblemáticas estatuas de la isla, y mientras los veteranos compañeros lidian con sus oscuros pasados ​​y conspiraciones actuales, el nuevo vínculo que Chris establece con un par de estudiantes rebeldes amenaza con desbaratar el viaje de todos a este remoto paraíso.",
    "hd": false,
    "motivo": null,
    "digital_ar": null,
@@ -87,6 +144,24 @@
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
+   "director": [
+    "Martin McDonagh"
+   ],
+   "reparto": [
+    "John Malkovich",
+    "Sam Rockwell",
+    "Steve Buscemi",
+    "Mariana di Girolamo",
+    "Ailín Salas"
+   ],
+   "trailer": null,
+   "lema": "A veces tienes que hacer algo terrible por el bien mayor.",
+   "duracion": 117,
+   "generos": [
+    "Comedia",
+    "Crimen",
+    "Suspense"
+   ],
    "agregada": "2026-11-17",
    "hd_desde": null,
    "puesto": 4
@@ -99,6 +174,7 @@
    "poster": "/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
    "fondo": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
    "puntaje": 8.6,
+   "sinopsis": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
    "hd": true,
    "motivo": "Disponible en Argentina",
    "digital_ar": "2026-07-03",
@@ -146,6 +222,24 @@
     ]
    },
    "link": "https://www.themoviedb.org/movie/687163-project-hail-mary/watch?locale=AR",
+   "director": [
+    "Phil Lord",
+    "Christopher Miller"
+   ],
+   "reparto": [
+    "Ryan Gosling",
+    "Sandra Hüller",
+    "James Ortiz",
+    "Lionel Boyce",
+    "Milana Vayntrub"
+   ],
+   "trailer": "in-lUuKi0eE",
+   "lema": "Dos mundos una misión imposible.",
+   "duracion": 156,
+   "generos": [
+    "Ciencia ficción",
+    "Aventura"
+   ],
    "puesto": 5
   },
   {
@@ -156,6 +250,7 @@
    "poster": "/21JnfyCARiRkms9AZHtTXiZKbIj.jpg",
    "fondo": "/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
    "puntaje": 7.2,
+   "sinopsis": "Una pareja invita a los vecinos a su casa, lo que desencadena una velada llena de giros inesperados, revelando emociones profundamente reprimidas y una sexualidad inexplorada en esta historia que explora las complejidades de las relaciones de hoy en día.",
    "hd": true,
    "motivo": "Disponible en Argentina",
    "digital_ar": null,
@@ -193,6 +288,24 @@
     ]
    },
    "link": "https://www.themoviedb.org/movie/950028-the-invite/watch?locale=AR",
+   "director": [
+    "Olivia Wilde"
+   ],
+   "reparto": [
+    "Olivia Wilde",
+    "Seth Rogen",
+    "Penélope Cruz",
+    "Edward Norton",
+    "Rachel Thurow"
+   ],
+   "trailer": null,
+   "lema": "Será divertido.",
+   "duracion": 107,
+   "generos": [
+    "Comedia",
+    "Drama",
+    "Romance"
+   ],
    "puesto": 6
   },
   {
@@ -203,6 +316,7 @@
    "poster": "/6ItqVHcsb2swkE7ajS6EVCH2mpd.jpg",
    "fondo": "/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
    "puntaje": 8.5,
+   "sinopsis": "La electrizante historia real de un actor desconocido con la convicción inquebrantable de que no solo estaba destinado a escribir *Rocky*, sino a ser Rocky Balboa. Tras recibir negativas constantes, Sylvester Stallone lo apuesta todo a sí mismo y se mantiene firme en su empeño de interpretar el papel protagonista, contra todo pronóstico.",
    "hd": false,
    "motivo": null,
    "digital_ar": null,
@@ -214,6 +328,23 @@
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
+   "director": [
+    "Peter Farrelly"
+   ],
+   "reparto": [
+    "Anthony Ippolito",
+    "AnnaSophia Robb",
+    "P.J. Byrne",
+    "Toby Kebbell",
+    "Jay Duplass"
+   ],
+   "trailer": "JtkPJREm_9o",
+   "lema": "Toda su vida fue una apuesta de un millón contra uno.",
+   "duracion": 128,
+   "generos": [
+    "Drama",
+    "Historia"
+   ],
    "puesto": 7
   },
   {
@@ -224,6 +355,7 @@
    "poster": "/uj4EuGmFNAc4CHBVEtRZ04MXzka.jpg",
    "fondo": "/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
    "puntaje": 0.0,
+   "sinopsis": "Como emperador, Paul Atreides se enfrenta a las consecuencias de su ascenso al poder, mientras conspiraciones políticas y una guerra santa que abarca toda la galaxia amenazan el futuro que solo él puede prever.",
    "hd": false,
    "motivo": null,
    "digital_ar": null,
@@ -235,6 +367,23 @@
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
+   "director": [
+    "Denis Villeneuve"
+   ],
+   "reparto": [
+    "Timothée Chalamet",
+    "Zendaya",
+    "Jason Momoa",
+    "Florence Pugh",
+    "Rebecca Ferguson"
+   ],
+   "trailer": "qdfXYN5kMBY",
+   "lema": "La conclusión épica.",
+   "duracion": 150,
+   "generos": [
+    "Ciencia ficción",
+    "Aventura"
+   ],
    "agregada": "2026-07-23",
    "hd_desde": null,
    "prioridad": true,
@@ -248,6 +397,7 @@
    "poster": "/heJUue5EBWExxsLs2q37RNent8f.jpg",
    "fondo": "/nR3HoUX6zvO6PigYAFOBWjQoYUD.jpg",
    "puntaje": 0.0,
+   "sinopsis": "Cuando Mona Friedman consigue un papel menor en un pequeño teatro comunitario, se transforma de una ama de casa tímida y discreta en una actriz entregada al método, dispuesta a todo para proteger la integridad artística de su papel secundario, incluso si eso implica librar una guerra contra el director autoritario de la obra.",
    "hd": false,
    "motivo": null,
    "digital_ar": null,
@@ -259,6 +409,24 @@
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
+   "director": [
+    "Jesse Eisenberg"
+   ],
+   "reparto": [
+    "Julianne Moore",
+    "Paul Giamatti",
+    "Halle Bailey",
+    "Colton Ryan",
+    "Eldar Isgandarov"
+   ],
+   "trailer": null,
+   "lema": "Hay un método en la locura.",
+   "duracion": 105,
+   "generos": [
+    "Música",
+    "Comedia",
+    "Drama"
+   ],
    "puesto": 9
   },
   {
@@ -269,6 +437,7 @@
    "poster": "/kohUtEueIVyDXC30MaOdi36aAwn.jpg",
    "fondo": "/AlUUcnCiPbZUcAKoiS7GyXN7y6Z.jpg",
    "puntaje": 0.0,
+   "sinopsis": "La historia real, profundamente emotiva e inspiradora, de Ian Charleson, un actor de gran talento cuyo mayor desafío se convierte en su mayor triunfo. Al afrontar su propia mortalidad con una honestidad inquebrantable, ingenio y elegancia, Charleson ofrece una interpretación valiente que se transforma en una fuente de sanación e inspiración para quienes le rodean.",
    "hd": false,
    "motivo": null,
    "digital_ar": null,
@@ -280,6 +449,22 @@
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
+   "director": [
+    "Simon Stone"
+   ],
+   "reparto": [
+    "Andrew Scott",
+    "Olivia Colman",
+    "Billie Piper",
+    "Johnny Flynn",
+    "Luke Thompson"
+   ],
+   "trailer": null,
+   "lema": "Vive. Gloriosamente.",
+   "duracion": 111,
+   "generos": [
+    "Drama"
+   ],
    "puesto": 10
   },
   {
@@ -290,6 +475,7 @@
    "poster": "/l4q1gziNMhpVQAzCIwmtbLSB1T9.jpg",
    "fondo": "/AjrgF2JZb8WAeIFTvUjJK6VA2CG.jpg",
    "puntaje": 8.0,
+   "sinopsis": "Peter (Jordan Firstman), un promotor de fiestas underground de Nueva York acostumbrado a vivir entre excesos, música electrónica y noches interminables, ve cómo su mundo da un vuelco cuando una desconocida aparece en su puerta con Arlo (Reggie Absolom), un niño de 10 años que asegura que es su hijo. Lo que comienza como una situación imposible pronto da paso a una loca, divertida y tierna conexión, tan inesperada como transformadora.",
    "hd": false,
    "motivo": null,
    "digital_ar": null,
@@ -301,6 +487,23 @@
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
+   "director": [
+    "Jordan Firstman"
+   ],
+   "reparto": [
+    "Jordan Firstman",
+    "Reggie Absolom",
+    "Cara Delevingne",
+    "Diego Calva",
+    "Kirby Howell-Baptiste"
+   ],
+   "trailer": null,
+   "lema": "",
+   "duracion": 122,
+   "generos": [
+    "Comedia",
+    "Drama"
+   ],
    "puesto": 11
   },
   {
@@ -311,6 +514,7 @@
    "poster": "/gniQjGg0LaLaiWQOqxdVJkMH0Jx.jpg",
    "fondo": "/rQEfTB65F71Y2yIlAzv3GJ3m7Rz.jpg",
    "puntaje": 7.8,
+   "sinopsis": "Marie-Lou, directora de una residencia para personas mayores, intenta implantar un modelo de cuidados centrado en la escucha y en la dignidad de los residentes, pese a la resistencia de parte del personal. Su vida cambia cuando conoce a Mari, una directora de teatro japonesa que lucha contra el cáncer. A partir de una amistad profunda y de apoyo mutuo, ambas emprenden una lucha compartida por “hacer posible lo imposible”.",
    "hd": false,
    "motivo": null,
    "digital_ar": null,
@@ -322,6 +526,22 @@
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
+   "director": [
+    "濱口竜介"
+   ],
+   "reparto": [
+    "Virginie Efira",
+    "岡本多緒",
+    "長塚京三",
+    "Kodai Kurosaki",
+    "Jean-Charles Clichet"
+   ],
+   "trailer": null,
+   "lema": "Una noche. Dos desconocidos. Toda una vida de preguntas.",
+   "duracion": 196,
+   "generos": [
+    "Drama"
+   ],
    "puesto": 12
   },
   {
@@ -332,6 +552,7 @@
    "poster": "/ritUkpIiQU1IofeQdG4RFMrSu9J.jpg",
    "fondo": "/m04AhCtEgzRHH3lhzuBqsZHxBqk.jpg",
    "puntaje": 0.0,
+   "sinopsis": "Amy es una trabajadora social entregada que pone el corazón y el alma en su labor de cuidar a quienes lo necesitan. Sin embargo, en casa se enfrenta a nuevos desafíos cuando su querido padre empieza a mostrar los primeros signos de demencia, obligándola a ella y a su madre a aceptar su nueva realidad. En medio de todo esto, Amy encuentra consuelo, perspectiva y muchas risas compartiendo una copa de vino con Rosie, su amiga de toda la vida; la calidez y el ingenio de Rosie se convierten en un apoyo fundamental mientras ambas transitan por los cambios propios de la llegada a la mediana edad.",
    "hd": false,
    "motivo": null,
    "digital_ar": null,
@@ -343,6 +564,23 @@
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
+   "director": [
+    "Mike Leigh"
+   ],
+   "reparto": [
+    "Marion Bailey",
+    "Paul Jesson",
+    "Kate O'Flynn",
+    "Alice Bailey Johnson",
+    "Tilly Vosburgh"
+   ],
+   "trailer": null,
+   "lema": "",
+   "duracion": 107,
+   "generos": [
+    "Drama",
+    "Comedia"
+   ],
    "puesto": 13
   },
   {
@@ -353,6 +591,7 @@
    "poster": "/9L7ND90Rl6RANG5l0Z5ZfsI3RET.jpg",
    "fondo": "/iPVAMaI0W4lr7Rl56m0H388eR5.jpg",
    "puntaje": 7.2,
+   "sinopsis": "Los Gheorghius, una pareja rumano‑noruega muy devota, se instala en un pueblo remoto junto a un fiordo, donde entablan una estrecha amistad con sus vecinos, los Halbergs. Sus hijos se hacen amigos pese a haber sido educados de forma muy distinta. Todo cambia cuando la adolescente Elia Gheorghiu aparece en el colegio con moratones, y la comunidad se pregunta si la educación tradicional que reciben los hijos de los Gheorghiu puede estar relacionada.",
    "hd": false,
    "motivo": null,
    "digital_ar": null,
@@ -364,6 +603,22 @@
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
+   "director": [
+    "Cristian Mungiu"
+   ],
+   "reparto": [
+    "Sebastian Stan",
+    "Renate Reinsve",
+    "Lisa Carlehed",
+    "Ellen Dorrit Petersen",
+    "Lisa Loven Kongsli"
+   ],
+   "trailer": null,
+   "lema": "",
+   "duracion": 146,
+   "generos": [
+    "Drama"
+   ],
    "puesto": 14
   },
   {
@@ -374,6 +629,7 @@
    "poster": "/p6oLmq5KmuWY6uRXBQBL2q30jia.jpg",
    "fondo": "/6S41dEoKH2cxw20QgLxhnsQoLQF.jpg",
    "puntaje": 6.0,
+   "sinopsis": "Dos hermanos se ven envueltos en un plan que resulta ser demasiado bueno para ser verdad. Mientras intentan desenvolverse en el peligroso mundo de la mafia rusa, los lazos familiares comienzan a resquebrajarse, con consecuencias que cambiarán sus vidas.",
    "hd": true,
    "motivo": "En digital en EE.UU. (Fandango At Home)",
    "digital_ar": null,
@@ -389,6 +645,24 @@
     ]
    },
    "link": null,
+   "director": [
+    "James Gray"
+   ],
+   "reparto": [
+    "Miles Teller",
+    "Adam Driver",
+    "Scarlett Johansson",
+    "Gavin Goudey",
+    "Roman Engel"
+   ],
+   "trailer": null,
+   "lema": "Todas las deudas se pagan con sangre.",
+   "duracion": 115,
+   "generos": [
+    "Crimen",
+    "Drama",
+    "Suspense"
+   ],
    "puesto": 15
   }
  ]

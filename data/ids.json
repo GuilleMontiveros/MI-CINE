@@ -1883,5 +1883,289 @@
  "fin|I Am Not Okay with This": true,
  "serie|Takopi's Original Sin": 284445,
  "fin|Takopi's Original Sin": true,
- "serie|The Altruists": 308007
+ "serie|The Altruists": 308007,
+ "serie|Blue Box": 207347,
+ "carte|Como Robar Un Banco": {
+  "id": 1437511,
+  "poster": "/xS35fgWgRdF2em5MGxg5WG9dPKd.jpg",
+  "fondo": "/u38hNQbxvIicUdfrHpqa9puBnA9.jpg",
+  "sinopsis": "Un hombre desesperado planea un elaborado atraco contra el corrupto sistema financiero que arruinó su vida, con un grupo que documenta sus actos en redes sociales.",
+  "fecha": "2026-11-10"
+ },
+ "carte|Caballo Salvaje 9": {
+  "id": 891621,
+  "poster": "/bLDrHn76oiNYiELv1qw3Tfdkqc8.jpg",
+  "fondo": "/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
+  "sinopsis": "Poco antes del golpe de Estado chileno de 1973, los agentes de la CIA Chris y Lee son enviados desde Santiago a la Isla de Pascua por su jefa de la oficina, MJ. Entre las emblemáticas estatuas de la isla, y mientras los veteranos compañeros lidian con sus oscuros pasados ​​y conspiraciones actuales, el nuevo vínculo que Chris establece con un par de estudiantes rebeldes amenaza con desbaratar el viaje de todos a este remoto paraíso.",
+  "fecha": "2026-10-30"
+ },
+ "carte|Aniquilación": {
+  "id": 1284046,
+  "poster": "/bKq74yT1Gca4JCd7E6IAHPLWBg0.jpg",
+  "fondo": "/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
+  "sinopsis": "Una francotiradora del ejército utiliza sus habilidades para proteger a su hija de un escuadrón de máquinas asesinas que escapó de una base militar secreta, mientras unos mercenarios intentan contenerla.",
+  "fecha": "2026-09-02"
+ },
+ "carte|Plumas: Operación Rescate": {
+  "id": 1280405,
+  "poster": "/12N7a0AqUK8tDYo8RgBXIZQ7kgJ.jpg",
+  "fondo": "/ylOZ6sD51Bu1Jzsfk5hSwBnh0vT.jpg",
+  "sinopsis": "En el Reino de Castilia, una fuerza oscura se alza de nuevo. A pocos días de la coronación del nuevo Emperador y la Emperatriz, sus siete polluelos reales son secuestrados y depende de un héroe devolverlos sanos y salvos: un repartidor adolescente, Arturo el Chivo. Sus sueños de ser un barbero de talla mundial quedan en suspenso cuando se convierte en padre de la noche a la mañana. Si quiere mantener a salvo a los traviesos niños en su viaje, primero debe madurar, descubrir su propio pasado y, por el camino, despertar a campeones olvidados. ¿Podrá Arturo devolver a los herederos y salvar el re",
+  "fecha": "2024-09-05"
+ },
+ "carte|Ebenezer: Los Fantasmas De Navidad": {
+  "id": 1567605,
+  "poster": "/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
+  "fondo": "/fdOVxyNNL95SuI8BGaN6vudEuYX.jpg",
+  "sinopsis": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
+  "fecha": "2026-11-11"
+ },
+ "carte|Los Juesgo Del Hambre: Amanecer En La Cosecha": null,
+ "carte|Sacrificio: Los Elegidos": {
+  "id": 1284186,
+  "poster": "/fRjUuePNJFW2BcL5bXAe5xytGr9.jpg",
+  "fondo": "/12kgv64tdeBHGCtTsZAb7nNaJX5.jpg",
+  "sinopsis": "Durante una gala benéfica repleta de estrellas —entre ellas celebridades, multimillonarios y discursos vacíos—, una estrella de cine inmersa en una crisis existencial es tomada como rehén por una guerrera radical y sus fieles seguidores. A medida que la noche se precipita hacia el caos, se desarrollan simultáneamente un viaje interior y una aventura externa, donde la línea que separa la representación de la creencia, y la salvación del sacrificio, comienza a desdibujarse.",
+  "fecha": "2026-08-12"
+ },
+ "carte|Godzilla Minus Zero": {
+  "id": 1381071,
+  "poster": "/2B7ZSUutCgwUAE5U0X7WlD8yiun.jpg",
+  "fondo": "/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+  "sinopsis": "La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida cotidiana. Justo cuando la humanidad lograba aferrarse a una paz duramente conquistada, una nueva amenaza irrumpe, aplastando la esperanza en un instante.",
+  "fecha": "2026-11-03"
+ },
+ "carte|El Gato Con Sombrero": {
+  "id": 1117898,
+  "poster": "/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
+  "fondo": "/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
+  "sinopsis": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
+  "fecha": "2026-10-31"
+ },
+ "carte|Wildwood: El Bosque Salvaje": {
+  "id": 791523,
+  "poster": "/sJ1uZ4DKsjs2iqLtCX46TifxqoE.jpg",
+  "fondo": "/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
+  "sinopsis": "Prue y su compañero de clase Curtis se ven arrastrados a un bosque mágico poblado por criaturas encantadas, aliados leales y adversarios formidables, mientras emprenden una misión desesperada para rescatar al hermano bebé de Prue —secuestrado por una bandada de cuervos liderada por una misteriosa mujer llamada Alexandra—.",
+  "fecha": "2026-10-19"
+ },
+ "carte|Clayface": {
+  "id": 1400940,
+  "poster": "/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
+  "fondo": "/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
+  "sinopsis": "El meteórico ascenso de Matt Hagen, desde chico de la calle en Gotham hasta promesa de Hollywood, se ve trágicamente truncado cuando las acciones de un jefe del crimen local lo dejan horriblemente desfigurado. Abandonado por su equipo y sin nada que perder, Matt busca un tratamiento celular vanguardista que, milagrosamente, le devuelve su aspecto anterior… pero que también afecta inesperadamente a su percepción de la realidad, sumiéndolo en una espiral destructiva de venganza que lo consume por completo.",
+  "fecha": "2026-10-19"
+ },
+ "carte|Escuela De Monstruos": {
+  "id": 1572116,
+  "poster": "/mL3UwoaSdzBrXeCsIRnk4f49ibO.jpg",
+  "fondo": "/n6P7q23qH4w0XIdDfvG7Hk7GhSZ.jpg",
+  "sinopsis": "Mia, de 12 años, y su desaliñada rata mascota, Quentin, son enviadas a la misteriosa Academia Rotwood tras acumular demasiados problemas en la escuela. El nuevo colegio le pone los pelos de punta, ¡y Mia necesita encontrar la forma de escapar antes de que los alumnos se den cuenta de que ella no es un monstruo como ellos! Sin embargo, el subdirector Van Vlad siente una especial aversión por los humanos, y Mia teme que él haya descubierto su farsa...",
+  "fecha": "2026-09-03"
+ },
+ "carte|Madre Siniestra": {
+  "id": 1400837,
+  "poster": "/USCOKXrHBCeeK96qXmS0NyDHYL.jpg",
+  "fondo": "/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
+  "sinopsis": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama \"Otra mamá\", se vuelve cada vez más amenazante para ella y su familia.",
+  "fecha": "2026-10-07"
+ },
+ "carte|El Corazon De La Bestia": {
+  "id": 1263337,
+  "poster": "/ya8iLCNyoVpBO7B7JrNJVj3g7tK.jpg",
+  "fondo": "/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
+  "sinopsis": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
+  "fecha": "2026-09-19"
+ },
+ "carte|Los Juegos Del Hambre: Amanecer En La Cosecha": {
+  "id": 1300968,
+  "poster": "/nijGyrqQbDhSGss4uugQokvBAsG.jpg",
+  "fondo": "/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+  "sinopsis": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la siega de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
+  "fecha": "2026-11-18"
+ },
+ "carte|El Agua Nunca Dolió": {
+  "id": 1526844,
+  "poster": "/u7pVncqI37dgP6UYzOiE6spekLI.jpg",
+  "fondo": "/6ckXqK1aGe8XEhQu0n0P5gKMeJK.jpg",
+  "sinopsis": "El agua nunca dolió cuenta la historia de Juana, una niña de 9 años que, tras haber sufrido un grave accidente, es intervenida quirúrgicamente sin su consentimiento. Perdiendo la posibilidad de caminar, Juana comienza una búsqueda por recuperar su autonomía, encontrando en el agua un medio para salir adelante.",
+  "fecha": "2026-11-12"
+ },
+ "carte|Caballo Salvaje Nueve": {
+  "id": 891621,
+  "poster": "/bLDrHn76oiNYiELv1qw3Tfdkqc8.jpg",
+  "fondo": "/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
+  "sinopsis": "Poco antes del golpe de Estado chileno de 1973, los agentes de la CIA Chris y Lee son enviados desde Santiago a la Isla de Pascua por su jefa de la oficina, MJ. Entre las emblemáticas estatuas de la isla, y mientras los veteranos compañeros lidian con sus oscuros pasados ​​y conspiraciones actuales, el nuevo vínculo que Chris establece con un par de estudiantes rebeldes amenaza con desbaratar el viaje de todos a este remoto paraíso.",
+  "fecha": "2026-10-30"
+ },
+ "carte|Ju-On: El Grito": {
+  "id": 259233,
+  "poster": "/wJHee7DW3NACAsBXsEqlTofbb0Q.jpg",
+  "fondo": "/8v7CBqnCIyaQejMV8rh87NjX5sE.jpg",
+  "sinopsis": "Una maestra de escuela llamada Yui visita la casa de un chico llamado Toshio Saeki, que ha estado ausente del colegio por un largo periodo de tiempo. Cuando llega, revive el terrible drama que se produjo en el hogar de Saeki hace 10 años. Una caja de carton en un armario es la clave para revelar una verdad oculta por mucho tiempo.",
+  "fecha": "2014-06-28"
+ },
+ "carte|Plumas Operacion Rescate": {
+  "id": 1280405,
+  "poster": "/12N7a0AqUK8tDYo8RgBXIZQ7kgJ.jpg",
+  "fondo": "/ylOZ6sD51Bu1Jzsfk5hSwBnh0vT.jpg",
+  "sinopsis": "En el Reino de Castilia, una fuerza oscura se alza de nuevo. A pocos días de la coronación del nuevo Emperador y la Emperatriz, sus siete polluelos reales son secuestrados y depende de un héroe devolverlos sanos y salvos: un repartidor adolescente, Arturo el Chivo. Sus sueños de ser un barbero de talla mundial quedan en suspenso cuando se convierte en padre de la noche a la mañana. Si quiere mantener a salvo a los traviesos niños en su viaje, primero debe madurar, descubrir su propio pasado y, por el camino, despertar a campeones olvidados. ¿Podrá Arturo devolver a los herederos y salvar el re",
+  "fecha": "2024-09-05"
+ },
+ "carte|Yo Soy Rocky": {
+  "id": 1286656,
+  "poster": "/6ItqVHcsb2swkE7ajS6EVCH2mpd.jpg",
+  "fondo": "/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
+  "sinopsis": "La electrizante historia real de un actor desconocido con la convicción inquebrantable de que no solo estaba destinado a escribir *Rocky*, sino a ser Rocky Balboa. Tras recibir negativas constantes, Sylvester Stallone lo apuesta todo a sí mismo y se mantiene firme en su empeño de interpretar el papel protagonista, contra todo pronóstico.",
+  "fecha": "2026-11-06"
+ },
+ "carte|Los Juegos El Hambre: Amanecer En La Cosecha": {
+  "id": 1300968,
+  "poster": "/nijGyrqQbDhSGss4uugQokvBAsG.jpg",
+  "fondo": "/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+  "sinopsis": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la siega de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
+  "fecha": "2026-11-18"
+ },
+ "carte|Recen Por Mí: La Historia De Francisco": {
+  "id": 1510295,
+  "poster": "/gnmbwuCoGwFblQ0tvvxHHh8LhTU.jpg",
+  "fondo": "/fma2xTmJ0UUG0AyJpjHU83gfwH.jpg",
+  "sinopsis": "",
+  "fecha": "2025-11-07"
+ },
+ "carte|La Asistente De La Morgue": {
+  "id": 1470130,
+  "poster": "/6wVW8SnkRhIAPPk8QqFuf45kRt8.jpg",
+  "fondo": "/gM1kQRPwOVW1Eos5tVWqcYmHR5S.jpg",
+  "sinopsis": "Rebecca Owens, una licenciada en ciencias mortuorias, acepta un trabajo nocturno en la funeraria River Fields. Lo que comienza como un trabajo rutinario pronto se vuelve siniestro al enfrentarse a terroríficas fuerzas sobrenaturales.",
+  "fecha": "2026-02-13"
+ },
+ "carte|Bichos Del Mar": {
+  "id": 1797377,
+  "poster": "/uYTQGXobST0zbqoBXmGBsuezb8h.jpg",
+  "fondo": null,
+  "sinopsis": "",
+  "fecha": "2026-11-26"
+ },
+ "carte|La Nueva Focker": {
+  "id": 1400336,
+  "poster": "/iU2XxFhMxC5Z2gOPASkRmtuDjJQ.jpg",
+  "fondo": "/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
+  "sinopsis": "Henry, hijo de Greg y Pam Focker, se enfrenta al caos familiar cuando decide casarse con una mujer de carácter fuerte que parece ser totalmente incompatible con él.",
+  "fecha": "2026-11-21"
+ },
+ "carte|Hechizo: Bienvenidos A Heze": null,
+ "carte|Noche Sin Paz 2": {
+  "id": 1078446,
+  "poster": "/bMGudrgP3ZVD9IPF73BYLdnrNSE.jpg",
+  "fondo": "/78dChJs7doULSEhIiOvGUcXQRGU.jpg",
+  "sinopsis": "Cuando Santa olvida el verdadero significado de la Navidad, se encuentra en el corazón de un animado centro comercial que necesita desesperadamente su ayuda. Sin su magia, deberá buscar otra forma de enfrentarse a los matones que amenazan el lugar, y el tiempo se agota. Santa tendrá que recuperar su fe en la bondad y pedir refuerzos de última hora a la única persona con la que ningún villano quiere meterse: la señora Claus.",
+  "fecha": "2026-12-02"
+ },
+ "carte|La Psicópata": {
+  "id": 1379486,
+  "poster": "/2r09thBfqsWkoyGVtrxc00uYpSy.jpg",
+  "fondo": "/84Sh7J9uvMjqEqEyRsKXaiSBcjP.jpg",
+  "sinopsis": "En 1858, la misteriosa institutriz Winifred Notty llega a Ensor House para educar a los hijos de la familia. Su disciplina extrema y su inquietante presencia despiertan sospechas, mientras los empleados de la mansión comienzan a desaparecer sin dejar rastro. Los dueños pronto descubren que tras su apariencia impecable se esconden secretos perturbadores.",
+  "fecha": "2026-11-11"
+ },
+ "carte|El Nacimiento De Cristo": {
+  "id": 1408207,
+  "poster": "/wTlKaVl85SvxBCgKSdBSa5ZY7EJ.jpg",
+  "fondo": "/mH4RXqdkpOzdV3730HDfssPUQvb.jpg",
+  "sinopsis": "",
+  "fecha": "2026-12-03"
+ },
+ "carte|El Ángel Guardián": {
+  "id": 1562642,
+  "poster": "/4SGiw29f5tqLcfBIJV3Kv3bw73m.jpg",
+  "fondo": "/ggqvhSdAASrseKuMlzk51sbvbE8.jpg",
+  "sinopsis": "Henry Fitzgerald, un agente gubernamental que vive apartado de la sociedad en Wyoming, diseña nuevos sistemas para una agencia de investigación armamentística. Cuando una firma de gestión de inversiones multimillonaria empieza a utilizar policías corruptos y mercenarios extranjeros para expulsar a los ganaderos de sus tierras, este veterano de los Boinas Verdes decide emplear sus prototipos de armas para ayudar a sus vecinos.",
+  "fecha": "2026-11-06"
+ },
+ "carte|Realmente Amor (Re)": null,
+ "carte|Avengers: Doomsday": {
+  "id": 1003596,
+  "poster": "/7bQczUMnjz8iwxNP9YrmLkfI8od.jpg",
+  "fondo": "/4NxnrRmI7goXMsRASwSegf50MC8.jpg",
+  "sinopsis": "Quinta entrega de la saga 'Vengadores' incluida en el Universo Cinematográfico Marvel (UCM). Sinopsis desconocido.",
+  "fecha": "2026-12-16"
+ },
+ "carte|Duna: Parte 3": {
+  "id": 1170608,
+  "poster": "/uj4EuGmFNAc4CHBVEtRZ04MXzka.jpg",
+  "fondo": "/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
+  "sinopsis": "Como emperador, Paul Atreides se enfrenta a las consecuencias de su ascenso al poder, mientras conspiraciones políticas y una guerra santa que abarca toda la galaxia amenazan el futuro que solo él puede prever.",
+  "fecha": "2026-12-15"
+ },
+ "carte|Jumanji: En El Mundo Real": {
+  "id": 1260649,
+  "poster": "/ntjF2gemedf3ZcWzARGt6cuZlnJ.jpg",
+  "fondo": "/vaYfhMuwFwsMqyMnu9amtS9hUHE.jpg",
+  "sinopsis": "Nuestros héroes ya han logrado escapar de las peligrosas selvas de Jumanji, pero esta vez Jumanji se libera de su consola y desata el caos en nuestro mundo.",
+  "fecha": "2026-12-23"
+ },
+ "carte|Sanguine": {
+  "id": 1468846,
+  "poster": "/fDvZvNmLIwUcKKQ4Cfb6TmQJM7M.jpg",
+  "fondo": "/jySTVXi8UDajVgYh01KavKtY4YJ.jpg",
+  "sinopsis": "Margot, una joven residente en el servicio de urgencias más competitivo del país, tiene dificultades para desenvolverse en un entorno de gran presión. Cuando llegan varios pacientes de su misma edad con síntomas extraños, su propio cuerpo empieza a experimentar transformaciones alarmantes.",
+  "fecha": "2026-10-28"
+ },
+ "carte|Angry Birds 3": {
+  "id": 1300926,
+  "poster": "/xyml31x5gu23tOMIFJ43XO4aTD6.jpg",
+  "fondo": "/ieAytQ8YcWEZGQpbBy7vHVddwd.jpg",
+  "sinopsis": "Red se enfrenta a su mayor desafío hasta la fecha: sobrevivir a la paternidad mientras salva el mundo.",
+  "fecha": "2026-12-23"
+ },
+ "carte|Werwulf": {
+  "id": 1421903,
+  "poster": "/bzJ1pupikR5SvU6eT0zVlgF0CWP.jpg",
+  "fondo": "/jmW9NkzbpI9vhyxJU2x644Nj7VU.jpg",
+  "sinopsis": "Ambientada en la Inglaterra del siglo XIII, Werwulf sigue a un hombre afligido por una maldición que lo transforma en lobo, poniendo en peligro a su familia en una remota zona rural. La lucha por contener a la bestia y la búsqueda de una cura por parte de su esposa se complican con la llegada de un implacable cazador, en una producción cinematográfica hablada por completo en inglés medio.",
+  "fecha": "2026-12-25"
+ },
+ "carte|La Era De Hielo: Mundo De Lava": {
+  "id": 1384758,
+  "poster": "/l4rsiRkdfXyyS4pbnUT8lOsIEJ8.jpg",
+  "fondo": "/pJfMliqzzVzTU634zpYDMfYNX6c.jpg",
+  "sinopsis": "Una alocada aventura repleta de dinosaurios y lava lleva a Manny, Sid, Diego, Ellie, Buck, al obsesionado con las bellotas Scrat —acompañado esta vez por el bebé Scrat y el enorme Scrat jurásico— y al resto de la manada a visitar rincones nunca antes vistos del traicionero Mundo Perdido.",
+  "fecha": "2027-01-28"
+ },
+ "carte|Nunca Olvides Que Te Quiero": {
+  "id": 1425859,
+  "poster": "/tgvWVZNixthTH7kVz6ObBBaZcKm.jpg",
+  "fondo": "/v7kL3an4ornAOWOxZucZilfTDbR.jpg",
+  "sinopsis": "Cuando Tate Gordon, un arquitecto retraído, se muda a un pequeño pueblo costero para completar su último proyecto, conoce a una joven cautivadora que lo saca de su encierro y lo arrastra al centro de un misterio mortal que se cierne sobre la localidad.",
+  "fecha": "2027-02-03"
+ },
+ "carte|Rastro Mortal": {
+  "id": 1202816,
+  "poster": "/qci9am94Atnlqwm0BlMqbme1bbB.jpg",
+  "fondo": null,
+  "sinopsis": "",
+  "fecha": "2023-11-30"
+ },
+ "carte|Narnia: El Sobrino Del Mago": {
+  "id": 1147572,
+  "poster": "/7Wzwr8TQM8pHB2IaHKwm0MdyEzl.jpg",
+  "fondo": "/gQvnOr5S9isMrrV97RtxXZlresC.jpg",
+  "sinopsis": "Dos niños descubren un bosque repleto de estanques que conducen a otros mundos. Uno de ellos los lleva a una ciudad muerta bajo un sol moribundo, donde despiertan a una reina que había exterminado a toda la población, y terminan trayéndola accidentalmente a Londres.",
+  "fecha": "2027-02-10"
+ },
+ "carte|Gatto": {
+  "id": 26503,
+  "poster": "/AnyOPXp4vioGsgVYo2dzR3ZV9b0.jpg",
+  "fondo": "/mSdpQhD0AzwKiwGiWhMqn04XbWB.jpg",
+  "sinopsis": "Patrick Magee es un desquiciado científico y ocultista que se comunica con los muertos. Mientras tanto se van produciendo una serie de muertes en extrañas circunstancias y cada vez más horripilantes. La bella fotógrafa que se dedica a tomar instantáneas de la pintoresca arquitectura local y el detective de turno de Scotland Yard, se pondran tras la pista de estos extraños asesinatos. (FILMAFFINITY)",
+  "fecha": "1981-04-04"
+ },
+ "carte|El Exorcista: Mártires": {
+  "id": 1297467,
+  "poster": "/nituVk6sSSyOk1Q3SWjs5DmefVU.jpg",
+  "fondo": "/e0pOcLgfYVDfeGDB1oEv8JUlc41.jpg",
+  "sinopsis": "Hace trece años, la detective de la ciudad de Nueva York Julie Miller puso fin al reinado de terror del asesino en serie satánico conocido como «Padre Sunday». El caso la convirtió en una heroína y, desde entonces, ella se ha volcado por completo en su trabajo. Ahora, un nuevo asesino escribe su nombre con la sangre de un monaguillo en las paredes de la cripta de una iglesia, arrastrándola de vuelta a la oscuridad que ella creía haber enterrado junto a él.",
+  "fecha": "2027-03-10"
+ }
 }
