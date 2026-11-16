@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16T21:58:16.197658+00:00",
+ "actualizado": "2026-11-16T22:11:05.865020+00:00",
  "titulos": [
   {
    "id": 37165,
@@ -15,6 +15,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1998-06-05",
    "plataformas": {
     "rent": [
      "Apple TV Store",
@@ -46,7 +48,8 @@
    },
    "link": "https://www.themoviedb.org/movie/37165-the-truman-show/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 593643,
@@ -62,6 +65,8 @@
    "digital_us": "2023-01-03",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2022-11-17",
+   "cine_us": "2022-11-18",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -92,7 +97,8 @@
    },
    "link": "https://www.themoviedb.org/movie/593643-the-menu/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 210577,
@@ -108,6 +114,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2014-10-02",
+   "cine_us": "2014-10-03",
    "plataformas": {
     "flatrate": [
      "Disney Plus",
@@ -138,7 +146,8 @@
    },
    "link": "https://www.themoviedb.org/movie/210577-gone-girl/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 694,
@@ -154,6 +163,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1980-12-25",
+   "cine_us": "1980-05-23",
    "plataformas": {
     "flatrate": [
      "HBO Max",
@@ -189,7 +200,8 @@
    },
    "link": "https://www.themoviedb.org/movie/694-the-shining/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 274,
@@ -205,6 +217,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1991-06-06",
+   "cine_us": "1991-02-14",
    "plataformas": {
     "flatrate": [
      "MovistarTV",
@@ -246,7 +260,8 @@
    },
    "link": "https://www.themoviedb.org/movie/274-the-silence-of-the-lambs/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 24,
@@ -262,6 +277,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2003-11-27",
+   "cine_us": "2003-10-10",
    "plataformas": {
     "flatrate": [
      "MovistarTV",
@@ -297,7 +314,8 @@
    },
    "link": "https://www.themoviedb.org/movie/24-kill-bill-vol-1/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 398818,
@@ -313,6 +331,8 @@
    "digital_us": "2018-02-27",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2017-11-24",
    "plataformas": {
     "flatrate": [
      "MovistarTV"
@@ -351,7 +371,8 @@
    },
    "link": "https://www.themoviedb.org/movie/398818-call-me-by-your-name/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 10315,
@@ -367,6 +388,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2009-11-13",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -393,7 +416,8 @@
    },
    "link": "https://www.themoviedb.org/movie/10315-fantastic-mr-fox/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 103,
@@ -409,6 +433,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1976-02-09",
    "plataformas": {
     "flatrate": [
      "HBO Max"
@@ -446,7 +472,8 @@
    },
    "link": "https://www.themoviedb.org/movie/103-taxi-driver/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 207,
@@ -462,6 +489,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1990-02-15",
+   "cine_us": "1989-06-02",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -489,7 +518,8 @@
    },
    "link": "https://www.themoviedb.org/movie/207-dead-poets-society/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 773,
@@ -505,6 +535,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2006-10-12",
+   "cine_us": "2006-07-26",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -528,7 +560,8 @@
    },
    "link": "https://www.themoviedb.org/movie/773-little-miss-sunshine/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 458723,
@@ -544,6 +577,8 @@
    "digital_us": "2019-06-04",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2019-03-21",
+   "cine_us": "2019-03-22",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video",
@@ -584,7 +619,8 @@
    },
    "link": "https://www.themoviedb.org/movie/458723-us/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 376867,
@@ -600,6 +636,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2017-02-02",
+   "cine_us": "2016-10-21",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video",
@@ -638,7 +676,8 @@
    },
    "link": "https://www.themoviedb.org/movie/376867-moonlight/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 760104,
@@ -654,6 +693,8 @@
    "digital_us": "2022-04-12",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2022-03-18",
    "plataformas": {
     "flatrate": [
      "MovistarTV",
@@ -693,7 +734,8 @@
    },
    "link": "https://www.themoviedb.org/movie/760104-x/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 315162,
@@ -709,6 +751,8 @@
    "digital_us": "2023-01-06",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2023-01-05",
+   "cine_us": "2022-12-21",
    "plataformas": {
     "flatrate": [
      "MovistarTV",
@@ -748,7 +792,8 @@
    },
    "link": "https://www.themoviedb.org/movie/315162-puss-in-boots-the-last-wish/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 674324,
@@ -764,6 +809,8 @@
    "digital_us": "2022-12-13",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2023-02-02",
+   "cine_us": "2022-10-21",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -792,7 +839,8 @@
    },
    "link": "https://www.themoviedb.org/movie/674324-the-banshees-of-inisherin/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 4232,
@@ -808,6 +856,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1997-09-11",
+   "cine_us": "1996-12-20",
    "plataformas": {
     "flatrate": [
      "Netflix",
@@ -858,7 +908,8 @@
    },
    "link": "https://www.themoviedb.org/movie/4232-scream/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 840430,
@@ -874,6 +925,8 @@
    "digital_us": "2023-11-28",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2024-02-08",
+   "cine_us": "2023-10-27",
    "plataformas": {
     "flatrate": [
      "Netflix"
@@ -912,7 +965,8 @@
    },
    "link": "https://www.themoviedb.org/movie/840430-the-holdovers/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 447332,
@@ -928,6 +982,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2018-04-05",
+   "cine_us": "2018-04-06",
    "plataformas": {
     "flatrate": [
      "Netflix",
@@ -978,7 +1034,8 @@
    },
    "link": "https://www.themoviedb.org/movie/447332-a-quiet-place/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 8392,
@@ -994,6 +1051,8 @@
    "digital_us": "2019-12-17",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1990-07-13",
    "plataformas": {
     "flatrate": [
      "Netflix",
@@ -1023,7 +1082,8 @@
    },
    "link": "https://www.themoviedb.org/movie/8392-tonarinototoro/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 502356,
@@ -1039,6 +1099,8 @@
    "digital_us": "2023-05-16",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2023-04-05",
+   "cine_us": "2023-04-05",
    "plataformas": {
     "flatrate": [
      "Universal+ Amazon Channel"
@@ -1076,7 +1138,8 @@
    },
    "link": "https://www.themoviedb.org/movie/502356-the-super-mario-bros-movie/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 539,
@@ -1092,6 +1155,8 @@
    "digital_us": "2014-11-04",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1961-03-14",
+   "cine_us": "1960-06-22",
    "plataformas": {
     "flatrate": [
      "MovistarTV",
@@ -1129,7 +1194,8 @@
    },
    "link": "https://www.themoviedb.org/movie/539-psycho/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 672,
@@ -1145,6 +1211,8 @@
    "digital_us": "2012-09-07",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2002-11-28",
+   "cine_us": "2002-11-15",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video",
@@ -1184,7 +1252,8 @@
    },
    "link": "https://www.themoviedb.org/movie/672-harry-potter-and-the-chamber-of-secrets/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 424,
@@ -1200,6 +1269,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1994-02-24",
+   "cine_us": "1993-12-15",
    "plataformas": {
     "flatrate": [
      "HBO Max"
@@ -1232,7 +1303,8 @@
    },
    "link": "https://www.themoviedb.org/movie/424-schindler-s-list/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 913290,
@@ -1248,6 +1320,8 @@
    "digital_us": "2022-10-25",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2022-09-15",
+   "cine_us": "2022-09-09",
    "plataformas": {
     "flatrate": [
      "Paramount Plus",
@@ -1277,7 +1351,8 @@
    },
    "link": "https://www.themoviedb.org/movie/913290-barbarian/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1020006,
@@ -1293,6 +1368,8 @@
    "digital_us": "2023-12-15",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2023-12-28",
+   "cine_us": "2023-10-27",
    "plataformas": {
     "flatrate": [
      "MUBI",
@@ -1326,7 +1403,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1020006-priscilla/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 12444,
@@ -1342,6 +1420,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2010-11-19",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video",
@@ -1382,7 +1462,8 @@
    },
    "link": "https://www.themoviedb.org/movie/12444-harry-potter-and-the-deathly-hallows-part-1/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1422,
@@ -1398,6 +1479,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2006-11-16",
+   "cine_us": "2006-10-05",
    "plataformas": {
     "flatrate": [
      "Netflix",
@@ -1430,7 +1513,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1422-the-departed/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 142,
@@ -1446,6 +1530,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2005-12-09",
    "plataformas": {
     "rent": [
      "Apple TV Store",
@@ -1476,7 +1562,8 @@
    },
    "link": "https://www.themoviedb.org/movie/142-brokeback-mountain/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 101,
@@ -1492,6 +1579,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1995-02-09",
+   "cine_us": "1994-11-18",
    "plataformas": {
     "flatrate": [
      "MovistarTV",
@@ -1531,7 +1620,8 @@
    },
    "link": "https://www.themoviedb.org/movie/101-leon/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1091,
@@ -1547,6 +1637,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1982-08-26",
+   "cine_us": "1982-06-25",
    "plataformas": {
     "flatrate": [
      "MUBI",
@@ -1586,7 +1678,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1091-the-thing/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 290250,
@@ -1602,6 +1695,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2016-06-16",
+   "cine_us": "2016-05-20",
    "plataformas": {
     "flatrate": [
      "MovistarTV"
@@ -1637,7 +1732,8 @@
    },
    "link": "https://www.themoviedb.org/movie/290250-the-nice-guys/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 12444,
@@ -1653,6 +1749,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2010-11-19",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video",
@@ -1693,7 +1791,8 @@
    },
    "link": "https://www.themoviedb.org/movie/12444-harry-potter-and-the-deathly-hallows-part-1/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 240,
@@ -1709,6 +1808,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1974-12-20",
    "plataformas": {
     "flatrate": [
      "Paramount Plus",
@@ -1754,7 +1855,8 @@
    },
    "link": "https://www.themoviedb.org/movie/240-the-godfather-part-ii/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 767,
@@ -1770,6 +1872,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2009-07-15",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video",
@@ -1810,7 +1914,8 @@
    },
    "link": "https://www.themoviedb.org/movie/767-harry-potter-and-the-half-blood-prince/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 850165,
@@ -1826,6 +1931,8 @@
    "digital_us": "2024-02-13",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2024-05-09",
+   "cine_us": "2023-12-22",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video"
@@ -1859,7 +1966,8 @@
    },
    "link": "https://www.themoviedb.org/movie/850165-the-iron-claw/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 857,
@@ -1875,6 +1983,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1998-09-17",
+   "cine_us": "1998-07-24",
    "plataformas": {
     "flatrate": [
      "Paramount Plus",
@@ -1919,7 +2029,8 @@
    },
    "link": "https://www.themoviedb.org/movie/857-saving-private-ryan/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 394117,
@@ -1935,6 +2046,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2017-10-06",
    "plataformas": {
     "flatrate": [
      "MovistarTV"
@@ -1962,7 +2075,8 @@
    },
    "link": "https://www.themoviedb.org/movie/394117-the-florida-project/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 423,
@@ -1978,6 +2092,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2002-12-25",
    "plataformas": {
     "flatrate": [
      "MovistarTV",
@@ -2007,7 +2123,8 @@
    },
    "link": "https://www.themoviedb.org/movie/423-the-pianist/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 85,
@@ -2023,6 +2140,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1981-12-25",
+   "cine_us": "1981-06-12",
    "plataformas": {
     "flatrate": [
      "Paramount Plus",
@@ -2071,7 +2190,8 @@
    },
    "link": "https://www.themoviedb.org/movie/85-raiders-of-the-lost-ark/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 639933,
@@ -2087,6 +2207,8 @@
    "digital_us": "2022-05-12",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2022-04-21",
+   "cine_us": "2022-04-22",
    "plataformas": {
     "flatrate": [
      "Paramount Plus",
@@ -2126,7 +2248,8 @@
    },
    "link": "https://www.themoviedb.org/movie/639933-the-northman/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 502033,
@@ -2142,6 +2265,8 @@
    "digital_us": "2020-12-04",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2020-11-20",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video",
@@ -2166,7 +2291,8 @@
    },
    "link": "https://www.themoviedb.org/movie/502033-sound-of-metal/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 562,
@@ -2182,6 +2308,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1988-12-15",
+   "cine_us": "1988-07-15",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -2213,7 +2341,8 @@
    },
    "link": "https://www.themoviedb.org/movie/562-die-hard/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 948,
@@ -2229,6 +2358,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1980-11-16",
+   "cine_us": "1978-10-25",
    "plataformas": {
     "flatrate": [
      "MovistarTV"
@@ -2264,7 +2395,8 @@
    },
    "link": "https://www.themoviedb.org/movie/948-halloween/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 817758,
@@ -2280,6 +2412,8 @@
    "digital_us": "2022-11-15",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2023-02-09",
+   "cine_us": "2022-10-07",
    "plataformas": {
     "rent": [
      "Apple TV Store",
@@ -2313,7 +2447,8 @@
    },
    "link": "https://www.themoviedb.org/movie/817758-tar/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 426,
@@ -2329,6 +2464,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1959-03-05",
+   "cine_us": "1958-05-28",
    "plataformas": {
     "flatrate": [
      "HBO Max"
@@ -2361,7 +2498,8 @@
    },
    "link": "https://www.themoviedb.org/movie/426-vertigo/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 639,
@@ -2377,6 +2515,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1989-11-30",
+   "cine_us": "1989-07-12",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video",
@@ -2411,7 +2551,8 @@
    },
    "link": "https://www.themoviedb.org/movie/639-when-harry-met-sally/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1417,
@@ -2427,6 +2568,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2007-01-04",
+   "cine_us": "2006-12-29",
    "plataformas": {
     "flatrate": [
      "MovistarTV"
@@ -2446,7 +2589,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1417-el-laberinto-del-fauno/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 839369,
@@ -2462,6 +2606,8 @@
    "digital_us": "2023-12-01",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2024-02-29",
+   "cine_us": "2023-11-17",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video"
@@ -2484,7 +2630,8 @@
    },
    "link": "https://www.themoviedb.org/movie/839369-may-december/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 16859,
@@ -2500,6 +2647,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2019-07-28",
    "plataformas": {
     "flatrate": [
      "Netflix"
@@ -2533,7 +2682,8 @@
    },
    "link": "https://www.themoviedb.org/movie/16859-mo-nu-no-zhai-ji-bian/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 994108,
@@ -2549,6 +2699,8 @@
    "digital_us": "2024-02-22",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2024-03-07",
+   "cine_us": "2023-12-22",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -2576,7 +2728,8 @@
    },
    "link": "https://www.themoviedb.org/movie/994108-all-of-us-strangers/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 550988,
@@ -2592,6 +2745,8 @@
    "digital_us": "2021-09-28",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2021-08-13",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -2621,7 +2776,8 @@
    },
    "link": "https://www.themoviedb.org/movie/550988-free-guy/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 235,
@@ -2637,6 +2793,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1986-08-08",
    "plataformas": {
     "flatrate": [
      "MovistarTV",
@@ -2670,7 +2828,8 @@
    },
    "link": "https://www.themoviedb.org/movie/235-stand-by-me/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 804095,
@@ -2686,6 +2845,8 @@
    "digital_us": "2022-12-13",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2023-01-26",
+   "cine_us": "2022-11-11",
    "plataformas": {
     "rent": [
      "Claro video",
@@ -2718,7 +2879,8 @@
    },
    "link": "https://www.themoviedb.org/movie/804095-the-fabelmans/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 12429,
@@ -2734,6 +2896,8 @@
    "digital_us": "2019-12-17",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2009-08-14",
    "plataformas": {
     "flatrate": [
      "Netflix"
@@ -2770,7 +2934,8 @@
    },
    "link": "https://www.themoviedb.org/movie/12429-ya-no-shang-noponiyo/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 929590,
@@ -2786,6 +2951,8 @@
    "digital_us": "2024-05-24",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2024-04-18",
+   "cine_us": "2024-04-12",
    "plataformas": {
     "flatrate": [
      "Netflix",
@@ -2819,7 +2986,8 @@
    },
    "link": "https://www.themoviedb.org/movie/929590-civil-war/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 882598,
@@ -2835,6 +3003,8 @@
    "digital_us": "2022-11-15",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2022-09-28",
+   "cine_us": "2022-09-30",
    "plataformas": {
     "flatrate": [
      "Disney Plus",
@@ -2881,7 +3051,8 @@
    },
    "link": "https://www.themoviedb.org/movie/882598-smile/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 798286,
@@ -2897,6 +3068,8 @@
    "digital_us": "2023-06-13",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2023-08-03",
+   "cine_us": "2023-04-14",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video"
@@ -2931,7 +3104,8 @@
    },
    "link": "https://www.themoviedb.org/movie/798286-beau-is-afraid/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 976573,
@@ -2947,6 +3121,8 @@
    "digital_us": "2023-08-15",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2023-06-15",
+   "cine_us": "2023-06-16",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -2974,7 +3150,8 @@
    },
    "link": "https://www.themoviedb.org/movie/976573-elemental/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 615643,
@@ -2990,6 +3167,8 @@
    "digital_us": "2020-12-11",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2020-12-11",
    "plataformas": {
     "flatrate": [
      "MovistarTV"
@@ -3024,7 +3203,8 @@
    },
    "link": "https://www.themoviedb.org/movie/615643-minari/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 59436,
@@ -3040,6 +3220,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2011-06-30",
+   "cine_us": "2011-05-20",
    "plataformas": {
     "rent": [
      "Apple TV Store"
@@ -3072,7 +3254,8 @@
    },
    "link": "https://www.themoviedb.org/movie/59436-midnight-in-paris/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 30497,
@@ -3088,6 +3271,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1992-03-27",
+   "cine_us": "1974-10-11",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video",
@@ -3126,7 +3311,8 @@
    },
    "link": "https://www.themoviedb.org/movie/30497-the-texas-chain-saw-massacre/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 793,
@@ -3142,6 +3328,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1986-10-30",
+   "cine_us": "1986-09-19",
    "plataformas": {
     "flatrate": [
      "MovistarTV"
@@ -3174,7 +3362,8 @@
    },
    "link": "https://www.themoviedb.org/movie/793-blue-velvet/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 520763,
@@ -3190,6 +3379,8 @@
    "digital_us": "2021-07-12",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2021-07-22",
+   "cine_us": "2021-05-28",
    "plataformas": {
     "flatrate": [
      "Netflix",
@@ -3235,7 +3426,8 @@
    },
    "link": "https://www.themoviedb.org/movie/520763-a-quiet-place-part-ii/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 559907,
@@ -3251,6 +3443,8 @@
    "digital_us": "2021-08-18",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2021-07-30",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video",
@@ -3289,7 +3483,8 @@
    },
    "link": "https://www.themoviedb.org/movie/559907-the-green-knight/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 370172,
@@ -3305,6 +3500,8 @@
    "digital_us": "2021-11-09",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2021-09-30",
+   "cine_us": "2021-10-08",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video",
@@ -3343,7 +3540,8 @@
    },
    "link": "https://www.themoviedb.org/movie/370172-no-time-to-die/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 429,
@@ -3359,6 +3557,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1968-01-11",
+   "cine_us": "1967-12-29",
    "plataformas": {
     "flatrate": [
      "MGM+ Apple TV Channel",
@@ -3400,7 +3600,8 @@
    },
    "link": "https://www.themoviedb.org/movie/429-il-buono-il-brutto-il-cattivo/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1056360,
@@ -3416,6 +3617,8 @@
    "digital_us": "2024-02-06",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2023-12-15",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video"
@@ -3443,7 +3646,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1056360-american-fiction/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 805,
@@ -3459,6 +3663,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1968-06-12",
    "plataformas": {
     "flatrate": [
      "Claro video"
@@ -3499,7 +3705,8 @@
    },
    "link": "https://www.themoviedb.org/movie/805-rosemary-s-baby/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 334,
@@ -3515,6 +3722,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1999-12-17",
    "plataformas": {
     "flatrate": [
      "MovistarTV",
@@ -3546,7 +3755,8 @@
    },
    "link": "https://www.themoviedb.org/movie/334-magnolia/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 426426,
@@ -3562,6 +3772,8 @@
    "digital_us": "2018-12-14",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2018-11-21",
    "plataformas": {
     "flatrate": [
      "Netflix"
@@ -3575,7 +3787,8 @@
    },
    "link": "https://www.themoviedb.org/movie/426426-roma/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 746036,
@@ -3591,6 +3804,8 @@
    "digital_us": "2024-05-21",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2024-05-02",
+   "cine_us": "2024-05-03",
    "plataformas": {
     "flatrate": [
      "Netflix"
@@ -3624,7 +3839,8 @@
    },
    "link": "https://www.themoviedb.org/movie/746036-the-fall-guy/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 524,
@@ -3640,6 +3856,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1996-03-07",
+   "cine_us": "1995-11-22",
    "plataformas": {
     "flatrate": [
      "MovistarTV"
@@ -3678,7 +3896,8 @@
    },
    "link": "https://www.themoviedb.org/movie/524-casino/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 843527,
@@ -3694,6 +3913,8 @@
    "digital_us": "2024-05-02",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2024-05-02",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video"
@@ -3734,7 +3955,8 @@
    },
    "link": "https://www.themoviedb.org/movie/843527-the-idea-of-you/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 314365,
@@ -3750,6 +3972,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2016-02-11",
+   "cine_us": "2015-11-06",
    "plataformas": {
     "flatrate": [
      "MovistarTV",
@@ -3786,7 +4010,8 @@
    },
    "link": "https://www.themoviedb.org/movie/314365-spotlight/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 511809,
@@ -3802,6 +4027,8 @@
    "digital_us": "2022-03-01",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2021-12-10",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -3831,7 +4058,8 @@
    },
    "link": "https://www.themoviedb.org/movie/511809-west-side-story/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 705996,
@@ -3847,6 +4075,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2022-10-14",
    "plataformas": {
     "rent": [
      "Apple TV Store",
@@ -3876,7 +4106,8 @@
    },
    "link": "https://www.themoviedb.org/movie/705996-heeojil-gyeolsim/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 823482,
@@ -3892,6 +4123,8 @@
    "digital_us": "2023-12-22",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2024-02-01",
+   "cine_us": "2023-11-10",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video"
@@ -3925,7 +4158,8 @@
    },
    "link": "https://www.themoviedb.org/movie/823482-dream-scenario/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 507076,
@@ -3941,6 +4175,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2019-03-01",
    "plataformas": {
     "flatrate": [
      "Filmelier Plus Amazon Channel"
@@ -3967,7 +4203,8 @@
    },
    "link": "https://www.themoviedb.org/movie/507076-climax/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 11237,
@@ -3983,6 +4220,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2004-10-14",
+   "cine_us": "2004-08-25",
    "plataformas": {
     "rent": [
      "Amazon Video"
@@ -4013,7 +4252,8 @@
    },
    "link": "https://www.themoviedb.org/movie/11237-anacondas-the-hunt-for-the-blood-orchid/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 637,
@@ -4029,6 +4269,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1998-10-22",
    "plataformas": {
     "flatrate": [
      "MovistarTV"
@@ -4065,7 +4307,8 @@
    },
    "link": "https://www.themoviedb.org/movie/637-la-vita-e-bella/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 630,
@@ -4081,6 +4324,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1939-11-17",
+   "cine_us": "1939-08-25",
    "plataformas": {
     "flatrate": [
      "HBO Max"
@@ -4116,7 +4361,8 @@
    },
    "link": "https://www.themoviedb.org/movie/630-the-wizard-of-oz/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 11216,
@@ -4132,6 +4378,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1990-02-08",
+   "cine_us": "1990-02-23",
    "plataformas": {
     "flatrate": [
      "MovistarTV"
@@ -4166,7 +4414,8 @@
    },
    "link": "https://www.themoviedb.org/movie/11216-nuovo-cinema-paradiso/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 428449,
@@ -4182,6 +4431,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2017-07-07",
    "plataformas": {
     "flatrate": [
      "MovistarTV"
@@ -4218,7 +4469,8 @@
    },
    "link": "https://www.themoviedb.org/movie/428449-a-ghost-story/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 587,
@@ -4234,6 +4486,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2004-02-05",
+   "cine_us": "2003-12-10",
    "plataformas": {
     "flatrate": [
      "HBO Max"
@@ -4266,7 +4520,8 @@
    },
    "link": "https://www.themoviedb.org/movie/587-big-fish/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 597208,
@@ -4282,6 +4537,8 @@
    "digital_us": "2022-02-01",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2021-12-02",
+   "cine_us": "2021-12-17",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -4311,7 +4568,8 @@
    },
    "link": "https://www.themoviedb.org/movie/597208-nightmare-alley/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 2649,
@@ -4327,6 +4585,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1998-10-08",
+   "cine_us": "1997-09-12",
    "plataformas": {
     "rent": [
      "Apple TV Store",
@@ -4356,7 +4616,8 @@
    },
    "link": "https://www.themoviedb.org/movie/2649-the-game/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 9426,
@@ -4372,6 +4633,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1987-04-30",
+   "cine_us": "1986-08-15",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -4398,7 +4661,8 @@
    },
    "link": "https://www.themoviedb.org/movie/9426-the-fly/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 77338,
@@ -4414,6 +4678,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2012-08-02",
+   "cine_us": "2011-11-02",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video",
@@ -4441,7 +4707,8 @@
    },
    "link": "https://www.themoviedb.org/movie/77338-intouchables/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1700,
@@ -4457,6 +4724,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1991-01-17",
+   "cine_us": "1990-11-30",
    "plataformas": {
     "flatrate": [
      "MovistarTV",
@@ -4489,7 +4758,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1700-misery/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 508965,
@@ -4505,6 +4775,8 @@
    "digital_us": "2019-11-15",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2019-11-08",
    "plataformas": {
     "flatrate": [
      "Netflix"
@@ -4518,7 +4790,8 @@
    },
    "link": "https://www.themoviedb.org/movie/508965-klaus/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 97367,
@@ -4534,6 +4807,8 @@
    "digital_us": "2013-07-23",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2013-03-27",
    "plataformas": {
     "rent": [
      "Claro video"
@@ -4557,7 +4832,8 @@
    },
    "link": "https://www.themoviedb.org/movie/97367-the-place-beyond-the-pines/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 18,
@@ -4573,6 +4849,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1997-05-02",
+   "cine_us": "1997-05-09",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -4596,7 +4874,8 @@
    },
    "link": null,
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 17654,
@@ -4612,6 +4891,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2009-09-24",
+   "cine_us": "2009-08-14",
    "plataformas": {
     "flatrate": [
      "MovistarTV",
@@ -4648,7 +4929,8 @@
    },
    "link": "https://www.themoviedb.org/movie/17654-district-9/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 81,
@@ -4664,6 +4946,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1985-06-14",
    "plataformas": {
     "flatrate": [
      "Netflix"
@@ -4699,7 +4983,8 @@
    },
    "link": "https://www.themoviedb.org/movie/81-feng-no-gu-nonaushika/watch?locale=AR",
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 974576,
@@ -4715,6 +5000,8 @@
    "digital_us": "2024-11-26",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2025-01-30",
+   "cine_us": "2024-10-25",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video",
@@ -4750,7 +5037,8 @@
    },
    "link": "https://www.themoviedb.org/movie/974576-conclave/watch?locale=AR",
    "agregada": "2025-04-12",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 426063,
@@ -4766,6 +5054,8 @@
    "digital_us": "2025-01-21",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2025-01-02",
+   "cine_us": "2024-12-25",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video"
@@ -4799,7 +5089,8 @@
    },
    "link": "https://www.themoviedb.org/movie/426063-nosferatu/watch?locale=AR",
    "agregada": "2025-04-12",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 696506,
@@ -4815,6 +5106,8 @@
    "digital_us": "2025-04-08",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2025-03-06",
+   "cine_us": "2025-03-07",
    "plataformas": {
     "flatrate": [
      "Netflix",
@@ -4852,7 +5145,8 @@
    },
    "link": "https://www.themoviedb.org/movie/696506-mickey-17/watch?locale=AR",
    "agregada": "2025-04-12",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1184918,
@@ -4868,6 +5162,8 @@
    "digital_us": "2024-10-15",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2024-10-10",
+   "cine_us": "2024-09-27",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video"
@@ -4903,7 +5199,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1184918-the-wild-robot/watch?locale=AR",
    "agregada": "2025-04-12",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 945961,
@@ -4919,6 +5216,8 @@
    "digital_us": "2024-10-15",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2024-08-16",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -4945,7 +5244,8 @@
    },
    "link": "https://www.themoviedb.org/movie/945961-alien-romulus/watch?locale=AR",
    "agregada": "2025-04-12",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1013850,
@@ -4961,6 +5261,8 @@
    "digital_us": "2024-12-31",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2025-01-23",
+   "cine_us": "2024-11-01",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -4987,7 +5289,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1013850-a-real-pain/watch?locale=AR",
    "agregada": "2025-04-12",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 286217,
@@ -5003,6 +5306,8 @@
    "digital_us": "2015-12-22",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2015-10-01",
+   "cine_us": "2015-10-02",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -5030,7 +5335,8 @@
    },
    "link": "https://www.themoviedb.org/movie/286217-the-martian/watch?locale=AR",
    "agregada": "2025-04-12",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 467244,
@@ -5046,6 +5352,8 @@
    "digital_us": "2024-02-20",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2023-12-15",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video"
@@ -5080,7 +5388,8 @@
    },
    "link": "https://www.themoviedb.org/movie/467244-the-zone-of-interest/watch?locale=AR",
    "agregada": "2025-04-12",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 661539,
@@ -5096,6 +5405,8 @@
    "digital_us": "2025-02-25",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2025-01-30",
+   "cine_us": "2024-12-25",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -5122,7 +5433,8 @@
    },
    "link": "https://www.themoviedb.org/movie/661539-a-complete-unknown/watch?locale=AR",
    "agregada": "2025-04-12",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 549509,
@@ -5138,6 +5450,8 @@
    "digital_us": "2025-02-18",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2025-02-06",
+   "cine_us": "2024-12-20",
    "plataformas": {
     "flatrate": [
      "HBO Max"
@@ -5173,7 +5487,8 @@
    },
    "link": "https://www.themoviedb.org/movie/549509-the-brutalist/watch?locale=AR",
    "agregada": "2025-04-12",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 9693,
@@ -5189,6 +5504,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2006-12-14",
+   "cine_us": "2006-12-25",
    "plataformas": {
     "flatrate": [
      "MUBI",
@@ -5224,7 +5541,8 @@
    },
    "link": "https://www.themoviedb.org/movie/9693-children-of-men/watch?locale=AR",
    "agregada": "2025-04-12",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 36095,
@@ -5240,6 +5558,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": null,
    "plataformas": {},
    "plataformas_us": {
     "rent": [
@@ -5259,7 +5579,8 @@
    },
    "link": null,
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 106,
@@ -5275,6 +5596,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1987-06-18",
+   "cine_us": "1987-06-12",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -5302,7 +5625,8 @@
    },
    "link": "https://www.themoviedb.org/movie/106-predator/watch?locale=AR",
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 592831,
@@ -5318,6 +5642,8 @@
    "digital_us": "2024-11-12",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2025-01-02",
+   "cine_us": "2024-09-27",
    "plataformas": {
     "flatrate": [
      "MUBI",
@@ -5337,7 +5663,8 @@
    },
    "link": "https://www.themoviedb.org/movie/592831-megalopolis/watch?locale=AR",
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 9464,
@@ -5353,6 +5680,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1998-06-26",
    "plataformas": {
     "flatrate": [
      "Lionsgate+ Amazon Channel"
@@ -5380,7 +5709,8 @@
    },
    "link": "https://www.themoviedb.org/movie/9464-buffalo-66/watch?locale=AR",
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 392044,
@@ -5396,6 +5726,8 @@
    "digital_us": "2018-02-20",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2017-11-10",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -5425,7 +5757,8 @@
    },
    "link": "https://www.themoviedb.org/movie/392044-murder-on-the-orient-express/watch?locale=AR",
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 206647,
@@ -5441,6 +5774,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2015-11-12",
+   "cine_us": "2015-11-06",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video",
@@ -5480,7 +5815,8 @@
    },
    "link": "https://www.themoviedb.org/movie/206647-spectre/watch?locale=AR",
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 197,
@@ -5496,6 +5832,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1995-08-10",
+   "cine_us": "1995-05-24",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -5527,7 +5865,8 @@
    },
    "link": "https://www.themoviedb.org/movie/197-braveheart/watch?locale=AR",
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 422,
@@ -5543,6 +5882,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1963-06-24",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -5566,7 +5907,8 @@
    },
    "link": null,
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 19,
@@ -5582,6 +5924,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1927-03-06",
    "plataformas": {
     "flatrate": [
      "MUBI",
@@ -5615,7 +5959,8 @@
    },
    "link": "https://www.themoviedb.org/movie/19-metropolis/watch?locale=AR",
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 61617,
@@ -5631,6 +5976,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": null,
    "plataformas": {
     "flatrate": [
      "HBO Max"
@@ -5650,7 +5997,8 @@
    },
    "link": "https://www.themoviedb.org/tv/61617-over-the-garden-wall/watch?locale=AR",
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 4553,
@@ -5666,6 +6014,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2004-10-22",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -5689,7 +6039,8 @@
    },
    "link": null,
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 951491,
@@ -5705,6 +6056,8 @@
    "digital_us": "2023-10-20",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2023-09-28",
+   "cine_us": "2023-09-29",
    "plataformas": {
     "flatrate": [
      "Universal+ Amazon Channel"
@@ -5740,7 +6093,8 @@
    },
    "link": "https://www.themoviedb.org/movie/951491-saw-x/watch?locale=AR",
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 220289,
@@ -5756,6 +6110,8 @@
    "digital_us": "2014-08-06",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": null,
    "plataformas": {
     "rent": [
      "Apple TV Store"
@@ -5795,7 +6151,8 @@
    },
    "link": "https://www.themoviedb.org/movie/220289-coherence/watch?locale=AR",
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 452522,
@@ -5811,11 +6168,14 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": null,
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 68734,
@@ -5831,6 +6191,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2012-10-18",
+   "cine_us": "2012-10-12",
    "plataformas": {
     "rent": [
      "Apple TV Store"
@@ -5865,7 +6227,8 @@
    },
    "link": "https://www.themoviedb.org/movie/68734-argo/watch?locale=AR",
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 607,
@@ -5881,6 +6244,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1997-07-17",
+   "cine_us": "1997-07-02",
    "plataformas": {
     "flatrate": [
      "MovistarTV",
@@ -5924,7 +6289,8 @@
    },
    "link": "https://www.themoviedb.org/movie/607-men-in-black/watch?locale=AR",
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 396461,
@@ -5940,6 +6306,8 @@
    "digital_us": "2019-04-23",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2019-04-19",
    "plataformas": {
     "flatrate": [
      "MovistarTV",
@@ -5971,7 +6339,8 @@
    },
    "link": "https://www.themoviedb.org/movie/396461-under-the-silver-lake/watch?locale=AR",
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 979,
@@ -5987,11 +6356,14 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2003-05-01",
+   "cine_us": "2003-03-07",
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 458305,
@@ -6007,6 +6379,8 @@
    "digital_us": "2020-03-27",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": null,
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video",
@@ -6042,7 +6416,8 @@
    },
    "link": "https://www.themoviedb.org/movie/458305-vivarium/watch?locale=AR",
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 541671,
@@ -6058,6 +6433,8 @@
    "digital_us": "2025-07-01",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2025-06-05",
+   "cine_us": "2025-06-06",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video"
@@ -6094,7 +6471,8 @@
    },
    "link": "https://www.themoviedb.org/movie/541671-ballerina/watch?locale=AR",
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 9740,
@@ -6110,6 +6488,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2001-02-22",
+   "cine_us": "2001-02-08",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video",
@@ -6150,7 +6530,8 @@
    },
    "link": "https://www.themoviedb.org/movie/9740-hannibal/watch?locale=AR",
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 803796,
@@ -6166,6 +6547,8 @@
    "digital_us": "2025-06-20",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2025-10-31",
+   "cine_us": "2025-06-20",
    "plataformas": {
     "flatrate": [
      "Netflix"
@@ -6179,7 +6562,8 @@
    },
    "link": "https://www.themoviedb.org/movie/803796-kpop-demon-hunters/watch?locale=AR",
    "agregada": "2026-04-21",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1084242,
@@ -6195,6 +6579,8 @@
    "digital_us": "2026-01-26",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2025-11-27",
+   "cine_us": "2025-11-26",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -6221,7 +6607,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1084242-zootopia-2/watch?locale=AR",
    "agregada": "2026-04-21",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 823219,
@@ -6237,6 +6624,8 @@
    "digital_us": "2025-01-07",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2025-02-27",
+   "cine_us": "2024-11-22",
    "plataformas": {
     "flatrate": [
      "Filmelier Plus Amazon Channel"
@@ -6271,7 +6660,8 @@
    },
    "link": "https://www.themoviedb.org/movie/823219-straume/watch?locale=AR",
    "agregada": "2026-04-21",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 83533,
@@ -6287,6 +6677,8 @@
    "digital_us": "2026-03-31",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2025-12-17",
+   "cine_us": "2025-12-19",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -6314,7 +6706,8 @@
    },
    "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=AR",
    "agregada": "2026-04-21",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1124566,
@@ -6330,6 +6723,8 @@
    "digital_us": "2025-12-23",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2025-12-25",
+   "cine_us": "2025-11-07",
    "plataformas": {
     "flatrate": [
      "MUBI",
@@ -6366,7 +6761,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1124566-affeksjonsverdi/watch?locale=AR",
    "agregada": "2026-04-21",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 843,
@@ -6382,6 +6778,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2001-02-02",
    "plataformas": {
     "flatrate": [
      "MUBI",
@@ -6416,7 +6814,8 @@
    },
    "link": "https://www.themoviedb.org/movie/843-hua-yang-nian-hua/watch?locale=AR",
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 542178,
@@ -6432,6 +6831,8 @@
    "digital_us": "2021-12-14",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2021-11-18",
+   "cine_us": "2021-10-22",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -6460,7 +6861,8 @@
    },
    "link": "https://www.themoviedb.org/movie/542178-the-french-dispatch-of-the-liberty-kansas-evening-sun/watch?locale=AR",
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1137350,
@@ -6476,6 +6878,8 @@
    "digital_us": "2025-07-08",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2025-06-05",
+   "cine_us": "2025-05-30",
    "plataformas": {
     "flatrate": [
      "HBO Max"
@@ -6508,7 +6912,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1137350-the-phoenician-scheme/watch?locale=AR",
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1366,
@@ -6524,6 +6929,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1977-06-23",
+   "cine_us": "1976-12-03",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video",
@@ -6570,7 +6977,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1366-rocky/watch?locale=AR",
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 116745,
@@ -6586,6 +6994,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2014-01-02",
+   "cine_us": "2013-12-25",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -6612,7 +7022,8 @@
    },
    "link": "https://www.themoviedb.org/movie/116745-the-secret-life-of-walter-mitty/watch?locale=AR",
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 73,
@@ -6628,6 +7039,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1999-03-11",
+   "cine_us": "1998-10-30",
    "plataformas": {
     "flatrate": [
      "MovistarTV",
@@ -6659,7 +7072,8 @@
    },
    "link": "https://www.themoviedb.org/movie/73-american-history-x/watch?locale=AR",
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 4995,
@@ -6675,6 +7089,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1997-10-10",
    "plataformas": {
     "flatrate": [
      "MovistarTV",
@@ -6709,7 +7125,8 @@
    },
    "link": "https://www.themoviedb.org/movie/4995-boogie-nights/watch?locale=AR",
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 872,
@@ -6725,6 +7142,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1954-04-14",
+   "cine_us": "1952-04-10",
    "plataformas": {
     "flatrate": [
      "HBO Max"
@@ -6759,7 +7178,8 @@
    },
    "link": "https://www.themoviedb.org/movie/872-singin-in-the-rain/watch?locale=AR",
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 207703,
@@ -6775,6 +7195,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2015-02-19",
+   "cine_us": "2015-02-13",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -6798,7 +7220,8 @@
    },
    "link": "https://www.themoviedb.org/movie/207703-kingsman-the-secret-service/watch?locale=AR",
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 11906,
@@ -6814,6 +7237,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1977-08-10",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video",
@@ -6836,7 +7261,8 @@
    },
    "link": "https://www.themoviedb.org/movie/11906-suspiria/watch?locale=AR",
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 575265,
@@ -6852,6 +7278,8 @@
    "digital_us": "2025-08-19",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2025-05-22",
+   "cine_us": "2025-05-23",
    "plataformas": {
     "flatrate": [
      "Netflix"
@@ -6897,7 +7325,8 @@
    },
    "link": "https://www.themoviedb.org/movie/575265-mission-impossible-the-final-reckoning/watch?locale=AR",
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 620,
@@ -6913,6 +7342,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1984-06-08",
    "plataformas": {
     "flatrate": [
      "MovistarTV",
@@ -6954,7 +7385,8 @@
    },
    "link": "https://www.themoviedb.org/movie/620-ghostbusters/watch?locale=AR",
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 14537,
@@ -6970,6 +7402,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1964-08-04",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -6986,7 +7420,8 @@
    },
    "link": null,
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 346,
@@ -7002,6 +7437,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1956-11-19",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -7025,7 +7462,8 @@
    },
    "link": null,
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 34530,
@@ -7041,6 +7479,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": null,
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -7049,7 +7489,8 @@
    },
    "link": null,
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 12493,
@@ -7065,6 +7506,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2000-11-20",
+   "cine_us": "1963-11-26",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -7084,7 +7527,8 @@
    },
    "link": null,
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 110,
@@ -7100,6 +7544,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1994-11-23",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -7121,7 +7567,8 @@
    },
    "link": null,
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 600354,
@@ -7137,6 +7584,8 @@
    "digital_us": "2021-03-26",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2021-08-12",
+   "cine_us": "2021-02-26",
    "plataformas": {
     "flatrate": [
      "MovistarTV"
@@ -7170,7 +7619,8 @@
    },
    "link": "https://www.themoviedb.org/movie/600354-the-father/watch?locale=AR",
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 593,
@@ -7186,6 +7636,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1972-11-11",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -7209,7 +7661,8 @@
    },
    "link": null,
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1883,
@@ -7225,6 +7678,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1993-09-09",
+   "cine_us": "1992-11-18",
    "plataformas": {
     "flatrate": [
      "MovistarTV",
@@ -7259,7 +7714,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1883-malcolm-x/watch?locale=AR",
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1578,
@@ -7275,6 +7731,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1980-11-14",
    "plataformas": {
     "flatrate": [
      "MUBI",
@@ -7316,7 +7774,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1578-raging-bull/watch?locale=AR",
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 704264,
@@ -7332,6 +7791,8 @@
    "digital_us": "2020-01-07",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": null,
    "plataformas": {},
    "plataformas_us": {
     "rent": [
@@ -7351,7 +7812,8 @@
    },
    "link": null,
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 632617,
@@ -7367,6 +7829,8 @@
    "digital_us": "2021-12-21",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2021-11-19",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video",
@@ -7406,7 +7870,8 @@
    },
    "link": "https://www.themoviedb.org/movie/632617-c-mon-c-mon/watch?locale=AR",
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 111,
@@ -7422,6 +7887,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1984-02-09",
+   "cine_us": "1983-12-09",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video",
@@ -7459,7 +7926,8 @@
    },
    "link": "https://www.themoviedb.org/movie/111-scarface/watch?locale=AR",
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 26005,
@@ -7475,6 +7943,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": null,
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -7490,7 +7960,8 @@
    },
    "link": null,
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 290,
@@ -7506,6 +7977,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1991-08-01",
    "plataformas": {
     "rent": [
      "Apple TV Store",
@@ -7534,7 +8007,8 @@
    },
    "link": "https://www.themoviedb.org/movie/290-barton-fink/watch?locale=AR",
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 68722,
@@ -7550,6 +8024,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2013-02-07",
+   "cine_us": "2012-09-14",
    "plataformas": {
     "rent": [
      "Claro video"
@@ -7576,7 +8052,8 @@
    },
    "link": "https://www.themoviedb.org/movie/68722-the-master/watch?locale=AR",
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 11621,
@@ -7592,6 +8069,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": null,
    "plataformas": {
     "flatrate": [
      "Netflix"
@@ -7627,7 +8106,8 @@
    },
    "link": "https://www.themoviedb.org/movie/11621-hong-no-tun/watch?locale=AR",
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1574,
@@ -7643,6 +8123,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2002-12-27",
    "plataformas": {
     "rent": [
      "Apple TV Store",
@@ -7678,7 +8160,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1574-chicago/watch?locale=AR",
    "agregada": "2026-05-10",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 313297,
@@ -7694,6 +8177,8 @@
    "digital_us": "2016-11-22",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2016-09-01",
+   "cine_us": "2016-08-19",
    "plataformas": {
     "flatrate": [
      "Universal+ Amazon Channel"
@@ -7729,7 +8214,8 @@
    },
    "link": "https://www.themoviedb.org/movie/313297-kubo-and-the-two-strings/watch?locale=AR",
    "agregada": "2026-05-10",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1402,
@@ -7745,6 +8231,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2007-02-01",
+   "cine_us": "2006-12-14",
    "plataformas": {
     "flatrate": [
      "MovistarTV",
@@ -7785,7 +8273,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1402-the-pursuit-of-happyness/watch?locale=AR",
    "agregada": "2026-05-10",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 37724,
@@ -7801,6 +8290,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2012-11-01",
+   "cine_us": "2012-11-09",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video",
@@ -7840,7 +8331,8 @@
    },
    "link": "https://www.themoviedb.org/movie/37724-skyfall/watch?locale=AR",
    "agregada": "2026-05-10",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 8810,
@@ -7856,6 +8348,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1982-05-21",
    "plataformas": {
     "flatrate": [
      "HBO Max"
@@ -7886,7 +8380,8 @@
    },
    "link": "https://www.themoviedb.org/movie/8810-mad-max-2/watch?locale=AR",
    "agregada": "2026-05-10",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 218,
@@ -7902,6 +8397,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1985-04-18",
+   "cine_us": "1984-10-26",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video",
@@ -7945,7 +8442,8 @@
    },
    "link": "https://www.themoviedb.org/movie/218-the-terminator/watch?locale=AR",
    "agregada": "2026-05-10",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 931285,
@@ -7961,6 +8459,8 @@
    "digital_us": "2026-06-09",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2026-05-07",
+   "cine_us": "2026-05-08",
    "plataformas": {
     "flatrate": [
      "HBO Max"
@@ -7995,7 +8495,8 @@
    },
    "link": "https://www.themoviedb.org/movie/931285-mortal-kombat-ii/watch?locale=AR",
    "agregada": "2026-05-20",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1119449,
@@ -8011,6 +8512,8 @@
    "digital_us": "2026-03-10",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2026-04-09",
+   "cine_us": "2026-02-13",
    "plataformas": {
     "rent": [
      "Apple TV Store"
@@ -8041,7 +8544,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1119449-good-luck-have-fun-don-t-die/watch?locale=AR",
    "agregada": "2026-05-21",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1242011,
@@ -8057,6 +8561,8 @@
    "digital_us": "2025-08-26",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2025-09-11",
+   "cine_us": "2025-07-30",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video"
@@ -8087,7 +8593,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1242011-together/watch?locale=AR",
    "agregada": "2026-05-21",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1202479,
@@ -8103,6 +8610,8 @@
    "digital_us": "2025-04-01",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2025-03-14",
    "plataformas": {
     "rent": [
      "Claro video"
@@ -8136,7 +8645,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1202479-opus/watch?locale=AR",
    "agregada": "2026-05-21",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 508439,
@@ -8152,6 +8662,8 @@
    "digital_us": "2020-03-20",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2020-03-05",
+   "cine_us": "2020-03-06",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -8178,7 +8690,8 @@
    },
    "link": "https://www.themoviedb.org/movie/508439-onward/watch?locale=AR",
    "agregada": "2026-05-21",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 68726,
@@ -8194,6 +8707,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2013-07-11",
+   "cine_us": "2013-07-12",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video",
@@ -8227,7 +8742,8 @@
    },
    "link": "https://www.themoviedb.org/movie/68726-pacific-rim/watch?locale=AR",
    "agregada": "2026-05-21",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 582014,
@@ -8243,6 +8759,8 @@
    "digital_us": "2021-01-15",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2021-04-01",
+   "cine_us": "2020-12-25",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video"
@@ -8280,7 +8798,8 @@
    },
    "link": "https://www.themoviedb.org/movie/582014-promising-young-woman/watch?locale=AR",
    "agregada": "2026-05-21",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 967941,
@@ -8296,6 +8815,8 @@
    "digital_us": "2025-12-30",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2025-11-20",
+   "cine_us": "2025-11-20",
    "plataformas": {
     "flatrate": [
      "HBO Max"
@@ -8332,7 +8853,8 @@
    },
    "link": "https://www.themoviedb.org/movie/967941-wicked-for-good/watch?locale=AR",
    "agregada": "2026-05-21",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 217,
@@ -8348,6 +8870,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2008-05-22",
    "plataformas": {
     "flatrate": [
      "Paramount Plus",
@@ -8396,7 +8920,8 @@
    },
    "link": "https://www.themoviedb.org/movie/217-indiana-jones-and-the-kingdom-of-the-crystal-skull/watch?locale=AR",
    "agregada": "2026-05-21",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 406,
@@ -8412,6 +8937,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1997-10-13",
+   "cine_us": "1996-02-23",
    "plataformas": {
     "flatrate": [
      "Cindie Amazon Channel"
@@ -8434,7 +8961,8 @@
    },
    "link": "https://www.themoviedb.org/movie/406-la-haine/watch?locale=AR",
    "agregada": "2026-05-21",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1478143,
@@ -8450,11 +8978,14 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": null,
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
    "agregada": "2026-05-21",
-   "hd_desde": null
+   "hd_desde": null,
+   "en_play": false
   },
   {
    "id": 558449,
@@ -8470,6 +9001,8 @@
    "digital_us": "2024-12-24",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2024-11-14",
+   "cine_us": "2024-11-22",
    "plataformas": {
     "flatrate": [
      "Paramount Plus",
@@ -8515,7 +9048,8 @@
    },
    "link": "https://www.themoviedb.org/movie/558449-gladiator-ii/watch?locale=AR",
    "agregada": "2026-05-21",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 747188,
@@ -8531,6 +9065,8 @@
    "digital_us": "2023-07-11",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2023-08-10",
+   "cine_us": "2023-06-16",
    "plataformas": {
     "rent": [
      "Apple TV Store",
@@ -8567,7 +9103,8 @@
    },
    "link": "https://www.themoviedb.org/movie/747188-asteroid-city/watch?locale=AR",
    "agregada": "2026-05-21",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 22970,
@@ -8583,6 +9120,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2012-12-06",
+   "cine_us": "2012-04-13",
    "plataformas": {
     "flatrate": [
      "Lionsgate+ Amazon Channel"
@@ -8612,7 +9151,8 @@
    },
    "link": "https://www.themoviedb.org/movie/22970-the-cabin-in-the-woods/watch?locale=AR",
    "agregada": "2026-05-21",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 161,
@@ -8628,6 +9168,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2002-02-14",
+   "cine_us": "2001-12-07",
    "plataformas": {
     "flatrate": [
      "HBO Max"
@@ -8667,7 +9209,8 @@
    },
    "link": "https://www.themoviedb.org/movie/161-ocean-s-eleven/watch?locale=AR",
    "agregada": "2026-05-21",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1327819,
@@ -8683,6 +9226,8 @@
    "digital_us": "2026-04-28",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2026-03-05",
+   "cine_us": "2026-03-06",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -8707,7 +9252,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=AR",
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 705861,
@@ -8723,6 +9269,8 @@
    "digital_us": "2022-06-08",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2022-06-03",
    "plataformas": {
     "flatrate": [
      "Netflix"
@@ -8736,7 +9284,8 @@
    },
    "link": "https://www.themoviedb.org/movie/705861-hustle/watch?locale=AR",
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 614934,
@@ -8752,6 +9301,8 @@
    "digital_us": "2022-08-09",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2022-07-14",
+   "cine_us": "2022-06-24",
    "plataformas": {
     "flatrate": [
      "MovistarTV",
@@ -8786,7 +9337,8 @@
    },
    "link": "https://www.themoviedb.org/movie/614934-elvis/watch?locale=AR",
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 619979,
@@ -8802,6 +9354,8 @@
    "digital_us": "2022-03-18",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": null,
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video"
@@ -8814,7 +9368,8 @@
    },
    "link": "https://www.themoviedb.org/movie/619979-deep-water/watch?locale=AR",
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 335787,
@@ -8830,6 +9385,8 @@
    "digital_us": "2022-04-26",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2022-02-18",
+   "cine_us": "2022-02-18",
    "plataformas": {
     "flatrate": [
      "MovistarTV",
@@ -8872,7 +9429,8 @@
    },
    "link": "https://www.themoviedb.org/movie/335787-uncharted/watch?locale=AR",
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 406759,
@@ -8888,6 +9446,8 @@
    "digital_us": "2022-04-01",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2022-02-04",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video",
@@ -8924,7 +9484,8 @@
    },
    "link": "https://www.themoviedb.org/movie/406759-moonfall/watch?locale=AR",
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 805058,
@@ -8940,6 +9501,8 @@
    "digital_us": "2023-06-09",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": null,
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -8963,7 +9526,8 @@
    },
    "link": null,
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 283566,
@@ -8979,6 +9543,8 @@
    "digital_us": "2021-08-12",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2022-12-06",
    "plataformas": {
     "flatrate": [
      "MovistarTV"
@@ -9003,7 +9569,8 @@
    },
    "link": "https://www.themoviedb.org/movie/283566-shin-evuangerion-ju-chang-ban/watch?locale=AR",
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 795813,
@@ -9019,6 +9586,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2021-09-24",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video",
@@ -9057,7 +9626,8 @@
    },
    "link": "https://www.themoviedb.org/movie/795813-ich-bin-dein-mensch/watch?locale=AR",
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 602269,
@@ -9073,6 +9643,8 @@
    "digital_us": "2021-01-29",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2021-01-29",
    "plataformas": {
     "flatrate": [
      "MovistarTV",
@@ -9108,7 +9680,8 @@
    },
    "link": "https://www.themoviedb.org/movie/602269-the-little-things/watch?locale=AR",
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 516632,
@@ -9124,6 +9697,8 @@
    "digital_us": "2021-01-12",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2020-12-03",
+   "cine_us": "2020-10-23",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -9152,7 +9727,8 @@
    },
    "link": "https://www.themoviedb.org/movie/516632-the-empty-man/watch?locale=AR",
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 533514,
@@ -9168,6 +9744,8 @@
    "digital_us": "2021-10-13",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2021-03-30",
    "plataformas": {
     "flatrate": [
      "Netflix"
@@ -9191,7 +9769,8 @@
    },
    "link": "https://www.themoviedb.org/movie/533514-ju-chang-ban-vuaioretto-evuagaden/watch?locale=AR",
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 435615,
@@ -9207,6 +9786,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2020-10-02",
    "plataformas": {
     "flatrate": [
      "HBO Max"
@@ -9230,7 +9811,8 @@
    },
    "link": "https://www.themoviedb.org/movie/435615-possessor/watch?locale=AR",
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 599377,
@@ -9246,6 +9828,8 @@
    "digital_us": "2022-06-09",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2022-05-06",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -9275,7 +9859,8 @@
    },
    "link": null,
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 157433,
@@ -9291,6 +9876,8 @@
    "digital_us": "2019-06-25",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2019-04-05",
    "plataformas": {
     "flatrate": [
      "Disney Plus",
@@ -9329,7 +9916,8 @@
    },
    "link": "https://www.themoviedb.org/movie/157433-pet-sematary/watch?locale=AR",
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 433249,
@@ -9345,6 +9933,8 @@
    "digital_us": "2019-01-18",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": null,
    "plataformas": {
     "flatrate": [
      "Netflix"
@@ -9358,7 +9948,8 @@
    },
    "link": "https://www.themoviedb.org/movie/433249-io/watch?locale=AR",
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 518158,
@@ -9374,6 +9965,8 @@
    "digital_us": "2018-12-11",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": null,
    "plataformas": {
     "rent": [
      "Apple TV Store"
@@ -9406,7 +9999,8 @@
    },
    "link": "https://www.themoviedb.org/movie/518158-leprechaun-returns/watch?locale=AR",
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 346910,
@@ -9422,6 +10016,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2018-09-14",
    "plataformas": {
     "flatrate": [
      "Disney Plus",
@@ -9453,7 +10049,8 @@
    },
    "link": "https://www.themoviedb.org/movie/346910-the-predator/watch?locale=AR",
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 11906,
@@ -9469,6 +10066,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1977-08-10",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video",
@@ -9491,7 +10090,8 @@
    },
    "link": "https://www.themoviedb.org/movie/11906-suspiria/watch?locale=AR",
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 369972,
@@ -9507,6 +10107,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2018-11-29",
+   "cine_us": "2018-10-12",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video",
@@ -9543,7 +10145,8 @@
    },
    "link": "https://www.themoviedb.org/movie/369972-first-man/watch?locale=AR",
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 455207,
@@ -9559,6 +10162,8 @@
    "digital_us": "2018-11-20",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2018-08-15",
    "plataformas": {
     "rent": [
      "Claro video"
@@ -9591,7 +10196,8 @@
    },
    "link": "https://www.themoviedb.org/movie/455207-crazy-rich-asians/watch?locale=AR",
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 402900,
@@ -9607,6 +10213,8 @@
    "digital_us": "2018-08-21",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2018-06-08",
    "plataformas": {
     "flatrate": [
      "MovistarTV",
@@ -9645,7 +10253,8 @@
    },
    "link": "https://www.themoviedb.org/movie/402900-ocean-s-eight/watch?locale=AR",
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 475215,
@@ -9661,6 +10270,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2018-11-30",
    "plataformas": {
     "flatrate": [
      "Filmelier Plus Amazon Channel"
@@ -9680,7 +10291,8 @@
    },
    "link": "https://www.themoviedb.org/movie/475215-wei-lai-nomirai/watch?locale=AR",
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 398181,
@@ -9696,6 +10308,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2018-04-06",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -9716,7 +10330,8 @@
    },
    "link": null,
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 340674,
@@ -9732,6 +10347,8 @@
    "digital_us": "2018-04-19",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2018-05-18",
    "plataformas": {
     "flatrate": [
      "Looke Amazon Channel"
@@ -9768,7 +10385,8 @@
    },
    "link": "https://www.themoviedb.org/movie/340674-dark-crimes/watch?locale=AR",
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 382322,
@@ -9784,6 +10402,8 @@
    "digital_us": "2016-07-26",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2016-07-25",
    "plataformas": {
     "flatrate": [
      "HBO Max"
@@ -9818,7 +10438,8 @@
    },
    "link": "https://www.themoviedb.org/movie/382322-batman-the-killing-joke/watch?locale=AR",
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 331583,
@@ -9834,6 +10455,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2016-10-21",
    "plataformas": {
     "flatrate": [
      "Netflix"
@@ -9869,7 +10492,8 @@
    },
    "link": "https://www.themoviedb.org/movie/331583-the-whole-truth/watch?locale=AR",
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 263472,
@@ -9885,6 +10509,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2015-09-10",
+   "cine_us": "2015-10-09",
    "plataformas": {
     "flatrate": [
      "Lionsgate+ Amazon Channel"
@@ -9919,7 +10545,8 @@
    },
    "link": "https://www.themoviedb.org/movie/263472-knock-knock/watch?locale=AR",
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 64686,
@@ -9935,6 +10562,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2014-01-09",
+   "cine_us": "2013-12-25",
    "plataformas": {
     "rent": [
      "Apple TV Store",
@@ -9966,7 +10595,8 @@
    },
    "link": "https://www.themoviedb.org/movie/64686-47-ronin/watch?locale=AR",
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 68724,
@@ -9982,6 +10612,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2013-10-03",
+   "cine_us": "2013-08-09",
    "plataformas": {
     "flatrate": [
      "HBO Max"
@@ -10017,7 +10649,8 @@
    },
    "link": "https://www.themoviedb.org/movie/68724-elysium/watch?locale=AR",
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 198375,
@@ -10033,6 +10666,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": null,
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -10041,7 +10676,8 @@
    },
    "link": null,
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 109428,
@@ -10057,6 +10693,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2013-05-30",
+   "cine_us": "2013-04-05",
    "plataformas": {
     "flatrate": [
      "MovistarTV",
@@ -10098,7 +10736,8 @@
    },
    "link": "https://www.themoviedb.org/movie/109428-evil-dead/watch?locale=AR",
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 75629,
@@ -10114,6 +10753,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2014-01-10",
    "plataformas": {
     "flatrate": [
      "MovistarTV"
@@ -10122,7 +10763,8 @@
    "plataformas_us": {},
    "link": "https://www.themoviedb.org/movie/75629-q/watch?locale=AR",
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1457866,
@@ -10138,12 +10780,15 @@
    "digital_us": "2026-12-23",
    "digital_proximo": "2026-12-23",
    "digital_sin_confirmar": null,
+   "cine_ar": "2026-11-25",
+   "cine_us": "2026-11-25",
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
    "agregada": "2026-05-23",
    "hd_desde": null,
-   "prioridad": true
+   "prioridad": true,
+   "en_play": false
   },
   {
    "id": 800158,
@@ -10159,6 +10804,8 @@
    "digital_us": "2023-11-10",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2023-10-26",
+   "cine_us": "2023-10-27",
    "plataformas": {
     "flatrate": [
      "Netflix"
@@ -10172,7 +10819,8 @@
    },
    "link": "https://www.themoviedb.org/movie/800158-the-killer/watch?locale=AR",
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 7445,
@@ -10188,6 +10836,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2010-03-25",
+   "cine_us": "2009-12-02",
    "plataformas": {
     "flatrate": [
      "MovistarTV",
@@ -10204,7 +10854,8 @@
    },
    "link": "https://www.themoviedb.org/movie/7445-brothers/watch?locale=AR",
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 11645,
@@ -10220,6 +10871,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1986-01-16",
+   "cine_us": "1985-12-20",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -10229,7 +10882,8 @@
    },
    "link": null,
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 499778,
@@ -10245,11 +10899,14 @@
    "digital_us": "2017-12-05",
    "digital_proximo": null,
    "digital_sin_confirmar": "2017-12-05",
+   "cine_ar": null,
+   "cine_us": null,
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 4148,
@@ -10265,6 +10922,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2008-12-19",
    "plataformas": {
     "rent": [
      "Apple TV Store",
@@ -10302,7 +10961,8 @@
    },
    "link": "https://www.themoviedb.org/movie/4148-revolutionary-road/watch?locale=AR",
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 11321,
@@ -10318,6 +10978,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2008-12-18",
    "plataformas": {
     "flatrate": [
      "MovistarTV"
@@ -10350,7 +11012,8 @@
    },
    "link": "https://www.themoviedb.org/movie/11321-seven-pounds/watch?locale=AR",
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 425274,
@@ -10366,6 +11029,8 @@
    "digital_us": "2025-12-16",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2025-11-13",
+   "cine_us": "2025-11-14",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video"
@@ -10399,7 +11064,8 @@
    },
    "link": "https://www.themoviedb.org/movie/425274-now-you-see-me-now-you-don-t/watch?locale=AR",
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 75612,
@@ -10415,6 +11081,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2013-04-11",
+   "cine_us": "2013-04-19",
    "plataformas": {
     "flatrate": [
      "HBO Max",
@@ -10455,7 +11123,8 @@
    },
    "link": "https://www.themoviedb.org/movie/75612-oblivion/watch?locale=AR",
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 15137,
@@ -10471,6 +11140,8 @@
    "digital_us": "2025-09-16",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": null,
    "plataformas": {
     "flatrate": [
      "MovistarTV"
@@ -10494,7 +11165,8 @@
    },
    "link": "https://www.themoviedb.org/movie/15137-evuangerion-xin-ju-chang-ban-xu/watch?locale=AR",
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 675,
@@ -10510,6 +11182,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2007-07-11",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video",
@@ -10550,7 +11224,8 @@
    },
    "link": "https://www.themoviedb.org/movie/675-harry-potter-and-the-order-of-the-phoenix/watch?locale=AR",
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1562,
@@ -10566,6 +11241,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2007-05-11",
    "plataformas": {
     "flatrate": [
      "Disney Plus",
@@ -10596,7 +11273,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1562-28-weeks-later/watch?locale=AR",
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1381,
@@ -10612,6 +11290,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2006-11-22",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -10635,7 +11315,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1381-the-fountain/watch?locale=AR",
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1440,
@@ -10651,6 +11332,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2006-10-06",
    "plataformas": {
     "flatrate": [
      "MovistarTV",
@@ -10684,7 +11367,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1440-little-children/watch?locale=AR",
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1406657,
@@ -10700,6 +11384,8 @@
    "digital_us": "2026-03-17",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2025-12-12",
    "plataformas": {
     "flatrate": [
      "HBO Max"
@@ -10732,7 +11418,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1406657-guo-teshinakisukaretto/watch?locale=AR",
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 28874,
@@ -10748,6 +11435,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2010-10-13",
    "plataformas": {
     "flatrate": [
      "Filmelier Plus Amazon Channel"
@@ -10775,7 +11464,8 @@
    },
    "link": "https://www.themoviedb.org/movie/28874-samauozu/watch?locale=AR",
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 315465,
@@ -10791,6 +11481,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2016-03-04",
    "plataformas": {
     "flatrate": [
      "MovistarTV"
@@ -10827,7 +11519,8 @@
    },
    "link": "https://www.themoviedb.org/movie/315465-bakemonono-zi/watch?locale=AR",
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1164,
@@ -10843,6 +11536,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2006-10-27",
    "plataformas": {
     "rent": [
      "Apple TV Store",
@@ -10873,7 +11568,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1164-babel/watch?locale=AR",
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 674,
@@ -10889,6 +11585,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2005-11-24",
+   "cine_us": "2005-11-18",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video",
@@ -10929,7 +11627,8 @@
    },
    "link": "https://www.themoviedb.org/movie/674-harry-potter-and-the-goblet-of-fire/watch?locale=AR",
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 2567,
@@ -10945,6 +11644,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2005-02-24",
+   "cine_us": "2004-12-17",
    "plataformas": {
     "flatrate": [
      "Universal+ Amazon Channel"
@@ -10971,7 +11672,8 @@
    },
    "link": "https://www.themoviedb.org/movie/2567-the-aviator/watch?locale=AR",
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 2288,
@@ -10987,6 +11689,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2004-12-03",
    "plataformas": {
     "flatrate": [
      "Sony One Amazon Channel"
@@ -11023,7 +11727,8 @@
    },
    "link": "https://www.themoviedb.org/movie/2288-closer/watch?locale=AR",
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1677,
@@ -11039,6 +11744,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2004-10-29",
    "plataformas": {
     "flatrate": [
      "MovistarTV"
@@ -11078,7 +11785,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1677-ray/watch?locale=AR",
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 673,
@@ -11094,6 +11802,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2004-06-03",
+   "cine_us": "2004-06-04",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video",
@@ -11133,7 +11843,8 @@
    },
    "link": "https://www.themoviedb.org/movie/673-harry-potter-and-the-prisoner-of-azkaban/watch?locale=AR",
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 2757,
@@ -11149,6 +11860,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2002-12-06",
    "plataformas": {
     "flatrate": [
      "HBO Max"
@@ -11184,7 +11897,8 @@
    },
    "link": "https://www.themoviedb.org/movie/2757-adaptation/watch?locale=AR",
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 7342,
@@ -11200,6 +11914,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": null,
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video"
@@ -11238,7 +11954,8 @@
    },
    "link": "https://www.themoviedb.org/movie/7342-carrie/watch?locale=AR",
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 27090,
@@ -11254,11 +11971,14 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2003-09-03",
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 2675,
@@ -11274,6 +11994,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2002-08-15",
+   "cine_us": "2002-08-02",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -11300,7 +12022,8 @@
    },
    "link": "https://www.themoviedb.org/movie/2675-signs/watch?locale=AR",
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 4147,
@@ -11316,6 +12039,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2002-08-29",
+   "cine_us": "2002-07-12",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -11341,7 +12066,8 @@
    },
    "link": "https://www.themoviedb.org/movie/4147-road-to-perdition/watch?locale=AR",
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 644,
@@ -11357,6 +12083,8 @@
    "digital_us": "2014-12-01",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2001-09-06",
+   "cine_us": "2001-06-29",
    "plataformas": {
     "flatrate": [
      "Netflix"
@@ -11394,7 +12122,8 @@
    },
    "link": "https://www.themoviedb.org/movie/644-a-i-artificial-intelligence/watch?locale=AR",
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1391,
@@ -11410,11 +12139,14 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2001-10-18",
+   "cine_us": "2002-03-15",
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 9705,
@@ -11430,6 +12162,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2001-06-08",
    "plataformas": {
     "rent": [
      "Apple TV Store"
@@ -11460,7 +12194,8 @@
    },
    "link": "https://www.themoviedb.org/movie/9705-swordfish/watch?locale=AR",
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 95,
@@ -11476,6 +12211,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1998-07-01",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -11502,7 +12239,8 @@
    },
    "link": "https://www.themoviedb.org/movie/95-armageddon/watch?locale=AR",
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 9769,
@@ -11518,6 +12256,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1997-09-27",
    "plataformas": {
     "rent": [
      "Apple TV Store",
@@ -11550,7 +12290,8 @@
    },
    "link": "https://www.themoviedb.org/movie/9769-lolita/watch?locale=AR",
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1089,
@@ -11566,6 +12307,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1991-07-12",
    "plataformas": {
     "flatrate": [
      "MovistarTV",
@@ -11605,7 +12348,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1089-point-break/watch?locale=AR",
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 311,
@@ -11621,6 +12365,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1984-10-11",
+   "cine_us": "1984-06-01",
    "plataformas": {
     "flatrate": [
      "Disney Plus",
@@ -11649,7 +12395,8 @@
    },
    "link": "https://www.themoviedb.org/movie/311-once-upon-a-time-in-america/watch?locale=AR",
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1955,
@@ -11665,6 +12412,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1980-12-11",
+   "cine_us": "1980-10-10",
    "plataformas": {},
    "plataformas_us": {
     "rent": [
@@ -11684,7 +12433,8 @@
    },
    "link": null,
    "agregada": "2026-05-28",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 109421,
@@ -11700,6 +12450,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2013-03-28",
+   "cine_us": "2013-02-08",
    "plataformas": {
     "rent": [
      "Amazon Video"
@@ -11731,7 +12483,8 @@
    },
    "link": "https://www.themoviedb.org/movie/109421-side-effects/watch?locale=AR",
    "agregada": "2026-05-29",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1452267,
@@ -11747,6 +12500,8 @@
    "digital_us": "2026-10-27",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2026-09-04",
    "plataformas": {},
    "plataformas_us": {
     "rent": [
@@ -11762,7 +12517,8 @@
    },
    "link": null,
    "agregada": "2026-05-31",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1557,
@@ -11778,11 +12534,14 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1999-01-14",
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
    "agregada": "2026-05-31",
-   "hd_desde": null
+   "hd_desde": null,
+   "en_play": false
   },
   {
    "id": 1430077,
@@ -11798,6 +12557,8 @@
    "digital_us": "2026-06-02",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2026-05-07",
+   "cine_us": "2026-05-01",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video"
@@ -11833,7 +12594,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1430077-hokum/watch?locale=AR",
    "agregada": "2026-06-04",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 25237,
@@ -11849,6 +12611,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1987-03-05",
+   "cine_us": "1985-12-06",
    "plataformas": {},
    "plataformas_us": {
     "rent": [
@@ -11868,7 +12632,8 @@
    },
    "link": null,
    "agregada": "2026-06-05",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 190859,
@@ -11884,6 +12649,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2015-01-22",
+   "cine_us": "2014-12-25",
    "plataformas": {
     "flatrate": [
      "MovistarTV",
@@ -11921,7 +12688,8 @@
    },
    "link": "https://www.themoviedb.org/movie/190859-american-sniper/watch?locale=AR",
    "agregada": "2026-06-05",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1086967,
@@ -11937,6 +12705,8 @@
    "digital_us": "2022-11-16",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": null,
    "plataformas": {
     "flatrate": [
      "Netflix"
@@ -11950,7 +12720,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1086967-making-all-quiet-on-the-western-front/watch?locale=AR",
    "agregada": "2026-06-05",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 25,
@@ -11966,6 +12737,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2006-02-16",
+   "cine_us": "2005-11-04",
    "plataformas": {
     "flatrate": [
      "HBO Max"
@@ -12001,7 +12774,8 @@
    },
    "link": "https://www.themoviedb.org/movie/25-jarhead/watch?locale=AR",
    "agregada": "2026-06-05",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 13,
@@ -12017,6 +12791,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1994-10-06",
+   "cine_us": "1994-07-06",
    "plataformas": {
     "flatrate": [
      "Paramount Plus",
@@ -12070,7 +12846,8 @@
    },
    "link": "https://www.themoviedb.org/movie/13-forrest-gump/watch?locale=AR",
    "agregada": "2026-06-05",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1335757,
@@ -12086,11 +12863,14 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": null,
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
    "agregada": "2026-06-05",
-   "hd_desde": null
+   "hd_desde": null,
+   "en_play": false
   },
   {
    "id": 8741,
@@ -12106,6 +12886,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1999-02-25",
+   "cine_us": "1998-12-23",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -12129,7 +12911,8 @@
    },
    "link": "https://www.themoviedb.org/movie/8741-the-thin-red-line/watch?locale=AR",
    "agregada": "2026-06-05",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 799766,
@@ -12145,6 +12928,8 @@
    "digital_us": "2025-02-11",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2025-02-27",
+   "cine_us": "2024-12-25",
    "plataformas": {
     "rent": [
      "Apple TV Store",
@@ -12187,7 +12972,8 @@
    },
    "link": "https://www.themoviedb.org/movie/799766-better-man/watch?locale=AR",
    "agregada": "2026-06-06",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 594,
@@ -12203,6 +12989,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2004-09-09",
+   "cine_us": "2004-06-17",
    "plataformas": {
     "flatrate": [
      "Universal+ Amazon Channel"
@@ -12243,7 +13031,8 @@
    },
    "link": "https://www.themoviedb.org/movie/594-the-terminal/watch?locale=AR",
    "agregada": "2026-06-06",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 446354,
@@ -12259,6 +13048,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2017-12-22",
    "plataformas": {
     "rent": [
      "Apple TV Store",
@@ -12295,7 +13086,8 @@
    },
    "link": "https://www.themoviedb.org/movie/446354-the-post/watch?locale=AR",
    "agregada": "2026-06-06",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 8066,
@@ -12311,6 +13103,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2005-10-21",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -12335,7 +13129,8 @@
    },
    "link": "https://www.themoviedb.org/movie/8066-stay/watch?locale=AR",
    "agregada": "2026-06-08",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 15244,
@@ -12351,6 +13146,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1957-08-26",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -12369,7 +13166,8 @@
    },
    "link": null,
    "agregada": "2026-06-08",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 5336,
@@ -12385,11 +13183,14 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2003-03-13",
+   "cine_us": "1977-10-03",
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
    "agregada": "2026-06-08",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 5335,
@@ -12405,6 +13206,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1969-04-21",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -12427,7 +13230,8 @@
    },
    "link": null,
    "agregada": "2026-06-08",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 19542,
@@ -12443,6 +13247,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1948-10-22",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -12466,7 +13272,8 @@
    },
    "link": null,
    "agregada": "2026-06-08",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 17057,
@@ -12482,6 +13289,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1950-05-17",
    "plataformas": {
     "rent": [
      "Amazon Video"
@@ -12508,7 +13317,8 @@
    },
    "link": "https://www.themoviedb.org/movie/17057-in-a-lonely-place/watch?locale=AR",
    "agregada": "2026-06-08",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 624,
@@ -12524,6 +13334,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1971-07-08",
+   "cine_us": "1969-07-14",
    "plataformas": {
     "rent": [
      "Apple TV Store",
@@ -12558,7 +13370,8 @@
    },
    "link": "https://www.themoviedb.org/movie/624-easy-rider/watch?locale=AR",
    "agregada": "2026-06-08",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 829,
@@ -12574,6 +13387,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1975-02-27",
+   "cine_us": "1974-06-20",
    "plataformas": {
     "rent": [
      "Apple TV Store",
@@ -12607,7 +13422,8 @@
    },
    "link": "https://www.themoviedb.org/movie/829-chinatown/watch?locale=AR",
    "agregada": "2026-06-08",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 68,
@@ -12623,6 +13439,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1985-05-20",
+   "cine_us": "1985-12-18",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -12646,7 +13464,8 @@
    },
    "link": "https://www.themoviedb.org/movie/68-brazil/watch?locale=AR",
    "agregada": "2026-06-08",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 14275,
@@ -12662,6 +13481,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1994-09-12",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -12687,7 +13508,8 @@
    },
    "link": null,
    "agregada": "2026-06-08",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 11830,
@@ -12703,6 +13525,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1987-05-22",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -12726,7 +13550,8 @@
    },
    "link": null,
    "agregada": "2026-06-08",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1027014,
@@ -12742,6 +13567,8 @@
    "digital_us": "2022-09-30",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": null,
    "plataformas": {
     "flatrate": [
      "Netflix"
@@ -12755,7 +13582,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1027014-entergalactic/watch?locale=AR",
    "agregada": "2026-06-09",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 608658,
@@ -12771,6 +13599,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": null,
    "plataformas": {
     "flatrate": [
      "Netflix"
@@ -12784,7 +13614,8 @@
    },
    "link": "https://www.themoviedb.org/movie/608658-oprah-winfrey-presents-when-they-see-us-now/watch?locale=AR",
    "agregada": "2026-06-09",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 4960,
@@ -12800,6 +13631,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2008-10-24",
    "plataformas": {
     "flatrate": [
      "MUBI",
@@ -12828,7 +13661,8 @@
    },
    "link": "https://www.themoviedb.org/movie/4960-synecdoche-new-york/watch?locale=AR",
    "agregada": "2026-06-09",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 21450,
@@ -12844,6 +13678,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1993-12-15",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -12866,7 +13702,8 @@
    },
    "link": null,
    "agregada": "2026-06-09",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 13398,
@@ -12882,6 +13719,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2003-12-05",
    "plataformas": {
     "flatrate": [
      "MovistarTV"
@@ -12909,7 +13748,8 @@
    },
    "link": "https://www.themoviedb.org/movie/13398-dong-jing-gotdofuazazu/watch?locale=AR",
    "agregada": "2026-06-09",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1541,
@@ -12925,6 +13765,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1991-05-24",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video",
@@ -12966,7 +13808,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1541-thelma-louise/watch?locale=AR",
    "agregada": "2026-06-10",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 4982,
@@ -12982,6 +13825,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2008-01-03",
+   "cine_us": "2007-11-02",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video"
@@ -13022,7 +13867,8 @@
    },
    "link": "https://www.themoviedb.org/movie/4982-american-gangster/watch?locale=AR",
    "agregada": "2026-06-10",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 20662,
@@ -13038,6 +13884,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2010-05-14",
    "plataformas": {
     "flatrate": [
      "Netflix",
@@ -13079,7 +13927,8 @@
    },
    "link": "https://www.themoviedb.org/movie/20662-robin-hood/watch?locale=AR",
    "agregada": "2026-06-10",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1281331,
@@ -13095,11 +13944,14 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2026-10-22",
+   "cine_us": "2026-10-09",
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
    "agregada": "2026-06-13",
-   "hd_desde": null
+   "hd_desde": null,
+   "en_play": false
   },
   {
    "id": 1263337,
@@ -13115,6 +13967,8 @@
    "digital_us": "2026-11-10",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2026-09-24",
+   "cine_us": "2026-09-25",
    "plataformas": {
     "rent": [
      "Apple TV Store",
@@ -13145,7 +13999,8 @@
    "link": "https://www.themoviedb.org/movie/1263337-heart-of-the-beast/watch?locale=AR",
    "agregada": "2026-06-13",
    "hd_desde": "2026-11-16",
-   "prioridad": true
+   "prioridad": true,
+   "en_play": false
   },
   {
    "id": 1284041,
@@ -13161,6 +14016,8 @@
    "digital_us": "2026-08-07",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": null,
    "plataformas": {
     "flatrate": [
      "Netflix"
@@ -13174,7 +14031,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1284041-the-last-house/watch?locale=AR",
    "agregada": "2026-06-16",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 11631,
@@ -13190,6 +14048,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2008-08-21",
+   "cine_us": "2008-07-18",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video",
@@ -13225,7 +14085,8 @@
    },
    "link": "https://www.themoviedb.org/movie/11631-mamma-mia/watch?locale=AR",
    "agregada": "2026-06-20",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 153,
@@ -13241,6 +14102,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2004-02-05",
+   "cine_us": "2003-09-18",
    "plataformas": {
     "flatrate": [
      "MovistarTV"
@@ -13271,7 +14134,8 @@
    },
    "link": "https://www.themoviedb.org/movie/153-lost-in-translation/watch?locale=AR",
    "agregada": "2026-06-20",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1421903,
@@ -13287,11 +14151,14 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2027-01-21",
+   "cine_us": "2026-12-25",
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
    "agregada": "2026-06-30",
-   "hd_desde": null
+   "hd_desde": null,
+   "en_play": false
   },
   {
    "id": 144,
@@ -13307,6 +14174,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1988-04-29",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -13330,7 +14199,8 @@
    },
    "link": null,
    "agregada": "2026-07-02",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1585,
@@ -13346,6 +14216,8 @@
    "digital_us": "2013-09-13",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1946-12-20",
    "plataformas": {
     "flatrate": [
      "MovistarTV"
@@ -13388,7 +14260,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1585-it-s-a-wonderful-life/watch?locale=AR",
    "agregada": "2026-07-08",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 497,
@@ -13404,6 +14277,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2000-03-02",
+   "cine_us": "1999-12-10",
    "plataformas": {
     "flatrate": [
      "MovistarTV",
@@ -13439,7 +14314,8 @@
    },
    "link": "https://www.themoviedb.org/movie/497-the-green-mile/watch?locale=AR",
    "agregada": "2026-07-08",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 399057,
@@ -13455,6 +14331,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2017-10-20",
    "plataformas": {
     "flatrate": [
      "MovistarTV"
@@ -13494,7 +14372,8 @@
    },
    "link": "https://www.themoviedb.org/movie/399057-the-killing-of-a-sacred-deer/watch?locale=AR",
    "agregada": "2026-07-15",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1688652,
@@ -13510,6 +14389,8 @@
    "digital_us": "2026-05-05",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": null,
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -13522,7 +14403,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1688652-gary/watch?locale=AR",
    "agregada": "2026-07-15",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1029955,
@@ -13538,6 +14420,8 @@
    "digital_us": "2024-08-27",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2024-08-22",
+   "cine_us": "2024-06-21",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -13562,7 +14446,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1029955-kinds-of-kindness/watch?locale=AR",
    "agregada": "2026-07-15",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1564614,
@@ -13578,6 +14463,8 @@
    "digital_us": "2026-07-28",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2026-06-25",
+   "cine_us": "2026-06-19",
    "plataformas": {
     "flatrate": [
      "Filmelier Plus Amazon Channel"
@@ -13605,7 +14492,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1564614-leviticus/watch?locale=AR",
    "agregada": "2026-07-15",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 9373,
@@ -13621,6 +14509,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2005-06-23",
+   "cine_us": "2003-10-17",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video",
@@ -13659,7 +14549,8 @@
    },
    "link": "https://www.themoviedb.org/movie/9373-the-texas-chainsaw-massacre/watch?locale=AR",
    "agregada": "2026-07-19",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 128489,
@@ -13675,11 +14566,14 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1958-03-06",
+   "cine_us": null,
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
    "agregada": "2026-07-21",
-   "hd_desde": null
+   "hd_desde": null,
+   "en_play": false
   },
   {
    "id": 703,
@@ -13695,6 +14589,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1977-04-20",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video"
@@ -13731,7 +14627,8 @@
    },
    "link": "https://www.themoviedb.org/movie/703-annie-hall/watch?locale=AR",
    "agregada": "2026-07-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 696,
@@ -13747,6 +14644,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1979-04-25",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video"
@@ -13783,7 +14682,8 @@
    },
    "link": "https://www.themoviedb.org/movie/696-manhattan/watch?locale=AR",
    "agregada": "2026-07-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 475303,
@@ -13799,6 +14699,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2019-11-21",
+   "cine_us": "2020-10-09",
    "plataformas": {
     "rent": [
      "Apple TV Store",
@@ -13831,7 +14733,8 @@
    },
    "link": "https://www.themoviedb.org/movie/475303-a-rainy-day-in-new-york/watch?locale=AR",
    "agregada": "2026-07-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 2654,
@@ -13847,6 +14750,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1995-02-03",
    "plataformas": {
     "flatrate": [
      "HBO Max"
@@ -13879,7 +14784,8 @@
    },
    "link": "https://www.themoviedb.org/movie/2654-in-the-mouth-of-madness/watch?locale=AR",
    "agregada": "2026-07-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 25623,
@@ -13895,6 +14801,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1977-09-01",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -13916,7 +14824,8 @@
    },
    "link": null,
    "agregada": "2026-07-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 949423,
@@ -13932,6 +14841,8 @@
    "digital_us": "2022-10-20",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2023-02-23",
+   "cine_us": "2022-09-16",
    "plataformas": {
     "flatrate": [
      "HBO Max"
@@ -13969,7 +14880,8 @@
    },
    "link": "https://www.themoviedb.org/movie/949423-pearl/watch?locale=AR",
    "agregada": "2026-07-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 504,
@@ -13985,6 +14897,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2003-12-24",
    "plataformas": {},
    "plataformas_us": {
     "rent": [
@@ -14004,7 +14918,8 @@
    },
    "link": null,
    "agregada": "2026-07-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1677172,
@@ -14020,11 +14935,14 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2004-02-02",
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
    "agregada": "2026-07-23",
-   "hd_desde": null
+   "hd_desde": null,
+   "en_play": false
   },
   {
    "id": 786,
@@ -14040,6 +14958,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2001-02-08",
+   "cine_us": "2000-09-15",
    "plataformas": {
     "flatrate": [
      "Sony One Amazon Channel"
@@ -14083,7 +15003,8 @@
    },
    "link": "https://www.themoviedb.org/movie/786-almost-famous/watch?locale=AR",
    "agregada": "2026-07-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 107,
@@ -14099,6 +15020,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2001-04-26",
+   "cine_us": "2001-01-19",
    "plataformas": {
     "flatrate": [
      "MovistarTV",
@@ -14137,7 +15060,8 @@
    },
    "link": "https://www.themoviedb.org/movie/107-snatch/watch?locale=AR",
    "agregada": "2026-07-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 813,
@@ -14153,6 +15077,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1980-06-27",
    "plataformas": {
     "rent": [
      "Apple TV Store",
@@ -14191,7 +15117,8 @@
    },
    "link": "https://www.themoviedb.org/movie/813-airplane/watch?locale=AR",
    "agregada": "2026-07-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 3082,
@@ -14207,6 +15134,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1936-08-04",
+   "cine_us": "1936-02-12",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -14230,7 +15159,8 @@
    },
    "link": null,
    "agregada": "2026-07-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 228150,
@@ -14246,6 +15176,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2015-01-14",
+   "cine_us": "2014-10-17",
    "plataformas": {
     "flatrate": [
      "Netflix",
@@ -14286,7 +15218,8 @@
    },
    "link": "https://www.themoviedb.org/movie/228150-fury/watch?locale=AR",
    "agregada": "2026-07-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1170608,
@@ -14302,12 +15235,15 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2026-12-15",
+   "cine_us": "2026-12-18",
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
    "agregada": "2026-07-23",
    "hd_desde": null,
-   "prioridad": true
+   "prioridad": true,
+   "en_play": false
   },
   {
    "id": 1003598,
@@ -14323,11 +15259,14 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2027-12-16",
+   "cine_us": "2027-12-17",
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
    "agregada": "2026-07-23",
-   "hd_desde": null
+   "hd_desde": null,
+   "en_play": false
   },
   {
    "id": 911916,
@@ -14343,11 +15282,14 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2027-06-17",
+   "cine_us": "2027-06-18",
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
    "agregada": "2026-07-23",
-   "hd_desde": null
+   "hd_desde": null,
+   "en_play": false
   },
   {
    "id": 13651,
@@ -14363,6 +15305,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1985-05-06",
+   "cine_us": null,
    "plataformas": {
     "flatrate": [
      "MovistarTV"
@@ -14371,7 +15315,8 @@
    "plataformas_us": {},
    "link": "https://www.themoviedb.org/movie/13651-esperando-la-carroza/watch?locale=AR",
    "agregada": "2026-07-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 47383,
@@ -14387,6 +15332,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2009-11-13",
+   "cine_us": "2010-03-31",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -14401,7 +15348,8 @@
    "plataformas_us": {},
    "link": "https://www.themoviedb.org/movie/47383-el-hombre-de-al-lado/watch?locale=AR",
    "agregada": "2026-07-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 29263,
@@ -14417,6 +15365,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1985-04-03",
+   "cine_us": "1985-11-08",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -14437,7 +15387,8 @@
    },
    "link": null,
    "agregada": "2026-07-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 66862,
@@ -14453,6 +15404,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": null,
    "plataformas": {
     "flatrate": [
      "Crunchyroll",
@@ -14468,7 +15421,8 @@
    },
    "link": "https://www.themoviedb.org/tv/66862-zhao-he-yuan-lu-luo-yu-xin-zhong/watch?locale=AR",
    "agregada": "2026-07-23",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 38368,
@@ -14484,6 +15438,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2011-03-02",
    "plataformas": {
     "flatrate": [
      "MUBI"
@@ -14510,7 +15466,8 @@
    },
    "link": "https://www.themoviedb.org/movie/38368-lungbuymiraluekchati/watch?locale=AR",
    "agregada": "2026-07-24",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1946,
@@ -14526,6 +15483,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1999-04-19",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -14544,7 +15503,8 @@
    },
    "link": null,
    "agregada": "2026-07-28",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 9540,
@@ -14560,6 +15520,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1988-09-23",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -14579,7 +15541,8 @@
    },
    "link": null,
    "agregada": "2026-07-28",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 37257,
@@ -14595,6 +15558,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1957-12-17",
    "plataformas": {
     "flatrate": [
      "MGM+ Apple TV Channel",
@@ -14634,7 +15599,8 @@
    },
    "link": "https://www.themoviedb.org/movie/37257-witness-for-the-prosecution/watch?locale=AR",
    "agregada": "2026-07-29",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 284,
@@ -14650,6 +15616,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1960-10-25",
+   "cine_us": "1960-06-21",
    "plataformas": {
     "flatrate": [
      "MUBI",
@@ -14689,7 +15657,8 @@
    },
    "link": "https://www.themoviedb.org/movie/284-the-apartment/watch?locale=AR",
    "agregada": "2026-07-29",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 599,
@@ -14705,6 +15674,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1951-11-01",
+   "cine_us": "1950-08-10",
    "plataformas": {
     "rent": [
      "Apple TV Store",
@@ -14744,7 +15715,8 @@
    },
    "link": "https://www.themoviedb.org/movie/599-sunset-boulevard/watch?locale=AR",
    "agregada": "2026-07-29",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 239,
@@ -14760,6 +15732,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1959-04-23",
+   "cine_us": "1959-03-19",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video",
@@ -14801,7 +15775,8 @@
    },
    "link": "https://www.themoviedb.org/movie/239-some-like-it-hot/watch?locale=AR",
    "agregada": "2026-07-29",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1443,
@@ -14817,6 +15792,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2000-04-21",
    "plataformas": {
     "rent": [
      "Apple TV Store",
@@ -14848,7 +15825,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1443-the-virgin-suicides/watch?locale=AR",
    "agregada": "2026-07-29",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1933,
@@ -14864,6 +15842,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2001-10-04",
+   "cine_us": "2001-08-10",
    "plataformas": {
     "flatrate": [
      "MovistarTV",
@@ -14904,7 +15884,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1933-the-others/watch?locale=AR",
    "agregada": "2026-07-30",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 9299,
@@ -14920,6 +15901,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": null,
    "plataformas": {
     "flatrate": [
      "MovistarTV"
@@ -14949,7 +15932,8 @@
    },
    "link": "https://www.themoviedb.org/movie/9299-tesis/watch?locale=AR",
    "agregada": "2026-07-30",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 968,
@@ -14965,6 +15949,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1976-01-08",
+   "cine_us": "1975-09-21",
    "plataformas": {
     "rent": [
      "Apple TV Store"
@@ -14992,7 +15978,8 @@
    },
    "link": "https://www.themoviedb.org/movie/968-dog-day-afternoon/watch?locale=AR",
    "agregada": "2026-08-01",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 9040,
@@ -15008,6 +15995,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1974-03-14",
+   "cine_us": "1973-12-18",
    "plataformas": {
     "flatrate": [
      "Netflix",
@@ -15033,7 +16022,8 @@
    },
    "link": "https://www.themoviedb.org/movie/9040-serpico/watch?locale=AR",
    "agregada": "2026-08-01",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 7972,
@@ -15049,6 +16039,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2007-10-26",
    "plataformas": {
     "flatrate": [
      "MovistarTV",
@@ -15086,7 +16078,8 @@
    },
    "link": "https://www.themoviedb.org/movie/7972-before-the-devil-knows-you-re-dead/watch?locale=AR",
    "agregada": "2026-08-01",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1386618,
@@ -15102,11 +16095,14 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2028-12-14",
+   "cine_us": "2028-12-15",
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
    "agregada": "2026-08-02",
-   "hd_desde": null
+   "hd_desde": null,
+   "en_play": false
   },
   {
    "id": 1084244,
@@ -15122,6 +16118,8 @@
    "digital_us": "2026-08-18",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2026-06-17",
+   "cine_us": "2026-06-19",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -15148,7 +16146,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1084244-toy-story-5/watch?locale=AR",
    "agregada": "2026-08-02",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 18329,
@@ -15164,6 +16163,8 @@
    "digital_us": "2020-12-04",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1998-05-16",
+   "cine_us": "2017-01-04",
    "plataformas": {
     "flatrate": [
      "MUBI",
@@ -15192,7 +16193,8 @@
    },
    "link": "https://www.themoviedb.org/movie/18329-chun-guang-zha-xie/watch?locale=AR",
    "agregada": "2026-08-02",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 3112,
@@ -15208,6 +16210,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1955-07-26",
    "plataformas": {
     "flatrate": [
      "MGM+ Apple TV Channel",
@@ -15248,7 +16252,8 @@
    },
    "link": "https://www.themoviedb.org/movie/3112-the-night-of-the-hunter/watch?locale=AR",
    "agregada": "2026-08-05",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 11902,
@@ -15264,6 +16269,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1996-09-12",
+   "cine_us": "1995-10-25",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -15286,7 +16293,8 @@
    },
    "link": null,
    "agregada": "2026-08-05",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 336000,
@@ -15302,6 +16310,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2017-10-12",
+   "cine_us": "2017-08-11",
    "plataformas": {
     "flatrate": [
      "Lionsgate+ Amazon Channel"
@@ -15337,7 +16347,8 @@
    },
    "link": "https://www.themoviedb.org/movie/336000-the-glass-castle/watch?locale=AR",
    "agregada": "2026-08-07",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 806704,
@@ -15353,11 +16364,14 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2028-02-17",
+   "cine_us": "2028-02-18",
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
    "agregada": "2026-08-07",
-   "hd_desde": null
+   "hd_desde": null,
+   "en_play": false
   },
   {
    "id": 40807,
@@ -15373,6 +16387,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2011-09-30",
    "plataformas": {
     "flatrate": [
      "Lionsgate+ Amazon Channel"
@@ -15399,7 +16415,8 @@
    },
    "link": "https://www.themoviedb.org/movie/40807-50-50/watch?locale=AR",
    "agregada": "2026-08-07",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1375441,
@@ -15415,6 +16432,8 @@
    "digital_us": "2026-11-03",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2026-09-25",
    "plataformas": {},
    "plataformas_us": {
     "rent": [
@@ -15432,7 +16451,8 @@
    "link": null,
    "agregada": "2026-08-07",
    "hd_desde": "2026-11-16",
-   "prioridad": true
+   "prioridad": true,
+   "en_play": false
   },
   {
    "id": 1903,
@@ -15448,6 +16468,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2001-12-14",
    "plataformas": {
     "flatrate": [
      "MovistarTV"
@@ -15488,7 +16510,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1903-vanilla-sky/watch?locale=AR",
    "agregada": "2026-08-11",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1682479,
@@ -15504,11 +16527,14 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": null,
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
    "agregada": "2026-08-12",
-   "hd_desde": null
+   "hd_desde": null,
+   "en_play": false
   },
   {
    "id": 832,
@@ -15524,6 +16550,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1933-03-31",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -15543,7 +16571,8 @@
    },
    "link": "https://www.themoviedb.org/movie/832-m-eine-stadt-sucht-einen-morder/watch?locale=AR",
    "agregada": "2026-08-12",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 9800,
@@ -15559,6 +16588,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1993-12-22",
    "plataformas": {
     "flatrate": [
      "Sony One Amazon Channel"
@@ -15591,7 +16622,8 @@
    },
    "link": "https://www.themoviedb.org/movie/9800-philadelphia/watch?locale=AR",
    "agregada": "2026-08-14",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 2160,
@@ -15607,6 +16639,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1961-07-12",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -15619,7 +16653,8 @@
    },
    "link": "https://www.themoviedb.org/movie/2160-voyage-to-the-bottom-of-the-sea/watch?locale=AR",
    "agregada": "2026-08-21",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 949,
@@ -15635,6 +16670,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1996-02-15",
+   "cine_us": "1995-12-15",
    "plataformas": {
     "flatrate": [
      "Disney Plus",
@@ -15666,7 +16703,8 @@
    },
    "link": "https://www.themoviedb.org/movie/949-heat/watch?locale=AR",
    "agregada": "2026-08-25",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 586810,
@@ -15682,6 +16720,8 @@
    "digital_us": "2024-06-18",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2025-05-08",
+   "cine_us": "2024-05-03",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video"
@@ -15714,7 +16754,8 @@
    },
    "link": "https://www.themoviedb.org/movie/586810-mars-express/watch?locale=AR",
    "agregada": "2026-08-26",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 38985,
@@ -15730,6 +16771,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1978-05-11",
+   "cine_us": "1977-06-24",
    "plataformas": {},
    "plataformas_us": {
     "rent": [
@@ -15750,7 +16793,8 @@
    },
    "link": null,
    "agregada": "2026-08-26",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 14626,
@@ -15766,6 +16810,8 @@
    "digital_us": "2022-09-01",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2002-03-31",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -15789,7 +16835,8 @@
    },
    "link": null,
    "agregada": "2026-08-26",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 501,
@@ -15805,6 +16852,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2005-08-12",
    "plataformas": {
     "rent": [
      "Apple TV Store"
@@ -15835,7 +16884,8 @@
    },
    "link": "https://www.themoviedb.org/movie/501-grizzly-man/watch?locale=AR",
    "agregada": "2026-08-26",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 802,
@@ -15851,6 +16901,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1963-04-10",
+   "cine_us": "1962-06-13",
    "plataformas": {
     "flatrate": [
      "HBO Max"
@@ -15881,7 +16933,8 @@
    },
    "link": "https://www.themoviedb.org/movie/802-lolita/watch?locale=AR",
    "agregada": "2026-08-26",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 975,
@@ -15897,6 +16950,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1957-12-20",
    "plataformas": {
     "flatrate": [
      "MGM+ Apple TV Channel",
@@ -15932,7 +16987,8 @@
    },
    "link": "https://www.themoviedb.org/movie/975-paths-of-glory/watch?locale=AR",
    "agregada": "2026-08-26",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 28422,
@@ -15948,11 +17004,14 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2011-05-13",
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 12720,
@@ -15968,6 +17027,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2002-01-01",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -15985,7 +17046,8 @@
    },
    "link": null,
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 42229,
@@ -16001,6 +17063,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1977-09-25",
    "plataformas": {},
    "plataformas_us": {
     "rent": [
@@ -16020,7 +17084,8 @@
    },
    "link": null,
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 41876,
@@ -16036,11 +17101,14 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1969-12-18",
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
    "agregada": "2026-08-30",
-   "hd_desde": null
+   "hd_desde": null,
+   "en_play": false
   },
   {
    "id": 179144,
@@ -16056,6 +17124,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2013-11-15",
    "plataformas": {
     "rent": [
      "Apple TV Store"
@@ -16086,7 +17156,8 @@
    },
    "link": "https://www.themoviedb.org/movie/179144-la-grande-bellezza/watch?locale=AR",
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 24192,
@@ -16102,6 +17173,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1966-02-17",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -16125,7 +17198,8 @@
    },
    "link": null,
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 7857,
@@ -16141,6 +17215,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1974-09-19",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -16165,7 +17241,8 @@
    },
    "link": null,
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 21135,
@@ -16181,6 +17258,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1962-12-20",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -16199,7 +17278,8 @@
    },
    "link": null,
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 8416,
@@ -16215,6 +17295,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1971-03-21",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video",
@@ -16239,7 +17321,8 @@
    },
    "link": "https://www.themoviedb.org/movie/8416-il-conformista/watch?locale=AR",
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 8422,
@@ -16255,6 +17338,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1961-06-26",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -16280,7 +17365,8 @@
    },
    "link": null,
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1394,
@@ -16296,6 +17382,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1984-01-08",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -16319,7 +17407,8 @@
    },
    "link": null,
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 307,
@@ -16335,6 +17424,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1947-02-07",
+   "cine_us": "1946-02-25",
    "plataformas": {
     "flatrate": [
      "Artiflix"
@@ -16365,7 +17456,8 @@
    },
    "link": "https://www.themoviedb.org/movie/307-roma-citta-aperta/watch?locale=AR",
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 41050,
@@ -16381,6 +17473,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1962-02-19",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -16403,7 +17497,8 @@
    },
    "link": null,
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 17295,
@@ -16419,6 +17514,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1968-09-19",
+   "cine_us": "1967-03-13",
    "plataformas": {
     "rent": [
      "Apple TV Store"
@@ -16449,7 +17546,8 @@
    },
    "link": "https://www.themoviedb.org/movie/17295-la-battaglia-di-algeri/watch?locale=AR",
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 335,
@@ -16465,6 +17563,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1969-07-04",
    "plataformas": {
     "rent": [
      "Apple TV Store"
@@ -16498,7 +17598,8 @@
    },
    "link": "https://www.themoviedb.org/movie/335-c-era-una-volta-il-west/watch?locale=AR",
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 5165,
@@ -16514,6 +17615,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1961-03-04",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -16533,7 +17636,8 @@
    },
    "link": null,
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 439,
@@ -16549,11 +17653,14 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1961-03-15",
+   "cine_us": "1961-04-19",
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1040,
@@ -16569,6 +17676,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2004-08-13",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -16592,7 +17701,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1040-il-gattopardo/watch?locale=AR",
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 19426,
@@ -16608,6 +17718,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1957-12-31",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -16630,7 +17742,8 @@
    },
    "link": null,
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 72721,
@@ -16646,6 +17759,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2011-03-17",
    "plataformas": {
     "flatrate": [
      "Netflix"
@@ -16666,7 +17781,8 @@
    },
    "link": "https://www.themoviedb.org/movie/72721-nostalgia-de-la-luz/watch?locale=AR",
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 865569,
@@ -16682,11 +17798,14 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2024-03-21",
+   "cine_us": null,
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
    "agregada": "2026-08-30",
-   "hd_desde": null
+   "hd_desde": null,
+   "en_play": false
   },
   {
    "id": 1675,
@@ -16702,11 +17821,14 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1973-09-07",
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1779,
@@ -16722,6 +17844,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1989-09-01",
    "plataformas": {
     "rent": [
      "Apple TV Store"
@@ -16748,7 +17872,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1779-roger-me/watch?locale=AR",
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 638,
@@ -16764,6 +17889,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1998-10-08",
+   "cine_us": "1997-02-18",
    "plataformas": {
     "flatrate": [
      "MUBI"
@@ -16785,7 +17912,8 @@
    },
    "link": "https://www.themoviedb.org/movie/638-lost-highway/watch?locale=AR",
    "agregada": "2026-09-01",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1637,
@@ -16801,6 +17929,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1994-06-09",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -16827,7 +17957,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1637-speed/watch?locale=AR",
    "agregada": "2026-09-02",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 9472,
@@ -16843,6 +17974,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2004-06-18",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -16869,7 +18002,8 @@
    },
    "link": "https://www.themoviedb.org/movie/9472-dodgeball-a-true-underdog-story/watch?locale=AR",
    "agregada": "2026-09-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1492198,
@@ -16885,11 +18019,14 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2026-12-25",
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
    "agregada": "2026-09-05",
-   "hd_desde": null
+   "hd_desde": null,
+   "en_play": false
   },
   {
    "id": 1288059,
@@ -16905,6 +18042,8 @@
    "digital_us": "2026-09-01",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2026-10-15",
+   "cine_us": "2026-07-31",
    "plataformas": {},
    "plataformas_us": {
     "rent": [
@@ -16925,7 +18064,8 @@
    },
    "link": null,
    "agregada": "2026-09-07",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 10428,
@@ -16941,6 +18081,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1995-09-14",
    "plataformas": {
     "flatrate": [
      "MGM+ Apple TV Channel",
@@ -16980,7 +18122,8 @@
    },
    "link": "https://www.themoviedb.org/movie/10428-hackers/watch?locale=AR",
    "agregada": "2026-09-08",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 812583,
@@ -16996,6 +18139,8 @@
    "digital_us": "2025-12-12",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2025-11-26",
    "plataformas": {
     "flatrate": [
      "Netflix"
@@ -17009,7 +18154,8 @@
    },
    "link": "https://www.themoviedb.org/movie/812583-wake-up-dead-man-a-knives-out-mystery/watch?locale=AR",
    "agregada": "2026-09-08",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 228967,
@@ -17025,6 +18171,8 @@
    "digital_us": "2014-12-24",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2015-01-22",
+   "cine_us": "2014-12-25",
    "plataformas": {
     "flatrate": [
      "Netflix"
@@ -17060,7 +18208,8 @@
    },
    "link": "https://www.themoviedb.org/movie/228967-the-interview/watch?locale=AR",
    "agregada": "2026-09-11",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 109414,
@@ -17076,6 +18225,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2013-09-19",
+   "cine_us": "2013-06-12",
    "plataformas": {
     "flatrate": [
      "Universal+ Amazon Channel"
@@ -17112,7 +18263,8 @@
    },
    "link": "https://www.themoviedb.org/movie/109414-this-is-the-end/watch?locale=AR",
    "agregada": "2026-09-11",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1796809,
@@ -17128,11 +18280,14 @@
    "digital_us": "2026-10-12",
    "digital_proximo": null,
    "digital_sin_confirmar": "2026-10-12",
+   "cine_ar": null,
+   "cine_us": null,
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
    "agregada": "2026-09-12",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1248832,
@@ -17148,11 +18303,14 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2026-10-01",
+   "cine_us": "2026-10-02",
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
    "agregada": "2026-09-13",
-   "hd_desde": null
+   "hd_desde": null,
+   "en_play": false
   },
   {
    "id": 27072,
@@ -17168,6 +18326,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": null,
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -17176,7 +18336,8 @@
    },
    "link": null,
    "agregada": "2026-09-15",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 2756,
@@ -17192,6 +18353,8 @@
    "digital_us": "2023-12-12",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1989-11-16",
+   "cine_us": "1989-08-09",
    "plataformas": {
     "flatrate": [
      "Disney Plus"
@@ -17221,7 +18384,8 @@
    },
    "link": "https://www.themoviedb.org/movie/2756-the-abyss/watch?locale=AR",
    "agregada": "2026-09-16",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 518776,
@@ -17237,6 +18401,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": null,
    "plataformas": {
     "flatrate": [
      "DocAlliance Films"
@@ -17256,7 +18422,8 @@
    },
    "link": "https://www.themoviedb.org/movie/518776-el-silencio-es-un-cuerpo-que-cae/watch?locale=AR",
    "agregada": "2026-09-16",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 43003,
@@ -17272,6 +18439,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1977-01-07",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -17292,7 +18461,8 @@
    },
    "link": null,
    "agregada": "2026-09-16",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1480,
@@ -17308,6 +18478,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "1958-08-27",
+   "cine_us": "1958-03-30",
    "plataformas": {
     "flatrate": [
      "HBO Max"
@@ -17335,7 +18507,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1480-touch-of-evil/watch?locale=AR",
    "agregada": "2026-09-16",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 3766,
@@ -17351,6 +18524,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1948-04-14",
    "plataformas": {},
    "plataformas_us": {
     "rent": [
@@ -17371,7 +18546,8 @@
    },
    "link": null,
    "agregada": "2026-09-16",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1483525,
@@ -17387,6 +18563,8 @@
    "digital_us": "2026-11-06",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2026-10-23",
    "plataformas": {
     "flatrate": [
      "Netflix"
@@ -17400,7 +18578,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1483525-ganeunghan-salang/watch?locale=AR",
    "agregada": "2026-09-16",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1423191,
@@ -17416,6 +18595,8 @@
    "digital_us": "2026-11-03",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2026-09-17",
+   "cine_us": "2026-09-18",
    "plataformas": {
     "rent": [
      "Apple TV Store",
@@ -17441,7 +18622,8 @@
    "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=AR",
    "agregada": "2026-09-19",
    "hd_desde": "2026-11-16",
-   "prioridad": true
+   "prioridad": true,
+   "en_play": false
   },
   {
    "id": 109,
@@ -17457,6 +18639,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "1994-06-10",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -17478,7 +18662,8 @@
    },
    "link": null,
    "agregada": "2026-09-20",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 1706935,
@@ -17494,11 +18679,14 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": null,
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
    "agregada": "2026-09-26",
-   "hd_desde": null
+   "hd_desde": null,
+   "en_play": false
   },
   {
    "id": 1265,
@@ -17514,6 +18702,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2007-02-16",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -17536,7 +18726,8 @@
    },
    "link": null,
    "agregada": "2026-10-03",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 437583,
@@ -17552,6 +18743,8 @@
    "digital_us": "2018-04-10",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2018-02-23",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -17578,7 +18771,8 @@
    },
    "link": null,
    "agregada": "2026-10-16",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 2011,
@@ -17594,6 +18788,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2008-02-22",
    "plataformas": {
     "rent": [
      "Apple TV Store",
@@ -17623,7 +18819,8 @@
    },
    "link": "https://www.themoviedb.org/movie/2011-persepolis/watch?locale=AR",
    "agregada": "2026-10-20",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 791523,
@@ -17639,12 +18836,15 @@
    "digital_us": "2026-12-08",
    "digital_proximo": "2026-12-08",
    "digital_sin_confirmar": null,
+   "cine_ar": "2026-10-29",
+   "cine_us": "2026-10-23",
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
    "agregada": "2026-10-24",
    "hd_desde": null,
-   "prioridad": true
+   "prioridad": true,
+   "en_play": true
   },
   {
    "id": 397243,
@@ -17660,6 +18860,8 @@
    "digital_us": "2016-12-21",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2016-12-21",
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video"
@@ -17701,7 +18903,8 @@
    },
    "link": "https://www.themoviedb.org/movie/397243-the-autopsy-of-jane-doe/watch?locale=AR",
    "agregada": "2026-10-24",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 13310,
@@ -17717,6 +18920,8 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": null,
+   "cine_us": "2008-10-24",
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
@@ -17748,7 +18953,8 @@
    },
    "link": null,
    "agregada": "2026-10-24",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "en_play": false
   },
   {
    "id": 891621,
@@ -17764,11 +18970,14 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2026-11-12",
+   "cine_us": "2026-11-06",
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
    "agregada": "2026-11-17",
-   "hd_desde": null
+   "hd_desde": null,
+   "en_play": true
   },
   {
    "id": 1381071,
@@ -17784,11 +18993,14 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2026-11-03",
+   "cine_us": "2026-11-03",
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
    "agregada": "2026-11-17",
-   "hd_desde": null
+   "hd_desde": null,
+   "en_play": true
   },
   {
    "id": 1765072,
@@ -17804,12 +19016,15 @@
    "digital_us": "2026-11-24",
    "digital_proximo": "2026-11-24",
    "digital_sin_confirmar": null,
+   "cine_ar": "2026-11-26",
+   "cine_us": "2026-10-16",
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
    "agregada": "2026-11-17",
    "hd_desde": null,
-   "prioridad": true
+   "prioridad": true,
+   "en_play": false
   },
   {
    "id": 1400940,
@@ -17825,12 +19040,15 @@
    "digital_us": "2026-12-08",
    "digital_proximo": "2026-12-08",
    "digital_sin_confirmar": null,
+   "cine_ar": "2026-10-22",
+   "cine_us": "2026-10-23",
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
    "agregada": "2026-11-17",
    "hd_desde": null,
-   "prioridad": true
+   "prioridad": true,
+   "en_play": true
   },
   {
    "id": 1003596,
@@ -17846,11 +19064,14 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
+   "cine_ar": "2026-12-16",
+   "cine_us": "2026-12-18",
    "plataformas": {},
    "plataformas_us": {},
    "link": null,
    "hd_desde": null,
-   "prioridad": true
+   "prioridad": true,
+   "en_play": false
   }
  ]
 }

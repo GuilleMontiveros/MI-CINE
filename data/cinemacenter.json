@@ -1,0 +1,66 @@
+{
+ "actualizado": "2026-11-16T22:11:05.864752+00:00",
+ "peliculas": [
+  {
+   "titulo": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-NWXZF4P'); var oIF = true; '); if (!opts) opts = {t:2}; if (document.epl != undefined) { if (opts.custF) document.epl.setCustomAdShow(eID,opts.custF); document.epl.setSpace(eID, opts); } else { eplAdsArray.push(new Array(eID, opts)); } } //-->",
+   "horarios_txt": "DESDE EL 12/11/2026 AL 18/11/2026 HORARIOS Lunes 16 de Noviembre de 2026 22:10 Martes 17 de Noviembre de 2026 22:10 Miércoles 18 de Noviembre de 2026 22:00 COMPRAR ONLINE * Los horarios en color Azul corresponden a las funciones de MATINEE * Los horarios en color Rojo corresponden a las funciones de TRASNOCHE (La TRASNOCHE se proyecta pasadas las 24hs del día de función seleccionado.) IMPRIMIR CARTELERA"
+  },
+  {
+   "titulo": "MADRE SINIESTRA - 2D CAST",
+   "horarios_txt": "DESDE EL 12/11/2026 AL 18/11/2026 HORARIOS Lunes 16 de Noviembre de 2026 22:50 Martes 17 de Noviembre de 2026 22:50 Miércoles 18 de Noviembre de 2026 22:50 COMPRAR ONLINE * Los horarios en color Azul corresponden a las funciones de MATINEE * Los horarios en color Rojo corresponden a las funciones de TRASNOCHE (La TRASNOCHE se proyecta pasadas las 24hs del día de función seleccionado.) IMPRIMIR CARTELERA"
+  },
+  {
+   "titulo": "GODZILLA MINUS ZERO - 2D CAST",
+   "horarios_txt": "DESDE EL 12/11/2026 AL 18/11/2026 HORARIOS Miércoles 18 de Noviembre de 2026 18:40 COMPRAR ONLINE * Los horarios en color Azul corresponden a las funciones de MATINEE * Los horarios en color Rojo corresponden a las funciones de TRASNOCHE (La TRASNOCHE se proyecta pasadas las 24hs del día de función seleccionado.) IMPRIMIR CARTELERA"
+  },
+  {
+   "titulo": "WILDWOOD: EL BOSQUE SALVAJE - 2D CAST",
+   "horarios_txt": "DESDE EL 12/11/2026 AL 18/11/2026 HORARIOS Lunes 16 de Noviembre de 2026 17:20 20:10 Martes 17 de Noviembre de 2026 17:20 20:10 Miércoles 18 de Noviembre de 2026 17:20 20:10 COMPRAR ONLINE * Los horarios en color Azul corresponden a las funciones de MATINEE * Los horarios en color Rojo corresponden a las funciones de TRASNOCHE (La TRASNOCHE se proyecta pasadas las 24hs del día de función seleccionado.) IMPRIMIR CARTELERA"
+  },
+  {
+   "titulo": "EL GATO CON SOMBRERO - 2D CAST",
+   "horarios_txt": "DESDE EL 12/11/2026 AL 18/11/2026 HORARIOS Lunes 16 de Noviembre de 2026 18:00 19:40 Martes 17 de Noviembre de 2026 18:00 19:40 Miércoles 18 de Noviembre de 2026 18:00 19:40 COMPRAR ONLINE * Los horarios en color Azul corresponden a las funciones de MATINEE * Los horarios en color Rojo corresponden a las funciones de TRASNOCHE (La TRASNOCHE se proyecta pasadas las 24hs del día de función seleccionado.) IMPRIMIR CARTELERA"
+  },
+  {
+   "titulo": "EL GATO CON SOMBRERO - 3D CAST",
+   "horarios_txt": "DESDE EL 12/11/2026 AL 18/11/2026 HORARIOS Lunes 16 de Noviembre de 2026 17:10 Martes 17 de Noviembre de 2026 17:10 Miércoles 18 de Noviembre de 2026 17:10 COMPRAR ONLINE * Los horarios en color Azul corresponden a las funciones de MATINEE * Los horarios en color Rojo corresponden a las funciones de TRASNOCHE (La TRASNOCHE se proyecta pasadas las 24hs del día de función seleccionado.) IMPRIMIR CARTELERA"
+  },
+  {
+   "titulo": "GODZILLA MINUS ZERO - 2D CAST (SALA ATMOS)",
+   "horarios_txt": "DESDE EL 12/11/2026 AL 18/11/2026 HORARIOS Lunes 16 de Noviembre de 2026 18:40 21:40 Martes 17 de Noviembre de 2026 18:40 21:40 Miércoles 18 de Noviembre de 2026 16:10 COMPRAR ONLINE * Los horarios en color Azul corresponden a las funciones de MATINEE * Los horarios en color Rojo corresponden a las funciones de TRASNOCHE (La TRASNOCHE se proyecta pasadas las 24hs del día de función seleccionado.) IMPRIMIR CARTELERA"
+  },
+  {
+   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA - 2D CAST (SALA ATMOS)",
+   "horarios_txt": "DESDE EL 12/11/2026 AL 18/11/2026 HORARIOS Miércoles 18 de Noviembre de 2026 19:00 22:10 COMPRAR ONLINE * Los horarios en color Azul corresponden a las funciones de MATINEE * Los horarios en color Rojo corresponden a las funciones de TRASNOCHE (La TRASNOCHE se proyecta pasadas las 24hs del día de función seleccionado.) IMPRIMIR CARTELERA"
+  },
+  {
+   "titulo": "EL AGUA NUNCA DOLI - 2D CAST",
+   "horarios_txt": "DESDE EL 12/11/2026 AL 18/11/2026 HORARIOS Lunes 16 de Noviembre de 2026 21:30 Martes 17 de Noviembre de 2026 21:30 Miércoles 18 de Noviembre de 2026 21:30 COMPRAR ONLINE * Los horarios en color Azul corresponden a las funciones de MATINEE * Los horarios en color Rojo corresponden a las funciones de TRASNOCHE (La TRASNOCHE se proyecta pasadas las 24hs del día de función seleccionado.) IMPRIMIR CARTELERA"
+  },
+  {
+   "titulo": "CABALLO SALVAJE NUEVE - 2D SUB",
+   "horarios_txt": "DESDE EL 12/11/2026 AL 18/11/2026 HORARIOS Lunes 16 de Noviembre de 2026 19:50 22:20 Martes 17 de Noviembre de 2026 19:50 22:20 Miércoles 18 de Noviembre de 2026 19:50 22:20 COMPRAR ONLINE * Los horarios en color Azul corresponden a las funciones de MATINEE * Los horarios en color Rojo corresponden a las funciones de TRASNOCHE (La TRASNOCHE se proyecta pasadas las 24hs del día de función seleccionado.) IMPRIMIR CARTELERA"
+  },
+  {
+   "titulo": "COMO ROBAR UN BANCO - 2D CAST",
+   "horarios_txt": "DESDE EL 12/11/2026 AL 18/11/2026 HORARIOS Lunes 16 de Noviembre de 2026 17:40 20:20 23:00 Martes 17 de Noviembre de 2026 17:40 20:20 23:00 Miércoles 18 de Noviembre de 2026 17:40 20:20 23:00 COMPRAR ONLINE * Los horarios en color Azul corresponden a las funciones de MATINEE * Los horarios en color Rojo corresponden a las funciones de TRASNOCHE (La TRASNOCHE se proyecta pasadas las 24hs del día de función seleccionado.) IMPRIMIR CARTELERA"
+  },
+  {
+   "titulo": "ANIQUILACIN - 2D CAST",
+   "horarios_txt": "DESDE EL 12/11/2026 AL 18/11/2026 HORARIOS Lunes 16 de Noviembre de 2026 20:30 Martes 17 de Noviembre de 2026 20:30 Miércoles 18 de Noviembre de 2026 20:30 COMPRAR ONLINE * Los horarios en color Azul corresponden a las funciones de MATINEE * Los horarios en color Rojo corresponden a las funciones de TRASNOCHE (La TRASNOCHE se proyecta pasadas las 24hs del día de función seleccionado.) IMPRIMIR CARTELERA"
+  },
+  {
+   "titulo": "JU-ON: EL GRITO - 2D CAST (RE ESTRENO)",
+   "horarios_txt": "DESDE EL 12/11/2026 AL 18/11/2026 HORARIOS Lunes 16 de Noviembre de 2026 22:40 Martes 17 de Noviembre de 2026 22:40 Miércoles 18 de Noviembre de 2026 22:40 COMPRAR ONLINE * Los horarios en color Azul corresponden a las funciones de MATINEE * Los horarios en color Rojo corresponden a las funciones de TRASNOCHE (La TRASNOCHE se proyecta pasadas las 24hs del día de función seleccionado.) IMPRIMIR CARTELERA"
+  },
+  {
+   "titulo": "EBENEZER: LOS FANTASMAS DE NAVIDAD - 2D CAST",
+   "horarios_txt": "DESDE EL 12/11/2026 AL 18/11/2026 HORARIOS Lunes 16 de Noviembre de 2026 16:50 19:20 21:50 Martes 17 de Noviembre de 2026 16:50 19:20 21:50 Miércoles 18 de Noviembre de 2026 19:20 21:50 COMPRAR ONLINE * Los horarios en color Azul corresponden a las funciones de MATINEE * Los horarios en color Rojo corresponden a las funciones de TRASNOCHE (La TRASNOCHE se proyecta pasadas las 24hs del día de función seleccionado.) IMPRIMIR CARTELERA"
+  },
+  {
+   "titulo": "PLUMAS OPERACION RESCATE - 2D CAST",
+   "horarios_txt": "DESDE EL 12/11/2026 AL 18/11/2026 HORARIOS Lunes 16 de Noviembre de 2026 17:50 Martes 17 de Noviembre de 2026 17:50 Miércoles 18 de Noviembre de 2026 17:50 COMPRAR ONLINE * Los horarios en color Azul corresponden a las funciones de MATINEE * Los horarios en color Rojo corresponden a las funciones de TRASNOCHE (La TRASNOCHE se proyecta pasadas las 24hs del día de función seleccionado.) IMPRIMIR CARTELERA"
+  }
+ ],
+ "proximos": []
+}

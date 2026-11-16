@@ -1,6 +1,87 @@
 {
- "actualizado": "2026-11-16T21:58:16.197658+00:00",
+ "actualizado": "2026-11-16T22:11:05.865020+00:00",
  "series": [
+  {
+   "id": 308007,
+   "tipo": "tv",
+   "titulo": "The Altruists",
+   "fecha": "2026-11-19",
+   "poster": "/foTyGlJ1jJh8QID5KwjsMytsJTV.jpg",
+   "fondo": "/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg",
+   "puntaje": 0.0,
+   "estado": "Returning Series",
+   "proximos": [
+    {
+     "id": 6756537,
+     "fecha": "2026-11-19",
+     "t": 1,
+     "e": 1,
+     "nombre": "Episodio 1"
+    },
+    {
+     "id": 7657003,
+     "fecha": "2026-11-19",
+     "t": 1,
+     "e": 2,
+     "nombre": "Episodio 2"
+    },
+    {
+     "id": 7657004,
+     "fecha": "2026-11-19",
+     "t": 1,
+     "e": 3,
+     "nombre": "Episodio 3"
+    },
+    {
+     "id": 7657005,
+     "fecha": "2026-11-19",
+     "t": 1,
+     "e": 4,
+     "nombre": "Episodio 4"
+    },
+    {
+     "id": 7657006,
+     "fecha": "2026-11-19",
+     "t": 1,
+     "e": 5,
+     "nombre": "Episodio 5"
+    },
+    {
+     "id": 7657008,
+     "fecha": "2026-11-19",
+     "t": 1,
+     "e": 6,
+     "nombre": "Episodio 6"
+    },
+    {
+     "id": 7657010,
+     "fecha": "2026-11-19",
+     "t": 1,
+     "e": 7,
+     "nombre": "Episodio 7"
+    },
+    {
+     "id": 7657011,
+     "fecha": "2026-11-19",
+     "t": 1,
+     "e": 8,
+     "nombre": "Episodio 8"
+    }
+   ],
+   "ultimo": null,
+   "proximo": {
+    "id": 6756537,
+    "fecha": "2026-11-19",
+    "t": 1,
+    "e": 1,
+    "nombre": "Episodio 1"
+   },
+   "plataformas": {},
+   "link": null,
+   "manual": true,
+   "prioridad": true,
+   "resumen": "Próximo: T1 E1"
+  },
   {
    "id": 225171,
    "tipo": "tv",
@@ -26,7 +107,9 @@
     ]
    },
    "link": "https://www.themoviedb.org/tv/225171-pluribus/watch?locale=AR",
-   "manual": true
+   "manual": true,
+   "prioridad": false,
+   "resumen": "T1 terminada · sin anuncio de T2"
   },
   {
    "id": 37854,
@@ -56,7 +139,9 @@
     ]
    },
    "link": "https://www.themoviedb.org/tv/37854-wanpisu/watch?locale=AR",
-   "manual": true
+   "manual": true,
+   "prioridad": false,
+   "resumen": "T23 terminada · sin anuncio de T24"
   },
   {
    "id": 105248,
@@ -82,7 +167,9 @@
     ]
    },
    "link": "https://www.themoviedb.org/tv/105248-cyberpunk-edgerunners/watch?locale=AR",
-   "manual": true
+   "manual": true,
+   "prioridad": false,
+   "resumen": "T2 terminada · sin anuncio de T3"
   },
   {
    "id": 1668,
@@ -109,7 +196,9 @@
     ]
    },
    "link": "https://www.themoviedb.org/tv/1668-friends/watch?locale=AR",
-   "manual": true
+   "manual": true,
+   "prioridad": false,
+   "resumen": "Terminada"
   },
   {
    "id": 340610,
@@ -131,7 +220,9 @@
    "proximo": null,
    "plataformas": {},
    "link": null,
-   "manual": false
+   "manual": false,
+   "prioridad": false,
+   "resumen": "T4 terminada · sin anuncio de T5"
   },
   {
    "id": 42009,
@@ -157,7 +248,9 @@
     ]
    },
    "link": "https://www.themoviedb.org/tv/42009-black-mirror/watch?locale=AR",
-   "manual": false
+   "manual": false,
+   "prioridad": false,
+   "resumen": "T7 terminada · sin anuncio de T8"
   },
   {
    "id": 95557,
@@ -183,7 +276,9 @@
     ]
    },
    "link": "https://www.themoviedb.org/tv/95557-invincible/watch?locale=AR",
-   "manual": false
+   "manual": false,
+   "prioridad": false,
+   "resumen": "T4 terminada · sin anuncio de T5"
   },
   {
    "id": 94997,
@@ -210,7 +305,9 @@
     ]
    },
    "link": "https://www.themoviedb.org/tv/94997-house-of-the-dragon/watch?locale=AR",
-   "manual": false
+   "manual": false,
+   "prioridad": false,
+   "resumen": "T3 terminada · sin anuncio de T4"
   },
   {
    "id": 82452,
@@ -236,7 +333,9 @@
     ]
    },
    "link": "https://www.themoviedb.org/tv/82452-avatar-the-last-airbender/watch?locale=AR",
-   "manual": false
+   "manual": false,
+   "prioridad": false,
+   "resumen": "T2 terminada · sin anuncio de T3"
   },
   {
    "id": 250307,
@@ -262,7 +361,15 @@
     ]
    },
    "link": "https://www.themoviedb.org/tv/250307-the-pitt/watch?locale=AR",
-   "manual": false
+   "manual": false,
+   "prioridad": false,
+   "resumen": "T3: enero 2027 (sin fecha oficial)",
+   "anuncio": {
+    "temporada": 3,
+    "cuando": "enero 2027 (sin fecha oficial)",
+    "fecha": null,
+    "fuente": "TVLine / HBO Max"
+   }
   },
   {
    "id": 95479,
@@ -293,7 +400,9 @@
     ]
    },
    "link": "https://www.themoviedb.org/tv/95479-zhou-shu-hui-zhan/watch?locale=AR",
-   "manual": false
+   "manual": false,
+   "prioridad": false,
+   "resumen": "T1 terminada · sin anuncio de T2"
   },
   {
    "id": 204082,
@@ -319,7 +428,9 @@
     ]
    },
    "link": "https://www.themoviedb.org/tv/204082-squid-game-the-challenge/watch?locale=AR",
-   "manual": false
+   "manual": false,
+   "prioridad": false,
+   "resumen": "T2 terminada · sin anuncio de T3"
   },
   {
    "id": 88803,
@@ -348,7 +459,9 @@
     ]
    },
    "link": "https://www.themoviedb.org/tv/88803-vuinrando-saga/watch?locale=AR",
-   "manual": false
+   "manual": false,
+   "prioridad": false,
+   "resumen": "T2 terminada · sin anuncio de T3"
   },
   {
    "id": 114868,
@@ -374,7 +487,9 @@
     ]
    },
    "link": "https://www.themoviedb.org/tv/114868-zhong-mo-nowarukiyure/watch?locale=AR",
-   "manual": false
+   "manual": false,
+   "prioridad": false,
+   "resumen": "T3 terminada · sin anuncio de T4"
   },
   {
    "id": 95396,
@@ -401,7 +516,9 @@
     ]
    },
    "link": "https://www.themoviedb.org/tv/95396-severance/watch?locale=AR",
-   "manual": false
+   "manual": false,
+   "prioridad": false,
+   "resumen": "T2 terminada · sin anuncio de T3"
   },
   {
    "id": 209867,
@@ -430,7 +547,9 @@
     ]
    },
    "link": "https://www.themoviedb.org/tv/209867-zang-song-nofuriren/watch?locale=AR",
-   "manual": false
+   "manual": false,
+   "prioridad": false,
+   "resumen": "T1 terminada · sin anuncio de T2"
   },
   {
    "id": 100088,
@@ -457,7 +576,9 @@
     ]
    },
    "link": "https://www.themoviedb.org/tv/100088-the-last-of-us/watch?locale=AR",
-   "manual": false
+   "manual": false,
+   "prioridad": false,
+   "resumen": "T2 terminada · sin anuncio de T3"
   },
   {
    "id": 240411,
@@ -486,7 +607,9 @@
     ]
    },
    "link": "https://www.themoviedb.org/tv/240411-dandadan/watch?locale=AR",
-   "manual": false
+   "manual": false,
+   "prioridad": false,
+   "resumen": "T1 terminada · sin anuncio de T2"
   },
   {
    "id": 207250,
@@ -512,7 +635,9 @@
     ]
    },
    "link": "https://www.themoviedb.org/tv/207250-pu-no-xin-noyabaiyatsu/watch?locale=AR",
-   "manual": false
+   "manual": false,
+   "prioridad": false,
+   "resumen": "T1 terminada · sin anuncio de T2"
   },
   {
    "id": 256721,
@@ -541,7 +666,9 @@
     ]
    },
    "link": "https://www.themoviedb.org/tv/256721-gachiakuta/watch?locale=AR",
-   "manual": false
+   "manual": false,
+   "prioridad": false,
+   "resumen": "T1 terminada · sin anuncio de T2"
   },
   {
    "id": 157239,
@@ -567,7 +694,9 @@
     ]
    },
    "link": "https://www.themoviedb.org/tv/157239-alien-earth/watch?locale=AR",
-   "manual": false
+   "manual": false,
+   "prioridad": false,
+   "resumen": "T1 terminada · sin anuncio de T2"
   },
   {
    "id": 270476,
@@ -594,7 +723,9 @@
     ]
    },
    "link": "https://www.themoviedb.org/tv/270476-widow-s-bay/watch?locale=AR",
-   "manual": false
+   "manual": false,
+   "prioridad": false,
+   "resumen": "T1 terminada · sin anuncio de T2"
   },
   {
    "id": 247767,
@@ -621,7 +752,9 @@
     ]
    },
    "link": "https://www.themoviedb.org/tv/247767-the-studio/watch?locale=AR",
-   "manual": false
+   "manual": false,
+   "prioridad": false,
+   "resumen": "T1 terminada · sin anuncio de T2"
   },
   {
    "id": 95350,
@@ -647,7 +780,9 @@
     ]
    },
    "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=AR",
-   "manual": false
+   "manual": false,
+   "prioridad": false,
+   "resumen": "T1 terminada · sin anuncio de T2"
   },
   {
    "id": 301507,
@@ -673,7 +808,9 @@
     ]
    },
    "link": "https://www.themoviedb.org/tv/301507-heated-rivalry/watch?locale=AR",
-   "manual": false
+   "manual": false,
+   "prioridad": false,
+   "resumen": "T1 terminada · sin anuncio de T2"
   },
   {
    "id": 320909,
@@ -749,7 +886,9 @@
     ]
    },
    "link": "https://www.themoviedb.org/tv/320909-hotaruno-jia-ru-ri/watch?locale=AR",
-   "manual": false
+   "manual": false,
+   "prioridad": false,
+   "resumen": "Próximo: T1 E7"
   },
   {
    "id": 224372,
@@ -775,7 +914,9 @@
     ]
    },
    "link": "https://www.themoviedb.org/tv/224372-a-knight-of-the-seven-kingdoms/watch?locale=AR",
-   "manual": false
+   "manual": false,
+   "prioridad": false,
+   "resumen": "T1 terminada · sin anuncio de T2"
   }
  ],
  "prioridades": [
