@@ -43,6 +43,12 @@ def guardar(ruta, datos):
         json.dump(datos, f, ensure_ascii=False, indent=1)
 
 
+def norm(t):
+    import unicodedata
+    t = unicodedata.normalize("NFD", (t or "").lower())
+    return "".join(c for c in t if c.isalnum())
+
+
 def avisar(titulo, mensaje, click=None):
     if not TOPIC:
         return
@@ -164,6 +170,36 @@ def estado_serie(nombre, cache):
 
 def codigo(x):
     return f"T{x['t']} E{x['e']}"
+
+
+# ---------- Cartelera Play Cinema ----------
+
+def bajar(u):
+    req = urllib.request.Request(u, headers={"User-Agent": "Mozilla/5.0 (mi-cine, uso personal)"})
+    with urllib.request.urlopen(req, timeout=30) as r:
+        return r.read().decode("utf-8", "ignore")
+
+
+def cartelera_play():
+    import html as H, re
+    h = bajar("https://playcinema.net/")
+    t = re.sub(r"<script.*?</script>|<style.*?</style>", " ", h, flags=re.S)
+    t = H.unescape(re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", t)))
+    m = re.search(r"CARTELERA DEL (\d+/\d+) AL (\d+/\d+)(.*?)(?:¡Preventa|PREVENTA|Próximos estrenos|$)", t)
+    if not m:
+        return None
+    pelis = []
+    for chunk in m.group(3).split("Comprar Tráiler"):
+        x = re.match(r"\s*(.+?)\s+(G|ATP|R-\d+|SP\b.*?\)|\+\d+|\S+)\s+(\d+) min(.*)", chunk)
+        if not x:
+            continue
+        titulo, resto = x.group(1).strip(), x.group(4)
+        funciones = [{"formato": f"{a} {b.lower()}", "horas": re.findall(r"\d{1,2}:\d{2}", hs)}
+                     for a, b, hs in re.findall(r"(2D|3D|4D)\s+(cast|sub)\s+((?:\d{1,2}:\d{2}\s*)+)", resto, flags=re.I)]
+        nota = re.search(r"(Funciones? disponibles?.*?)$", resto)
+        pelis.append({"titulo": titulo.title(), "clasif": x.group(2), "minutos": int(x.group(3)),
+                      "funciones": funciones, "nota": nota.group(1).strip() if nota else None})
+    return {"desde": m.group(1), "hasta": m.group(2), "peliculas": pelis}
 
 
 # ---------- Cineclubs ----------
@@ -290,17 +326,28 @@ def main():
         except Exception as err:
             print("Error con", nombre, err)
 
-    # Cines de San Juan: por ahora guardo el HTML para armar el lector
-    os.makedirs("data/_cines", exist_ok=True)
-    for nombre, u in [("cinemacenter", "https://www.cinemacenter.com.ar/sanjuan"),
-                      ("cinemacenter_horarios", "https://www.cinemacenter.com.ar/horarios"),
-                      ("playcinema", "https://playcinema.net/")]:
-        try:
-            req = urllib.request.Request(u, headers={"User-Agent": "Mozilla/5.0 (mi-cine, uso personal)"})
-            with urllib.request.urlopen(req, timeout=30) as r:
-                open(f"data/_cines/{nombre}.html", "wb").write(r.read())
-        except Exception as err:
-            print("Cine", nombre, err)
+    # Cartelera Play Cinema (San Juan)
+    try:
+        cart = cartelera_play()
+    except Exception as err:
+        print("Play Cinema", err)
+        cart = None
+    if cart:
+        previa = {p["titulo"] for p in leer("data/cartelera.json", {"play": {"peliculas": []}})["play"]["peliculas"]}
+        mias = {norm(x["titulo"]): x for x in titulos}
+        for p in cart["peliculas"]:
+            k = f"carte|{p['titulo']}"
+            if k not in cache:
+                r = tmdb("/search/movie", query=p["titulo"], year=HOY[:4])["results"] or tmdb("/search/movie", query=p["titulo"])["results"]
+                cache[k] = {"id": r[0]["id"], "poster": r[0].get("poster_path")} if r else None
+            if cache[k]:
+                p.update(cache[k])
+            mia = mias.get(norm(p["titulo"])) or next((x for x in titulos if x["id"] == p.get("id")), None)
+            p["mia"] = bool(mia)
+            if mia and previa and p["titulo"] not in previa:
+                hs = "; ".join(f"{f['formato']} {' '.join(f['horas'])}" for f in p["funciones"])
+                avisar(f"🍿 {mia['titulo']} llegó a Play Cinema", hs or "Mirá los horarios en la app", APP)
+        guardar("data/cartelera.json", {"actualizado": datetime.now(timezone.utc).isoformat(), "play": cart})
 
     ahora = datetime.now(timezone.utc).isoformat()
     guardar("data/oscar_estado.json", {"actualizado": osc.get("actualizado"), "fuente": osc.get("_fuente"), "peliculas": oscar})
