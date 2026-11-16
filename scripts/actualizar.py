@@ -177,12 +177,16 @@ def cineclubs(enviados):
     hora_ar = AHORA_AR.hour
     for c in cfg["clubes"]:
         if c.get("fecha") and c["fecha"] < HOY:
-            c["pelicula"] = c["fecha"] = None  # función pasada: se limpia
+            c["pelicula"] = c["fecha"] = c["descripcion"] = None  # función pasada: se limpia
         clave = f"club|{c['nombre']}|{HOY}"
         if c["dia"] == hoy_dia and hora_ar >= 12 and clave not in enviados:
-            peli = c.get("pelicula") or "fijate qué pelí dan en su Instagram"
-            hora = f" a las {c['hora']}" if c.get("hora") else ""
-            avisar(f"🎟️ Hoy hay cineclub en {c['nombre']}", f"Gratis{hora}: {peli}", c.get("instagram"))
+            if c.get("pelicula") and c.get("fecha") == HOY:
+                hora = f", {c['hora']}" if c.get("hora") else ""
+                desc = f"\n{c['descripcion']}" if c.get("descripcion") else ""
+                avisar(f"🎟️ Hoy en {c['nombre']}{hora}: {c['pelicula']}", f"Gratis.{desc}", APP)
+            else:
+                hora = f" a las {c['hora']}" if c.get("hora") else ""
+                avisar(f"🎟️ Hoy hay cineclub en {c['nombre']}", f"Gratis{hora}. Todavía no sé qué película dan.", APP)
             enviados.append(clave)
     guardar("data/cineclubs.json", cfg)
 
@@ -273,7 +277,33 @@ def main():
     cineclubs(enviados)
     estado["enviados"] = enviados[-500:]
 
+    # Oscar
+    osc = leer("data/oscar.json", {"peliculas": []})
+    oscar = []
+    for i, nombre in enumerate(osc["peliculas"], 1):
+        try:
+            ref = buscar_id({"titulo": nombre, "anio": "2026"}, cache)
+            if not ref:
+                continue
+            e = next((x for x in titulos if x["id"] == ref["id"]), None) or estado_titulo(ref)
+            oscar.append({**e, "puesto": i})
+        except Exception as err:
+            print("Error con", nombre, err)
+
+    # Cines de San Juan: por ahora guardo el HTML para armar el lector
+    os.makedirs("data/_cines", exist_ok=True)
+    for nombre, u in [("cinemacenter", "https://www.cinemacenter.com.ar/sanjuan"),
+                      ("cinemacenter_horarios", "https://www.cinemacenter.com.ar/horarios"),
+                      ("playcinema", "https://playcinema.net/")]:
+        try:
+            req = urllib.request.Request(u, headers={"User-Agent": "Mozilla/5.0 (mi-cine, uso personal)"})
+            with urllib.request.urlopen(req, timeout=30) as r:
+                open(f"data/_cines/{nombre}.html", "wb").write(r.read())
+        except Exception as err:
+            print("Cine", nombre, err)
+
     ahora = datetime.now(timezone.utc).isoformat()
+    guardar("data/oscar_estado.json", {"actualizado": osc.get("actualizado"), "fuente": osc.get("_fuente"), "peliculas": oscar})
     guardar("data/estado.json", estado)
     guardar("data/series.json", {"actualizado": ahora, "series": series, "prioridades": prioridades})
     guardar("data/ids.json", cache)

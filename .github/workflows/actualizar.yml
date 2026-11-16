@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: "17 12 * * *"   # todos los días, 9:17 de Argentina
     - cron: "17 0 * * *"    # todos los días, 21:17 (capítulos nuevos)
-    - cron: "47 16 * * 2,4" # martes y jueves 13:47 (cineclubs)
+    - cron: "17 18 * * 2,4" # martes y jueves 15:17 (respaldo cineclubs)
   workflow_dispatch:         # botón "Run workflow" para correrlo a mano
   push:
     branches: [main]

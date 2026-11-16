@@ -5,17 +5,18 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Mi cine</title>
 <link rel="manifest" href="manifest.json">
-<meta name="theme-color" content="#14181c">
+<meta name="theme-color" content="#0b0a09">
+<link rel="icon" href="dino.svg">
 <style>
-  :root{--fondo:#14181c;--panel:#2c3440;--linea:#2c3440;--txt:#9ab;--claro:#def;--verde:#00e054;--naranja:#ff8000;--azul:#40bcf4}
+  :root{--fondo:#121110;--panel:#24211d;--linea:#2e2a25;--txt:#a8a196;--claro:#ece6dc;--verde:#7bd389;--naranja:#f2a541;--azul:#8ab4f8}
   *{box-sizing:border-box}
   body{margin:0;font-family:"Graphik",-apple-system,"Segoe UI",Roboto,sans-serif;background:var(--fondo);color:var(--txt)}
-  header{background:#0f1215;border-bottom:1px solid #000;position:sticky;top:0;z-index:5}
+  header{background:#0b0a09;border-bottom:1px solid #000;position:sticky;top:0;z-index:5}
   .barra{max-width:1100px;margin:auto;display:flex;align-items:center;gap:14px;padding:12px 16px}
   .logo{display:flex;align-items:center;gap:6px;color:#fff;font-weight:700;font-size:20px;letter-spacing:-.5px;white-space:nowrap}
-  .dots{display:flex;gap:3px}.dots i{width:12px;height:12px;border-radius:50%;display:block;opacity:.9}
+  .logo img{width:34px;height:34px}
   .buscar{flex:1;position:relative;max-width:420px;margin-left:auto}
-  .buscar input{width:100%;background:#2c3440;border:0;border-radius:15px;padding:8px 14px;color:#fff;font-size:14px}
+  .buscar input{width:100%;background:#24211d;border:0;border-radius:15px;padding:8px 14px;color:#fff;font-size:14px}
   .buscar input:focus{outline:none;background:#fff;color:#000}
   main{max-width:1100px;margin:auto;padding:4px 16px 40px}
   section{margin:28px 0}
@@ -27,10 +28,10 @@
   .fila::-webkit-scrollbar{height:5px}.fila::-webkit-scrollbar-thumb{background:#456;border-radius:3px}
   .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(118px,1fr));gap:12px}
   .c{flex:0 0 130px;scroll-snap-align:start;color:inherit;text-decoration:none;display:block}
-  .p{position:relative;border-radius:4px;overflow:hidden;box-shadow:inset 0 0 0 1px rgba(221,238,255,.25);aspect-ratio:2/3;background:#202830}
+  .p{position:relative;border-radius:4px;overflow:hidden;box-shadow:inset 0 0 0 1px rgba(236,230,220,.18);aspect-ratio:2/3;background:#201d1a}
   .p img{width:100%;height:100%;object-fit:cover;display:block}
   .p .sin{height:100%;display:flex;align-items:center;justify-content:center;text-align:center;padding:8px;font-size:13px;color:var(--claro)}
-  .c:hover .p{box-shadow:inset 0 0 0 3px var(--verde)}
+  .c:hover .p{box-shadow:inset 0 0 0 3px var(--naranja)}
   .tag{position:absolute;left:6px;bottom:6px;font-size:10px;font-weight:700;padding:2px 6px;border-radius:3px;color:#000;letter-spacing:.04em}
   .t-hd{background:var(--verde)}.t-prox{background:var(--azul)}.t-no{background:#678;color:#fff}.t-ep{background:var(--naranja)}
   .n{font-size:13px;color:var(--claro);margin-top:6px;line-height:1.25}
@@ -44,7 +45,7 @@
   .club b{display:block;font-size:15px;color:#fff;margin-bottom:4px}
   .club span{font-size:12px}
   .hero{position:relative;height:360px;margin:0 -16px;background:#0f1215 center 20%/cover no-repeat;transition:background-image .6s}
-  .hero::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,#14181c 0%,rgba(20,24,28,.15) 18%,rgba(20,24,28,.15) 82%,#14181c 100%),linear-gradient(0deg,#14181c 0%,rgba(20,24,28,0) 55%)}
+  .hero::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,#121110 0%,rgba(18,17,16,.15) 18%,rgba(18,17,16,.15) 82%,#121110 100%),linear-gradient(0deg,#121110 0%,rgba(18,17,16,0) 55%)}
   .hero .txt{position:absolute;left:16px;bottom:18px;z-index:1;max-width:640px}
   .hero .txt small{color:var(--verde);font-size:11px;letter-spacing:.12em;text-transform:uppercase}
   .hero .txt h1{margin:4px 0;color:#fff;font-size:34px;line-height:1.05;text-shadow:0 2px 12px #000}
@@ -54,8 +55,9 @@
   .dia .f{flex:0 0 74px;text-align:center;color:#fff}
   .dia .f b{display:block;font-size:24px;line-height:1}.dia .f span{font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--txt)}
   .dia .f.hoy b{color:var(--naranja)}
+  .num{position:absolute;top:0;left:0;background:rgba(0,0,0,.75);color:var(--naranja);font-weight:700;font-size:13px;padding:3px 7px;border-bottom-right-radius:4px}
   .eps{display:flex;gap:10px;flex-wrap:wrap;flex:1}
-  .ep{display:flex;gap:10px;align-items:center;background:#1c2228;border-radius:4px;padding:6px 10px 6px 6px;color:var(--claro);text-decoration:none;min-width:220px}
+  .ep{display:flex;gap:10px;align-items:center;background:#1d1b18;border-radius:4px;padding:6px 10px 6px 6px;color:var(--claro);text-decoration:none;min-width:220px}
   .ep img{width:36px;height:54px;object-fit:cover;border-radius:3px}
   .ep b{color:#fff;font-size:13px;display:block}.ep span{font-size:11px}
   @media(max-width:600px){.hero{height:240px}.hero .txt h1{font-size:24px}}
@@ -65,7 +67,7 @@
 </head>
 <body>
 <header><div class="barra">
-  <div class="logo"><div class="dots"><i style="background:var(--naranja)"></i><i style="background:var(--verde)"></i><i style="background:var(--azul)"></i></div><span>Mi cine</span></div>
+  <div class="logo"><img src="dino.svg" alt=""><span>Mi cine</span></div>
   <div class="buscar"><input id="q" type="search" placeholder="Buscar película o serie…"></div>
 </div></header>
 
@@ -77,12 +79,14 @@
 
   <div id="inicio">
     <div class="hero" id="hero"><div class="txt"><small id="hsub"></small><h1 id="htit"></h1><p id="hdesc"></p></div></div>
-    <section><div class="tit"><h2>Próximamente</h2><small>capítulos de tus series · 90 días</small></div><div class="cal" id="cal"></div></section>
+    <section><div class="tit"><h2>Próximamente</h2><small>capítulos de tus series · esta semana</small></div><div class="cal" id="cal"></div></section>
     <section><div class="tit"><h2>Cineclubs gratis</h2><small>San Juan</small></div><div class="club" id="clubs"></div></section>
     <section><div class="tit"><h2>Mis series</h2><small>próximo capítulo</small></div><div class="fila" id="series"></div></section>
     <section><div class="tit"><h2>Mis prioridades</h2></div><div class="fila" id="prio"></div></section>
     <section><div class="tit"><h2>Ya en HD</h2><small>watchlist 2025–2026</small></div><div class="fila" id="hd"></div></section>
     <section><div class="tit"><h2>Llegan a digital</h2><small>fecha confirmada</small></div><div class="fila" id="prox"></div></section>
+    <section><div class="tit"><h2>Favoritas al Oscar</h2><small id="oscfuente"></small></div><div class="fila" id="oscar"></div></section>
+    <section><div class="tit"><h2>Cartelera San Juan</h2><small>Play Cinema · Cinemacenter</small></div><p class="vacio">En construcción: los horarios de los cines de San Juan llegan en la próxima versión.</p></section>
     <section><div class="tit"><h2>Tendencias</h2>
       <div class="pest" id="ptend">
         <button data-k="pelis_semana" class="on">Pelis semana</button><button data-k="pelis_hoy">Pelis hoy</button>
@@ -153,13 +157,15 @@ $('q').oninput=()=>{
 };
 
 const j=u=>fetch(u,{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null);
-Promise.all([j('data/tendencias.json'),j('data/esperadas.json'),j('data/series.json'),j('data/cineclubs.json')])
-.then(([t,e,s,c])=>{
+Promise.all([j('data/tendencias.json'),j('data/esperadas.json'),j('data/series.json'),j('data/cineclubs.json'),j('data/oscar_estado.json')])
+.then(([t,e,s,c,o])=>{
+  if(o){$('oscfuente').textContent='Mejor Película · Awards Radar '+fmt(o.actualizado);
+    pon('oscar',o.peliculas,x=>cPeli(x).replace('<div class="p">',`<div class="p"><span class="num">${x.puesto}</span>`),'')}
   T=t||{};WL=(e&&e.titulos)||[];SE=(s&&s.series)||[];
   if(t)$('act').textContent='Actualizado '+new Date(t.actualizado).toLocaleString('es-AR',{hour12:false,dateStyle:'short',timeStyle:'short'});
   // cineclubs
-  $('clubs').innerHTML=((c&&c.clubes)||[]).map(k=>`<a href="${k.instagram}" target="_blank"><b>${esc(k.nombre)}</b>
-    <span>Todos los ${k.dia}${k.hora?' · '+k.hora:''} · gratis<br>${k.pelicula?'🎬 '+esc(k.pelicula):'Película de la semana: en su Instagram'}</span></a>`).join('');
+  $('clubs').innerHTML=((c&&c.clubes)||[]).map(k=>`<a><b>${esc(k.nombre)}</b>
+    <span>Todos los ${k.dia}${k.hora?' · '+k.hora:''} · gratis<br>${k.pelicula?'🎬 '+esc(k.pelicula)+(k.descripcion?'<br>'+esc(k.descripcion):''):'Película: se carga el día de la función'}</span></a>`).join('');
   // series: primero las que tienen capítulo próximo
   SE.sort((a,b)=>((a.proximo||{}).fecha||'9999').localeCompare((b.proximo||{}).fecha||'9999'));
   pon('series',SE,cSerie,'Sumá series en data/seguir.json.');
@@ -173,12 +179,15 @@ Promise.all([j('data/tendencias.json'),j('data/esperadas.json'),j('data/series.j
   const IMGW='https://image.tmdb.org/t/p/w1280';
   const evs=[];SE.forEach(x=>(x.proximos&&x.proximos.length?x.proximos:(x.proximo?[x.proximo]:[])).forEach(e=>e&&e.fecha&&evs.push({s:x,e})));
   evs.sort((a,b)=>a.e.fecha.localeCompare(b.e.fecha));
-  const dias={};evs.forEach(v=>(dias[v.e.fecha]=dias[v.e.fecha]||[]).push(v));
+  const fin=new Date(Date.now()-3*3600e3+7*864e5).toISOString().slice(0,10);
+  const semana=evs.filter(v=>v.e.fecha>=hoy&&v.e.fecha<=fin);
+  const sig=evs.find(v=>v.e.fecha>fin);
+  const dias={};semana.forEach(v=>(dias[v.e.fecha]=dias[v.e.fecha]||[]).push(v));
   $('cal').innerHTML=Object.keys(dias).length?Object.entries(dias).map(([f,l])=>{const d=new Date(f+'T12:00');
     return `<div class="dia"><div class="f ${f===hoy?'hoy':''}"><b>${d.getDate()}</b><span>${f===hoy?'hoy':d.toLocaleDateString('es-AR',{weekday:'short',month:'short'})}</span></div><div class="eps">${
     l.map(v=>`<a class="ep" href="${url(v.s)}" target="_blank">${v.s.poster?`<img src="${IMG+v.s.poster}" alt="">`:''}<div><b>${esc(v.s.titulo)}</b><span>T${v.e.t} E${v.e.e}${v.e.nombre&&!/^Episodio \d+$/.test(v.e.nombre)?' · '+esc(v.e.nombre):''}</span></div></a>`).join('')}</div></div>`}).join('')
-    :'<p class="vacio">Ninguna de tus series tiene capítulos con fecha en los próximos 90 días.</p>';
-  const heroes=[...evs.map(v=>({x:v.s,sub:v.e.fecha===hoy?'Hoy sale capítulo nuevo':'Próximo capítulo · '+fmt(v.e.fecha),d:`Temporada ${v.e.t} · Episodio ${v.e.e}`})),
+    :`<p class="vacio">Nada esta semana.${sig?` Lo próximo: ${esc(sig.s.titulo)} T${sig.e.t} E${sig.e.e}, ${fmt(sig.e.fecha)}.`:''}</p>`;
+  const heroes=[...semana.slice(0,4).map(v=>({x:v.s,sub:v.e.fecha===hoy?'Hoy sale capítulo nuevo':'Próximo capítulo · '+fmt(v.e.fecha),d:`Temporada ${v.e.t} · Episodio ${v.e.e}`})),
     ...WL.filter(x=>x.hd&&x.fondo).slice(0,3).map(x=>({x,sub:'Ya en HD',d:plats(x)||x.motivo||''})),
     ...(T.series_semana||[]).slice(0,3).map(x=>({x,sub:'Serie en tendencia',d:''}))].filter(h=>h.x.fondo);
   const vistosH=new Set(),H=heroes.filter(h=>!vistosH.has(h.x.id)&&vistosH.add(h.x.id));

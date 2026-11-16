@@ -1,1 +1,1 @@
-{"name":"Mi cine","short_name":"Mi cine","start_url":".","display":"standalone","background_color":"#111111","theme_color":"#111111","icons":[]}
+{"name": "Mi cine", "short_name": "Mi cine", "start_url": ".", "display": "standalone", "background_color": "#121110", "theme_color": "#0b0a09", "icons": [{"src": "dino.svg", "sizes": "any", "type": "image/svg+xml"}]}
