@@ -15,7 +15,9 @@
    "digital_ar": null,
    "digital_us": "2026-11-17",
    "digital_proximo": "2026-11-17",
+   "digital_sin_confirmar": null,
    "plataformas": {},
+   "plataformas_us": {},
    "link": null,
    "puesto": 1
   },
@@ -32,7 +34,9 @@
    "digital_ar": null,
    "digital_us": "2026-11-24",
    "digital_proximo": "2026-11-24",
+   "digital_sin_confirmar": null,
    "plataformas": {},
+   "plataformas_us": {},
    "link": null,
    "agregada": "2026-11-17",
    "hd_desde": null,
@@ -52,7 +56,9 @@
    "digital_ar": null,
    "digital_us": "2026-12-02",
    "digital_proximo": "2026-12-02",
+   "digital_sin_confirmar": null,
    "plataformas": {},
+   "plataformas_us": {},
    "link": null,
    "puesto": 3
   },
@@ -69,7 +75,9 @@
    "digital_ar": null,
    "digital_us": null,
    "digital_proximo": null,
+   "digital_sin_confirmar": null,
    "plataformas": {},
+   "plataformas_us": {},
    "link": null,
    "agregada": "2026-11-17",
    "hd_desde": null,
@@ -88,6 +96,7 @@
    "digital_ar": "2026-07-03",
    "digital_us": "2026-05-12",
    "digital_proximo": null,
+   "digital_sin_confirmar": null,
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video",
@@ -99,6 +108,31 @@
     ],
     "buy": [
      "Apple TV Store"
+    ]
+   },
+   "plataformas_us": {
+    "flatrate": [
+     "Amazon Prime Video",
+     "fuboTV",
+     "MGM+ Amazon Channel",
+     "Philo",
+     "MGM Plus Roku Premium Channel",
+     "MGM Plus",
+     "Amazon Prime Video with Ads"
+    ],
+    "rent": [
+     "Amazon Video",
+     "Apple TV Store",
+     "Google Play Movies",
+     "YouTube",
+     "Fandango At Home",
+     "Plex"
+    ],
+    "buy": [
+     "Amazon Video",
+     "Apple TV Store",
+     "Google Play Movies",
+     "YouTube"
     ]
    },
    "link": "https://www.themoviedb.org/movie/687163-project-hail-mary/watch?locale=AR",
@@ -117,6 +151,7 @@
    "digital_ar": null,
    "digital_us": "2026-08-11",
    "digital_proximo": null,
+   "digital_sin_confirmar": null,
    "plataformas": {
     "rent": [
      "Apple TV Store",
@@ -125,6 +160,24 @@
     "buy": [
      "Apple TV Store",
      "Amazon Video"
+    ]
+   },
+   "plataformas_us": {
+    "flatrate": [
+     "HBO Max Amazon Channel",
+     "HBO Max"
+    ],
+    "rent": [
+     "Amazon Video",
+     "Apple TV Store",
+     "Fandango At Home",
+     "FlixFling",
+     "Plex"
+    ],
+    "buy": [
+     "Amazon Video",
+     "Apple TV Store",
+     "Fandango At Home"
     ]
    },
    "link": "https://www.themoviedb.org/movie/950028-the-invite/watch?locale=AR",
@@ -143,7 +196,9 @@
    "digital_ar": null,
    "digital_us": null,
    "digital_proximo": null,
+   "digital_sin_confirmar": null,
    "plataformas": {},
+   "plataformas_us": {},
    "link": null,
    "puesto": 7
   },
@@ -160,7 +215,9 @@
    "digital_ar": null,
    "digital_us": null,
    "digital_proximo": null,
+   "digital_sin_confirmar": null,
    "plataformas": {},
+   "plataformas_us": {},
    "link": null,
    "agregada": "2026-07-23",
    "hd_desde": null,
@@ -180,7 +237,9 @@
    "digital_ar": null,
    "digital_us": null,
    "digital_proximo": null,
+   "digital_sin_confirmar": null,
    "plataformas": {},
+   "plataformas_us": {},
    "link": null,
    "puesto": 9
   },
@@ -197,7 +256,9 @@
    "digital_ar": null,
    "digital_us": null,
    "digital_proximo": null,
+   "digital_sin_confirmar": null,
    "plataformas": {},
+   "plataformas_us": {},
    "link": null,
    "puesto": 10
   },
@@ -214,7 +275,9 @@
    "digital_ar": null,
    "digital_us": null,
    "digital_proximo": null,
+   "digital_sin_confirmar": null,
    "plataformas": {},
+   "plataformas_us": {},
    "link": null,
    "puesto": 11
   },
@@ -231,7 +294,9 @@
    "digital_ar": null,
    "digital_us": null,
    "digital_proximo": null,
+   "digital_sin_confirmar": null,
    "plataformas": {},
+   "plataformas_us": {},
    "link": null,
    "puesto": 12
   },
@@ -248,7 +313,9 @@
    "digital_ar": null,
    "digital_us": null,
    "digital_proximo": null,
+   "digital_sin_confirmar": null,
    "plataformas": {},
+   "plataformas_us": {},
    "link": null,
    "puesto": 13
   },
@@ -265,7 +332,9 @@
    "digital_ar": null,
    "digital_us": "2026-11-24",
    "digital_proximo": "2026-11-24",
+   "digital_sin_confirmar": null,
    "plataformas": {},
+   "plataformas_us": {},
    "link": null,
    "puesto": 14
   },
@@ -277,12 +346,18 @@
    "poster": "/p6oLmq5KmuWY6uRXBQBL2q30jia.jpg",
    "fondo": "/6S41dEoKH2cxw20QgLxhnsQoLQF.jpg",
    "puntaje": 6.0,
-   "hd": false,
-   "motivo": null,
+   "hd": true,
+   "motivo": "En digital en EE.UU. (Fandango At Home)",
    "digital_ar": null,
    "digital_us": null,
    "digital_proximo": null,
+   "digital_sin_confirmar": null,
    "plataformas": {},
+   "plataformas_us": {
+    "buy": [
+     "Fandango At Home"
+    ]
+   },
    "link": null,
    "puesto": 15
   }

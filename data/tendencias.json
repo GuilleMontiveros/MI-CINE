@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16T21:39:05.277294+00:00",
+ "actualizado": "2026-11-16T21:55:46.440895+00:00",
  "pelis_hoy": [
   {
    "id": 1368337,
@@ -17,16 +17,7 @@
    "fecha": "2026-11-18",
    "poster": "/nijGyrqQbDhSGss4uugQokvBAsG.jpg",
    "fondo": "/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
-   "puntaje": 9.5
-  },
-  {
-   "id": 1185344,
-   "tipo": "movie",
-   "titulo": "The Beast",
-   "fecha": "2026-10-08",
-   "poster": "/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
-   "fondo": "/v5Wb9NoE0s1mGmC5wVeQR1OK22V.jpg",
-   "puntaje": 5.3
+   "puntaje": 9.3
   },
   {
    "id": 1003596,
@@ -38,21 +29,21 @@
    "puntaje": 0.0
   },
   {
+   "id": 1185344,
+   "tipo": "movie",
+   "titulo": "The Beast",
+   "fecha": "2026-10-08",
+   "poster": "/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
+   "fondo": "/v5Wb9NoE0s1mGmC5wVeQR1OK22V.jpg",
+   "puntaje": 5.3
+  },
+  {
    "id": 1567605,
    "tipo": "movie",
    "titulo": "Scrooge y los fantasmas de la Navidad",
    "fecha": "2026-11-11",
    "poster": "/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
    "fondo": "/fdOVxyNNL95SuI8BGaN6vudEuYX.jpg",
-   "puntaje": 7.7
-  },
-  {
-   "id": 1381071,
-   "tipo": "movie",
-   "titulo": "Godzilla Minus Zero",
-   "fecha": "2026-11-03",
-   "poster": "/2B7ZSUutCgwUAE5U0X7WlD8yiun.jpg",
-   "fondo": "/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
    "puntaje": 7.7
   },
   {
@@ -63,6 +54,15 @@
    "poster": "/USCOKXrHBCeeK96qXmS0NyDHYL.jpg",
    "fondo": "/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
    "puntaje": 6.3
+  },
+  {
+   "id": 1381071,
+   "tipo": "movie",
+   "titulo": "Godzilla Minus Zero",
+   "fecha": "2026-11-03",
+   "poster": "/2B7ZSUutCgwUAE5U0X7WlD8yiun.jpg",
+   "fondo": "/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+   "puntaje": 7.7
   },
   {
    "id": 1423191,
@@ -101,15 +101,6 @@
    "puntaje": 6.6
   },
   {
-   "id": 1170608,
-   "tipo": "movie",
-   "titulo": "Dune: Parte tres",
-   "fecha": "2026-12-15",
-   "poster": "/uj4EuGmFNAc4CHBVEtRZ04MXzka.jpg",
-   "fondo": "/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
-   "puntaje": 0.0
-  },
-  {
    "id": 1518204,
    "tipo": "movie",
    "titulo": "Allen",
@@ -117,6 +108,15 @@
    "poster": "/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
    "fondo": "/51fGmBW7WjyJouP9TjIcxRpCUNk.jpg",
    "puntaje": 6.8
+  },
+  {
+   "id": 1170608,
+   "tipo": "movie",
+   "titulo": "Dune: Parte tres",
+   "fecha": "2026-12-15",
+   "poster": "/uj4EuGmFNAc4CHBVEtRZ04MXzka.jpg",
+   "fondo": "/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
+   "puntaje": 0.0
   },
   {
    "id": 1616687,
@@ -137,13 +137,13 @@
    "puntaje": 6.8
   },
   {
-   "id": 656908,
+   "id": 1286656,
    "tipo": "movie",
-   "titulo": "Ramayana: El Nacimiento de una Leyenda",
-   "fecha": "2026-11-05",
-   "poster": "/nzL1ySE6vdmR6RxXhE7gLggkp41.jpg",
-   "fondo": "/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
-   "puntaje": 7.5
+   "titulo": "Yo soy Rocky",
+   "fecha": "2026-11-06",
+   "poster": "/6ItqVHcsb2swkE7ajS6EVCH2mpd.jpg",
+   "fondo": "/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
+   "puntaje": 8.5
   },
   {
    "id": 1101412,
@@ -155,22 +155,22 @@
    "puntaje": 7.2
   },
   {
-   "id": 1286656,
+   "id": 656908,
    "tipo": "movie",
-   "titulo": "Yo soy Rocky",
-   "fecha": "2026-11-06",
-   "poster": "/6ItqVHcsb2swkE7ajS6EVCH2mpd.jpg",
-   "fondo": "/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
-   "puntaje": 8.5
+   "titulo": "Ramayana: El Nacimiento de una Leyenda",
+   "fecha": "2026-11-05",
+   "poster": "/nzL1ySE6vdmR6RxXhE7gLggkp41.jpg",
+   "fondo": "/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
+   "puntaje": 7.5
   },
   {
-   "id": 1153576,
+   "id": 1538497,
    "tipo": "movie",
-   "titulo": "Street Fighter",
-   "fecha": "2026-10-13",
-   "poster": "/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
-   "fondo": "/3BBjkQmdGacKYZtpmK2vIfuDmON.jpg",
-   "puntaje": 6.3
+   "titulo": "Hechizo: Bienvenidos a Hexe",
+   "fecha": "2026-11-25",
+   "poster": "/zPaypaMulDEVhuTCN1hPN1Hg4DI.jpg",
+   "fondo": "/wZ9Me7OndzgBOEAa8nSBNPu3Sl4.jpg",
+   "puntaje": 0.0
   }
  ],
  "pelis_semana": [
@@ -390,16 +390,7 @@
    "fecha": "2026-11-12",
    "poster": "/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
    "fondo": "/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg",
-   "puntaje": 7.7
-  },
-  {
-   "id": 247718,
-   "tipo": "tv",
-   "titulo": "Tierra de mafiosos",
-   "fecha": "2025-03-30",
-   "poster": "/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-   "fondo": "/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-   "puntaje": 8.7
+   "puntaje": 7.5
   },
   {
    "id": 254630,
@@ -411,6 +402,15 @@
    "puntaje": 6.2
   },
   {
+   "id": 247718,
+   "tipo": "tv",
+   "titulo": "Tierra de mafiosos",
+   "fecha": "2025-03-30",
+   "poster": "/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+   "fondo": "/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+   "puntaje": 8.7
+  },
+  {
    "id": 293610,
    "tipo": "tv",
    "titulo": "Doctora X",
@@ -420,13 +420,13 @@
    "puntaje": 8.6
   },
   {
-   "id": 333101,
+   "id": 226102,
    "tipo": "tv",
-   "titulo": "La isla del tesoro",
-   "fecha": "2026-10-11",
-   "poster": "/rnTcsrrDckwC2QmEQ1M7YfJDMN7.jpg",
-   "fondo": "/grC6bTUTeVvjZ2orztjItUxM4yy.jpg",
-   "puntaje": 6.6
+   "titulo": "크래시",
+   "fecha": "2024-05-13",
+   "poster": "/mlm7ZnMZxyexylGeAD48QgjEeAg.jpg",
+   "fondo": "/4wZZ8CGEsjXaKt5TosiFqbaPymD.jpg",
+   "puntaje": 8.6
   },
   {
    "id": 290856,
@@ -443,8 +443,26 @@
    "titulo": "Dexter: Resurrección",
    "fecha": "2025-07-13",
    "poster": "/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
-   "fondo": "/jgfmzwfmMh4DTqITVSdtxBKfFE5.jpg",
+   "fondo": "/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
    "puntaje": 8.5
+  },
+  {
+   "id": 249565,
+   "tipo": "tv",
+   "titulo": "The Good Daughter",
+   "fecha": "2026-11-12",
+   "poster": "/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg",
+   "fondo": "/nDU6mUk4wVU1EkDkDvcLvT2UWdy.jpg",
+   "puntaje": 8.0
+  },
+  {
+   "id": 333101,
+   "tipo": "tv",
+   "titulo": "La isla del tesoro",
+   "fecha": "2026-10-11",
+   "poster": "/rnTcsrrDckwC2QmEQ1M7YfJDMN7.jpg",
+   "fondo": "/grC6bTUTeVvjZ2orztjItUxM4yy.jpg",
+   "puntaje": 6.6
   },
   {
    "id": 301354,
@@ -474,24 +492,6 @@
    "puntaje": 8.1
   },
   {
-   "id": 226102,
-   "tipo": "tv",
-   "titulo": "크래시",
-   "fecha": "2024-05-13",
-   "poster": "/mlm7ZnMZxyexylGeAD48QgjEeAg.jpg",
-   "fondo": "/4wZZ8CGEsjXaKt5TosiFqbaPymD.jpg",
-   "puntaje": 8.6
-  },
-  {
-   "id": 249565,
-   "tipo": "tv",
-   "titulo": "The Good Daughter",
-   "fecha": "2026-11-12",
-   "poster": "/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg",
-   "fondo": "/nDU6mUk4wVU1EkDkDvcLvT2UWdy.jpg",
-   "puntaje": 8.0
-  },
-  {
    "id": 312359,
    "tipo": "tv",
    "titulo": "Dragon Ball Super: Beerus",
@@ -499,6 +499,15 @@
    "poster": "/sGuCmIy8kEmx3FWZyMj654rF6g8.jpg",
    "fondo": "/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
    "puntaje": 9.6
+  },
+  {
+   "id": 224377,
+   "tipo": "tv",
+   "titulo": "Harry Potter",
+   "fecha": "2026-12-25",
+   "poster": "/a2GxWR4986mkv2xBsl4xrf85eHj.jpg",
+   "fondo": "/4737GKC5SaD0L7hbjxBG1DF7c4R.jpg",
+   "puntaje": 0.0
   },
   {
    "id": 303745,
@@ -510,22 +519,13 @@
    "puntaje": 9.1
   },
   {
-   "id": 37854,
+   "id": 303182,
    "tipo": "tv",
-   "titulo": "One Piece",
-   "fecha": "1999-10-20",
-   "poster": "/revXibqFO4JrwmLe34MKth1GVrd.jpg",
-   "fondo": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-   "puntaje": 8.8
-  },
-  {
-   "id": 279155,
-   "tipo": "tv",
-   "titulo": "La Tormenta Silenciosa",
-   "fecha": "2026-11-05",
-   "poster": "/hJxVcstYVkxKCjMLThGGi7SOJTT.jpg",
-   "fondo": "/m5tiVhzIFIqDyIPwOsHDsMDGMsK.jpg",
-   "puntaje": 9.0
+   "titulo": "El crimen de Pazos",
+   "fecha": "2026-11-13",
+   "poster": "/pk7ewQL2vAxtit0YmDEURmAInS9.jpg",
+   "fondo": "/jM5dhDrpRiVxuzcvAEeHhcAKt50.jpg",
+   "puntaje": 6.9
   }
  ],
  "series_semana": [

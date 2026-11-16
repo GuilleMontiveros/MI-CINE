@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16T21:39:05.276909+00:00",
+ "actualizado": "2026-11-16T21:55:46.440434+00:00",
  "play": {
   "desde": "12/11",
   "hasta": "18/11",
@@ -17,6 +17,7 @@
      }
     ],
     "nota": null,
+    "img_cine": null,
     "id": 1437511,
     "poster": "/xS35fgWgRdF2em5MGxg5WG9dPKd.jpg",
     "mia": false
@@ -34,6 +35,7 @@
      }
     ],
     "nota": null,
+    "img_cine": null,
     "id": 891621,
     "poster": "/bLDrHn76oiNYiELv1qw3Tfdkqc8.jpg",
     "mia": true
@@ -51,6 +53,7 @@
      }
     ],
     "nota": null,
+    "img_cine": null,
     "id": 1284046,
     "poster": "/bKq74yT1Gca4JCd7E6IAHPLWBg0.jpg",
     "mia": false
@@ -70,6 +73,7 @@
      }
     ],
     "nota": null,
+    "img_cine": null,
     "id": 1280405,
     "poster": "/12N7a0AqUK8tDYo8RgBXIZQ7kgJ.jpg",
     "mia": false
@@ -95,6 +99,7 @@
      }
     ],
     "nota": null,
+    "img_cine": null,
     "id": 1567605,
     "poster": "/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
     "mia": false
@@ -118,6 +123,7 @@
      }
     ],
     "nota": "Funciones disponibles únicamente miércoles 18/11",
+    "img_cine": null,
     "mia": false
    },
    {
@@ -133,6 +139,7 @@
      }
     ],
     "nota": null,
+    "img_cine": null,
     "id": 1284186,
     "poster": "/fRjUuePNJFW2BcL5bXAe5xytGr9.jpg",
     "mia": false
@@ -151,6 +158,7 @@
      }
     ],
     "nota": null,
+    "img_cine": null,
     "id": 1381071,
     "poster": "/2B7ZSUutCgwUAE5U0X7WlD8yiun.jpg",
     "mia": true
@@ -175,6 +183,7 @@
      }
     ],
     "nota": null,
+    "img_cine": null,
     "id": 1117898,
     "poster": "/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
     "mia": false
@@ -193,6 +202,7 @@
      }
     ],
     "nota": null,
+    "img_cine": null,
     "id": 791523,
     "poster": "/sJ1uZ4DKsjs2iqLtCX46TifxqoE.jpg",
     "mia": true
@@ -210,6 +220,7 @@
      }
     ],
     "nota": null,
+    "img_cine": null,
     "id": 1400940,
     "poster": "/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
     "mia": true
@@ -227,6 +238,7 @@
      }
     ],
     "nota": null,
+    "img_cine": null,
     "id": 1572116,
     "poster": "/mL3UwoaSdzBrXeCsIRnk4f49ibO.jpg",
     "mia": false
@@ -244,6 +256,7 @@
      }
     ],
     "nota": null,
+    "img_cine": null,
     "id": 1400837,
     "poster": "/USCOKXrHBCeeK96qXmS0NyDHYL.jpg",
     "mia": false

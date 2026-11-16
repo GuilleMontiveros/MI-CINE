@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16T21:39:05.277294+00:00",
+ "actualizado": "2026-11-16T21:55:46.440895+00:00",
  "series": [
   {
    "id": 225171,
@@ -25,7 +25,8 @@
      "Apple TV Amazon Channel"
     ]
    },
-   "link": "https://www.themoviedb.org/tv/225171-pluribus/watch?locale=AR"
+   "link": "https://www.themoviedb.org/tv/225171-pluribus/watch?locale=AR",
+   "manual": true
   },
   {
    "id": 37854,
@@ -54,119 +55,8 @@
      "Crunchyroll Amazon Channel"
     ]
    },
-   "link": "https://www.themoviedb.org/tv/37854-wanpisu/watch?locale=AR"
-  },
-  {
-   "id": 73223,
-   "tipo": "tv",
-   "titulo": "Black Clover",
-   "fecha": "2017-10-03",
-   "poster": "/zObHoFAX6P7DirR2dybN3cVC1Ms.jpg",
-   "fondo": "/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
-   "puntaje": 8.5,
-   "estado": "Returning Series",
-   "proximos": [
-    {
-     "id": 7903820,
-     "fecha": "2026-11-21",
-     "t": 2,
-     "e": 8,
-     "nombre": "Episodio 8"
-    },
-    {
-     "id": 7903821,
-     "fecha": "2026-11-28",
-     "t": 2,
-     "e": 9,
-     "nombre": "Episodio 9"
-    },
-    {
-     "id": 7903822,
-     "fecha": "2026-12-05",
-     "t": 2,
-     "e": 10,
-     "nombre": "Episodio 10"
-    },
-    {
-     "id": 7903823,
-     "fecha": "2026-12-12",
-     "t": 2,
-     "e": 11,
-     "nombre": "Episodio 11"
-    },
-    {
-     "id": 7903824,
-     "fecha": "2026-12-19",
-     "t": 2,
-     "e": 12,
-     "nombre": "Episodio 12"
-    },
-    {
-     "id": 7903825,
-     "fecha": "2026-12-26",
-     "t": 2,
-     "e": 13,
-     "nombre": "Episodio 13"
-    },
-    {
-     "id": 7903826,
-     "fecha": "2027-01-02",
-     "t": 2,
-     "e": 14,
-     "nombre": "Episodio 14"
-    },
-    {
-     "id": 7903827,
-     "fecha": "2027-01-09",
-     "t": 2,
-     "e": 15,
-     "nombre": "Episodio 15"
-    },
-    {
-     "id": 7903828,
-     "fecha": "2027-01-16",
-     "t": 2,
-     "e": 16,
-     "nombre": "Episodio 16"
-    },
-    {
-     "id": 7903829,
-     "fecha": "2027-01-23",
-     "t": 2,
-     "e": 17,
-     "nombre": "Episodio 17"
-    },
-    {
-     "id": 7903830,
-     "fecha": "2027-01-30",
-     "t": 2,
-     "e": 18,
-     "nombre": "Episodio 18"
-    },
-    {
-     "id": 7903831,
-     "fecha": "2027-02-06",
-     "t": 2,
-     "e": 19,
-     "nombre": "Episodio 19"
-    }
-   ],
-   "ultimo": {
-    "id": 7903818,
-    "fecha": "2026-11-14",
-    "t": 2,
-    "e": 7,
-    "nombre": "Al no rendirnos"
-   },
-   "proximo": {
-    "id": 7903820,
-    "fecha": "2026-11-21",
-    "t": 2,
-    "e": 8,
-    "nombre": "Episodio 8"
-   },
-   "plataformas": {},
-   "link": null
+   "link": "https://www.themoviedb.org/tv/37854-wanpisu/watch?locale=AR",
+   "manual": true
   },
   {
    "id": 105248,
@@ -191,7 +81,8 @@
      "Netflix"
     ]
    },
-   "link": "https://www.themoviedb.org/tv/105248-cyberpunk-edgerunners/watch?locale=AR"
+   "link": "https://www.themoviedb.org/tv/105248-cyberpunk-edgerunners/watch?locale=AR",
+   "manual": true
   },
   {
    "id": 1668,
@@ -217,7 +108,674 @@
      "HBO Max"
     ]
    },
-   "link": "https://www.themoviedb.org/tv/1668-friends/watch?locale=AR"
+   "link": "https://www.themoviedb.org/tv/1668-friends/watch?locale=AR",
+   "manual": true
+  },
+  {
+   "id": 340610,
+   "tipo": "tv",
+   "titulo": "Attack on Titan - Specials",
+   "fecha": "",
+   "poster": null,
+   "fondo": null,
+   "puntaje": 0.0,
+   "estado": "Returning Series",
+   "proximos": [],
+   "ultimo": {
+    "id": 8040768,
+    "fecha": "2023-11-05",
+    "t": 4,
+    "e": 30,
+    "nombre": "The Final Chapters: Special 2"
+   },
+   "proximo": null,
+   "plataformas": {},
+   "link": null,
+   "manual": false
+  },
+  {
+   "id": 42009,
+   "tipo": "tv",
+   "titulo": "Black Mirror",
+   "fecha": "2011-12-04",
+   "poster": "/pY80haDeUJLHjWLW7edqWaQ2UfW.jpg",
+   "fondo": "/dg3OindVAGZBjlT3xYKqIAdukPL.jpg",
+   "puntaje": 8.3,
+   "estado": "Returning Series",
+   "proximos": [],
+   "ultimo": {
+    "id": 6085099,
+    "fecha": "2025-04-10",
+    "t": 7,
+    "e": 6,
+    "nombre": "USS Callister: Infinity"
+   },
+   "proximo": null,
+   "plataformas": {
+    "flatrate": [
+     "Netflix"
+    ]
+   },
+   "link": "https://www.themoviedb.org/tv/42009-black-mirror/watch?locale=AR",
+   "manual": false
+  },
+  {
+   "id": 95557,
+   "tipo": "tv",
+   "titulo": "INVENCIBLE",
+   "fecha": "2021-03-25",
+   "poster": "/AdcfiT5FsjUooyP7CrKzEGmP9K1.jpg",
+   "fondo": "/9qrroces8C6R9aKr08hACNPVXdZ.jpg",
+   "puntaje": 8.6,
+   "estado": "Returning Series",
+   "proximos": [],
+   "ultimo": {
+    "id": 6951284,
+    "fecha": "2026-04-22",
+    "t": 4,
+    "e": 8,
+    "nombre": "NO ME DEJÉIS ASÍ"
+   },
+   "proximo": null,
+   "plataformas": {
+    "flatrate": [
+     "Amazon Prime Video"
+    ]
+   },
+   "link": "https://www.themoviedb.org/tv/95557-invincible/watch?locale=AR",
+   "manual": false
+  },
+  {
+   "id": 94997,
+   "tipo": "tv",
+   "titulo": "La casa del dragón",
+   "fecha": "2022-08-21",
+   "poster": "/8MaxftF69sEAAD5673vTjIl8yT3.jpg",
+   "fondo": "/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+   "puntaje": 8.4,
+   "estado": "Returning Series",
+   "proximos": [],
+   "ultimo": {
+    "id": 7196571,
+    "fecha": "2026-08-09",
+    "t": 3,
+    "e": 8,
+    "nombre": "Las traiciones de Ladera"
+   },
+   "proximo": null,
+   "plataformas": {
+    "flatrate": [
+     "MovistarTV",
+     "HBO Max"
+    ]
+   },
+   "link": "https://www.themoviedb.org/tv/94997-house-of-the-dragon/watch?locale=AR",
+   "manual": false
+  },
+  {
+   "id": 82452,
+   "tipo": "tv",
+   "titulo": "Avatar: La leyenda de Aang",
+   "fecha": "2024-02-22",
+   "poster": "/fNTCUwpN6c8vD2U36tQW2V9A0Nj.jpg",
+   "fondo": "/xUB3xFMgsHgPmdWnUWkHTJ03vHa.jpg",
+   "puntaje": 7.8,
+   "estado": "Returning Series",
+   "proximos": [],
+   "ultimo": {
+    "id": 7097607,
+    "fecha": "2026-06-25",
+    "t": 2,
+    "e": 7,
+    "nombre": "Algo roto"
+   },
+   "proximo": null,
+   "plataformas": {
+    "flatrate": [
+     "Netflix"
+    ]
+   },
+   "link": "https://www.themoviedb.org/tv/82452-avatar-the-last-airbender/watch?locale=AR",
+   "manual": false
+  },
+  {
+   "id": 250307,
+   "tipo": "tv",
+   "titulo": "The Pitt",
+   "fecha": "2025-01-09",
+   "poster": "/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+   "fondo": "/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
+   "puntaje": 8.7,
+   "estado": "Returning Series",
+   "proximos": [],
+   "ultimo": {
+    "id": 6768687,
+    "fecha": "2026-04-16",
+    "t": 2,
+    "e": 15,
+    "nombre": "9:00 P.M."
+   },
+   "proximo": null,
+   "plataformas": {
+    "flatrate": [
+     "HBO Max"
+    ]
+   },
+   "link": "https://www.themoviedb.org/tv/250307-the-pitt/watch?locale=AR",
+   "manual": false
+  },
+  {
+   "id": 95479,
+   "tipo": "tv",
+   "titulo": "Jujutsu Kaisen",
+   "fecha": "2020-10-03",
+   "poster": "/zKFkzRn1UyE11Jv9CJjVmvmQFvR.jpg",
+   "fondo": "/flgn0jXbg8GIe2qaWfd70A0uzfp.jpg",
+   "puntaje": 8.6,
+   "estado": "Returning Series",
+   "proximos": [],
+   "ultimo": {
+    "id": 6827074,
+    "fecha": "2026-03-27",
+    "t": 1,
+    "e": 59,
+    "nombre": "Colonia de Sendai"
+   },
+   "proximo": null,
+   "plataformas": {
+    "flatrate": [
+     "Netflix",
+     "Amazon Prime Video",
+     "Disney Plus",
+     "Crunchyroll",
+     "HBO Max",
+     "Crunchyroll Amazon Channel"
+    ]
+   },
+   "link": "https://www.themoviedb.org/tv/95479-zhou-shu-hui-zhan/watch?locale=AR",
+   "manual": false
+  },
+  {
+   "id": 204082,
+   "tipo": "tv",
+   "titulo": "El juego del calamar: El desafío",
+   "fecha": "2023-11-22",
+   "poster": "/AvOcYB2lcqRFvhq3ybJlcXgpRRu.jpg",
+   "fondo": "/qgYK2c5Yl6h0K7s0ClLa3lIcKuV.jpg",
+   "puntaje": 6.5,
+   "estado": "Returning Series",
+   "proximos": [],
+   "ultimo": {
+    "id": 6607104,
+    "fecha": "2025-11-19",
+    "t": 2,
+    "e": 9,
+    "nombre": "Luz roja, luz verde"
+   },
+   "proximo": null,
+   "plataformas": {
+    "flatrate": [
+     "Netflix"
+    ]
+   },
+   "link": "https://www.themoviedb.org/tv/204082-squid-game-the-challenge/watch?locale=AR",
+   "manual": false
+  },
+  {
+   "id": 88803,
+   "tipo": "tv",
+   "titulo": "Vinland Saga",
+   "fecha": "2019-07-08",
+   "poster": "/ySPYLN1sHmgRdqdfLOE092JlNTp.jpg",
+   "fondo": "/sPN7Ylc7swmyukJeQBNcRAl9usS.jpg",
+   "puntaje": 8.5,
+   "estado": "Returning Series",
+   "proximos": [],
+   "ultimo": {
+    "id": 4150383,
+    "fecha": "2023-06-20",
+    "t": 2,
+    "e": 24,
+    "nombre": "Mi pueblo"
+   },
+   "proximo": null,
+   "plataformas": {
+    "flatrate": [
+     "Netflix",
+     "Amazon Prime Video",
+     "Crunchyroll",
+     "Crunchyroll Amazon Channel"
+    ]
+   },
+   "link": "https://www.themoviedb.org/tv/88803-vuinrando-saga/watch?locale=AR",
+   "manual": false
+  },
+  {
+   "id": 114868,
+   "tipo": "tv",
+   "titulo": "Record of Ragnarok",
+   "fecha": "2021-06-17",
+   "poster": "/m28Ey0LYoeqzx7mdJ25NVUqRueB.jpg",
+   "fondo": "/6pSkqecoNsxSA467Z28uhVDrjXo.jpg",
+   "puntaje": 8.4,
+   "estado": "Returning Series",
+   "proximos": [],
+   "ultimo": {
+    "id": 6755033,
+    "fecha": "2025-12-10",
+    "t": 3,
+    "e": 15,
+    "nombre": "Combate entre almas"
+   },
+   "proximo": null,
+   "plataformas": {
+    "flatrate": [
+     "Netflix"
+    ]
+   },
+   "link": "https://www.themoviedb.org/tv/114868-zhong-mo-nowarukiyure/watch?locale=AR",
+   "manual": false
+  },
+  {
+   "id": 95396,
+   "tipo": "tv",
+   "titulo": "Separación",
+   "fecha": "2022-02-17",
+   "poster": "/wrZjYKxObEaWZmjB7scQMYo40o8.jpg",
+   "fondo": "/ixgFmf1X59PUZam2qbAfskx2gQr.jpg",
+   "puntaje": 8.4,
+   "estado": "Returning Series",
+   "proximos": [],
+   "ultimo": {
+    "id": 5469142,
+    "fecha": "2025-03-20",
+    "t": 2,
+    "e": 10,
+    "nombre": "Cold Harbor"
+   },
+   "proximo": null,
+   "plataformas": {
+    "flatrate": [
+     "Apple TV",
+     "Apple TV Amazon Channel"
+    ]
+   },
+   "link": "https://www.themoviedb.org/tv/95396-severance/watch?locale=AR",
+   "manual": false
+  },
+  {
+   "id": 209867,
+   "tipo": "tv",
+   "titulo": "Frieren: Tras finalizar el viaje",
+   "fecha": "2023-09-29",
+   "poster": "/3NyQpXmkaBVWgYM8miDHEFqGMCB.jpg",
+   "fondo": "/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg",
+   "puntaje": 8.8,
+   "estado": "Returning Series",
+   "proximos": [],
+   "ultimo": {
+    "id": 6855843,
+    "fecha": "2026-03-27",
+    "t": 1,
+    "e": 38,
+    "nombre": "Un bello espectáculo"
+   },
+   "proximo": null,
+   "plataformas": {
+    "flatrate": [
+     "Netflix",
+     "Crunchyroll",
+     "HBO Max",
+     "Crunchyroll Amazon Channel"
+    ]
+   },
+   "link": "https://www.themoviedb.org/tv/209867-zang-song-nofuriren/watch?locale=AR",
+   "manual": false
+  },
+  {
+   "id": 100088,
+   "tipo": "tv",
+   "titulo": "The Last of Us",
+   "fecha": "2023-01-15",
+   "poster": "/tNQWO6cNzQYCyvw36mUcAQQyf5F.jpg",
+   "fondo": "/lY2DhbA7Hy44fAKddr06UrXWWaQ.jpg",
+   "puntaje": 8.4,
+   "estado": "Returning Series",
+   "proximos": [],
+   "ultimo": {
+    "id": 5994273,
+    "fecha": "2025-05-25",
+    "t": 2,
+    "e": 7,
+    "nombre": "Convergencia"
+   },
+   "proximo": null,
+   "plataformas": {
+    "flatrate": [
+     "MovistarTV",
+     "HBO Max"
+    ]
+   },
+   "link": "https://www.themoviedb.org/tv/100088-the-last-of-us/watch?locale=AR",
+   "manual": false
+  },
+  {
+   "id": 240411,
+   "tipo": "tv",
+   "titulo": "DAN DA DAN",
+   "fecha": "2024-10-04",
+   "poster": "/wQy1dCYgdSwoY78aKFTWFT1xADX.jpg",
+   "fondo": "/uNTrRKIOyKYISthoeizghtXPEOK.jpg",
+   "puntaje": 8.5,
+   "estado": "Returning Series",
+   "proximos": [],
+   "ultimo": {
+    "id": 6358149,
+    "fecha": "2025-09-19",
+    "t": 1,
+    "e": 24,
+    "nombre": "¡Choque épico! ¡Kaiju espacial contra Robot gigante!"
+   },
+   "proximo": null,
+   "plataformas": {
+    "flatrate": [
+     "Netflix",
+     "Crunchyroll",
+     "HBO Max",
+     "Crunchyroll Amazon Channel"
+    ]
+   },
+   "link": "https://www.themoviedb.org/tv/240411-dandadan/watch?locale=AR",
+   "manual": false
+  },
+  {
+   "id": 207250,
+   "tipo": "tv",
+   "titulo": "Peligros en mi corazón",
+   "fecha": "2023-04-02",
+   "poster": "/gSC8pcRXdLJWLR8d0UtIZm1SMiH.jpg",
+   "fondo": "/31VJnwcy3VOhoqETJEFIO58ZVfF.jpg",
+   "puntaje": 8.6,
+   "estado": "Returning Series",
+   "proximos": [],
+   "ultimo": {
+    "id": 5054431,
+    "fecha": "2024-03-31",
+    "t": 1,
+    "e": 25,
+    "nombre": "Yo, nosotros, nos enamoramos"
+   },
+   "proximo": null,
+   "plataformas": {
+    "flatrate": [
+     "Netflix"
+    ]
+   },
+   "link": "https://www.themoviedb.org/tv/207250-pu-no-xin-noyabaiyatsu/watch?locale=AR",
+   "manual": false
+  },
+  {
+   "id": 256721,
+   "tipo": "tv",
+   "titulo": "Gachiakuta",
+   "fecha": "2025-07-06",
+   "poster": "/RxuL7KuFoOzHC0htjtLGxJEGGx.jpg",
+   "fondo": "/vlFoUig0nHKH0cH0OY1tk2uxGRL.jpg",
+   "puntaje": 8.5,
+   "estado": "Returning Series",
+   "proximos": [],
+   "ultimo": {
+    "id": 6363233,
+    "fecha": "2025-12-21",
+    "t": 1,
+    "e": 24,
+    "nombre": "Excursión"
+   },
+   "proximo": null,
+   "plataformas": {
+    "flatrate": [
+     "Disney Plus",
+     "Crunchyroll",
+     "HBO Max",
+     "Crunchyroll Amazon Channel"
+    ]
+   },
+   "link": "https://www.themoviedb.org/tv/256721-gachiakuta/watch?locale=AR",
+   "manual": false
+  },
+  {
+   "id": 157239,
+   "tipo": "tv",
+   "titulo": "Alien: Planeta Tierra",
+   "fecha": "2025-08-12",
+   "poster": "/8IIPZe4V2xNYFWY7lBY6GpN2L8O.jpg",
+   "fondo": "/sVxit4vKQZnrHejeQupBYadP22g.jpg",
+   "puntaje": 7.3,
+   "estado": "Returning Series",
+   "proximos": [],
+   "ultimo": {
+    "id": 6231390,
+    "fecha": "2025-09-23",
+    "t": 1,
+    "e": 8,
+    "nombre": "Los verdaderos monstruos"
+   },
+   "proximo": null,
+   "plataformas": {
+    "flatrate": [
+     "Disney Plus"
+    ]
+   },
+   "link": "https://www.themoviedb.org/tv/157239-alien-earth/watch?locale=AR",
+   "manual": false
+  },
+  {
+   "id": 270476,
+   "tipo": "tv",
+   "titulo": "La maldición de Widow's Bay",
+   "fecha": "2026-04-28",
+   "poster": "/n019if9Ob29NLATYFLFSQNNWKJg.jpg",
+   "fondo": "/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
+   "puntaje": 8.0,
+   "estado": "Returning Series",
+   "proximos": [],
+   "ultimo": {
+    "id": 6768818,
+    "fecha": "2026-06-16",
+    "t": 1,
+    "e": 10,
+    "nombre": "¡Esperamos que te hayas divertido!"
+   },
+   "proximo": null,
+   "plataformas": {
+    "flatrate": [
+     "Apple TV",
+     "Apple TV Amazon Channel"
+    ]
+   },
+   "link": "https://www.themoviedb.org/tv/270476-widow-s-bay/watch?locale=AR",
+   "manual": false
+  },
+  {
+   "id": 247767,
+   "tipo": "tv",
+   "titulo": "The Studio",
+   "fecha": "2025-03-25",
+   "poster": "/qPu7IVfA4RYyCzd6kq0lFgeNgck.jpg",
+   "fondo": "/qqqo3P0txcP5ES3ZQ7YR4SmUwam.jpg",
+   "puntaje": 7.8,
+   "estado": "Returning Series",
+   "proximos": [],
+   "ultimo": {
+    "id": 5772143,
+    "fecha": "2025-05-20",
+    "t": 1,
+    "e": 10,
+    "nombre": "La presentación"
+   },
+   "proximo": null,
+   "plataformas": {
+    "flatrate": [
+     "Apple TV",
+     "Apple TV Amazon Channel"
+    ]
+   },
+   "link": "https://www.themoviedb.org/tv/247767-the-studio/watch?locale=AR",
+   "manual": false
+  },
+  {
+   "id": 95350,
+   "tipo": "tv",
+   "titulo": "Linternas",
+   "fecha": "2026-08-16",
+   "poster": "/20ZcwtRQ4zMczKg3eBcIpC3FAuW.jpg",
+   "fondo": "/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+   "puntaje": 8.2,
+   "estado": "Returning Series",
+   "proximos": [],
+   "ultimo": {
+    "id": 7179889,
+    "fecha": "2026-10-04",
+    "t": 1,
+    "e": 8,
+    "nombre": "Tierra y estrellas"
+   },
+   "proximo": null,
+   "plataformas": {
+    "flatrate": [
+     "HBO Max"
+    ]
+   },
+   "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=AR",
+   "manual": false
+  },
+  {
+   "id": 301507,
+   "tipo": "tv",
+   "titulo": "Más que rivales",
+   "fecha": "2025-11-28",
+   "poster": "/rFZLFbuAOIQGZxXJT9XWhE87XMY.jpg",
+   "fondo": "/3vuBfAuAltIR6UdANUQ1lLXOeia.jpg",
+   "puntaje": 8.7,
+   "estado": "Returning Series",
+   "proximos": [],
+   "ultimo": {
+    "id": 6601282,
+    "fecha": "2025-12-26",
+    "t": 1,
+    "e": 6,
+    "nombre": "La cabaña"
+   },
+   "proximo": null,
+   "plataformas": {
+    "flatrate": [
+     "HBO Max"
+    ]
+   },
+   "link": "https://www.themoviedb.org/tv/301507-heated-rivalry/watch?locale=AR",
+   "manual": false
+  },
+  {
+   "id": 320909,
+   "tipo": "tv",
+   "titulo": "Firefly Wedding",
+   "fecha": "2026-10-09",
+   "poster": "/1RXEvHmis1oKTAWtKOrzJqenpb6.jpg",
+   "fondo": "/3zmB6PLnjf7rNNC2lnvinQtlJMx.jpg",
+   "puntaje": 9.0,
+   "estado": "Returning Series",
+   "proximos": [
+    {
+     "id": 7928203,
+     "fecha": "2026-11-20",
+     "t": 1,
+     "e": 7,
+     "nombre": "Episodio 7"
+    },
+    {
+     "id": 7928204,
+     "fecha": "2026-11-27",
+     "t": 1,
+     "e": 8,
+     "nombre": "Episodio 8"
+    },
+    {
+     "id": 7928205,
+     "fecha": "2026-12-04",
+     "t": 1,
+     "e": 9,
+     "nombre": "Episodio 9"
+    },
+    {
+     "id": 7928207,
+     "fecha": "2026-12-11",
+     "t": 1,
+     "e": 10,
+     "nombre": "Episodio 10"
+    },
+    {
+     "id": 7928209,
+     "fecha": "2026-12-18",
+     "t": 1,
+     "e": 11,
+     "nombre": "Episodio 11"
+    },
+    {
+     "id": 7928211,
+     "fecha": "2026-12-25",
+     "t": 1,
+     "e": 12,
+     "nombre": "Episodio 12"
+    }
+   ],
+   "ultimo": {
+    "id": 7928202,
+    "fecha": "2026-11-13",
+    "t": 1,
+    "e": 6,
+    "nombre": "Sentimientos sinceros"
+   },
+   "proximo": {
+    "id": 7928203,
+    "fecha": "2026-11-20",
+    "t": 1,
+    "e": 7,
+    "nombre": "Episodio 7"
+   },
+   "plataformas": {
+    "flatrate": [
+     "Crunchyroll",
+     "Crunchyroll Amazon Channel"
+    ]
+   },
+   "link": "https://www.themoviedb.org/tv/320909-hotaruno-jia-ru-ri/watch?locale=AR",
+   "manual": false
+  },
+  {
+   "id": 224372,
+   "tipo": "tv",
+   "titulo": "El caballero de los Siete Reinos",
+   "fecha": "2026-01-18",
+   "poster": "/pKWuCnx1DAjLFamTdYVRfK0cck6.jpg",
+   "fondo": "/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
+   "puntaje": 8.4,
+   "estado": "Returning Series",
+   "proximos": [],
+   "ultimo": {
+    "id": 6613706,
+    "fecha": "2026-02-22",
+    "t": 1,
+    "e": 6,
+    "nombre": "Mañana"
+   },
+   "proximo": null,
+   "plataformas": {
+    "flatrate": [
+     "HBO Max"
+    ]
+   },
+   "link": "https://www.themoviedb.org/tv/224372-a-knight-of-the-seven-kingdoms/watch?locale=AR",
+   "manual": false
   }
  ],
  "prioridades": [
@@ -229,6 +787,6 @@
   1765072,
   1457866,
   1170608,
-  1381071
+  1003596
  ]
 }
