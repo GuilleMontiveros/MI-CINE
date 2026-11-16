@@ -7,12 +7,14 @@
 - Avisa solo cuando un título CAMBIA a HD respecto de la corrida anterior.
 """
 import json, os, time, urllib.request, urllib.parse
-from datetime import date, datetime, timezone
+from datetime import date, datetime, timedelta, timezone
 
 KEY = os.environ["TMDB_API_KEY"]
 TOPIC = os.environ.get("NTFY_TOPIC", "")
 BASE = "https://api.themoviedb.org/3"
-HOY = date.today().isoformat()
+AHORA_AR = datetime.now(timezone.utc) - timedelta(hours=3)
+HOY = AHORA_AR.date().isoformat()
+APP = "https://guillemontiveros.github.io/MI-CINE/"
 
 
 def tmdb(path, **params):
@@ -127,10 +129,60 @@ def estado_titulo(ref):
     }
 
 
+# ---------- Series ----------
+
+def ep(e):
+    if not e:
+        return None
+    return {"id": e["id"], "fecha": e.get("air_date"), "t": e.get("season_number"),
+            "e": e.get("episode_number"), "nombre": e.get("name")}
+
+
+def estado_serie(nombre, cache):
+    clave = f"serie|{nombre}"
+    if clave not in cache:
+        r = tmdb("/search/tv", query=nombre)["results"]
+        cache[clave] = r[0]["id"] if r else None
+    if not cache[clave]:
+        return None
+    d = tmdb(f"/tv/{cache[clave]}", append_to_response="watch/providers")
+    plats, link = plataformas(d.get("watch/providers", {}))
+    return {**tarjeta(d, "tv"), "estado": d.get("status"), "ultimo": ep(d.get("last_episode_to_air")),
+            "proximo": ep(d.get("next_episode_to_air")), "plataformas": plats, "link": link}
+
+
+def codigo(x):
+    return f"T{x['t']} E{x['e']}"
+
+
+# ---------- Cineclubs ----------
+
+DIAS = ["lunes", "martes", "miércoles", "jueves", "viernes", "sábado", "domingo"]
+
+
+def cineclubs(enviados):
+    cfg = leer("data/cineclubs.json", {"clubes": []})
+    hoy_dia = DIAS[AHORA_AR.weekday()]
+    hora_ar = AHORA_AR.hour
+    for c in cfg["clubes"]:
+        if c.get("fecha") and c["fecha"] < HOY:
+            c["pelicula"] = c["fecha"] = None  # función pasada: se limpia
+        clave = f"club|{c['nombre']}|{HOY}"
+        if c["dia"] == hoy_dia and hora_ar >= 12 and clave not in enviados:
+            peli = c.get("pelicula") or "fijate qué pelí dan en su Instagram"
+            hora = f" a las {c['hora']}" if c.get("hora") else ""
+            avisar(f"🎟️ Hoy hay cineclub en {c['nombre']}", f"Gratis{hora}: {peli}", c.get("instagram"))
+            enviados.append(clave)
+    guardar("data/cineclubs.json", cfg)
+
+
 def main():
+    app = APP
     # Tendencias
     tend = {
+        "pelis_hoy": [tarjeta(x, "movie") for x in tmdb("/trending/movie/day")["results"]],
         "pelis_semana": [tarjeta(x, "movie") for x in tmdb("/trending/movie/week")["results"]],
+        "series_hoy": [tarjeta(x, "tv") for x in tmdb("/trending/tv/day")["results"]],
         "series_semana": [tarjeta(x, "tv") for x in tmdb("/trending/tv/week")["results"]],
         "hoy": [tarjeta(x) for x in tmdb("/trending/all/day")["results"]],
     }
@@ -157,12 +209,66 @@ def main():
             nuevos_hd.append(e)
         titulos.append(e)
 
+    # Prioridades (se suman a la vigilancia de HD aunque no estén en la watchlist)
+    seguir = leer("data/seguir.json", {"series": [], "prioridades": []})
+    ids_wl = {e["id"] for e in titulos}
+    prioridades = []
+    for nombre, anio in seguir["prioridades"]:
+        try:
+            ref = buscar_id({"titulo": nombre, "anio": str(anio)}, cache)
+            if not ref:
+                continue
+            if ref["id"] in ids_wl:
+                e = next(x for x in titulos if x["id"] == ref["id"])
+            else:
+                e = estado_titulo(ref)
+                previo = anterior.get(str(e["id"]))
+                e["hd_desde"] = (previo or {}).get("hd_desde") or (HOY if e["hd"] else None)
+                if e["hd"] and previo is not None and not previo.get("hd"):
+                    nuevos_hd.append(e)
+                titulos.append(e)
+            e["prioridad"] = True
+            prioridades.append(e["id"])
+        except Exception as err:
+            print("Error con", nombre, err)
+
+    # Series
+    estado = leer("data/estado.json", {"enviados": []})
+    enviados = estado["enviados"]
+    previas = {str(x["id"]): x for x in leer("data/series.json", {"series": []})["series"]}
+    series = []
+    for nombre in seguir["series"]:
+        try:
+            sr = estado_serie(nombre, cache)
+        except Exception as err:
+            print("Error con", nombre, err)
+            continue
+        if not sr:
+            continue
+        series.append(sr)
+        pv = previas.get(str(sr["id"]), {})
+        u, p = sr["ultimo"], sr["proximo"]
+        link = sr.get("link") or app
+        if u and u["fecha"] and u["fecha"] >= (date.fromisoformat(HOY) - timedelta(days=2)).isoformat():
+            k = f"ep|{u['id']}"
+            if k not in enviados:
+                avisar(f"📺 Salió capítulo nuevo de {sr['titulo']}", f"{codigo(u)}: {u['nombre']}", link)
+                enviados.append(k)
+        if p and p["fecha"] and p["e"] == 1 and (pv.get("proximo") or {}).get("id") != p["id"]:
+            k = f"temp|{p['id']}"
+            if k not in enviados:
+                avisar(f"📅 {sr['titulo']}: temporada {p['t']} ya tiene fecha", f"Se estrena el {p['fecha']}", link)
+                enviados.append(k)
+    cineclubs(enviados)
+    estado["enviados"] = enviados[-500:]
+
     ahora = datetime.now(timezone.utc).isoformat()
+    guardar("data/estado.json", estado)
+    guardar("data/series.json", {"actualizado": ahora, "series": series, "prioridades": prioridades})
     guardar("data/ids.json", cache)
     guardar("data/esperadas.json", {"actualizado": ahora, "titulos": titulos})
     guardar("data/tendencias.json", {"actualizado": ahora, **tend})
 
-    app = "https://guillemontiveros.github.io/MI-CINE/"
     for e in nuevos_hd:
         donde = ", ".join(sum(e["plataformas"].values(), [])) or e["motivo"]
         avisar(f"🎬 {e['titulo']} ya está en HD", f"{e['motivo']}. {donde}", e.get("link") or app)

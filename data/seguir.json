@@ -1,0 +1,9 @@
+{
+ "_ayuda": "Editá este archivo desde GitHub (lápiz ✏️) para sumar o sacar títulos. Series: nombre tal cual en TMDB. Prioridades: películas que querés al frente.",
+ "series": ["Pluribus", "One Piece", "Black Clover", "Cyberpunk: Edgerunners", "Friends"],
+ "prioridades": [
+  ["Heart of the Beast", 2026], ["Primetime", 2026], ["Resident Evil", 2026], ["Clayface", 2026],
+  ["Wildwood", 2026], ["You Can See Everything", 2026], ["The Further Mis-Adventures of Cliff Booth", 2026],
+  ["Dune: Part Three", 2026], ["Godzilla Minus Zero", 2026]
+ ]
+}

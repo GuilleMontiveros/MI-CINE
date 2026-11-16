@@ -1,0 +1,7 @@
+{
+ "_ayuda": "Cargá la película de la semana en 'pelicula' (y 'hora' si cambia). Se borra sola al día siguiente de la función.",
+ "clubes": [
+  {"nombre": "Sala Z", "dia": "martes", "hora": "21:30", "pelicula": null, "fecha": null, "instagram": "https://www.instagram.com/explore/search/keyword/?q=sala%20z%20san%20juan"},
+  {"nombre": "ENERC Cuyo", "dia": "jueves", "hora": null, "pelicula": null, "fecha": null, "instagram": "https://www.instagram.com/explore/search/keyword/?q=enerc%20cuyo"}
+ ]
+}

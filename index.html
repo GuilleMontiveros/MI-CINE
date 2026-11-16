@@ -5,114 +5,152 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Mi cine</title>
 <link rel="manifest" href="manifest.json">
-<meta name="theme-color" content="#000">
+<meta name="theme-color" content="#14181c">
 <style>
-  :root{--amarillo:#f5c518;--fondo:#000;--panel:#1a1a1a;--gris:#999}
+  :root{--fondo:#14181c;--panel:#2c3440;--linea:#2c3440;--txt:#9ab;--claro:#def;--verde:#00e054;--naranja:#ff8000;--azul:#40bcf4}
   *{box-sizing:border-box}
-  body{margin:0;font-family:Roboto,system-ui,sans-serif;background:var(--fondo);color:#fff}
-  header{display:flex;align-items:center;gap:12px;padding:10px 16px;background:#121212;position:sticky;top:0;z-index:5}
-  .logo{background:var(--amarillo);color:#000;font-weight:900;padding:4px 8px;border-radius:4px;font-size:18px}
-  header input{flex:1;max-width:500px;padding:8px 12px;border-radius:4px;border:0;font-size:14px}
-  header small{color:var(--gris);font-size:11px;margin-left:auto}
-  main{max-width:1280px;margin:auto;padding:8px 0 40px}
-  section{margin:22px 0}
-  h2{display:flex;align-items:center;gap:10px;font-size:22px;margin:0 16px 12px}
-  h2::before{content:"";width:4px;height:26px;background:var(--amarillo);border-radius:2px}
-  h2 span{font-size:13px;color:var(--gris);font-weight:400}
-  .fila{display:flex;gap:12px;overflow-x:auto;padding:0 16px 8px;scroll-snap-type:x mandatory}
-  .fila::-webkit-scrollbar{height:6px}.fila::-webkit-scrollbar-thumb{background:#333;border-radius:3px}
-  .c{flex:0 0 160px;background:var(--panel);border-radius:6px;overflow:hidden;scroll-snap-align:start;display:flex;flex-direction:column}
-  .c a{color:inherit;text-decoration:none}
-  .c img,.c .sin{width:100%;aspect-ratio:2/3;object-fit:cover;background:#2a2a2a;display:block}
-  .c .sin{display:flex;align-items:center;justify-content:center;color:#555;font-size:40px}
-  .info{padding:8px 10px 10px;display:flex;flex-direction:column;gap:4px;flex:1}
-  .est{color:var(--amarillo);font-size:13px}
-  .t{font-size:14px;line-height:1.25}
-  .m{font-size:12px;color:var(--gris)}
-  .badge{font-size:11px;font-weight:700;padding:3px 6px;border-radius:3px;align-self:flex-start}
-  .hd{background:#2e7d32}.cam{background:#5d4037}.prox{background:#1565c0}
-  .plat{font-size:11px;color:#ccc}
-  .vacio{color:var(--gris);padding:0 16px;font-size:14px}
-  .filtros{display:flex;gap:8px;padding:0 16px 12px;flex-wrap:wrap}
-  .filtros button{background:#222;color:#fff;border:1px solid #333;padding:6px 12px;border-radius:16px;cursor:pointer;font-size:13px}
-  .filtros button.on{background:var(--amarillo);color:#000;border-color:var(--amarillo)}
-  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:12px;padding:0 16px}
-  .grid .c{flex:auto}
-  footer{padding:20px 16px;font-size:12px;color:#666;text-align:center}
+  body{margin:0;font-family:"Graphik",-apple-system,"Segoe UI",Roboto,sans-serif;background:var(--fondo);color:var(--txt)}
+  header{background:#0f1215;border-bottom:1px solid #000;position:sticky;top:0;z-index:5}
+  .barra{max-width:1100px;margin:auto;display:flex;align-items:center;gap:14px;padding:12px 16px}
+  .logo{display:flex;align-items:center;gap:6px;color:#fff;font-weight:700;font-size:20px;letter-spacing:-.5px;white-space:nowrap}
+  .dots{display:flex;gap:3px}.dots i{width:12px;height:12px;border-radius:50%;display:block;opacity:.9}
+  .buscar{flex:1;position:relative;max-width:420px;margin-left:auto}
+  .buscar input{width:100%;background:#2c3440;border:0;border-radius:15px;padding:8px 14px;color:#fff;font-size:14px}
+  .buscar input:focus{outline:none;background:#fff;color:#000}
+  main{max-width:1100px;margin:auto;padding:4px 16px 40px}
+  section{margin:28px 0}
+  .tit{display:flex;justify-content:space-between;align-items:baseline;border-bottom:1px solid var(--linea);padding-bottom:5px;margin-bottom:12px}
+  .tit h2{margin:0;font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--txt);font-weight:400}
+  .tit small,.tit button{font-size:11px;color:var(--txt);background:none;border:0;cursor:pointer;letter-spacing:.08em;text-transform:uppercase}
+  .tit button:hover{color:#fff}
+  .fila{display:flex;gap:10px;overflow-x:auto;padding-bottom:8px;scroll-snap-type:x mandatory}
+  .fila::-webkit-scrollbar{height:5px}.fila::-webkit-scrollbar-thumb{background:#456;border-radius:3px}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(118px,1fr));gap:12px}
+  .c{flex:0 0 130px;scroll-snap-align:start;color:inherit;text-decoration:none;display:block}
+  .p{position:relative;border-radius:4px;overflow:hidden;box-shadow:inset 0 0 0 1px rgba(221,238,255,.25);aspect-ratio:2/3;background:#202830}
+  .p img{width:100%;height:100%;object-fit:cover;display:block}
+  .p .sin{height:100%;display:flex;align-items:center;justify-content:center;text-align:center;padding:8px;font-size:13px;color:var(--claro)}
+  .c:hover .p{box-shadow:inset 0 0 0 3px var(--verde)}
+  .tag{position:absolute;left:6px;bottom:6px;font-size:10px;font-weight:700;padding:2px 6px;border-radius:3px;color:#000;letter-spacing:.04em}
+  .t-hd{background:var(--verde)}.t-prox{background:var(--azul)}.t-no{background:#678;color:#fff}.t-ep{background:var(--naranja)}
+  .n{font-size:13px;color:var(--claro);margin-top:6px;line-height:1.25}
+  .m{font-size:11px;color:var(--txt);margin-top:2px;line-height:1.35}
+  .vacio{font-size:13px;color:#678}
+  .pest{display:flex;gap:4px}
+  .pest button{background:none;border:0;color:#678;font-size:11px;letter-spacing:.08em;text-transform:uppercase;cursor:pointer;padding:2px 6px}
+  .pest button.on{color:#fff;border-bottom:1px solid var(--verde)}
+  .club{display:flex;gap:14px;flex-wrap:wrap}
+  .club a{flex:1;min-width:240px;background:var(--panel);border-radius:6px;padding:14px;color:var(--claro);text-decoration:none;border-left:4px solid var(--naranja)}
+  .club b{display:block;font-size:15px;color:#fff;margin-bottom:4px}
+  .club span{font-size:12px}
+  footer{max-width:1100px;margin:auto;padding:20px 16px;font-size:11px;color:#567;border-top:1px solid var(--linea)}
+  @media(max-width:600px){.logo span{display:none}.c{flex-basis:110px}}
 </style>
 </head>
 <body>
-<header>
-  <span class="logo">MI CINE</span>
-  <input id="q" placeholder="Buscar en mi watchlist…">
-  <small id="act"></small>
-</header>
+<header><div class="barra">
+  <div class="logo"><div class="dots"><i style="background:var(--naranja)"></i><i style="background:var(--verde)"></i><i style="background:var(--azul)"></i></div><span>Mi cine</span></div>
+  <div class="buscar"><input id="q" type="search" placeholder="Buscar película o serie…"></div>
+</div></header>
+
 <main>
-  <section><h2>Ya en HD <span>tu watchlist · digital o en plataforma</span></h2><div class="fila" id="hd"></div></section>
-  <section><h2>Llegan pronto a digital <span>con fecha confirmada</span></h2><div class="fila" id="prox"></div></section>
-  <section><h2>Películas en tendencia <span>esta semana</span></h2><div class="fila" id="pelis"></div></section>
-  <section><h2>Series en tendencia <span>esta semana</span></h2><div class="fila" id="series"></div></section>
-  <section><h2>Lo más visto hoy</h2><div class="fila" id="hoy"></div></section>
-  <section>
-    <h2>Mi watchlist <span id="cuenta"></span></h2>
-    <div class="filtros" id="filtros">
-      <button data-f="todas" class="on">Todas</button>
-      <button data-f="hd">En HD</button>
-      <button data-f="cam">Todavía no</button>
-      <button data-f="nuevas">2025–2026</button>
-    </div>
-    <div class="grid" id="lista"></div>
-  </section>
+  <div id="resultados" hidden>
+    <section><div class="tit"><h2 id="rtit">Resultados</h2><small id="act2"></small></div><div class="grid" id="rgrid"></div>
+    <p class="vacio" style="margin-top:14px">¿No está? <a id="rtmdb" target="_blank" style="color:var(--verde)">Buscalo en TMDB</a> y sumalo a tu watchlist de Letterboxd o a <code>data/seguir.json</code>.</p></section>
+  </div>
+
+  <div id="inicio">
+    <section><div class="tit"><h2>Cineclubs gratis</h2><small>San Juan</small></div><div class="club" id="clubs"></div></section>
+    <section><div class="tit"><h2>Mis series</h2><small>próximo capítulo</small></div><div class="fila" id="series"></div></section>
+    <section><div class="tit"><h2>Mis prioridades</h2></div><div class="fila" id="prio"></div></section>
+    <section><div class="tit"><h2>Ya en HD</h2><small>watchlist 2025–2026</small></div><div class="fila" id="hd"></div></section>
+    <section><div class="tit"><h2>Llegan a digital</h2><small>fecha confirmada</small></div><div class="fila" id="prox"></div></section>
+    <section><div class="tit"><h2>Tendencias</h2>
+      <div class="pest" id="ptend">
+        <button data-k="pelis_semana" class="on">Pelis semana</button><button data-k="pelis_hoy">Pelis hoy</button>
+        <button data-k="series_semana">Series semana</button><button data-k="series_hoy">Series hoy</button>
+      </div></div><div class="fila" id="tend"></div></section>
+    <section><div class="tit"><h2>Mi watchlist</h2><button id="vertodo"></button></div><div class="grid" id="wl"></div></section>
+  </div>
 </main>
-<footer>Datos de películas y series: TMDB. Este producto usa la API de TMDB pero no está avalado ni certificado por TMDB.</footer>
+<footer><span id="act"></span> · Datos de películas y series: TMDB. Este producto usa la API de TMDB pero no está avalado ni certificado por TMDB.</footer>
+
 <script>
 const IMG='https://image.tmdb.org/t/p/w342';
-const fmt=f=>f?new Date(f+'T12:00').toLocaleDateString('es-AR',{day:'numeric',month:'short',year:'numeric'}):'';
+const $=id=>document.getElementById(id);
+const fmt=f=>f?new Date(f+'T12:00').toLocaleDateString('es-AR',{weekday:'short',day:'numeric',month:'short'}):'';
 const anio=f=>(f||'').slice(0,4);
+const hoy=new Date(Date.now()-3*3600e3).toISOString().slice(0,10);
 const url=x=>x.link||`https://www.themoviedb.org/${x.tipo==='tv'?'tv':'movie'}/${x.id}`;
-function poster(x){return x.poster?`<img loading="lazy" src="${IMG+x.poster}" alt="">`:`<div class="sin">🎬</div>`}
-function cTend(x){return `<div class="c"><a href="${url(x)}" target="_blank">${poster(x)}</a><div class="info">
-  <span class="est">★ ${x.puntaje||'–'}</span><span class="t">${x.titulo}</span><span class="m">${x.tipo==='tv'?'Serie':'Película'} · ${anio(x.fecha)}</span></div></div>`}
-function cWl(x){
-  let b;
-  if(x.hd) b=`<span class="badge hd">HD</span>`;
-  else if(x.digital_proximo) b=`<span class="badge prox">Digital ${fmt(x.digital_proximo)}</span>`;
-  else b=`<span class="badge cam">Sin fecha digital</span>`;
-  const p=x.plataformas||{};
-  const plats=[p.flatrate&&('Incluida: '+p.flatrate.join(', ')),p.rent&&('Alquiler: '+p.rent.join(', '))].filter(Boolean).join('<br>');
-  return `<div class="c"><a href="${url(x)}" target="_blank">${poster(x)}</a><div class="info">${b}
-  <span class="t">${x.titulo}</span><span class="m">${anio(x.fecha)}${x.motivo&&!plats?' · '+x.motivo:''}</span>
-  ${plats?`<span class="plat">${plats}</span>`:''}</div></div>`}
-const pon=(id,arr,f,vacio)=>document.getElementById(id).innerHTML=arr.length?arr.map(f).join(''):`<p class="vacio">${vacio}</p>`;
-
-let WL=[],filtro='todas';
-function lista(){
-  const q=document.getElementById('q').value.toLowerCase();
-  let l=WL.filter(x=>x.titulo.toLowerCase().includes(q));
-  if(filtro==='hd')l=l.filter(x=>x.hd);
-  if(filtro==='cam')l=l.filter(x=>!x.hd);
-  if(filtro==='nuevas')l=l.filter(x=>anio(x.fecha)>='2025');
-  l.sort((a,b)=>(b.fecha||'').localeCompare(a.fecha||''));
-  document.getElementById('cuenta').textContent=`${l.length} títulos`;
-  pon('lista',l,cWl,'No hay títulos con ese filtro.');
+const esc=s=>(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+function card(x,tag='',meta=''){
+  const img=x.poster?`<img loading="lazy" src="${IMG+x.poster}" alt="">`:`<div class="sin">${esc(x.titulo)}</div>`;
+  return `<a class="c" href="${url(x)}" target="_blank" title="${esc(x.titulo)}"><div class="p">${img}${tag}</div><div class="n">${esc(x.titulo)}</div><div class="m">${meta}</div></a>`;
 }
-document.getElementById('q').oninput=lista;
-document.querySelectorAll('#filtros button').forEach(b=>b.onclick=()=>{
-  filtro=b.dataset.f;document.querySelectorAll('#filtros button').forEach(x=>x.classList.toggle('on',x===b));lista()});
+function plats(x){const p=x.plataformas||{};return p.flatrate?p.flatrate.slice(0,2).join(', '):p.rent?'Alquiler: '+p.rent.slice(0,2).join(', '):''}
+function cPeli(x){
+  let tag;
+  if(x.hd) tag='<span class="tag t-hd">HD</span>';
+  else if(x.digital_proximo) tag=`<span class="tag t-prox">${fmt(x.digital_proximo)}</span>`;
+  else tag='<span class="tag t-no">CINE</span>';
+  return card(x,tag,[anio(x.fecha),plats(x)||(x.hd?x.motivo:'')].filter(Boolean).join(' · '));
+}
+function cTend(x){return card(x,'',`${anio(x.fecha)} · ★ ${x.puntaje||'–'}`)}
+function cSerie(x){
+  const p=x.proximo,u=x.ultimo;let tag='',meta;
+  if(p&&p.fecha){
+    tag=p.fecha===hoy?'<span class="tag t-ep">HOY</span>':`<span class="tag t-prox">${fmt(p.fecha)}</span>`;
+    meta=`Próximo: T${p.t} E${p.e}`;
+  }else if(u&&u.fecha&&u.fecha>=new Date(Date.now()-7*864e5).toISOString().slice(0,10)){
+    tag='<span class="tag t-ep">NUEVO</span>';meta=`Salió T${u.t} E${u.e}`;
+  }else meta=x.estado==='Ended'?'Terminada':x.estado==='Canceled'?'Cancelada':'Sin fecha nueva';
+  if(plats(x))meta+=' · '+plats(x);
+  return card(x,tag,meta);
+}
+const pon=(id,arr,f,vacio)=>$(id).innerHTML=arr.length?arr.map(f).join(''):`<p class="vacio">${vacio}</p>`;
 
-const nc=r=>r.ok?r.json():null;
-Promise.all([fetch('data/tendencias.json',{cache:'no-store'}).then(nc),fetch('data/esperadas.json',{cache:'no-store'}).then(nc)])
-.then(([t,e])=>{
-  if(t){
-    document.getElementById('act').textContent='Actualizado '+new Date(t.actualizado).toLocaleString('es-AR',{hour12:false,dateStyle:'short',timeStyle:'short'});
-    pon('pelis',t.pelis_semana||[],cTend,'');pon('series',t.series_semana||[],cTend,'');pon('hoy',t.hoy||[],cTend,'');
-  }
-  WL=(e&&e.titulos)||[];
-  const hd=WL.filter(x=>x.hd&&anio(x.fecha)>='2025').sort((a,b)=>(b.hd_desde||'').localeCompare(a.hd_desde||'')||(b.fecha||'').localeCompare(a.fecha||''));
-  pon('hd',hd,cWl,'Todavía nada de 2025–2026 en HD.');
-  const prox=WL.filter(x=>!x.hd&&x.digital_proximo).sort((a,b)=>a.digital_proximo.localeCompare(b.digital_proximo));
-  pon('prox',prox,cWl,'Ninguna de tu watchlist tiene fecha digital confirmada todavía.');
-  lista();
+let T={},WL=[],SE=[],todo=false,tk='pelis_semana';
+function watchlist(){
+  const l=[...WL].sort((a,b)=>(b.fecha||'').localeCompare(a.fecha||''));
+  const v=todo?l:l.filter(x=>anio(x.fecha)>='2025').slice(0,18);
+  pon('wl',v,cPeli,'');
+  $('vertodo').textContent=todo?'Ver menos':`Ver toda (${l.length})`;
+}
+$('vertodo').onclick=()=>{todo=!todo;watchlist()};
+document.querySelectorAll('#ptend button').forEach(b=>b.onclick=()=>{
+  tk=b.dataset.k;document.querySelectorAll('#ptend button').forEach(x=>x.classList.toggle('on',x===b));pon('tend',T[tk]||[],cTend,'')});
+
+const norm=s=>(s||'').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'');
+$('q').oninput=()=>{
+  const q=norm($('q').value.trim());
+  $('resultados').hidden=!q;$('inicio').hidden=!!q;
+  if(!q)return;
+  const vistos=new Set(),res=[];
+  const mapa=[[WL,cPeli],[SE,cSerie],...['pelis_semana','pelis_hoy','series_semana','series_hoy','hoy'].map(k=>[T[k]||[],cTend])];
+  for(const [arr,f] of mapa)for(const x of arr){
+    const k=x.tipo+x.id;if(!vistos.has(k)&&norm(x.titulo).includes(q)){vistos.add(k);res.push(f(x))}}
+  $('rtit').textContent=`${res.length} resultado${res.length===1?'':'s'} para “${$('q').value.trim()}”`;
+  $('rgrid').innerHTML=res.join('');
+  $('rtmdb').href='https://www.themoviedb.org/search?query='+encodeURIComponent($('q').value.trim());
+};
+
+const j=u=>fetch(u,{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null);
+Promise.all([j('data/tendencias.json'),j('data/esperadas.json'),j('data/series.json'),j('data/cineclubs.json')])
+.then(([t,e,s,c])=>{
+  T=t||{};WL=(e&&e.titulos)||[];SE=(s&&s.series)||[];
+  if(t)$('act').textContent='Actualizado '+new Date(t.actualizado).toLocaleString('es-AR',{hour12:false,dateStyle:'short',timeStyle:'short'});
+  // cineclubs
+  $('clubs').innerHTML=((c&&c.clubes)||[]).map(k=>`<a href="${k.instagram}" target="_blank"><b>${esc(k.nombre)}</b>
+    <span>Todos los ${k.dia}${k.hora?' · '+k.hora:''} · gratis<br>${k.pelicula?'🎬 '+esc(k.pelicula):'Película de la semana: en su Instagram'}</span></a>`).join('');
+  // series: primero las que tienen capítulo próximo
+  SE.sort((a,b)=>((a.proximo||{}).fecha||'9999').localeCompare((b.proximo||{}).fecha||'9999'));
+  pon('series',SE,cSerie,'Sumá series en data/seguir.json.');
+  const prio=new Set((s&&s.prioridades)||[]);
+  pon('prio',WL.filter(x=>prio.has(x.id)),cPeli,'');
+  pon('hd',WL.filter(x=>x.hd&&anio(x.fecha)>='2025').sort((a,b)=>(b.hd_desde||'').localeCompare(a.hd_desde||'')||(b.fecha||'').localeCompare(a.fecha||'')),cPeli,'Nada nuevo en HD.');
+  pon('prox',WL.filter(x=>!x.hd&&x.digital_proximo).sort((a,b)=>a.digital_proximo.localeCompare(b.digital_proximo)),cPeli,'Ninguna con fecha digital confirmada.');
+  pon('tend',T[tk]||[],cTend,'');
+  watchlist();
 });
 </script>
 </body>
