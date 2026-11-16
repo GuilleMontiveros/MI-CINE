@@ -1627,5 +1627,53 @@
  "serie|One Piece": 37854,
  "serie|Black Clover": 73223,
  "serie|Cyberpunk: Edgerunners": 105248,
- "serie|Friends": 1668
+ "serie|Friends": 1668,
+ "The Odyssey|2026": {
+  "id": 1368337,
+  "tipo": "movie"
+ },
+ "La bola negra|2026": {
+  "id": 1422041,
+  "tipo": "movie"
+ },
+ "Project Hail Mary|2026": {
+  "id": 687163,
+  "tipo": "movie"
+ },
+ "The Invite|2026": {
+  "id": 950028,
+  "tipo": "movie"
+ },
+ "I Play Rocky|2026": {
+  "id": 1286656,
+  "tipo": "movie"
+ },
+ "The Debut|2026": {
+  "id": 1391239,
+  "tipo": "movie"
+ },
+ "Elsinore|2026": {
+  "id": 1599230,
+  "tipo": "movie"
+ },
+ "Club Kid|2026": {
+  "id": 1585239,
+  "tipo": "movie"
+ },
+ "All of a Sudden|2026": {
+  "id": 1476614,
+  "tipo": "movie"
+ },
+ "Tender Loving Care|2026": {
+  "id": 1370191,
+  "tipo": "movie"
+ },
+ "Fjord|2026": {
+  "id": 1401459,
+  "tipo": "movie"
+ },
+ "Paper Tiger|2026": {
+  "id": 1381273,
+  "tipo": "movie"
+ }
 }

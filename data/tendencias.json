@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16T21:26:02.397741+00:00",
+ "actualizado": "2026-11-16T21:36:42.261445+00:00",
  "pelis_hoy": [
   {
    "id": 1368337,
@@ -775,15 +775,6 @@
    "puntaje": 7.7
   },
   {
-   "id": 84773,
-   "tipo": "tv",
-   "titulo": "El Señor de los Anillos: Los Anillos de Poder",
-   "fecha": "2022-09-01",
-   "poster": "/xdsgZ60TBFiuAIvGPtxRsjDt4NV.jpg",
-   "fondo": "/uVOcz7JBOuZxsx9IYpx6Ah174LX.jpg",
-   "puntaje": 7.2
-  },
-  {
    "id": 1400837,
    "tipo": "movie",
    "titulo": "La otra madre",
@@ -800,6 +791,15 @@
    "poster": "/2B7ZSUutCgwUAE5U0X7WlD8yiun.jpg",
    "fondo": "/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
    "puntaje": 7.7
+  },
+  {
+   "id": 84773,
+   "tipo": "tv",
+   "titulo": "El Señor de los Anillos: Los Anillos de Poder",
+   "fecha": "2022-09-01",
+   "poster": "/xdsgZ60TBFiuAIvGPtxRsjDt4NV.jpg",
+   "fondo": "/uVOcz7JBOuZxsx9IYpx6Ah174LX.jpg",
+   "puntaje": 7.2
   },
   {
    "id": 1423191,
@@ -838,15 +838,6 @@
    "puntaje": 8.5
   },
   {
-   "id": 303745,
-   "tipo": "tv",
-   "titulo": "Un amor infiltrado",
-   "fecha": "2026-10-19",
-   "poster": "/rElWNrEbdYyPg1opWTtNiYm3ut5.jpg",
-   "fondo": "/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
-   "puntaje": 9.1
-  },
-  {
    "id": 1543469,
    "tipo": "movie",
    "titulo": "Heartland",
@@ -862,7 +853,16 @@
    "fecha": "2026-11-12",
    "poster": "/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
    "fondo": "/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg",
-   "puntaje": 7.7
+   "puntaje": 7.5
+  },
+  {
+   "id": 1518204,
+   "tipo": "movie",
+   "titulo": "Allen",
+   "fecha": "2026-11-12",
+   "poster": "/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
+   "fondo": "/51fGmBW7WjyJouP9TjIcxRpCUNk.jpg",
+   "puntaje": 6.8
   },
   {
    "id": 247718,
@@ -874,13 +874,13 @@
    "puntaje": 8.7
   },
   {
-   "id": 1616687,
-   "tipo": "movie",
-   "titulo": "No nos rendimos",
-   "fecha": "2026-11-11",
-   "poster": "/6cHYHIv2tcUAZsyzUi5Hcwa1IAB.jpg",
-   "fondo": "/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
-   "puntaje": 7.1
+   "id": 254630,
+   "tipo": "tv",
+   "titulo": "12 12 12",
+   "fecha": "2026-11-12",
+   "poster": "/eq473fICspnCtzQfNxVsKgpgf3w.jpg",
+   "fondo": "/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
+   "puntaje": 6.2
   }
  ]
 }
