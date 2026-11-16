@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16T21:12:12.663779+00:00",
+ "actualizado": "2026-11-16T21:26:02.397741+00:00",
  "pelis_hoy": [
   {
    "id": 1368337,
@@ -7,6 +7,7 @@
    "titulo": "La Odisea",
    "fecha": "2026-07-15",
    "poster": "/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
+   "fondo": "/mIi99BK2mDpLp2lGsa8jCBDFit4.jpg",
    "puntaje": 8.0
   },
   {
@@ -15,6 +16,7 @@
    "titulo": "Los Juegos del Hambre: Amanecer en la cosecha",
    "fecha": "2026-11-18",
    "poster": "/nijGyrqQbDhSGss4uugQokvBAsG.jpg",
+   "fondo": "/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
    "puntaje": 9.5
   },
   {
@@ -23,6 +25,7 @@
    "titulo": "The Beast",
    "fecha": "2026-10-08",
    "poster": "/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
+   "fondo": "/v5Wb9NoE0s1mGmC5wVeQR1OK22V.jpg",
    "puntaje": 5.3
   },
   {
@@ -31,6 +34,7 @@
    "titulo": "Vengadores: Doomsday",
    "fecha": "2026-12-16",
    "poster": "/7bQczUMnjz8iwxNP9YrmLkfI8od.jpg",
+   "fondo": "/4NxnrRmI7goXMsRASwSegf50MC8.jpg",
    "puntaje": 0.0
   },
   {
@@ -39,6 +43,7 @@
    "titulo": "Scrooge y los fantasmas de la Navidad",
    "fecha": "2026-11-11",
    "poster": "/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
+   "fondo": "/fdOVxyNNL95SuI8BGaN6vudEuYX.jpg",
    "puntaje": 7.7
   },
   {
@@ -47,6 +52,7 @@
    "titulo": "Godzilla Minus Zero",
    "fecha": "2026-11-03",
    "poster": "/2B7ZSUutCgwUAE5U0X7WlD8yiun.jpg",
+   "fondo": "/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
    "puntaje": 7.7
   },
   {
@@ -55,6 +61,7 @@
    "titulo": "La otra madre",
    "fecha": "2026-10-07",
    "poster": "/USCOKXrHBCeeK96qXmS0NyDHYL.jpg",
+   "fondo": "/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
    "puntaje": 6.3
   },
   {
@@ -63,6 +70,7 @@
    "titulo": "Resident Evil",
    "fecha": "2026-09-16",
    "poster": "/vrLEVObLGbUinE4sC4Lqao2dK0E.jpg",
+   "fondo": "/8R79AZjX1Bt4219Ub3CrRMsPQsW.jpg",
    "puntaje": 7.5
   },
   {
@@ -71,6 +79,7 @@
    "titulo": "En el corazón de la bestia",
    "fecha": "2026-09-19",
    "poster": "/ya8iLCNyoVpBO7B7JrNJVj3g7tK.jpg",
+   "fondo": "/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
    "puntaje": 7.6
   },
   {
@@ -79,6 +88,7 @@
    "titulo": "Spider-Man: Brand New Day",
    "fecha": "2026-07-29",
    "poster": "/tluwRNA7k0XfTtDkdLYKX1KOSCJ.jpg",
+   "fondo": "/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
    "puntaje": 8.5
   },
   {
@@ -87,6 +97,7 @@
    "titulo": "Heartland",
    "fecha": "2026-11-13",
    "poster": "/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+   "fondo": "/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
    "puntaje": 6.6
   },
   {
@@ -95,6 +106,7 @@
    "titulo": "Dune: Parte tres",
    "fecha": "2026-12-15",
    "poster": "/uj4EuGmFNAc4CHBVEtRZ04MXzka.jpg",
+   "fondo": "/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
    "puntaje": 0.0
   },
   {
@@ -103,6 +115,7 @@
    "titulo": "Allen",
    "fecha": "2026-11-12",
    "poster": "/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
+   "fondo": "/51fGmBW7WjyJouP9TjIcxRpCUNk.jpg",
    "puntaje": 6.8
   },
   {
@@ -111,6 +124,7 @@
    "titulo": "No nos rendimos",
    "fecha": "2026-11-11",
    "poster": "/6cHYHIv2tcUAZsyzUi5Hcwa1IAB.jpg",
+   "fondo": "/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
    "puntaje": 7.1
   },
   {
@@ -119,6 +133,7 @@
    "titulo": "Primetime",
    "fecha": "2026-09-23",
    "poster": "/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+   "fondo": "/sEsMwSDUWGIx9EfNxzM6KzVSsSQ.jpg",
    "puntaje": 6.8
   },
   {
@@ -127,6 +142,7 @@
    "titulo": "Ramayana: El Nacimiento de una Leyenda",
    "fecha": "2026-11-05",
    "poster": "/nzL1ySE6vdmR6RxXhE7gLggkp41.jpg",
+   "fondo": "/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
    "puntaje": 7.5
   },
   {
@@ -135,6 +151,7 @@
    "titulo": "Fall 2: Deadpoint",
    "fecha": "2026-09-01",
    "poster": "/ccBIyg1ITvuCDr4eMeEH0ZgNh4t.jpg",
+   "fondo": "/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
    "puntaje": 7.2
   },
   {
@@ -143,6 +160,7 @@
    "titulo": "Yo soy Rocky",
    "fecha": "2026-11-06",
    "poster": "/6ItqVHcsb2swkE7ajS6EVCH2mpd.jpg",
+   "fondo": "/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
    "puntaje": 8.5
   },
   {
@@ -151,6 +169,7 @@
    "titulo": "Street Fighter",
    "fecha": "2026-10-13",
    "poster": "/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
+   "fondo": "/3BBjkQmdGacKYZtpmK2vIfuDmON.jpg",
    "puntaje": 6.3
   }
  ],
@@ -161,6 +180,7 @@
    "titulo": "La Odisea",
    "fecha": "2026-07-15",
    "poster": "/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
+   "fondo": "/mIi99BK2mDpLp2lGsa8jCBDFit4.jpg",
    "puntaje": 8.0
   },
   {
@@ -169,6 +189,7 @@
    "titulo": "Los Juegos del Hambre: Amanecer en la cosecha",
    "fecha": "2026-11-18",
    "poster": "/nijGyrqQbDhSGss4uugQokvBAsG.jpg",
+   "fondo": "/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
    "puntaje": 9.5
   },
   {
@@ -177,6 +198,7 @@
    "titulo": "Vengadores: Doomsday",
    "fecha": "2026-12-16",
    "poster": "/7bQczUMnjz8iwxNP9YrmLkfI8od.jpg",
+   "fondo": "/4NxnrRmI7goXMsRASwSegf50MC8.jpg",
    "puntaje": 0.0
   },
   {
@@ -185,6 +207,7 @@
    "titulo": "La otra madre",
    "fecha": "2026-10-07",
    "poster": "/USCOKXrHBCeeK96qXmS0NyDHYL.jpg",
+   "fondo": "/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
    "puntaje": 6.3
   },
   {
@@ -193,6 +216,7 @@
    "titulo": "Scrooge y los fantasmas de la Navidad",
    "fecha": "2026-11-11",
    "poster": "/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
+   "fondo": "/fdOVxyNNL95SuI8BGaN6vudEuYX.jpg",
    "puntaje": 7.7
   },
   {
@@ -201,6 +225,7 @@
    "titulo": "Resident Evil",
    "fecha": "2026-09-16",
    "poster": "/vrLEVObLGbUinE4sC4Lqao2dK0E.jpg",
+   "fondo": "/8R79AZjX1Bt4219Ub3CrRMsPQsW.jpg",
    "puntaje": 7.5
   },
   {
@@ -209,6 +234,7 @@
    "titulo": "Godzilla Minus Zero",
    "fecha": "2026-11-03",
    "poster": "/2B7ZSUutCgwUAE5U0X7WlD8yiun.jpg",
+   "fondo": "/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
    "puntaje": 7.7
   },
   {
@@ -217,6 +243,7 @@
    "titulo": "En el corazón de la bestia",
    "fecha": "2026-09-19",
    "poster": "/ya8iLCNyoVpBO7B7JrNJVj3g7tK.jpg",
+   "fondo": "/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
    "puntaje": 7.6
   },
   {
@@ -225,6 +252,7 @@
    "titulo": "The Beast",
    "fecha": "2026-10-08",
    "poster": "/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
+   "fondo": "/v5Wb9NoE0s1mGmC5wVeQR1OK22V.jpg",
    "puntaje": 5.3
   },
   {
@@ -233,6 +261,7 @@
    "titulo": "Spider-Man: Brand New Day",
    "fecha": "2026-07-29",
    "poster": "/tluwRNA7k0XfTtDkdLYKX1KOSCJ.jpg",
+   "fondo": "/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
    "puntaje": 8.5
   },
   {
@@ -241,6 +270,7 @@
    "titulo": "No nos rendimos",
    "fecha": "2026-11-11",
    "poster": "/6cHYHIv2tcUAZsyzUi5Hcwa1IAB.jpg",
+   "fondo": "/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
    "puntaje": 7.1
   },
   {
@@ -249,6 +279,7 @@
    "titulo": "Model Citizen",
    "fecha": "2026-11-03",
    "poster": "/7SE0LBwgqiqZzkm9gKVbBAbcNQL.jpg",
+   "fondo": "/mC5Y5jmodmTp7T7eyQ8tTBnQRg5.jpg",
    "puntaje": 6.1
   },
   {
@@ -257,6 +288,7 @@
    "titulo": "Primetime",
    "fecha": "2026-09-23",
    "poster": "/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+   "fondo": "/sEsMwSDUWGIx9EfNxzM6KzVSsSQ.jpg",
    "puntaje": 6.8
   },
   {
@@ -265,6 +297,7 @@
    "titulo": "Dune: Parte tres",
    "fecha": "2026-12-15",
    "poster": "/uj4EuGmFNAc4CHBVEtRZ04MXzka.jpg",
+   "fondo": "/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
    "puntaje": 0.0
   },
   {
@@ -273,6 +306,7 @@
    "titulo": "Ramayana: El Nacimiento de una Leyenda",
    "fecha": "2026-11-05",
    "poster": "/nzL1ySE6vdmR6RxXhE7gLggkp41.jpg",
+   "fondo": "/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
    "puntaje": 7.5
   },
   {
@@ -281,6 +315,7 @@
    "titulo": "Un amor posible",
    "fecha": "2026-09-23",
    "poster": "/bYlv7oanFQB4zfTdDSGMz9cz1df.jpg",
+   "fondo": "/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
    "puntaje": 7.3
   },
   {
@@ -289,6 +324,7 @@
    "titulo": "Heartland",
    "fecha": "2026-11-13",
    "poster": "/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+   "fondo": "/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
    "puntaje": 6.6
   },
   {
@@ -297,6 +333,7 @@
    "titulo": "Como robar un banco",
    "fecha": "2026-11-10",
    "poster": "/xS35fgWgRdF2em5MGxg5WG9dPKd.jpg",
+   "fondo": "/u38hNQbxvIicUdfrHpqa9puBnA9.jpg",
    "puntaje": 6.4
   },
   {
@@ -305,6 +342,7 @@
    "titulo": "Wildwood: El Bosque Salvaje",
    "fecha": "2026-10-19",
    "poster": "/sJ1uZ4DKsjs2iqLtCX46TifxqoE.jpg",
+   "fondo": "/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
    "puntaje": 8.5
   }
  ],
@@ -315,6 +353,7 @@
    "titulo": "El cuerpo",
    "fecha": "2026-11-11",
    "poster": "/7GGL8WPqFzBSK3DBVuW7MVBna4g.jpg",
+   "fondo": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
    "puntaje": 7.8
   },
   {
@@ -323,6 +362,7 @@
    "titulo": "VisionQuest",
    "fecha": "2026-10-13",
    "poster": "/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
+   "fondo": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
    "puntaje": 8.3
   },
   {
@@ -331,6 +371,7 @@
    "titulo": "El Señor de los Anillos: Los Anillos de Poder",
    "fecha": "2022-09-01",
    "poster": "/xdsgZ60TBFiuAIvGPtxRsjDt4NV.jpg",
+   "fondo": "/uVOcz7JBOuZxsx9IYpx6Ah174LX.jpg",
    "puntaje": 7.2
   },
   {
@@ -339,6 +380,7 @@
    "titulo": "The Chosen (Los elegidos)",
    "fecha": "2019-04-21",
    "poster": "/9HDsb3zEw7notQLXpJpN3kDMMl0.jpg",
+   "fondo": "/ib8CO2kXlwg9fnauK9HuMkw0oNQ.jpg",
    "puntaje": 8.9
   },
   {
@@ -347,6 +389,7 @@
    "titulo": "El cine según Philomena Cunk",
    "fecha": "2026-11-12",
    "poster": "/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+   "fondo": "/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg",
    "puntaje": 7.7
   },
   {
@@ -355,6 +398,7 @@
    "titulo": "Tierra de mafiosos",
    "fecha": "2025-03-30",
    "poster": "/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+   "fondo": "/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
    "puntaje": 8.7
   },
   {
@@ -363,6 +407,7 @@
    "titulo": "12 12 12",
    "fecha": "2026-11-12",
    "poster": "/eq473fICspnCtzQfNxVsKgpgf3w.jpg",
+   "fondo": "/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
    "puntaje": 6.2
   },
   {
@@ -371,6 +416,7 @@
    "titulo": "Doctora X",
    "fecha": "2026-10-09",
    "poster": "/yIJO1M4sbYLa1HlmurXikO9TQm2.jpg",
+   "fondo": "/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
    "puntaje": 8.6
   },
   {
@@ -379,6 +425,7 @@
    "titulo": "La isla del tesoro",
    "fecha": "2026-10-11",
    "poster": "/rnTcsrrDckwC2QmEQ1M7YfJDMN7.jpg",
+   "fondo": "/grC6bTUTeVvjZ2orztjItUxM4yy.jpg",
    "puntaje": 6.6
   },
   {
@@ -387,6 +434,7 @@
    "titulo": "Marshals: Una historia de Yellowstone",
    "fecha": "2026-03-01",
    "poster": "/eYY0w7tyAQrwoAT6fpw8gIxeWhv.jpg",
+   "fondo": "/yGJGwt7DdIWTUXuahLfhcH1gi7G.jpg",
    "puntaje": 8.0
   },
   {
@@ -395,6 +443,7 @@
    "titulo": "Dexter: Resurrección",
    "fecha": "2025-07-13",
    "poster": "/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
+   "fondo": "/jgfmzwfmMh4DTqITVSdtxBKfFE5.jpg",
    "puntaje": 8.5
   },
   {
@@ -403,6 +452,7 @@
    "titulo": "문무",
    "fecha": "2026-11-14",
    "poster": "/wVpTtPknLaYCeXnRKO6p2dQle5Z.jpg",
+   "fondo": "/ohxUMg44IaMTtdaSmPn1M1QW3Js.jpg",
    "puntaje": 7.5
   },
   {
@@ -411,6 +461,7 @@
    "titulo": "Florecer en la oscuridad",
    "fecha": "2026-11-15",
    "poster": "/aliXRow2AlzfovIIGMrH5RPF3An.jpg",
+   "fondo": "/msJpPeZiqSxXXKJ0IiuOOOv7s9p.jpg",
    "puntaje": 9.0
   },
   {
@@ -419,6 +470,7 @@
    "titulo": "Slow Horses",
    "fecha": "2022-04-01",
    "poster": "/3YwDLuIScomV0ea3RNL6kHpbi7Y.jpg",
+   "fondo": "/gPQppUnLx9vqPDLz3WwZ2HJsNbt.jpg",
    "puntaje": 8.1
   },
   {
@@ -427,6 +479,7 @@
    "titulo": "크래시",
    "fecha": "2024-05-13",
    "poster": "/mlm7ZnMZxyexylGeAD48QgjEeAg.jpg",
+   "fondo": "/4wZZ8CGEsjXaKt5TosiFqbaPymD.jpg",
    "puntaje": 8.6
   },
   {
@@ -435,6 +488,7 @@
    "titulo": "The Good Daughter",
    "fecha": "2026-11-12",
    "poster": "/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg",
+   "fondo": "/nDU6mUk4wVU1EkDkDvcLvT2UWdy.jpg",
    "puntaje": 8.0
   },
   {
@@ -443,6 +497,7 @@
    "titulo": "Dragon Ball Super: Beerus",
    "fecha": "2026-10-11",
    "poster": "/sGuCmIy8kEmx3FWZyMj654rF6g8.jpg",
+   "fondo": "/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
    "puntaje": 9.6
   },
   {
@@ -451,6 +506,7 @@
    "titulo": "Un amor infiltrado",
    "fecha": "2026-10-19",
    "poster": "/rElWNrEbdYyPg1opWTtNiYm3ut5.jpg",
+   "fondo": "/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
    "puntaje": 9.1
   },
   {
@@ -459,6 +515,7 @@
    "titulo": "One Piece",
    "fecha": "1999-10-20",
    "poster": "/revXibqFO4JrwmLe34MKth1GVrd.jpg",
+   "fondo": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
    "puntaje": 8.8
   },
   {
@@ -467,6 +524,7 @@
    "titulo": "La Tormenta Silenciosa",
    "fecha": "2026-11-05",
    "poster": "/hJxVcstYVkxKCjMLThGGi7SOJTT.jpg",
+   "fondo": "/m5tiVhzIFIqDyIPwOsHDsMDGMsK.jpg",
    "puntaje": 9.0
   }
  ],
@@ -477,6 +535,7 @@
    "titulo": "VisionQuest",
    "fecha": "2026-10-13",
    "poster": "/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
+   "fondo": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
    "puntaje": 8.3
   },
   {
@@ -485,6 +544,7 @@
    "titulo": "El Señor de los Anillos: Los Anillos de Poder",
    "fecha": "2022-09-01",
    "poster": "/xdsgZ60TBFiuAIvGPtxRsjDt4NV.jpg",
+   "fondo": "/uVOcz7JBOuZxsx9IYpx6Ah174LX.jpg",
    "puntaje": 7.2
   },
   {
@@ -493,6 +553,7 @@
    "titulo": "El cuerpo",
    "fecha": "2026-11-11",
    "poster": "/7GGL8WPqFzBSK3DBVuW7MVBna4g.jpg",
+   "fondo": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
    "puntaje": 7.8
   },
   {
@@ -501,6 +562,7 @@
    "titulo": "12 12 12",
    "fecha": "2026-11-12",
    "poster": "/eq473fICspnCtzQfNxVsKgpgf3w.jpg",
+   "fondo": "/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
    "puntaje": 6.2
   },
   {
@@ -509,6 +571,7 @@
    "titulo": "Jimmy Kimmel Live!",
    "fecha": "2003-01-26",
    "poster": "/bGB6bEbG4qL22C1SFupkdAxYC9i.jpg",
+   "fondo": "/taqVKvEmMlI2hs2g364fXWzv0ia.jpg",
    "puntaje": 5.3
   },
   {
@@ -517,6 +580,7 @@
    "titulo": "Tierra de mafiosos",
    "fecha": "2025-03-30",
    "poster": "/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+   "fondo": "/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
    "puntaje": 8.7
   },
   {
@@ -525,6 +589,7 @@
    "titulo": "Dexter: Resurrección",
    "fecha": "2025-07-13",
    "poster": "/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
+   "fondo": "/jgfmzwfmMh4DTqITVSdtxBKfFE5.jpg",
    "puntaje": 8.5
   },
   {
@@ -533,6 +598,7 @@
    "titulo": "The Good Daughter",
    "fecha": "2026-11-12",
    "poster": "/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg",
+   "fondo": "/nDU6mUk4wVU1EkDkDvcLvT2UWdy.jpg",
    "puntaje": 8.0
   },
   {
@@ -541,6 +607,7 @@
    "titulo": "La emperatriz divorciada",
    "fecha": "2026-11-03",
    "poster": "/7cS90VaWOqQhgmsT0FYXYmIMcRp.jpg",
+   "fondo": "/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
    "puntaje": 8.6
   },
   {
@@ -549,6 +616,7 @@
    "titulo": "The Chosen (Los elegidos)",
    "fecha": "2019-04-21",
    "poster": "/9HDsb3zEw7notQLXpJpN3kDMMl0.jpg",
+   "fondo": "/ib8CO2kXlwg9fnauK9HuMkw0oNQ.jpg",
    "puntaje": 8.9
   },
   {
@@ -557,6 +625,7 @@
    "titulo": "La Tormenta Silenciosa",
    "fecha": "2026-11-05",
    "poster": "/hJxVcstYVkxKCjMLThGGi7SOJTT.jpg",
+   "fondo": "/m5tiVhzIFIqDyIPwOsHDsMDGMsK.jpg",
    "puntaje": 9.0
   },
   {
@@ -565,6 +634,7 @@
    "titulo": "Doctora X",
    "fecha": "2026-10-09",
    "poster": "/yIJO1M4sbYLa1HlmurXikO9TQm2.jpg",
+   "fondo": "/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
    "puntaje": 8.6
   },
   {
@@ -573,6 +643,7 @@
    "titulo": "El cine según Philomena Cunk",
    "fecha": "2026-11-12",
    "poster": "/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+   "fondo": "/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg",
    "puntaje": 7.7
   },
   {
@@ -581,6 +652,7 @@
    "titulo": "La emperatriz",
    "fecha": "2022-09-29",
    "poster": "/dkQIQCGPyoadFNvzZMgjtxFH3OH.jpg",
+   "fondo": "/lnPf1rCmSgcowbhMPH4M1avSApm.jpg",
    "puntaje": 7.7
   },
   {
@@ -589,6 +661,7 @@
    "titulo": "Tulsa King",
    "fecha": "2022-11-13",
    "poster": "/6ryay9RQfT5jrY9i1dveUUGryAO.jpg",
+   "fondo": "/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
    "puntaje": 8.3
   },
   {
@@ -597,6 +670,7 @@
    "titulo": "Campus Drivers",
    "fecha": "2026-11-06",
    "poster": "/oPltcyfWWfVmxB6lV8JZZJV3m7Q.jpg",
+   "fondo": "/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
    "puntaje": 7.8
   },
   {
@@ -605,6 +679,7 @@
    "titulo": "Nocturno",
    "fecha": "2026-10-29",
    "poster": "/hLjJbSkmEVXeEjwncDRShZOR4ok.jpg",
+   "fondo": "/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
    "puntaje": 7.6
   },
   {
@@ -613,6 +688,7 @@
    "titulo": "Lupin",
    "fecha": "2021-01-08",
    "poster": "/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg",
+   "fondo": "/jgAZYiuRV37pCxmhx8NTdhE36RL.jpg",
    "puntaje": 7.7
   },
   {
@@ -621,6 +697,7 @@
    "titulo": "One Piece",
    "fecha": "1999-10-20",
    "poster": "/revXibqFO4JrwmLe34MKth1GVrd.jpg",
+   "fondo": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
    "puntaje": 8.8
   },
   {
@@ -629,6 +706,7 @@
    "titulo": "South Park",
    "fecha": "1997-08-13",
    "poster": "/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+   "fondo": "/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
    "puntaje": 8.3
   }
  ],
@@ -639,6 +717,7 @@
    "titulo": "La Odisea",
    "fecha": "2026-07-15",
    "poster": "/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
+   "fondo": "/mIi99BK2mDpLp2lGsa8jCBDFit4.jpg",
    "puntaje": 8.0
   },
   {
@@ -647,6 +726,7 @@
    "titulo": "Los Juegos del Hambre: Amanecer en la cosecha",
    "fecha": "2026-11-18",
    "poster": "/nijGyrqQbDhSGss4uugQokvBAsG.jpg",
+   "fondo": "/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
    "puntaje": 9.5
   },
   {
@@ -655,6 +735,7 @@
    "titulo": "The Beast",
    "fecha": "2026-10-08",
    "poster": "/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
+   "fondo": "/v5Wb9NoE0s1mGmC5wVeQR1OK22V.jpg",
    "puntaje": 5.3
   },
   {
@@ -663,6 +744,7 @@
    "titulo": "Vengadores: Doomsday",
    "fecha": "2026-12-16",
    "poster": "/7bQczUMnjz8iwxNP9YrmLkfI8od.jpg",
+   "fondo": "/4NxnrRmI7goXMsRASwSegf50MC8.jpg",
    "puntaje": 0.0
   },
   {
@@ -671,6 +753,7 @@
    "titulo": "El cuerpo",
    "fecha": "2026-11-11",
    "poster": "/7GGL8WPqFzBSK3DBVuW7MVBna4g.jpg",
+   "fondo": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
    "puntaje": 7.8
   },
   {
@@ -679,6 +762,7 @@
    "titulo": "VisionQuest",
    "fecha": "2026-10-13",
    "poster": "/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
+   "fondo": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
    "puntaje": 8.3
   },
   {
@@ -687,6 +771,7 @@
    "titulo": "Scrooge y los fantasmas de la Navidad",
    "fecha": "2026-11-11",
    "poster": "/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
+   "fondo": "/fdOVxyNNL95SuI8BGaN6vudEuYX.jpg",
    "puntaje": 7.7
   },
   {
@@ -695,6 +780,7 @@
    "titulo": "El Señor de los Anillos: Los Anillos de Poder",
    "fecha": "2022-09-01",
    "poster": "/xdsgZ60TBFiuAIvGPtxRsjDt4NV.jpg",
+   "fondo": "/uVOcz7JBOuZxsx9IYpx6Ah174LX.jpg",
    "puntaje": 7.2
   },
   {
@@ -703,6 +789,7 @@
    "titulo": "La otra madre",
    "fecha": "2026-10-07",
    "poster": "/USCOKXrHBCeeK96qXmS0NyDHYL.jpg",
+   "fondo": "/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
    "puntaje": 6.3
   },
   {
@@ -711,6 +798,7 @@
    "titulo": "Godzilla Minus Zero",
    "fecha": "2026-11-03",
    "poster": "/2B7ZSUutCgwUAE5U0X7WlD8yiun.jpg",
+   "fondo": "/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
    "puntaje": 7.7
   },
   {
@@ -719,6 +807,7 @@
    "titulo": "Resident Evil",
    "fecha": "2026-09-16",
    "poster": "/vrLEVObLGbUinE4sC4Lqao2dK0E.jpg",
+   "fondo": "/8R79AZjX1Bt4219Ub3CrRMsPQsW.jpg",
    "puntaje": 7.5
   },
   {
@@ -727,6 +816,7 @@
    "titulo": "The Chosen (Los elegidos)",
    "fecha": "2019-04-21",
    "poster": "/9HDsb3zEw7notQLXpJpN3kDMMl0.jpg",
+   "fondo": "/ib8CO2kXlwg9fnauK9HuMkw0oNQ.jpg",
    "puntaje": 8.9
   },
   {
@@ -735,6 +825,7 @@
    "titulo": "En el corazón de la bestia",
    "fecha": "2026-09-19",
    "poster": "/ya8iLCNyoVpBO7B7JrNJVj3g7tK.jpg",
+   "fondo": "/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
    "puntaje": 7.6
   },
   {
@@ -743,6 +834,7 @@
    "titulo": "Spider-Man: Brand New Day",
    "fecha": "2026-07-29",
    "poster": "/tluwRNA7k0XfTtDkdLYKX1KOSCJ.jpg",
+   "fondo": "/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
    "puntaje": 8.5
   },
   {
@@ -751,6 +843,7 @@
    "titulo": "Un amor infiltrado",
    "fecha": "2026-10-19",
    "poster": "/rElWNrEbdYyPg1opWTtNiYm3ut5.jpg",
+   "fondo": "/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
    "puntaje": 9.1
   },
   {
@@ -759,6 +852,7 @@
    "titulo": "Heartland",
    "fecha": "2026-11-13",
    "poster": "/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+   "fondo": "/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
    "puntaje": 6.6
   },
   {
@@ -767,6 +861,7 @@
    "titulo": "El cine según Philomena Cunk",
    "fecha": "2026-11-12",
    "poster": "/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+   "fondo": "/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg",
    "puntaje": 7.7
   },
   {
@@ -775,6 +870,7 @@
    "titulo": "Tierra de mafiosos",
    "fecha": "2025-03-30",
    "poster": "/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+   "fondo": "/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
    "puntaje": 8.7
   },
   {
@@ -783,6 +879,7 @@
    "titulo": "No nos rendimos",
    "fecha": "2026-11-11",
    "poster": "/6cHYHIv2tcUAZsyzUi5Hcwa1IAB.jpg",
+   "fondo": "/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
    "puntaje": 7.1
   }
  ]

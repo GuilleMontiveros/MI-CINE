@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16T21:12:12.663779+00:00",
+ "actualizado": "2026-11-16T21:26:02.397741+00:00",
  "series": [
   {
    "id": 225171,
@@ -7,8 +7,10 @@
    "titulo": "Pluribus",
    "fecha": "2025-11-06",
    "poster": "/stkYbERuo2YYuay37rYaE41Izyu.jpg",
+   "fondo": "/ulm1ex4JFYJByyaPyqTr47MFyEQ.jpg",
    "puntaje": 7.9,
    "estado": "Returning Series",
+   "proximos": [],
    "ultimo": {
     "id": 5964855,
     "fecha": "2025-12-23",
@@ -31,8 +33,10 @@
    "titulo": "One Piece",
    "fecha": "1999-10-20",
    "poster": "/revXibqFO4JrwmLe34MKth1GVrd.jpg",
+   "fondo": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
    "puntaje": 8.8,
    "estado": "Returning Series",
+   "proximos": [],
    "ultimo": {
     "id": 7550231,
     "fecha": "2026-09-27",
@@ -58,8 +62,95 @@
    "titulo": "Black Clover",
    "fecha": "2017-10-03",
    "poster": "/zObHoFAX6P7DirR2dybN3cVC1Ms.jpg",
+   "fondo": "/qu9epTZh29fGUkY7ZYc9PVsv0Ig.jpg",
    "puntaje": 8.5,
    "estado": "Returning Series",
+   "proximos": [
+    {
+     "id": 7903820,
+     "fecha": "2026-11-21",
+     "t": 2,
+     "e": 8,
+     "nombre": "Episodio 8"
+    },
+    {
+     "id": 7903821,
+     "fecha": "2026-11-28",
+     "t": 2,
+     "e": 9,
+     "nombre": "Episodio 9"
+    },
+    {
+     "id": 7903822,
+     "fecha": "2026-12-05",
+     "t": 2,
+     "e": 10,
+     "nombre": "Episodio 10"
+    },
+    {
+     "id": 7903823,
+     "fecha": "2026-12-12",
+     "t": 2,
+     "e": 11,
+     "nombre": "Episodio 11"
+    },
+    {
+     "id": 7903824,
+     "fecha": "2026-12-19",
+     "t": 2,
+     "e": 12,
+     "nombre": "Episodio 12"
+    },
+    {
+     "id": 7903825,
+     "fecha": "2026-12-26",
+     "t": 2,
+     "e": 13,
+     "nombre": "Episodio 13"
+    },
+    {
+     "id": 7903826,
+     "fecha": "2027-01-02",
+     "t": 2,
+     "e": 14,
+     "nombre": "Episodio 14"
+    },
+    {
+     "id": 7903827,
+     "fecha": "2027-01-09",
+     "t": 2,
+     "e": 15,
+     "nombre": "Episodio 15"
+    },
+    {
+     "id": 7903828,
+     "fecha": "2027-01-16",
+     "t": 2,
+     "e": 16,
+     "nombre": "Episodio 16"
+    },
+    {
+     "id": 7903829,
+     "fecha": "2027-01-23",
+     "t": 2,
+     "e": 17,
+     "nombre": "Episodio 17"
+    },
+    {
+     "id": 7903830,
+     "fecha": "2027-01-30",
+     "t": 2,
+     "e": 18,
+     "nombre": "Episodio 18"
+    },
+    {
+     "id": 7903831,
+     "fecha": "2027-02-06",
+     "t": 2,
+     "e": 19,
+     "nombre": "Episodio 19"
+    }
+   ],
    "ultimo": {
     "id": 7903818,
     "fecha": "2026-11-14",
@@ -83,8 +174,10 @@
    "titulo": "Cyberpunk: Edgerunners",
    "fecha": "2022-09-13",
    "poster": "/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
+   "fondo": "/bknKZO7DWVYKeByuJMnGI46PFZg.jpg",
    "puntaje": 8.5,
    "estado": "Returning Series",
+   "proximos": [],
    "ultimo": {
     "id": 7900186,
     "fecha": "2026-10-20",
@@ -106,8 +199,10 @@
    "titulo": "Friends",
    "fecha": "1994-09-22",
    "poster": "/rkKCSlr8OH5tbKEdgwtzvEiemrl.jpg",
+   "fondo": "/l0qVZIpXtIo7km9u5Yqh0nKPOr5.jpg",
    "puntaje": 8.4,
    "estado": "Ended",
+   "proximos": [],
    "ultimo": {
     "id": 87632,
     "fecha": "2004-05-06",
