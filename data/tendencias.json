@@ -1,0 +1,473 @@
+{
+ "actualizado": "2026-11-16T20:57:45.403250+00:00",
+ "pelis_semana": [
+  {
+   "id": 1368337,
+   "tipo": "movie",
+   "titulo": "La Odisea",
+   "fecha": "2026-07-15",
+   "poster": "/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
+   "puntaje": 8.0
+  },
+  {
+   "id": 1300968,
+   "tipo": "movie",
+   "titulo": "Los Juegos del Hambre: Amanecer en la cosecha",
+   "fecha": "2026-11-18",
+   "poster": "/nijGyrqQbDhSGss4uugQokvBAsG.jpg",
+   "puntaje": 9.5
+  },
+  {
+   "id": 1003596,
+   "tipo": "movie",
+   "titulo": "Vengadores: Doomsday",
+   "fecha": "2026-12-16",
+   "poster": "/7bQczUMnjz8iwxNP9YrmLkfI8od.jpg",
+   "puntaje": 0.0
+  },
+  {
+   "id": 1400837,
+   "tipo": "movie",
+   "titulo": "La otra madre",
+   "fecha": "2026-10-07",
+   "poster": "/USCOKXrHBCeeK96qXmS0NyDHYL.jpg",
+   "puntaje": 6.3
+  },
+  {
+   "id": 1567605,
+   "tipo": "movie",
+   "titulo": "Scrooge y los fantasmas de la Navidad",
+   "fecha": "2026-11-11",
+   "poster": "/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
+   "puntaje": 7.7
+  },
+  {
+   "id": 1423191,
+   "tipo": "movie",
+   "titulo": "Resident Evil",
+   "fecha": "2026-09-16",
+   "poster": "/vrLEVObLGbUinE4sC4Lqao2dK0E.jpg",
+   "puntaje": 7.5
+  },
+  {
+   "id": 1381071,
+   "tipo": "movie",
+   "titulo": "Godzilla Minus Zero",
+   "fecha": "2026-11-03",
+   "poster": "/2B7ZSUutCgwUAE5U0X7WlD8yiun.jpg",
+   "puntaje": 7.7
+  },
+  {
+   "id": 1263337,
+   "tipo": "movie",
+   "titulo": "En el corazón de la bestia",
+   "fecha": "2026-09-19",
+   "poster": "/ya8iLCNyoVpBO7B7JrNJVj3g7tK.jpg",
+   "puntaje": 7.6
+  },
+  {
+   "id": 1185344,
+   "tipo": "movie",
+   "titulo": "The Beast",
+   "fecha": "2026-10-08",
+   "poster": "/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
+   "puntaje": 5.3
+  },
+  {
+   "id": 969681,
+   "tipo": "movie",
+   "titulo": "Spider-Man: Brand New Day",
+   "fecha": "2026-07-29",
+   "poster": "/tluwRNA7k0XfTtDkdLYKX1KOSCJ.jpg",
+   "puntaje": 8.5
+  },
+  {
+   "id": 1616687,
+   "tipo": "movie",
+   "titulo": "No nos rendimos",
+   "fecha": "2026-11-11",
+   "poster": "/6cHYHIv2tcUAZsyzUi5Hcwa1IAB.jpg",
+   "puntaje": 7.1
+  },
+  {
+   "id": 1792170,
+   "tipo": "movie",
+   "titulo": "Model Citizen",
+   "fecha": "2026-11-03",
+   "poster": "/7SE0LBwgqiqZzkm9gKVbBAbcNQL.jpg",
+   "puntaje": 6.1
+  },
+  {
+   "id": 1375441,
+   "tipo": "movie",
+   "titulo": "Primetime",
+   "fecha": "2026-09-23",
+   "poster": "/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+   "puntaje": 6.8
+  },
+  {
+   "id": 1170608,
+   "tipo": "movie",
+   "titulo": "Dune: Parte tres",
+   "fecha": "2026-12-15",
+   "poster": "/uj4EuGmFNAc4CHBVEtRZ04MXzka.jpg",
+   "puntaje": 0.0
+  },
+  {
+   "id": 656908,
+   "tipo": "movie",
+   "titulo": "Ramayana: El Nacimiento de una Leyenda",
+   "fecha": "2026-11-05",
+   "poster": "/nzL1ySE6vdmR6RxXhE7gLggkp41.jpg",
+   "puntaje": 7.5
+  },
+  {
+   "id": 1483525,
+   "tipo": "movie",
+   "titulo": "Un amor posible",
+   "fecha": "2026-09-23",
+   "poster": "/bYlv7oanFQB4zfTdDSGMz9cz1df.jpg",
+   "puntaje": 7.3
+  },
+  {
+   "id": 1543469,
+   "tipo": "movie",
+   "titulo": "Heartland",
+   "fecha": "2026-11-13",
+   "poster": "/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+   "puntaje": 6.6
+  },
+  {
+   "id": 1437511,
+   "tipo": "movie",
+   "titulo": "Como robar un banco",
+   "fecha": "2026-11-10",
+   "poster": "/xS35fgWgRdF2em5MGxg5WG9dPKd.jpg",
+   "puntaje": 6.4
+  },
+  {
+   "id": 791523,
+   "tipo": "movie",
+   "titulo": "Wildwood: El Bosque Salvaje",
+   "fecha": "2026-10-19",
+   "poster": "/sJ1uZ4DKsjs2iqLtCX46TifxqoE.jpg",
+   "puntaje": 8.5
+  }
+ ],
+ "series_semana": [
+  {
+   "id": 213375,
+   "tipo": "tv",
+   "titulo": "VisionQuest",
+   "fecha": "2026-10-13",
+   "poster": "/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
+   "puntaje": 8.3
+  },
+  {
+   "id": 84773,
+   "tipo": "tv",
+   "titulo": "El Señor de los Anillos: Los Anillos de Poder",
+   "fecha": "2022-09-01",
+   "poster": "/xdsgZ60TBFiuAIvGPtxRsjDt4NV.jpg",
+   "puntaje": 7.2
+  },
+  {
+   "id": 291507,
+   "tipo": "tv",
+   "titulo": "El cuerpo",
+   "fecha": "2026-11-11",
+   "poster": "/7GGL8WPqFzBSK3DBVuW7MVBna4g.jpg",
+   "puntaje": 7.8
+  },
+  {
+   "id": 254630,
+   "tipo": "tv",
+   "titulo": "12 12 12",
+   "fecha": "2026-11-12",
+   "poster": "/eq473fICspnCtzQfNxVsKgpgf3w.jpg",
+   "puntaje": 6.2
+  },
+  {
+   "id": 1489,
+   "tipo": "tv",
+   "titulo": "Jimmy Kimmel Live!",
+   "fecha": "2003-01-26",
+   "poster": "/bGB6bEbG4qL22C1SFupkdAxYC9i.jpg",
+   "puntaje": 5.3
+  },
+  {
+   "id": 247718,
+   "tipo": "tv",
+   "titulo": "Tierra de mafiosos",
+   "fecha": "2025-03-30",
+   "poster": "/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+   "puntaje": 8.7
+  },
+  {
+   "id": 259909,
+   "tipo": "tv",
+   "titulo": "Dexter: Resurrección",
+   "fecha": "2025-07-13",
+   "poster": "/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
+   "puntaje": 8.5
+  },
+  {
+   "id": 249565,
+   "tipo": "tv",
+   "titulo": "The Good Daughter",
+   "fecha": "2026-11-12",
+   "poster": "/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg",
+   "puntaje": 8.0
+  },
+  {
+   "id": 279246,
+   "tipo": "tv",
+   "titulo": "La emperatriz divorciada",
+   "fecha": "2026-11-03",
+   "poster": "/7cS90VaWOqQhgmsT0FYXYmIMcRp.jpg",
+   "puntaje": 8.6
+  },
+  {
+   "id": 85077,
+   "tipo": "tv",
+   "titulo": "The Chosen (Los elegidos)",
+   "fecha": "2019-04-21",
+   "poster": "/9HDsb3zEw7notQLXpJpN3kDMMl0.jpg",
+   "puntaje": 8.9
+  },
+  {
+   "id": 279155,
+   "tipo": "tv",
+   "titulo": "La Tormenta Silenciosa",
+   "fecha": "2026-11-05",
+   "poster": "/hJxVcstYVkxKCjMLThGGi7SOJTT.jpg",
+   "puntaje": 9.0
+  },
+  {
+   "id": 293610,
+   "tipo": "tv",
+   "titulo": "Doctora X",
+   "fecha": "2026-10-09",
+   "poster": "/yIJO1M4sbYLa1HlmurXikO9TQm2.jpg",
+   "puntaje": 8.6
+  },
+  {
+   "id": 335981,
+   "tipo": "tv",
+   "titulo": "El cine según Philomena Cunk",
+   "fecha": "2026-11-12",
+   "poster": "/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+   "puntaje": 7.7
+  },
+  {
+   "id": 131488,
+   "tipo": "tv",
+   "titulo": "La emperatriz",
+   "fecha": "2022-09-29",
+   "poster": "/dkQIQCGPyoadFNvzZMgjtxFH3OH.jpg",
+   "puntaje": 7.7
+  },
+  {
+   "id": 153312,
+   "tipo": "tv",
+   "titulo": "Tulsa King",
+   "fecha": "2022-11-13",
+   "poster": "/6ryay9RQfT5jrY9i1dveUUGryAO.jpg",
+   "puntaje": 8.3
+  },
+  {
+   "id": 303044,
+   "tipo": "tv",
+   "titulo": "Campus Drivers",
+   "fecha": "2026-11-06",
+   "poster": "/oPltcyfWWfVmxB6lV8JZZJV3m7Q.jpg",
+   "puntaje": 7.8
+  },
+  {
+   "id": 292741,
+   "tipo": "tv",
+   "titulo": "Nocturno",
+   "fecha": "2026-10-29",
+   "poster": "/hLjJbSkmEVXeEjwncDRShZOR4ok.jpg",
+   "puntaje": 7.6
+  },
+  {
+   "id": 96677,
+   "tipo": "tv",
+   "titulo": "Lupin",
+   "fecha": "2021-01-08",
+   "poster": "/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg",
+   "puntaje": 7.7
+  },
+  {
+   "id": 37854,
+   "tipo": "tv",
+   "titulo": "One Piece",
+   "fecha": "1999-10-20",
+   "poster": "/revXibqFO4JrwmLe34MKth1GVrd.jpg",
+   "puntaje": 8.8
+  },
+  {
+   "id": 2190,
+   "tipo": "tv",
+   "titulo": "South Park",
+   "fecha": "1997-08-13",
+   "poster": "/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
+   "puntaje": 8.3
+  }
+ ],
+ "hoy": [
+  {
+   "id": 1368337,
+   "tipo": "movie",
+   "titulo": "La Odisea",
+   "fecha": "2026-07-15",
+   "poster": "/9aeb5U0saB7Tuu0QITaoENZBxFF.jpg",
+   "puntaje": 8.0
+  },
+  {
+   "id": 1300968,
+   "tipo": "movie",
+   "titulo": "Los Juegos del Hambre: Amanecer en la cosecha",
+   "fecha": "2026-11-18",
+   "poster": "/nijGyrqQbDhSGss4uugQokvBAsG.jpg",
+   "puntaje": 9.5
+  },
+  {
+   "id": 1185344,
+   "tipo": "movie",
+   "titulo": "The Beast",
+   "fecha": "2026-10-08",
+   "poster": "/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
+   "puntaje": 5.3
+  },
+  {
+   "id": 1003596,
+   "tipo": "movie",
+   "titulo": "Vengadores: Doomsday",
+   "fecha": "2026-12-16",
+   "poster": "/7bQczUMnjz8iwxNP9YrmLkfI8od.jpg",
+   "puntaje": 0.0
+  },
+  {
+   "id": 291507,
+   "tipo": "tv",
+   "titulo": "El cuerpo",
+   "fecha": "2026-11-11",
+   "poster": "/7GGL8WPqFzBSK3DBVuW7MVBna4g.jpg",
+   "puntaje": 7.8
+  },
+  {
+   "id": 213375,
+   "tipo": "tv",
+   "titulo": "VisionQuest",
+   "fecha": "2026-10-13",
+   "poster": "/hXlvDq98VMg3WJWTDzwcPeMk39A.jpg",
+   "puntaje": 8.3
+  },
+  {
+   "id": 1567605,
+   "tipo": "movie",
+   "titulo": "Scrooge y los fantasmas de la Navidad",
+   "fecha": "2026-11-11",
+   "poster": "/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
+   "puntaje": 7.7
+  },
+  {
+   "id": 84773,
+   "tipo": "tv",
+   "titulo": "El Señor de los Anillos: Los Anillos de Poder",
+   "fecha": "2022-09-01",
+   "poster": "/xdsgZ60TBFiuAIvGPtxRsjDt4NV.jpg",
+   "puntaje": 7.2
+  },
+  {
+   "id": 1400837,
+   "tipo": "movie",
+   "titulo": "La otra madre",
+   "fecha": "2026-10-07",
+   "poster": "/USCOKXrHBCeeK96qXmS0NyDHYL.jpg",
+   "puntaje": 6.3
+  },
+  {
+   "id": 1381071,
+   "tipo": "movie",
+   "titulo": "Godzilla Minus Zero",
+   "fecha": "2026-11-03",
+   "poster": "/2B7ZSUutCgwUAE5U0X7WlD8yiun.jpg",
+   "puntaje": 7.7
+  },
+  {
+   "id": 1423191,
+   "tipo": "movie",
+   "titulo": "Resident Evil",
+   "fecha": "2026-09-16",
+   "poster": "/vrLEVObLGbUinE4sC4Lqao2dK0E.jpg",
+   "puntaje": 7.5
+  },
+  {
+   "id": 85077,
+   "tipo": "tv",
+   "titulo": "The Chosen (Los elegidos)",
+   "fecha": "2019-04-21",
+   "poster": "/9HDsb3zEw7notQLXpJpN3kDMMl0.jpg",
+   "puntaje": 8.9
+  },
+  {
+   "id": 1263337,
+   "tipo": "movie",
+   "titulo": "En el corazón de la bestia",
+   "fecha": "2026-09-19",
+   "poster": "/ya8iLCNyoVpBO7B7JrNJVj3g7tK.jpg",
+   "puntaje": 7.6
+  },
+  {
+   "id": 969681,
+   "tipo": "movie",
+   "titulo": "Spider-Man: Brand New Day",
+   "fecha": "2026-07-29",
+   "poster": "/tluwRNA7k0XfTtDkdLYKX1KOSCJ.jpg",
+   "puntaje": 8.5
+  },
+  {
+   "id": 303745,
+   "tipo": "tv",
+   "titulo": "Un amor infiltrado",
+   "fecha": "2026-10-19",
+   "poster": "/rElWNrEbdYyPg1opWTtNiYm3ut5.jpg",
+   "puntaje": 9.1
+  },
+  {
+   "id": 1543469,
+   "tipo": "movie",
+   "titulo": "Heartland",
+   "fecha": "2026-11-13",
+   "poster": "/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+   "puntaje": 6.6
+  },
+  {
+   "id": 335981,
+   "tipo": "tv",
+   "titulo": "El cine según Philomena Cunk",
+   "fecha": "2026-11-12",
+   "poster": "/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+   "puntaje": 7.7
+  },
+  {
+   "id": 247718,
+   "tipo": "tv",
+   "titulo": "Tierra de mafiosos",
+   "fecha": "2025-03-30",
+   "poster": "/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+   "puntaje": 8.7
+  },
+  {
+   "id": 1616687,
+   "tipo": "movie",
+   "titulo": "No nos rendimos",
+   "fecha": "2026-11-11",
+   "poster": "/6cHYHIv2tcUAZsyzUi5Hcwa1IAB.jpg",
+   "puntaje": 7.1
+  }
+ ]
+}
