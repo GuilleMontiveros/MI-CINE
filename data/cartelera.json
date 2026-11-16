@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16T21:55:46.440434+00:00",
+ "actualizado": "2026-11-16T21:58:16.197147+00:00",
  "play": {
   "desde": "12/11",
   "hasta": "18/11",
@@ -17,7 +17,7 @@
      }
     ],
     "nota": null,
-    "img_cine": null,
+    "img_cine": "https://www.playcinema.net/2025/imgs/peliculas/peli_5d3419966f619b0776b4603e5e60d745.webp",
     "id": 1437511,
     "poster": "/xS35fgWgRdF2em5MGxg5WG9dPKd.jpg",
     "mia": false
@@ -35,7 +35,7 @@
      }
     ],
     "nota": null,
-    "img_cine": null,
+    "img_cine": "https://www.playcinema.net/2025/imgs/peliculas/peli_e23ef0526d58acaf1aa6abe94cc30c79.webp",
     "id": 891621,
     "poster": "/bLDrHn76oiNYiELv1qw3Tfdkqc8.jpg",
     "mia": true
@@ -53,7 +53,7 @@
      }
     ],
     "nota": null,
-    "img_cine": null,
+    "img_cine": "https://www.playcinema.net/2025/imgs/peliculas/peli_9dee3061d0f028749ffd6b7de34d2d57.webp",
     "id": 1284046,
     "poster": "/bKq74yT1Gca4JCd7E6IAHPLWBg0.jpg",
     "mia": false
@@ -73,7 +73,7 @@
      }
     ],
     "nota": null,
-    "img_cine": null,
+    "img_cine": "https://www.playcinema.net/2025/imgs/peliculas/peli_bcad863780384150f1c7d1169ceb3f02.webp",
     "id": 1280405,
     "poster": "/12N7a0AqUK8tDYo8RgBXIZQ7kgJ.jpg",
     "mia": false
@@ -99,7 +99,7 @@
      }
     ],
     "nota": null,
-    "img_cine": null,
+    "img_cine": "https://www.playcinema.net/2025/imgs/peliculas/peli_e967da3f0ae8d7177ae60e5cc8e1b892.webp",
     "id": 1567605,
     "poster": "/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
     "mia": false
@@ -123,7 +123,7 @@
      }
     ],
     "nota": "Funciones disponibles únicamente miércoles 18/11",
-    "img_cine": null,
+    "img_cine": "https://www.playcinema.net/2025/imgs/peliculas/peli_bc1a669c3823ed66a7b45d22479aa640.webp",
     "mia": false
    },
    {
@@ -139,7 +139,7 @@
      }
     ],
     "nota": null,
-    "img_cine": null,
+    "img_cine": "https://www.playcinema.net/2025/imgs/peliculas/peli_75e8afcef1eb0350ba0438ebd5e5041b.webp",
     "id": 1284186,
     "poster": "/fRjUuePNJFW2BcL5bXAe5xytGr9.jpg",
     "mia": false
@@ -158,7 +158,7 @@
      }
     ],
     "nota": null,
-    "img_cine": null,
+    "img_cine": "https://www.playcinema.net/2025/imgs/peliculas/peli_0854782c774cb488360441a2f5e22bf5.webp",
     "id": 1381071,
     "poster": "/2B7ZSUutCgwUAE5U0X7WlD8yiun.jpg",
     "mia": true
@@ -183,7 +183,7 @@
      }
     ],
     "nota": null,
-    "img_cine": null,
+    "img_cine": "https://www.playcinema.net/2025/imgs/peliculas/peli_48745495e8d06864698490bae329e591.webp",
     "id": 1117898,
     "poster": "/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
     "mia": false
@@ -202,7 +202,7 @@
      }
     ],
     "nota": null,
-    "img_cine": null,
+    "img_cine": "https://www.playcinema.net/2025/imgs/peliculas/peli_14120c614edd3c9d73bcc8552f94bda7.webp",
     "id": 791523,
     "poster": "/sJ1uZ4DKsjs2iqLtCX46TifxqoE.jpg",
     "mia": true
@@ -220,7 +220,7 @@
      }
     ],
     "nota": null,
-    "img_cine": null,
+    "img_cine": "https://www.playcinema.net/2025/imgs/peliculas/peli_b326a62a3b77f4c2a3417efb69ca9056.webp",
     "id": 1400940,
     "poster": "/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
     "mia": true
@@ -238,7 +238,7 @@
      }
     ],
     "nota": null,
-    "img_cine": null,
+    "img_cine": "https://www.playcinema.net/2025/imgs/peliculas/peli_35414a72e92c0fe7e8f4846971c2faad.webp",
     "id": 1572116,
     "poster": "/mL3UwoaSdzBrXeCsIRnk4f49ibO.jpg",
     "mia": false
@@ -256,7 +256,7 @@
      }
     ],
     "nota": null,
-    "img_cine": null,
+    "img_cine": "https://www.playcinema.net/2025/imgs/peliculas/peli_2de6877a8920be37e6a0b42d75efded6.webp",
     "id": 1400837,
     "poster": "/USCOKXrHBCeeK96qXmS0NyDHYL.jpg",
     "mia": false
