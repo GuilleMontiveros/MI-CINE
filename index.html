@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es-AR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mi cine</title>
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#111">
+<style>
+  body{margin:0;font-family:system-ui,sans-serif;background:#111;color:#eee}
+  header{padding:16px;position:sticky;top:0;background:#111;border-bottom:1px solid #333}
+  h1{margin:0;font-size:22px} small{color:#888}
+  nav button{background:#222;color:#eee;border:0;padding:8px 14px;border-radius:20px;margin:8px 6px 0 0;cursor:pointer}
+  nav button.on{background:#e50;color:#fff}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:12px;padding:16px}
+  .c img{width:100%;border-radius:8px;aspect-ratio:2/3;object-fit:cover;background:#222}
+  .c b{display:block;font-size:14px;margin-top:4px} .c span{font-size:12px;color:#999}
+  footer{padding:16px;font-size:12px;color:#777}
+</style>
+</head>
+<body>
+<header>
+  <h1>🎬 Mi cine</h1>
+  <small id="act"></small>
+  <nav>
+    <button data-v="semana" class="on">Tendencias semana</button>
+    <button data-v="hoy">Hoy</button>
+    <button data-v="esperadas">Mis esperadas</button>
+  </nav>
+</header>
+<div class="grid" id="g"></div>
+<footer>Datos de películas y series: TMDB. Este producto usa la API de TMDB pero no está avalado ni certificado por TMDB.</footer>
+<script>
+let T={}, L={};
+const img=p=>p?`https://image.tmdb.org/t/p/w342${p}`:'';
+function card(x){return `<div class="c"><img loading="lazy" src="${img(x.poster)}" alt=""><b>${x.titulo}</b><span>${x.tipo==='tv'?'Serie':'Película'} · ${(x.fecha||'').slice(0,4)} · ⭐ ${x.puntaje}</span></div>`}
+function lb(x){return `<div class="c"><b>${x.titulo}</b><span>${x.anio}</span></div>`}
+function ver(v){
+  document.querySelectorAll('nav button').forEach(b=>b.classList.toggle('on',b.dataset.v===v));
+  const g=document.getElementById('g');
+  if(v==='esperadas'){const l=[...L.esperadas].sort((a,b)=>b.anio-a.anio);g.innerHTML=l.map(lb).join('')}
+  else g.innerHTML=(T[v]||[]).map(card).join('');
+}
+document.querySelectorAll('nav button').forEach(b=>b.onclick=()=>ver(b.dataset.v));
+Promise.all([fetch('data/tendencias.json').then(r=>r.json()),fetch('data/letterboxd.json').then(r=>r.json())])
+.then(([t,l])=>{T=t;L=l;document.getElementById('act').textContent='Actualizado: '+new Date(t.actualizado).toLocaleString('es-AR');ver('semana')});
+</script>
+</body>
+</html>
