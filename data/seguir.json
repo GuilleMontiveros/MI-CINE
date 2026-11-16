@@ -1,10 +1,9 @@
 {
- "_ayuda": "Editá desde GitHub. series: las que querés seguir sí o sí. excluir: series que no querés ver más (no avisan). prioridades: películas al frente.",
+ "_ayuda": "series: las que estás viendo (avisos y Próximamente). progreso: por dónde vas. series_prioridad: al frente. excluir: no avisar nunca.",
  "series": [
-  "Pluribus",
-  "One Piece",
-  "Cyberpunk: Edgerunners",
-  "Friends"
+  "Firefly Wedding",
+  "Blue Box",
+  "Cyberpunk: Edgerunners"
  ],
  "prioridades": [
   [
@@ -63,5 +62,9 @@
   }
  ],
  "series_id": [],
- "quitados": []
+ "quitados": [],
+ "progreso": {
+  "Cyberpunk: Edgerunners": "T2 E4"
+ },
+ "usar_serializd": false
 }

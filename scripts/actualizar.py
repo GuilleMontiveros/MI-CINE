@@ -68,6 +68,7 @@ def tarjeta(x, tipo=None):
         "poster": x.get("poster_path"),
         "fondo": x.get("backdrop_path"),
         "puntaje": round(x.get("vote_average", 0), 1),
+        "sinopsis": (x.get("overview") or "")[:600],
     }
 
 
@@ -126,11 +127,21 @@ def fecha_tipo_pais(rd, pais, tipos):
     return None
 
 
+def extras(d):
+    cr = d.get("credits", {})
+    dire = [c["name"] for c in cr.get("crew", []) if c.get("job") == "Director"][:2]
+    reparto = [c["name"] for c in cr.get("cast", [])[:5]]
+    vids = d.get("videos", {}).get("results", [])
+    tr = next((v["key"] for v in vids if v.get("site") == "YouTube" and v.get("type") == "Trailer"), None)
+    return {"director": dire, "reparto": reparto, "trailer": tr, "lema": d.get("tagline") or "",
+            "duracion": d.get("runtime"), "generos": [g["name"] for g in d.get("genres", [])][:3]}
+
+
 def estado_titulo(ref):
     """HD solo si está CONFIRMADO: hay dónde verla legal (AR o EE.UU.) o salió en Blu-ray.
     Una fecha digital sola no alcanza: se muestra como 'anunciada'."""
     if ref["tipo"] == "movie":
-        d = tmdb(f"/movie/{ref['id']}", append_to_response="release_dates,watch/providers")
+        d = tmdb(f"/movie/{ref['id']}", append_to_response="release_dates,watch/providers,credits,videos")
         rd = d.get("release_dates", {})
         dig_ar, dig_us = fecha_digital(rd, "AR"), fecha_digital(rd, "US")
         fisicas = [f for f in fechas_tipo(rd, 5) if f <= HOY]
@@ -172,6 +183,7 @@ def estado_titulo(ref):
         "plataformas": plats,
         "plataformas_us": us,
         "link": link,
+        **extras(d),
     }
 
 
@@ -193,7 +205,7 @@ def estado_serie(nombre, cache):
         cache[clave] = r[0]["id"] if r else None
     if not cache[clave]:
         return None
-    d = tmdb(f"/tv/{cache[clave]}", append_to_response="watch/providers")
+    d = tmdb(f"/tv/{cache[clave]}", append_to_response="watch/providers,credits,videos")
     plats, link = plataformas(d.get("watch/providers", {}))
     proximos = []
     nx = d.get("next_episode_to_air")
@@ -205,7 +217,10 @@ def estado_serie(nombre, cache):
                         if e.get("air_date") and HOY <= e["air_date"] <= limite][:12]
         except Exception:
             proximos = [ep(nx)]
-    return {**tarjeta(d, "tv"), "estado": d.get("status"), "proximos": proximos, "ultimo": ep(d.get("last_episode_to_air")),
+    ex = extras(d)
+    ex["director"] = [c["name"] for c in d.get("created_by", [])][:2]
+    return {**tarjeta(d, "tv"), **ex, "estado": d.get("status"), "proximos": proximos,
+            "temporadas": d.get("number_of_seasons"), "ultimo": ep(d.get("last_episode_to_air")),
             "proximo": ep(d.get("next_episode_to_air")), "plataformas": plats, "link": link}
 
 
@@ -256,7 +271,11 @@ def cartelera_cinemacenter():
     def leer_u(u, d=None):
         for intento in range(3):
             try:
-                return op.open(u, data=urllib.parse.urlencode(d).encode() if d else None, timeout=60).read().decode("utf-8", "ignore")
+                raw = op.open(u, data=urllib.parse.urlencode(d).encode() if d else None, timeout=60).read()
+                try:
+                    return raw.decode("utf-8")
+                except UnicodeDecodeError:
+                    return raw.decode("latin-1")
             except Exception:
                 if intento == 2:
                     raise
@@ -398,7 +417,7 @@ def main():
             prio_series.add(norm(str(x["id"])))
     anuncios = leer("data/anuncios.json", {"series": {}})["series"]
     # De Serializd: solo las que tenés al día (vistos >= total), que todavía pueden sacar capítulos
-    for x in leer("data/serializd.json", {"series": []})["series"]:
+    for x in (leer("data/serializd.json", {"series": []})["series"] if seguir.get("usar_serializd") else []):
         if x["vistos"] >= x["total"]:
             candidatas.append((x["titulo"], False))
     series, vistos_n = [], set()
@@ -420,6 +439,7 @@ def main():
             cache[f"fin|{nombre}"] = True
             continue
         sr["manual"] = manual
+        sr["progreso"] = seguir.get("progreso", {}).get(str(nombre))
         if sr["id"] in set(seguir.get("quitados", [])) and not isinstance(nombre, int):
             sr["prioridad"] = False
         else:
@@ -483,7 +503,8 @@ def main():
             k = f"carte|{p['titulo']}"
             if k not in cache:
                 r = tmdb("/search/movie", query=p["titulo"], year=HOY[:4])["results"] or tmdb("/search/movie", query=p["titulo"])["results"]
-                cache[k] = {"id": r[0]["id"], "poster": r[0].get("poster_path")} if r else None
+                cache[k] = {"id": r[0]["id"], "poster": r[0].get("poster_path"), "fondo": r[0].get("backdrop_path"),
+                            "sinopsis": (r[0].get("overview") or "")[:600], "fecha": r[0].get("release_date")} if r else None
             if cache[k]:
                 p.update(cache[k])
             mia = mias.get(norm(p["titulo"])) or next((x for x in titulos if x["id"] == p.get("id")), None)
@@ -503,7 +524,8 @@ def main():
             k = f"carte|{p['titulo']}"
             if k not in cache:
                 r = tmdb("/search/movie", query=p["titulo"], year=HOY[:4])["results"] or tmdb("/search/movie", query=p["titulo"])["results"]
-                cache[k] = {"id": r[0]["id"], "poster": r[0].get("poster_path")} if r else None
+                cache[k] = {"id": r[0]["id"], "poster": r[0].get("poster_path"), "fondo": r[0].get("backdrop_path"),
+                            "sinopsis": (r[0].get("overview") or "")[:600], "fecha": r[0].get("release_date")} if r else None
             if cache[k]:
                 p.update(cache[k])
             p["mia"] = norm(p["titulo"]) in mias_n or any(x["id"] == p.get("id") for x in titulos)
