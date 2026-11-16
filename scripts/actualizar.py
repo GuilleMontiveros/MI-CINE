@@ -254,24 +254,34 @@ def cartelera_cinemacenter():
     leer_u = lambda u, d=None: op.open(u, data=urllib.parse.urlencode(d).encode() if d else None, timeout=30).read().decode("utf-8", "ignore")
     leer_u(f"{base}/actions.php?action=select_city&cityid=9&ref=/horarios")
     h = leer_u(f"{base}/horarios")
-    os.makedirs("data/_debug", exist_ok=True)
-    open("data/_debug/cc_horarios.html", "w").write(h)
     texto = lambda x: H.unescape(re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", x))).strip()
-    pelis, vistos = [], set()
-    for m in re.finditer(r"seleccionarMovie\('([^']*)','([^']*)',(\d+),(\d+),(\d+)\)[^>]*>(.*?)</a>", h, flags=re.S):
+    por_titulo, vistos = {}, set()
+    for m in re.finditer(r"seleccionarMovie\('([^']*)','([^']*)',(\d+),(\d+),(\d+)\)\s*;?\s*\"?[^>]*>([^<]{2,120})</a>", h):
         cine, ciudad, cid, sid, city, nombre = m.groups()
-        if city != "9" or sid in vistos:
+        nombre = H.unescape(nombre).strip()
+        if city != "9" or sid in vistos or "(" in nombre[:1] or "function" in nombre:
             continue
         vistos.add(sid)
+        partes = re.match(r"(.*?)\s*-\s*(\d?D[^-]*?)\s*(\(.*\))?$", nombre)
+        base_t, formato = (partes.group(1), partes.group(2).lower()) if partes else (nombre, "")
         hs = leer_u(f"{base}/modules/parts/ajax_horariosShow.php", {"showId": sid, "cityId": "9", "cinemaId": cid})
-        if not pelis:
-            open("data/_debug/cc_show.html", "w").write(hs)
-        pelis.append({"titulo": texto(nombre), "horarios_txt": texto(hs)[:600]})
+        funcs = re.findall(r"selectTime4Buy\('[^']*','[^']*','[^']*','[^']*','(\d{4}-\d{2}-\d{2})T(\d{2}:\d{2})'\)", hs)
+        dias = {}
+        for f, hh in funcs:
+            dias.setdefault(f, []).append(hh)
+        d = por_titulo.setdefault(base_t.title(), {"titulo": base_t.title(), "funciones": []})
+        d["funciones"].append({"formato": formato, "dias": dias})
+    pelis = list(por_titulo.values())
     est = leer_u(f"{base}/modules/parts/ajax_estrenosxcity.php", {"idCity": "9"})
-    open("data/_debug/cc_estrenos.html", "w").write(est)
     proximos = []
-    for m in re.finditer(r'<img[^>]*src="([^"]+)"[^>]*(?:alt|title)="([^"]+)"', est):
-        proximos.append({"titulo": H.unescape(m.group(2)).strip(), "img_cine": m.group(1)})
+    for li in re.findall(r"<li>(.*?)</li>\s*(?=<li>|</ul>)", est, flags=re.S):
+        t = re.search(r'class="detail">([^<]+)<', li)
+        im = re.search(r'class="imgbillboard" src="([^"]+)"', li)
+        g = re.search(r'class="star">([^<]+)<', li)
+        if t:
+            proximos.append({"titulo": H.unescape(t.group(1)).strip().title(),
+                             "img_cine": f"{base}/{im.group(1)}" if im else None,
+                             "genero": g.group(1).strip() if g else None})
     return {"peliculas": pelis, "proximos": proximos}
 
 
@@ -459,6 +469,18 @@ def main():
 
     try:
         cc = cartelera_cinemacenter()
+        mias_n = {norm(x["titulo"]) for x in titulos}
+        for p in cc["peliculas"] + cc["proximos"]:
+            k = f"carte|{p['titulo']}"
+            if k not in cache:
+                r = tmdb("/search/movie", query=p["titulo"], year=HOY[:4])["results"] or tmdb("/search/movie", query=p["titulo"])["results"]
+                cache[k] = {"id": r[0]["id"], "poster": r[0].get("poster_path")} if r else None
+            if cache[k]:
+                p.update(cache[k])
+            p["mia"] = norm(p["titulo"]) in mias_n or any(x["id"] == p.get("id") for x in titulos)
+        ids_cc = {p.get("id") for p in cc["peliculas"]}
+        for x in titulos:
+            x["en_cc"] = x["id"] in ids_cc
         guardar("data/cinemacenter.json", {"actualizado": datetime.now(timezone.utc).isoformat(), **cc})
         print("Cinemacenter:", len(cc["peliculas"]), "en cartelera,", len(cc["proximos"]), "próximos")
     except Exception as err:

@@ -91,6 +91,8 @@
     <section><div class="tit"><h2>Mis series</h2><small>próximo capítulo</small></div><div class="fila" id="series"></div></section>
     <section><div class="tit"><h2>Llegan a digital</h2><small>fecha confirmada</small></div><div class="fila" id="prox"></div></section>
     <section><div class="tit"><h2>Cartelera Play Cinema</h2><small id="cartsub">San Juan</small></div><div class="cart" id="cart"></div></section>
+    <section><div class="tit"><h2>Cartelera Cinemacenter</h2><small id="ccsub">San Juan</small></div><div class="cart" id="cc"></div></section>
+    <section><div class="tit"><h2>Próximos estrenos</h2><small>Cinemacenter San Juan</small></div><div class="fila" id="ccprox"></div></section>
     <section><div class="tit"><h2>Cineclubs gratis</h2><small>San Juan</small></div><div class="club" id="clubs"></div></section>
     <section><div class="tit"><h2>Favoritas al Oscar</h2><small id="oscfuente"></small></div><div class="fila" id="oscar"></div></section>
     <section><div class="tit"><h2>Tendencias</h2>
@@ -123,6 +125,7 @@ function cPeli(x){
   else if(x.digital_sin_confirmar) tag='<span class="tag t-no">SIN CONFIRMAR</span>';
   const enCine=x.en_play||(x.cine_ar&&x.cine_ar<=hoy&&!x.hd);
   if(x.en_play) tag+='<span class="tag t-cine arriba">EN PLAY CINEMA</span>';
+  else if(x.en_cc) tag+='<span class="tag t-cine arriba">EN CINEMACENTER</span>';
   else if(!x.hd&&x.cine_ar&&x.cine_ar<=hoy) tag+='<span class="tag t-cine arriba">EN CINES AR</span>';
   else if(!x.hd&&x.cine_ar) tag+=`<span class="tag t-cine arriba">Cine ${fmt(x.cine_ar)}</span>`;
   if(!tag) tag='<span class="tag t-no">SIN FECHA</span>';
@@ -167,8 +170,15 @@ $('q').oninput=()=>{
 };
 
 const j=u=>fetch(u,{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null);
-Promise.all([j('data/tendencias.json'),j('data/esperadas.json'),j('data/series.json'),j('data/cineclubs.json'),j('data/oscar_estado.json'),j('data/cartelera.json')])
-.then(([t,e,s,c,o,ca])=>{
+Promise.all([j('data/tendencias.json'),j('data/esperadas.json'),j('data/series.json'),j('data/cineclubs.json'),j('data/oscar_estado.json'),j('data/cartelera.json'),j('data/cinemacenter.json')])
+.then(([t,e,s,c,o,ca,cc])=>{
+  if(cc){const dHoy=hoy;
+    const l=[...cc.peliculas].sort((a,b)=>b.mia-a.mia);
+    $('cc').innerHTML=l.map(p=>{const fx=p.funciones.map(f=>{const ds=Object.keys(f.dias).sort();const d=ds.find(x=>x>=dHoy)||ds[0];if(!d)return '';
+      return `<div class="fx"><i>${f.formato||'2d'}</i><span class="hs">${d===dHoy?'Hoy':fmt(d)}: ${f.dias[d].join('  ')}</span></div>`}).join('');
+      const img=p.poster?IMG+p.poster:'';
+      return `<div class="peli ${p.mia?'mia':''}">${img?`<img loading="lazy" src="${img}" alt="">`:'<div class="ph"></div>'}<div><b>${esc(p.titulo)}</b>${p.mia?' <span class="m">⭐ en tu lista</span>':''}${fx}</div></div>`}).join('')||'<p class="vacio">Sin funciones.</p>';
+    pon('ccprox',cc.proximos,p=>card({titulo:p.titulo,poster:p.poster,id:p.id,tipo:'movie'},p.mia?'<span class="tag t-cine">EN TU LISTA</span>':'',p.genero||''),'Sin próximos estrenos anunciados.')}
   if(ca&&ca.play){const P=ca.play;$('cartsub').textContent=`del ${P.desde} al ${P.hasta}`;
     const l=[...P.peliculas].sort((a,b)=>b.mia-a.mia);
     $('cart').innerHTML=l.map(p=>`<div class="peli ${p.mia?'mia':''}">${p.poster||p.img_cine?`<img loading="lazy" src="${p.poster?IMG+p.poster:p.img_cine}" alt="">`:'<div class="ph"></div>'}<div><b>${esc(p.titulo)}</b> <span class="m">${esc(p.clasif)} · ${p.minutos} min${p.mia?' · ⭐ en tu lista':''}</span>${p.funciones.map(f=>`<div class="fx"><i>${f.formato}</i><span class="hs">${f.horas.join('  ')}</span></div>`).join('')}${p.nota?`<div class="m">${esc(p.nota)}</div>`:''}</div></div>`).join('')}
