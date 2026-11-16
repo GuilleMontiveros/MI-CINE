@@ -265,7 +265,7 @@ function abrir(k,push=true){
   $('fb').style.backgroundImage=o.fondo?`url(${IMGL+o.fondo})`:'none';
   const pos=src(o);
   const quien=(o.director&&o.director.length)?`${tv?'Creada por':'Dirigida por'} <b>${o.director.map(esc).join(', ')}</b>`:'';
-  const chips=[...(o.generos||[]),o.duracion?o.duracion+' min':'',tv&&o.temporadas?o.temporadas+' temporadas':''].filter(Boolean).map(c=>`<span>${esc(c)}</span>`).join('');
+  const chips=[...(o.generos||[]),o.duracion?o.duracion+' min':'',tv&&o.temporadas?o.temporadas+(o.temporadas===1?' temporada':' temporadas'):''].filter(Boolean).map(c=>`<span>${esc(c)}</span>`).join('');
   const es=PRIO.has(o.id);
   let estado='';
   if(tv){

@@ -18,7 +18,8 @@ APP = "https://guillemontiveros.github.io/MI-CINE/"
 
 
 def tmdb(path, **params):
-    params.update(api_key=KEY, language="es-AR")
+    params.setdefault("language", "es-AR")
+    params["api_key"] = KEY
     url = f"{BASE}{path}?{urllib.parse.urlencode(params)}"
     for intento in range(3):
         try:
@@ -127,6 +128,15 @@ def fecha_tipo_pais(rd, pais, tipos):
     return None
 
 
+def sinopsis_en(d, tipo):
+    if d.get("overview"):
+        return d["overview"]
+    try:
+        return tmdb(f"/{tipo}/{d['id']}", language="en-US").get("overview") or ""
+    except Exception:
+        return ""
+
+
 def extras(d):
     cr = d.get("credits", {})
     dire = [c["name"] for c in cr.get("crew", []) if c.get("job") == "Director"][:2]
@@ -184,6 +194,7 @@ def estado_titulo(ref):
         "plataformas_us": us,
         "link": link,
         **extras(d),
+        "sinopsis": sinopsis_en(d, ref["tipo"])[:600],
     }
 
 
@@ -219,6 +230,7 @@ def estado_serie(nombre, cache):
             proximos = [ep(nx)]
     ex = extras(d)
     ex["director"] = [c["name"] for c in d.get("created_by", [])][:2]
+    ex["sinopsis"] = sinopsis_en(d, "tv")[:600]
     return {**tarjeta(d, "tv"), **ex, "estado": d.get("status"), "proximos": proximos,
             "temporadas": d.get("number_of_seasons"), "ultimo": ep(d.get("last_episode_to_air")),
             "proximo": ep(d.get("next_episode_to_air")), "plataformas": plats, "link": link}
