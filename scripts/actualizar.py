@@ -251,7 +251,14 @@ def cartelera_cinemacenter():
     op = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(http.cookiejar.CookieJar()))
     op.addheaders = [("User-Agent", "Mozilla/5.0 (mi-cine, uso personal)")]
     base = "https://www.cinemacenter.com.ar"
-    leer_u = lambda u, d=None: op.open(u, data=urllib.parse.urlencode(d).encode() if d else None, timeout=30).read().decode("utf-8", "ignore")
+    def leer_u(u, d=None):
+        for intento in range(3):
+            try:
+                return op.open(u, data=urllib.parse.urlencode(d).encode() if d else None, timeout=60).read().decode("utf-8", "ignore")
+            except Exception:
+                if intento == 2:
+                    raise
+                time.sleep(5)
     leer_u(f"{base}/actions.php?action=select_city&cityid=9&ref=/horarios")
     h = leer_u(f"{base}/horarios")
     texto = lambda x: H.unescape(re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", x))).strip()

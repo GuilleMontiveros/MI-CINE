@@ -172,7 +172,7 @@ $('q').oninput=()=>{
 const j=u=>fetch(u,{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null);
 Promise.all([j('data/tendencias.json'),j('data/esperadas.json'),j('data/series.json'),j('data/cineclubs.json'),j('data/oscar_estado.json'),j('data/cartelera.json'),j('data/cinemacenter.json')])
 .then(([t,e,s,c,o,ca,cc])=>{
-  if(cc){const dHoy=hoy;
+  if(cc&&cc.peliculas&&cc.peliculas.every(p=>p.funciones)){const dHoy=hoy;
     const l=[...cc.peliculas].sort((a,b)=>b.mia-a.mia);
     $('cc').innerHTML=l.map(p=>{const fx=p.funciones.map(f=>{const ds=Object.keys(f.dias).sort();const d=ds.find(x=>x>=dHoy)||ds[0];if(!d)return '';
       return `<div class="fx"><i>${f.formato||'2d'}</i><span class="hs">${d===dHoy?'Hoy':fmt(d)}: ${f.dias[d].join('  ')}</span></div>`}).join('');
