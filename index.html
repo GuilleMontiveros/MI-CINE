@@ -43,6 +43,22 @@
   .club a{flex:1;min-width:240px;background:var(--panel);border-radius:6px;padding:14px;color:var(--claro);text-decoration:none;border-left:4px solid var(--naranja)}
   .club b{display:block;font-size:15px;color:#fff;margin-bottom:4px}
   .club span{font-size:12px}
+  .hero{position:relative;height:360px;margin:0 -16px;background:#0f1215 center 20%/cover no-repeat;transition:background-image .6s}
+  .hero::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,#14181c 0%,rgba(20,24,28,.15) 18%,rgba(20,24,28,.15) 82%,#14181c 100%),linear-gradient(0deg,#14181c 0%,rgba(20,24,28,0) 55%)}
+  .hero .txt{position:absolute;left:16px;bottom:18px;z-index:1;max-width:640px}
+  .hero .txt small{color:var(--verde);font-size:11px;letter-spacing:.12em;text-transform:uppercase}
+  .hero .txt h1{margin:4px 0;color:#fff;font-size:34px;line-height:1.05;text-shadow:0 2px 12px #000}
+  .hero .txt p{margin:0;color:var(--claro);font-size:14px;text-shadow:0 1px 6px #000}
+  .cal{display:flex;flex-direction:column;gap:2px}
+  .dia{display:flex;gap:14px;padding:10px 0;border-bottom:1px solid var(--linea)}
+  .dia .f{flex:0 0 74px;text-align:center;color:#fff}
+  .dia .f b{display:block;font-size:24px;line-height:1}.dia .f span{font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--txt)}
+  .dia .f.hoy b{color:var(--naranja)}
+  .eps{display:flex;gap:10px;flex-wrap:wrap;flex:1}
+  .ep{display:flex;gap:10px;align-items:center;background:#1c2228;border-radius:4px;padding:6px 10px 6px 6px;color:var(--claro);text-decoration:none;min-width:220px}
+  .ep img{width:36px;height:54px;object-fit:cover;border-radius:3px}
+  .ep b{color:#fff;font-size:13px;display:block}.ep span{font-size:11px}
+  @media(max-width:600px){.hero{height:240px}.hero .txt h1{font-size:24px}}
   footer{max-width:1100px;margin:auto;padding:20px 16px;font-size:11px;color:#567;border-top:1px solid var(--linea)}
   @media(max-width:600px){.logo span{display:none}.c{flex-basis:110px}}
 </style>
@@ -60,6 +76,8 @@
   </div>
 
   <div id="inicio">
+    <div class="hero" id="hero"><div class="txt"><small id="hsub"></small><h1 id="htit"></h1><p id="hdesc"></p></div></div>
+    <section><div class="tit"><h2>Próximamente</h2><small>capítulos de tus series · 90 días</small></div><div class="cal" id="cal"></div></section>
     <section><div class="tit"><h2>Cineclubs gratis</h2><small>San Juan</small></div><div class="club" id="clubs"></div></section>
     <section><div class="tit"><h2>Mis series</h2><small>próximo capítulo</small></div><div class="fila" id="series"></div></section>
     <section><div class="tit"><h2>Mis prioridades</h2></div><div class="fila" id="prio"></div></section>
@@ -151,6 +169,22 @@ Promise.all([j('data/tendencias.json'),j('data/esperadas.json'),j('data/series.j
   pon('prox',WL.filter(x=>!x.hd&&x.digital_proximo).sort((a,b)=>a.digital_proximo.localeCompare(b.digital_proximo)),cPeli,'Ninguna con fecha digital confirmada.');
   pon('tend',T[tk]||[],cTend,'');
   watchlist();
+  // hero + calendario
+  const IMGW='https://image.tmdb.org/t/p/w1280';
+  const evs=[];SE.forEach(x=>(x.proximos&&x.proximos.length?x.proximos:(x.proximo?[x.proximo]:[])).forEach(e=>e&&e.fecha&&evs.push({s:x,e})));
+  evs.sort((a,b)=>a.e.fecha.localeCompare(b.e.fecha));
+  const dias={};evs.forEach(v=>(dias[v.e.fecha]=dias[v.e.fecha]||[]).push(v));
+  $('cal').innerHTML=Object.keys(dias).length?Object.entries(dias).map(([f,l])=>{const d=new Date(f+'T12:00');
+    return `<div class="dia"><div class="f ${f===hoy?'hoy':''}"><b>${d.getDate()}</b><span>${f===hoy?'hoy':d.toLocaleDateString('es-AR',{weekday:'short',month:'short'})}</span></div><div class="eps">${
+    l.map(v=>`<a class="ep" href="${url(v.s)}" target="_blank">${v.s.poster?`<img src="${IMG+v.s.poster}" alt="">`:''}<div><b>${esc(v.s.titulo)}</b><span>T${v.e.t} E${v.e.e}${v.e.nombre&&!/^Episodio \d+$/.test(v.e.nombre)?' · '+esc(v.e.nombre):''}</span></div></a>`).join('')}</div></div>`}).join('')
+    :'<p class="vacio">Ninguna de tus series tiene capítulos con fecha en los próximos 90 días.</p>';
+  const heroes=[...evs.map(v=>({x:v.s,sub:v.e.fecha===hoy?'Hoy sale capítulo nuevo':'Próximo capítulo · '+fmt(v.e.fecha),d:`Temporada ${v.e.t} · Episodio ${v.e.e}`})),
+    ...WL.filter(x=>x.hd&&x.fondo).slice(0,3).map(x=>({x,sub:'Ya en HD',d:plats(x)||x.motivo||''})),
+    ...(T.series_semana||[]).slice(0,3).map(x=>({x,sub:'Serie en tendencia',d:''}))].filter(h=>h.x.fondo);
+  const vistosH=new Set(),H=heroes.filter(h=>!vistosH.has(h.x.id)&&vistosH.add(h.x.id));
+  let hi=0;const showH=()=>{if(!H.length)return;const h=H[hi%H.length];$('hero').style.backgroundImage=`url(${IMGW+h.x.fondo})`;
+    $('hsub').textContent=h.sub;$('htit').textContent=h.x.titulo;$('hdesc').textContent=h.d;hi++};
+  showH();setInterval(showH,7000);
 });
 </script>
 </body>

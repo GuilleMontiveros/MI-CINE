@@ -60,6 +60,7 @@ def tarjeta(x, tipo=None):
         "titulo": x.get("title") or x.get("name"),
         "fecha": x.get("release_date") or x.get("first_air_date"),
         "poster": x.get("poster_path"),
+        "fondo": x.get("backdrop_path"),
         "puntaje": round(x.get("vote_average", 0), 1),
     }
 
@@ -147,7 +148,17 @@ def estado_serie(nombre, cache):
         return None
     d = tmdb(f"/tv/{cache[clave]}", append_to_response="watch/providers")
     plats, link = plataformas(d.get("watch/providers", {}))
-    return {**tarjeta(d, "tv"), "estado": d.get("status"), "ultimo": ep(d.get("last_episode_to_air")),
+    proximos = []
+    nx = d.get("next_episode_to_air")
+    if nx:
+        try:
+            temp = tmdb(f"/tv/{cache[clave]}/season/{nx['season_number']}")
+            limite = (date.fromisoformat(HOY) + timedelta(days=90)).isoformat()
+            proximos = [ep(e) for e in temp.get("episodes", [])
+                        if e.get("air_date") and HOY <= e["air_date"] <= limite][:12]
+        except Exception:
+            proximos = [ep(nx)]
+    return {**tarjeta(d, "tv"), "estado": d.get("status"), "proximos": proximos, "ultimo": ep(d.get("last_episode_to_air")),
             "proximo": ep(d.get("next_episode_to_air")), "plataformas": plats, "link": link}
 
 
