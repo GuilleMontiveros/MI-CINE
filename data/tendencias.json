@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16T22:11:05.865020+00:00",
+ "actualizado": "2026-11-16T22:15:13.645684+00:00",
  "pelis_hoy": [
   {
    "id": 1368337,
@@ -190,7 +190,7 @@
    "fecha": "2026-11-18",
    "poster": "/nijGyrqQbDhSGss4uugQokvBAsG.jpg",
    "fondo": "/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
-   "puntaje": 9.5
+   "puntaje": 9.3
   },
   {
    "id": 1003596,
@@ -283,15 +283,6 @@
    "puntaje": 6.1
   },
   {
-   "id": 1375441,
-   "tipo": "movie",
-   "titulo": "Primetime",
-   "fecha": "2026-09-23",
-   "poster": "/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-   "fondo": "/sEsMwSDUWGIx9EfNxzM6KzVSsSQ.jpg",
-   "puntaje": 6.8
-  },
-  {
    "id": 1170608,
    "tipo": "movie",
    "titulo": "Dune: Parte tres",
@@ -301,22 +292,31 @@
    "puntaje": 0.0
   },
   {
-   "id": 656908,
+   "id": 1375441,
    "tipo": "movie",
-   "titulo": "Ramayana: El Nacimiento de una Leyenda",
-   "fecha": "2026-11-05",
-   "poster": "/nzL1ySE6vdmR6RxXhE7gLggkp41.jpg",
-   "fondo": "/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
-   "puntaje": 7.5
+   "titulo": "Primetime",
+   "fecha": "2026-09-23",
+   "poster": "/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+   "fondo": "/sEsMwSDUWGIx9EfNxzM6KzVSsSQ.jpg",
+   "puntaje": 6.8
   },
   {
-   "id": 1483525,
+   "id": 1286656,
    "tipo": "movie",
-   "titulo": "Un amor posible",
-   "fecha": "2026-09-23",
-   "poster": "/bYlv7oanFQB4zfTdDSGMz9cz1df.jpg",
-   "fondo": "/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
-   "puntaje": 7.3
+   "titulo": "Yo soy Rocky",
+   "fecha": "2026-11-06",
+   "poster": "/6ItqVHcsb2swkE7ajS6EVCH2mpd.jpg",
+   "fondo": "/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
+   "puntaje": 8.5
+  },
+  {
+   "id": 1518204,
+   "tipo": "movie",
+   "titulo": "Allen",
+   "fecha": "2026-11-12",
+   "poster": "/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg",
+   "fondo": "/51fGmBW7WjyJouP9TjIcxRpCUNk.jpg",
+   "puntaje": 6.8
   },
   {
    "id": 1543469,
@@ -328,13 +328,13 @@
    "puntaje": 6.6
   },
   {
-   "id": 1437511,
+   "id": 656908,
    "tipo": "movie",
-   "titulo": "Como robar un banco",
-   "fecha": "2026-11-10",
-   "poster": "/xS35fgWgRdF2em5MGxg5WG9dPKd.jpg",
-   "fondo": "/u38hNQbxvIicUdfrHpqa9puBnA9.jpg",
-   "puntaje": 6.4
+   "titulo": "Ramayana: El Nacimiento de una Leyenda",
+   "fecha": "2026-11-05",
+   "poster": "/nzL1ySE6vdmR6RxXhE7gLggkp41.jpg",
+   "fondo": "/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
+   "puntaje": 7.5
   },
   {
    "id": 791523,
@@ -344,6 +344,15 @@
    "poster": "/sJ1uZ4DKsjs2iqLtCX46TifxqoE.jpg",
    "fondo": "/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
    "puntaje": 8.5
+  },
+  {
+   "id": 1483525,
+   "tipo": "movie",
+   "titulo": "Un amor posible",
+   "fecha": "2026-09-23",
+   "poster": "/bYlv7oanFQB4zfTdDSGMz9cz1df.jpg",
+   "fondo": "/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
+   "puntaje": 7.3
   }
  ],
  "series_hoy": [
@@ -548,15 +557,6 @@
    "puntaje": 7.2
   },
   {
-   "id": 291507,
-   "tipo": "tv",
-   "titulo": "El cuerpo",
-   "fecha": "2026-11-11",
-   "poster": "/7GGL8WPqFzBSK3DBVuW7MVBna4g.jpg",
-   "fondo": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
-   "puntaje": 7.8
-  },
-  {
    "id": 254630,
    "tipo": "tv",
    "titulo": "12 12 12",
@@ -564,6 +564,15 @@
    "poster": "/eq473fICspnCtzQfNxVsKgpgf3w.jpg",
    "fondo": "/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
    "puntaje": 6.2
+  },
+  {
+   "id": 291507,
+   "tipo": "tv",
+   "titulo": "El cuerpo",
+   "fecha": "2026-11-11",
+   "poster": "/7GGL8WPqFzBSK3DBVuW7MVBna4g.jpg",
+   "fondo": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
+   "puntaje": 7.8
   },
   {
    "id": 1489,
@@ -589,7 +598,7 @@
    "titulo": "Dexter: Resurrección",
    "fecha": "2025-07-13",
    "poster": "/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
-   "fondo": "/jgfmzwfmMh4DTqITVSdtxBKfFE5.jpg",
+   "fondo": "/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
    "puntaje": 8.5
   },
   {
@@ -602,15 +611,6 @@
    "puntaje": 8.0
   },
   {
-   "id": 279246,
-   "tipo": "tv",
-   "titulo": "La emperatriz divorciada",
-   "fecha": "2026-11-03",
-   "poster": "/7cS90VaWOqQhgmsT0FYXYmIMcRp.jpg",
-   "fondo": "/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-   "puntaje": 8.6
-  },
-  {
    "id": 85077,
    "tipo": "tv",
    "titulo": "The Chosen (Los elegidos)",
@@ -620,13 +620,22 @@
    "puntaje": 8.9
   },
   {
-   "id": 279155,
+   "id": 335981,
    "tipo": "tv",
-   "titulo": "La Tormenta Silenciosa",
-   "fecha": "2026-11-05",
-   "poster": "/hJxVcstYVkxKCjMLThGGi7SOJTT.jpg",
-   "fondo": "/m5tiVhzIFIqDyIPwOsHDsMDGMsK.jpg",
-   "puntaje": 9.0
+   "titulo": "El cine según Philomena Cunk",
+   "fecha": "2026-11-12",
+   "poster": "/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+   "fondo": "/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg",
+   "puntaje": 7.5
+  },
+  {
+   "id": 279246,
+   "tipo": "tv",
+   "titulo": "La emperatriz divorciada",
+   "fecha": "2026-11-03",
+   "poster": "/7cS90VaWOqQhgmsT0FYXYmIMcRp.jpg",
+   "fondo": "/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+   "puntaje": 8.6
   },
   {
    "id": 293610,
@@ -638,22 +647,13 @@
    "puntaje": 8.6
   },
   {
-   "id": 335981,
+   "id": 279155,
    "tipo": "tv",
-   "titulo": "El cine según Philomena Cunk",
-   "fecha": "2026-11-12",
-   "poster": "/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
-   "fondo": "/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg",
-   "puntaje": 7.7
-  },
-  {
-   "id": 131488,
-   "tipo": "tv",
-   "titulo": "La emperatriz",
-   "fecha": "2022-09-29",
-   "poster": "/dkQIQCGPyoadFNvzZMgjtxFH3OH.jpg",
-   "fondo": "/lnPf1rCmSgcowbhMPH4M1avSApm.jpg",
-   "puntaje": 7.7
+   "titulo": "La Tormenta Silenciosa",
+   "fecha": "2026-11-05",
+   "poster": "/hJxVcstYVkxKCjMLThGGi7SOJTT.jpg",
+   "fondo": "/m5tiVhzIFIqDyIPwOsHDsMDGMsK.jpg",
+   "puntaje": 9.0
   },
   {
    "id": 153312,
@@ -674,13 +674,13 @@
    "puntaje": 7.8
   },
   {
-   "id": 292741,
+   "id": 131488,
    "tipo": "tv",
-   "titulo": "Nocturno",
-   "fecha": "2026-10-29",
-   "poster": "/hLjJbSkmEVXeEjwncDRShZOR4ok.jpg",
-   "fondo": "/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
-   "puntaje": 7.6
+   "titulo": "La emperatriz",
+   "fecha": "2022-09-29",
+   "poster": "/dkQIQCGPyoadFNvzZMgjtxFH3OH.jpg",
+   "fondo": "/lnPf1rCmSgcowbhMPH4M1avSApm.jpg",
+   "puntaje": 7.7
   },
   {
    "id": 96677,
@@ -699,6 +699,15 @@
    "poster": "/revXibqFO4JrwmLe34MKth1GVrd.jpg",
    "fondo": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
    "puntaje": 8.8
+  },
+  {
+   "id": 292741,
+   "tipo": "tv",
+   "titulo": "Nocturno",
+   "fecha": "2026-10-29",
+   "poster": "/hLjJbSkmEVXeEjwncDRShZOR4ok.jpg",
+   "fondo": "/614k6C9doThoMe6GyH0nTnGgLXt.jpg",
+   "puntaje": 7.6
   },
   {
    "id": 2190,
