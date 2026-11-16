@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16T22:31:26.715621+00:00",
+ "actualizado": "2026-11-16T22:33:43.320605+00:00",
  "titulos": [
   {
    "id": 37165,
@@ -19476,6 +19476,41 @@
    "plataformas_us": {},
    "link": null,
    "hd_desde": null,
+   "prioridad": true,
+   "en_play": false,
+   "en_cc": false
+  },
+  {
+   "id": 1283515,
+   "tipo": "movie",
+   "titulo": "Verity. La sombra de un engaño",
+   "fecha": "2026-09-30",
+   "poster": "/5j1YUuamobLACkzlkzvWfNuzFNg.jpg",
+   "fondo": "/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
+   "puntaje": 7.0,
+   "hd": true,
+   "motivo": "En digital en EE.UU. (Amazon Video, Apple TV Store, Fandango At Home)",
+   "digital_ar": null,
+   "digital_us": "2026-10-27",
+   "digital_proximo": null,
+   "digital_sin_confirmar": null,
+   "cine_ar": "2026-10-01",
+   "cine_us": "2026-10-02",
+   "plataformas": {},
+   "plataformas_us": {
+    "rent": [
+     "Amazon Video",
+     "Apple TV Store",
+     "Fandango At Home"
+    ],
+    "buy": [
+     "Amazon Video",
+     "Apple TV Store",
+     "Fandango At Home"
+    ]
+   },
+   "link": null,
+   "hd_desde": "2026-11-16",
    "prioridad": true,
    "en_play": false,
    "en_cc": false
