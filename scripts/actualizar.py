@@ -117,6 +117,15 @@ def fechas_tipo(rd, tipo):
     return sorted(out)
 
 
+def fecha_tipo_pais(rd, pais, tipos):
+    for r in rd.get("results", []):
+        if r["iso_3166_1"] == pais:
+            f = [d["release_date"][:10] for d in r["release_dates"] if d["type"] in tipos]
+            if f:
+                return min(f)
+    return None
+
+
 def estado_titulo(ref):
     """HD solo si está CONFIRMADO: hay dónde verla legal (AR o EE.UU.) o salió en Blu-ray.
     Una fecha digital sola no alcanza: se muestra como 'anunciada'."""
@@ -125,7 +134,10 @@ def estado_titulo(ref):
         rd = d.get("release_dates", {})
         dig_ar, dig_us = fecha_digital(rd, "AR"), fecha_digital(rd, "US")
         fisicas = [f for f in fechas_tipo(rd, 5) if f <= HOY]
+        cine_ar = fecha_tipo_pais(rd, "AR", (3, 2))
+        cine_us = fecha_tipo_pais(rd, "US", (3, 2))
     else:
+        cine_ar = cine_us = None
         d = tmdb(f"/tv/{ref['id']}", append_to_response="watch/providers")
         dig_ar = dig_us = None
         fisicas = []
@@ -155,6 +167,8 @@ def estado_titulo(ref):
         "digital_us": dig_us,
         "digital_proximo": proximo,
         "digital_sin_confirmar": anunciada,
+        "cine_ar": cine_ar,
+        "cine_us": cine_us,
         "plataformas": plats,
         "plataformas_us": us,
         "link": link,
@@ -228,6 +242,37 @@ def cartelera_play():
         mm = re.search(r'"name"\s*:\s*"' + re.escape(p["titulo"]) + r'"[^{}]*?"image"\s*:\s*"([^"]+)"', h, flags=re.I)
         p["img_cine"] = mm.group(1).replace("\\/", "/") if mm else None
     return {"desde": m.group(1), "hasta": m.group(2), "peliculas": pelis}
+
+
+# ---------- Cartelera Cinemacenter San Juan (ciudad 9) ----------
+
+def cartelera_cinemacenter():
+    import html as H, re, http.cookiejar
+    op = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(http.cookiejar.CookieJar()))
+    op.addheaders = [("User-Agent", "Mozilla/5.0 (mi-cine, uso personal)")]
+    base = "https://www.cinemacenter.com.ar"
+    leer_u = lambda u, d=None: op.open(u, data=urllib.parse.urlencode(d).encode() if d else None, timeout=30).read().decode("utf-8", "ignore")
+    leer_u(f"{base}/actions.php?action=select_city&cityid=9&ref=/horarios")
+    h = leer_u(f"{base}/horarios")
+    os.makedirs("data/_debug", exist_ok=True)
+    open("data/_debug/cc_horarios.html", "w").write(h)
+    texto = lambda x: H.unescape(re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", x))).strip()
+    pelis, vistos = [], set()
+    for m in re.finditer(r"seleccionarMovie\('([^']*)','([^']*)',(\d+),(\d+),(\d+)\)[^>]*>(.*?)</a>", h, flags=re.S):
+        cine, ciudad, cid, sid, city, nombre = m.groups()
+        if city != "9" or sid in vistos:
+            continue
+        vistos.add(sid)
+        hs = leer_u(f"{base}/modules/parts/ajax_horariosShow.php", {"showId": sid, "cityId": "9", "cinemaId": cid})
+        if not pelis:
+            open("data/_debug/cc_show.html", "w").write(hs)
+        pelis.append({"titulo": texto(nombre), "horarios_txt": texto(hs)[:600]})
+    est = leer_u(f"{base}/modules/parts/ajax_estrenosxcity.php", {"idCity": "9"})
+    open("data/_debug/cc_estrenos.html", "w").write(est)
+    proximos = []
+    for m in re.finditer(r'<img[^>]*src="([^"]+)"[^>]*(?:alt|title)="([^"]+)"', est):
+        proximos.append({"titulo": H.unescape(m.group(2)).strip(), "img_cine": m.group(1)})
+    return {"peliculas": pelis, "proximos": proximos}
 
 
 # ---------- Cineclubs ----------
@@ -316,7 +361,9 @@ def main():
     enviados = estado["enviados"]
     previas = {str(x["id"]): x for x in leer("data/series.json", {"series": []})["series"]}
     excluir = {norm(x) for x in seguir.get("excluir", [])}
-    candidatas = [(n, True) for n in seguir["series"]]
+    prio_series = {norm(x) for x in seguir.get("series_prioridad", [])}
+    candidatas = [(n, True) for n in seguir.get("series_prioridad", []) + seguir["series"]]
+    anuncios = leer("data/anuncios.json", {"series": {}})["series"]
     # De Serializd: solo las que tenés al día (vistos >= total), que todavía pueden sacar capítulos
     for x in leer("data/serializd.json", {"series": []})["series"]:
         if x["vistos"] >= x["total"]:
@@ -339,6 +386,20 @@ def main():
             cache[f"fin|{nombre}"] = True
             continue
         sr["manual"] = manual
+        sr["prioridad"] = norm(nombre) in prio_series
+        an = anuncios.get(nombre)
+        u0, p0 = sr["ultimo"], sr["proximo"]
+        if p0 and p0.get("fecha"):
+            sr["resumen"] = f"Próximo: T{p0['t']} E{p0['e']}"
+        elif sr["estado"] in ("Ended", "Canceled"):
+            sr["resumen"] = "Terminada" if sr["estado"] == "Ended" else "Cancelada"
+        elif an:
+            sr["resumen"] = f"T{an['temporada']}: {an['cuando']}"
+            sr["anuncio"] = an
+        elif u0:
+            sr["resumen"] = f"T{u0['t']} terminada · sin anuncio de T{u0['t'] + 1}"
+        else:
+            sr["resumen"] = "Sin fecha"
         series.append(sr)
         pv = previas.get(str(sr["id"]), {})
         u, p = sr["ultimo"], sr["proximo"]
@@ -391,7 +452,17 @@ def main():
             if mia and previa and p["titulo"] not in previa:
                 hs = "; ".join(f"{f['formato']} {' '.join(f['horas'])}" for f in p["funciones"])
                 avisar(f"🍿 {mia['titulo']} llegó a Play Cinema", hs or "Mirá los horarios en la app", APP)
+        ids_play = {p.get("id") for p in cart["peliculas"]}
+        for x in titulos:
+            x["en_play"] = x["id"] in ids_play or norm(x["titulo"]) in {norm(p["titulo"]) for p in cart["peliculas"]}
         guardar("data/cartelera.json", {"actualizado": datetime.now(timezone.utc).isoformat(), "play": cart})
+
+    try:
+        cc = cartelera_cinemacenter()
+        guardar("data/cinemacenter.json", {"actualizado": datetime.now(timezone.utc).isoformat(), **cc})
+        print("Cinemacenter:", len(cc["peliculas"]), "en cartelera,", len(cc["proximos"]), "próximos")
+    except Exception as err:
+        print("Cinemacenter", err)
 
     ahora = datetime.now(timezone.utc).isoformat()
     guardar("data/oscar_estado.json", {"actualizado": osc.get("actualizado"), "fuente": osc.get("_fuente"), "peliculas": oscar})
@@ -401,9 +472,16 @@ def main():
     guardar("data/esperadas.json", {"actualizado": ahora, "titulos": titulos})
     guardar("data/tendencias.json", {"actualizado": ahora, **tend})
 
-    for e in nuevos_hd:
-        donde = ", ".join(sum(e["plataformas"].values(), [])) or e["motivo"]
-        avisar(f"🎬 {e['titulo']} ya está en HD", f"{e['motivo']}. {donde}", e.get("link") or app)
+    limite = (date.fromisoformat(HOY) - timedelta(days=540)).isoformat()
+    relevantes = [e for e in nuevos_hd if e.get("prioridad") or (e.get("fecha") or "") >= limite]
+    if len(relevantes) > 5:
+        avisar(f"🎬 {len(relevantes)} películas de tu lista pasaron a HD",
+               ", ".join(e["titulo"] for e in relevantes[:8]), app)
+    else:
+        for e in relevantes:
+            donde = ", ".join(sum(e["plataformas"].values(), []))
+            msg = e["motivo"] + (f": {donde}" if donde and donde not in e["motivo"] else "")
+            avisar(f"🎬 {e['titulo']} ya está en HD", msg, e.get("link") or app)
     if primera_vez:
         n = sum(1 for e in titulos if e["hd"])
         avisar("Mi cine: vigilancia activada",

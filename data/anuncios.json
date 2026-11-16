@@ -1,0 +1,6 @@
+{
+ "_ayuda": "Fechas anunciadas que TMDB todavía no tiene. 'cuando' es texto libre; poné 'fecha' (AAAA-MM-DD) solo si es oficial.",
+ "series": {
+  "The Pitt": {"temporada": 3, "cuando": "enero 2027 (sin fecha oficial)", "fecha": null, "fuente": "TVLine / HBO Max"}
+ }
+}
