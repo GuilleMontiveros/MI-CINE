@@ -1,0 +1,139 @@
+{
+ "actualizado": "2026-11-16T21:12:12.663779+00:00",
+ "series": [
+  {
+   "id": 225171,
+   "tipo": "tv",
+   "titulo": "Pluribus",
+   "fecha": "2025-11-06",
+   "poster": "/stkYbERuo2YYuay37rYaE41Izyu.jpg",
+   "puntaje": 7.9,
+   "estado": "Returning Series",
+   "ultimo": {
+    "id": 5964855,
+    "fecha": "2025-12-23",
+    "t": 1,
+    "e": 9,
+    "nombre": "La chica o el mundo"
+   },
+   "proximo": null,
+   "plataformas": {
+    "flatrate": [
+     "Apple TV",
+     "Apple TV Amazon Channel"
+    ]
+   },
+   "link": "https://www.themoviedb.org/tv/225171-pluribus/watch?locale=AR"
+  },
+  {
+   "id": 37854,
+   "tipo": "tv",
+   "titulo": "One Piece",
+   "fecha": "1999-10-20",
+   "poster": "/revXibqFO4JrwmLe34MKth1GVrd.jpg",
+   "puntaje": 8.8,
+   "estado": "Returning Series",
+   "ultimo": {
+    "id": 7550231,
+    "fecha": "2026-09-27",
+    "t": 23,
+    "e": 1180,
+    "nombre": "Reina la desesperación en Elbaph. El pacto diabólico, Domi Reversi"
+   },
+   "proximo": null,
+   "plataformas": {
+    "flatrate": [
+     "Netflix",
+     "Claro video",
+     "Crunchyroll",
+     "HBO Max",
+     "Crunchyroll Amazon Channel"
+    ]
+   },
+   "link": "https://www.themoviedb.org/tv/37854-wanpisu/watch?locale=AR"
+  },
+  {
+   "id": 73223,
+   "tipo": "tv",
+   "titulo": "Black Clover",
+   "fecha": "2017-10-03",
+   "poster": "/zObHoFAX6P7DirR2dybN3cVC1Ms.jpg",
+   "puntaje": 8.5,
+   "estado": "Returning Series",
+   "ultimo": {
+    "id": 7903818,
+    "fecha": "2026-11-14",
+    "t": 2,
+    "e": 7,
+    "nombre": "Al no rendirnos"
+   },
+   "proximo": {
+    "id": 7903820,
+    "fecha": "2026-11-21",
+    "t": 2,
+    "e": 8,
+    "nombre": "Episodio 8"
+   },
+   "plataformas": {},
+   "link": null
+  },
+  {
+   "id": 105248,
+   "tipo": "tv",
+   "titulo": "Cyberpunk: Edgerunners",
+   "fecha": "2022-09-13",
+   "poster": "/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
+   "puntaje": 8.5,
+   "estado": "Returning Series",
+   "ultimo": {
+    "id": 7900186,
+    "fecha": "2026-10-20",
+    "t": 2,
+    "e": 10,
+    "nombre": "Then Everyone Went Home"
+   },
+   "proximo": null,
+   "plataformas": {
+    "flatrate": [
+     "Netflix"
+    ]
+   },
+   "link": "https://www.themoviedb.org/tv/105248-cyberpunk-edgerunners/watch?locale=AR"
+  },
+  {
+   "id": 1668,
+   "tipo": "tv",
+   "titulo": "Friends",
+   "fecha": "1994-09-22",
+   "poster": "/rkKCSlr8OH5tbKEdgwtzvEiemrl.jpg",
+   "puntaje": 8.4,
+   "estado": "Ended",
+   "ultimo": {
+    "id": 87632,
+    "fecha": "2004-05-06",
+    "t": 10,
+    "e": 17,
+    "nombre": "El último"
+   },
+   "proximo": null,
+   "plataformas": {
+    "flatrate": [
+     "Netflix",
+     "HBO Max"
+    ]
+   },
+   "link": "https://www.themoviedb.org/tv/1668-friends/watch?locale=AR"
+  }
+ ],
+ "prioridades": [
+  1263337,
+  1375441,
+  1423191,
+  1400940,
+  791523,
+  1765072,
+  1457866,
+  1170608,
+  1381071
+ ]
+}

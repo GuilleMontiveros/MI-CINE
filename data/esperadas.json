@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16T20:57:45.403250+00:00",
+ "actualizado": "2026-11-16T21:12:12.663779+00:00",
  "titulos": [
   {
    "id": 37165,
@@ -4662,7 +4662,7 @@
    "titulo": "Asteroid City",
    "fecha": "2023-06-08",
    "poster": "/s7LIE7oNZ6WU4ajf1FaXWyMYdpX.jpg",
-   "puntaje": 6.5,
+   "puntaje": 6.4,
    "hd": true,
    "motivo": "Disponible en Argentina",
    "digital_ar": null,
@@ -5558,7 +5558,8 @@
    "plataformas": {},
    "link": null,
    "agregada": "2026-05-23",
-   "hd_desde": null
+   "hd_desde": null,
+   "prioridad": true
   },
   {
    "id": 800158,
@@ -7214,7 +7215,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1263337-heart-of-the-beast/watch?locale=AR",
    "agregada": "2026-06-13",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "prioridad": true
   },
   {
    "id": 1284041,
@@ -7875,7 +7877,8 @@
    "plataformas": {},
    "link": null,
    "agregada": "2026-07-23",
-   "hd_desde": null
+   "hd_desde": null,
+   "prioridad": true
   },
   {
    "id": 1003598,
@@ -8513,7 +8516,8 @@
    "plataformas": {},
    "link": null,
    "agregada": "2026-08-07",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "prioridad": true
   },
   {
    "id": 1903,
@@ -9633,7 +9637,8 @@
    },
    "link": "https://www.themoviedb.org/movie/1423191-resident-evil/watch?locale=AR",
    "agregada": "2026-09-19",
-   "hd_desde": "2026-11-16"
+   "hd_desde": "2026-11-16",
+   "prioridad": true
   },
   {
    "id": 109,
@@ -9744,7 +9749,8 @@
    "plataformas": {},
    "link": null,
    "agregada": "2026-10-24",
-   "hd_desde": null
+   "hd_desde": null,
+   "prioridad": true
   },
   {
    "id": 397243,
@@ -9825,7 +9831,8 @@
    "plataformas": {},
    "link": null,
    "agregada": "2026-11-17",
-   "hd_desde": null
+   "hd_desde": null,
+   "prioridad": true
   },
   {
    "id": 1765072,
@@ -9842,7 +9849,8 @@
    "plataformas": {},
    "link": null,
    "agregada": "2026-11-17",
-   "hd_desde": null
+   "hd_desde": null,
+   "prioridad": true
   },
   {
    "id": 1400940,
@@ -9859,7 +9867,8 @@
    "plataformas": {},
    "link": null,
    "agregada": "2026-11-17",
-   "hd_desde": null
+   "hd_desde": null,
+   "prioridad": true
   }
  ]
 }
