@@ -277,7 +277,12 @@ def cartelera_cinemacenter():
         for f, hh in funcs:
             dias.setdefault(f, []).append(hh)
         d = por_titulo.setdefault(base_t.title(), {"titulo": base_t.title(), "funciones": []})
-        d["funciones"].append({"formato": formato, "dias": dias})
+        prev = next((f for f in d["funciones"] if f["formato"] == formato), None)
+        if prev is None:
+            prev = {"formato": formato, "dias": {}}
+            d["funciones"].append(prev)
+        for f, hhs in dias.items():
+            prev["dias"][f] = sorted(set(prev["dias"].get(f, []) + hhs))
     pelis = list(por_titulo.values())
     est = leer_u(f"{base}/modules/parts/ajax_estrenosxcity.php", {"idCity": "9"})
     proximos = []
