@@ -1,0 +1,760 @@
+{
+ "_fuente": "Copiado del perfil de Serializd (16/11/2026)",
+ "series": [
+  {
+   "titulo": "One Piece",
+   "vistos": 1181,
+   "total": 1180
+  },
+  {
+   "titulo": "The Simpsons",
+   "vistos": 801,
+   "total": 816
+  },
+  {
+   "titulo": "The Flash",
+   "vistos": 184,
+   "total": 184
+  },
+  {
+   "titulo": "Arrow",
+   "vistos": 170,
+   "total": 170
+  },
+  {
+   "titulo": "The Walking Dead",
+   "vistos": 131,
+   "total": 177
+  },
+  {
+   "titulo": "Bakugan Battle Brawlers",
+   "vistos": 189,
+   "total": 189
+  },
+  {
+   "titulo": "Game of Thrones",
+   "vistos": 73,
+   "total": 73
+  },
+  {
+   "titulo": "Black Clover",
+   "vistos": 170,
+   "total": 196
+  },
+  {
+   "titulo": "Vikings",
+   "vistos": 89,
+   "total": 89
+  },
+  {
+   "titulo": "Hunter x Hunter",
+   "vistos": 148,
+   "total": 148
+  },
+  {
+   "titulo": "Better Call Saul",
+   "vistos": 63,
+   "total": 63
+  },
+  {
+   "titulo": "Lost",
+   "vistos": 71,
+   "total": 118
+  },
+  {
+   "titulo": "Adventure Time",
+   "vistos": 279,
+   "total": 279
+  },
+  {
+   "titulo": "Futurama",
+   "vistos": 131,
+   "total": 164
+  },
+  {
+   "titulo": "Breaking Bad",
+   "vistos": 62,
+   "total": 62
+  },
+  {
+   "titulo": "13 Reasons Why",
+   "vistos": 49,
+   "total": 49
+  },
+  {
+   "titulo": "Ozark",
+   "vistos": 44,
+   "total": 44
+  },
+  {
+   "titulo": "The Boys",
+   "vistos": 40,
+   "total": 40
+  },
+  {
+   "titulo": "Succession",
+   "vistos": 39,
+   "total": 39
+  },
+  {
+   "titulo": "Mr. Robot",
+   "vistos": 45,
+   "total": 45
+  },
+  {
+   "titulo": "Marvel's Daredevil",
+   "vistos": 39,
+   "total": 39
+  },
+  {
+   "titulo": "Attack on Titan",
+   "vistos": 87,
+   "total": 87
+  },
+  {
+   "titulo": "Marvel's Jessica Jones",
+   "vistos": 39,
+   "total": 39
+  },
+  {
+   "titulo": "BoJack Horseman",
+   "vistos": 76,
+   "total": 76
+  },
+  {
+   "titulo": "Black Mirror",
+   "vistos": 33,
+   "total": 33
+  },
+  {
+   "titulo": "Steven Universe",
+   "vistos": 154,
+   "total": 154
+  },
+  {
+   "titulo": "The 100",
+   "vistos": 45,
+   "total": 100
+  },
+  {
+   "titulo": "JoJo's Bizarre Adventure",
+   "vistos": 74,
+   "total": 202
+  },
+  {
+   "titulo": "Ben 10: Omniverse",
+   "vistos": 80,
+   "total": 80
+  },
+  {
+   "titulo": "Sex Education",
+   "vistos": 32,
+   "total": 32
+  },
+  {
+   "titulo": "Star vs. the Forces of Evil",
+   "vistos": 140,
+   "total": 140
+  },
+  {
+   "titulo": "Fear the Walking Dead",
+   "vistos": 37,
+   "total": 113
+  },
+  {
+   "titulo": "The Bear",
+   "vistos": 46,
+   "total": 46
+  },
+  {
+   "titulo": "Demon Slayer: Kimetsu no Yaiba",
+   "vistos": 63,
+   "total": 63
+  },
+  {
+   "titulo": "INVINCIBLE",
+   "vistos": 32,
+   "total": 32
+  },
+  {
+   "titulo": "True Detective",
+   "vistos": 27,
+   "total": 30
+  },
+  {
+   "titulo": "Fullmetal Alchemist: Brotherhood",
+   "vistos": 64,
+   "total": 64
+  },
+  {
+   "titulo": "Euphoria",
+   "vistos": 26,
+   "total": 24
+  },
+  {
+   "titulo": "House of the Dragon",
+   "vistos": 26,
+   "total": 26
+  },
+  {
+   "titulo": "Riverdale",
+   "vistos": 35,
+   "total": 137
+  },
+  {
+   "titulo": "Avatar: The Last Airbender",
+   "vistos": 61,
+   "total": 61
+  },
+  {
+   "titulo": "Dark",
+   "vistos": 26,
+   "total": 26
+  },
+  {
+   "titulo": "Marvel's Luke Cage",
+   "vistos": 26,
+   "total": 26
+  },
+  {
+   "titulo": "The Pitt",
+   "vistos": 30,
+   "total": 30
+  },
+  {
+   "titulo": "JUJUTSU KAISEN",
+   "vistos": 59,
+   "total": 59
+  },
+  {
+   "titulo": "Marvel's The Punisher",
+   "vistos": 26,
+   "total": 26
+  },
+  {
+   "titulo": "Rick and Morty",
+   "vistos": 61,
+   "total": 91
+  },
+  {
+   "titulo": "Squid Game",
+   "vistos": 22,
+   "total": 22
+  },
+  {
+   "titulo": "Psycho-Pass",
+   "vistos": 41,
+   "total": 41
+  },
+  {
+   "titulo": "Atlanta",
+   "vistos": 41,
+   "total": 41
+  },
+  {
+   "titulo": "Vinland Saga",
+   "vistos": 48,
+   "total": 48
+  },
+  {
+   "titulo": "Andor",
+   "vistos": 24,
+   "total": 24
+  },
+  {
+   "titulo": "Ben 10: Ultimate Alien",
+   "vistos": 52,
+   "total": 52
+  },
+  {
+   "titulo": "Tokyo Revengers",
+   "vistos": 50,
+   "total": 63
+  },
+  {
+   "titulo": "Jessie",
+   "vistos": 52,
+   "total": 98
+  },
+  {
+   "titulo": "Tokyo Ghoul",
+   "vistos": 48,
+   "total": 48
+  },
+  {
+   "titulo": "The Mandalorian",
+   "vistos": 24,
+   "total": 24
+  },
+  {
+   "titulo": "Record of Ragnarok",
+   "vistos": 42,
+   "total": 42
+  },
+  {
+   "titulo": "You",
+   "vistos": 20,
+   "total": 50
+  },
+  {
+   "titulo": "Severance",
+   "vistos": 19,
+   "total": 19
+  },
+  {
+   "titulo": "Frieren: Beyond Journey's End",
+   "vistos": 38,
+   "total": 38
+  },
+  {
+   "titulo": "Gravity Falls",
+   "vistos": 40,
+   "total": 40
+  },
+  {
+   "titulo": "The Last of Us",
+   "vistos": 16,
+   "total": 16
+  },
+  {
+   "titulo": "BLUE LOCK",
+   "vistos": 38,
+   "total": 38
+  },
+  {
+   "titulo": "Kaguya-sama: Love Is War",
+   "vistos": 37,
+   "total": 37
+  },
+  {
+   "titulo": "What If...?",
+   "vistos": 26,
+   "total": 26
+  },
+  {
+   "titulo": "Skins",
+   "vistos": 19,
+   "total": 61
+  },
+  {
+   "titulo": "Death Note",
+   "vistos": 37,
+   "total": 37
+  },
+  {
+   "titulo": "Arcane",
+   "vistos": 18,
+   "total": 18
+  },
+  {
+   "titulo": "Ninjago: Masters of Spinjitzu",
+   "vistos": 34,
+   "total": 210
+  },
+  {
+   "titulo": "Pantheon",
+   "vistos": 16,
+   "total": 16
+  },
+  {
+   "titulo": "Cowboy Bebop",
+   "vistos": 26,
+   "total": 26
+  },
+  {
+   "titulo": "Gurren Lagann",
+   "vistos": 27,
+   "total": 27
+  },
+  {
+   "titulo": "Orb: On the Movements of the Earth",
+   "vistos": 25,
+   "total": 25
+  },
+  {
+   "titulo": "Blue Box",
+   "vistos": 26,
+   "total": 37
+  },
+  {
+   "titulo": "Love, Death & Robots",
+   "vistos": 45,
+   "total": 45
+  },
+  {
+   "titulo": "Neon Genesis Evangelion",
+   "vistos": 26,
+   "total": 26
+  },
+  {
+   "titulo": "Loki",
+   "vistos": 12,
+   "total": 12
+  },
+  {
+   "titulo": "Hell's Paradise",
+   "vistos": 25,
+   "total": 25
+  },
+  {
+   "titulo": "You and I Are Polar Opposites",
+   "vistos": 25,
+   "total": 25
+  },
+  {
+   "titulo": "Toradora!",
+   "vistos": 25,
+   "total": 25
+  },
+  {
+   "titulo": "Solo Leveling",
+   "vistos": 25,
+   "total": 25
+  },
+  {
+   "titulo": "Berserk",
+   "vistos": 25,
+   "total": 25
+  },
+  {
+   "titulo": "Westworld",
+   "vistos": 10,
+   "total": 36
+  },
+  {
+   "titulo": "Sword Art Online",
+   "vistos": 25,
+   "total": 96
+  },
+  {
+   "titulo": "Akame ga Kill!",
+   "vistos": 24,
+   "total": 24
+  },
+  {
+   "titulo": "The Seven Deadly Sins",
+   "vistos": 24,
+   "total": 96
+  },
+  {
+   "titulo": "One-Punch Man",
+   "vistos": 24,
+   "total": 36
+  },
+  {
+   "titulo": "Kakegurui",
+   "vistos": 24,
+   "total": 24
+  },
+  {
+   "titulo": "DARLING in the FRANXX",
+   "vistos": 24,
+   "total": 24
+  },
+  {
+   "titulo": "Dr. STONE",
+   "vistos": 24,
+   "total": 94
+  },
+  {
+   "titulo": "My Dress-Up Darling",
+   "vistos": 24,
+   "total": 24
+  },
+  {
+   "titulo": "Dan Da Dan",
+   "vistos": 24,
+   "total": 24
+  },
+  {
+   "titulo": "The Dangers in My Heart",
+   "vistos": 25,
+   "total": 25
+  },
+  {
+   "titulo": "Gachiakuta",
+   "vistos": 24,
+   "total": 24
+  },
+  {
+   "titulo": "The Society",
+   "vistos": 10,
+   "total": 10
+  },
+  {
+   "titulo": "The Umbrella Academy",
+   "vistos": 10,
+   "total": 36
+  },
+  {
+   "titulo": "Kaiju No. 8",
+   "vistos": 23,
+   "total": 23
+  },
+  {
+   "titulo": "Suits",
+   "vistos": 12,
+   "total": 134
+  },
+  {
+   "titulo": "Your Lie in April",
+   "vistos": 22,
+   "total": 22
+  },
+  {
+   "titulo": "The Last Dance",
+   "vistos": 10,
+   "total": 10
+  },
+  {
+   "titulo": "FROM",
+   "vistos": 10,
+   "total": 40
+  },
+  {
+   "titulo": "PLUTO",
+   "vistos": 8,
+   "total": 8
+  },
+  {
+   "titulo": "Fallout",
+   "vistos": 8,
+   "total": 16
+  },
+  {
+   "titulo": "Alien: Earth",
+   "vistos": 8,
+   "total": 8
+  },
+  {
+   "titulo": "Pluribus",
+   "vistos": 9,
+   "total": 9
+  },
+  {
+   "titulo": "The White Lotus",
+   "vistos": 7,
+   "total": 21
+  },
+  {
+   "titulo": "Halt and Catch Fire",
+   "vistos": 10,
+   "total": 40
+  },
+  {
+   "titulo": "Off Campus",
+   "vistos": 8,
+   "total": 9
+  },
+  {
+   "titulo": "The Queen's Gambit",
+   "vistos": 7,
+   "total": 7
+  },
+  {
+   "titulo": "Widow's Bay",
+   "vistos": 10,
+   "total": 10
+  },
+  {
+   "titulo": "BLUE EYE SAMURAI",
+   "vistos": 8,
+   "total": 14
+  },
+  {
+   "titulo": "Half Man",
+   "vistos": 6,
+   "total": 6
+  },
+  {
+   "titulo": "WandaVision",
+   "vistos": 9,
+   "total": 9
+  },
+  {
+   "titulo": "Spider-Noir",
+   "vistos": 8,
+   "total": 8
+  },
+  {
+   "titulo": "The End of the F***ing World",
+   "vistos": 16,
+   "total": 16
+  },
+  {
+   "titulo": "Normal People",
+   "vistos": 12,
+   "total": 12
+  },
+  {
+   "titulo": "Chernobyl",
+   "vistos": 5,
+   "total": 5
+  },
+  {
+   "titulo": "The Falcon and the Winter Soldier",
+   "vistos": 6,
+   "total": 6
+  },
+  {
+   "titulo": "Lazarus",
+   "vistos": 13,
+   "total": 13
+  },
+  {
+   "titulo": "Fleabag",
+   "vistos": 12,
+   "total": 12
+  },
+  {
+   "titulo": "The Studio",
+   "vistos": 10,
+   "total": 10
+  },
+  {
+   "titulo": "Charlotte",
+   "vistos": 13,
+   "total": 13
+  },
+  {
+   "titulo": "Tengoku Daimakyo",
+   "vistos": 13,
+   "total": 13
+  },
+  {
+   "titulo": "The Fragrant Flower Blooms with Dignity",
+   "vistos": 13,
+   "total": 13
+  },
+  {
+   "titulo": "NIPPON SANGOKU: The Three Nations of the Crimson Sun",
+   "vistos": 12,
+   "total": 13
+  },
+  {
+   "titulo": "Scavengers Reign",
+   "vistos": 12,
+   "total": 12
+  },
+  {
+   "titulo": "Call of the Night",
+   "vistos": 13,
+   "total": 25
+  },
+  {
+   "titulo": "Lanterns",
+   "vistos": 8,
+   "total": 8
+  },
+  {
+   "titulo": "Heated Rivalry",
+   "vistos": 6,
+   "total": 6
+  },
+  {
+   "titulo": "Chainsaw Man",
+   "vistos": 12,
+   "total": 12
+  },
+  {
+   "titulo": "Grand Blue Dreaming",
+   "vistos": 12,
+   "total": 36
+  },
+  {
+   "titulo": "Sonny Boy",
+   "vistos": 12,
+   "total": 12
+  },
+  {
+   "titulo": "VisionQuest",
+   "vistos": 8,
+   "total": 8
+  },
+  {
+   "titulo": "Obi-Wan Kenobi",
+   "vistos": 6,
+   "total": 6
+  },
+  {
+   "titulo": "Death Parade",
+   "vistos": 12,
+   "total": 12
+  },
+  {
+   "titulo": "ERASED",
+   "vistos": 12,
+   "total": 12
+  },
+  {
+   "titulo": "The Promised Neverland",
+   "vistos": 12,
+   "total": 23
+  },
+  {
+   "titulo": "Firefly Wedding",
+   "vistos": 12,
+   "total": 12
+  },
+  {
+   "titulo": "Wonder Man",
+   "vistos": 8,
+   "total": 8
+  },
+  {
+   "titulo": "Cyberpunk: Edgerunners",
+   "vistos": 10,
+   "total": 20
+  },
+  {
+   "titulo": "Terror in Resonance",
+   "vistos": 11,
+   "total": 11
+  },
+  {
+   "titulo": "Devilman Crybaby",
+   "vistos": 10,
+   "total": 10
+  },
+  {
+   "titulo": "THE GHOST IN THE SHELL",
+   "vistos": 10,
+   "total": 10
+  },
+  {
+   "titulo": "Baby Reindeer",
+   "vistos": 7,
+   "total": 7
+  },
+  {
+   "titulo": "Terminator Zero",
+   "vistos": 8,
+   "total": 8
+  },
+  {
+   "titulo": "A Knight of the Seven Kingdoms",
+   "vistos": 6,
+   "total": 6
+  },
+  {
+   "titulo": "The Midnight Gospel",
+   "vistos": 8,
+   "total": 8
+  },
+  {
+   "titulo": "I Am Not Okay with This",
+   "vistos": 7,
+   "total": 7
+  },
+  {
+   "titulo": "Takopi's Original Sin",
+   "vistos": 6,
+   "total": 6
+  },
+  {
+   "titulo": "Regular Show: The Lost Tapes",
+   "vistos": 12,
+   "total": 23
+  }
+ ]
+}

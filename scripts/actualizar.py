@@ -105,24 +105,47 @@ def fecha_digital(rd, pais):
     return None
 
 
+def proveedores(wp, pais):
+    r = wp.get("results", {}).get(pais, {})
+    return {m: [p["provider_name"] for p in r.get(m, [])] for m in ("flatrate", "rent", "buy") if r.get(m)}
+
+
+def fechas_tipo(rd, tipo):
+    out = []
+    for r in rd.get("results", []):
+        out += [d["release_date"][:10] for d in r["release_dates"] if d["type"] == tipo]
+    return sorted(out)
+
+
 def estado_titulo(ref):
+    """HD solo si está CONFIRMADO: hay dónde verla legal (AR o EE.UU.) o salió en Blu-ray.
+    Una fecha digital sola no alcanza: se muestra como 'anunciada'."""
     if ref["tipo"] == "movie":
         d = tmdb(f"/movie/{ref['id']}", append_to_response="release_dates,watch/providers")
-        dig_ar = fecha_digital(d.get("release_dates", {}), "AR")
-        dig_us = fecha_digital(d.get("release_dates", {}), "US")
+        rd = d.get("release_dates", {})
+        dig_ar, dig_us = fecha_digital(rd, "AR"), fecha_digital(rd, "US")
+        fisicas = [f for f in fechas_tipo(rd, 5) if f <= HOY]
     else:
         d = tmdb(f"/tv/{ref['id']}", append_to_response="watch/providers")
         dig_ar = dig_us = None
-    plats, link = plataformas(d.get("watch/providers", {}))
-    hd = bool(plats) or any(f and f <= HOY for f in (dig_ar, dig_us))
+        fisicas = []
+    wp = d.get("watch/providers", {})
+    plats, link = plataformas(wp)
+    us = proveedores(wp, "US")
     if plats:
-        motivo = "Disponible en Argentina"
-    elif dig_ar and dig_ar <= HOY:
-        motivo = f"Salió en digital en Argentina ({dig_ar})"
-    elif dig_us and dig_us <= HOY:
-        motivo = f"Salió en digital en EE.UU. ({dig_us})"
+        hd, motivo = True, "Disponible en Argentina"
+    elif us:
+        nombres = ", ".join(sum(us.values(), [])[:3])
+        hd, motivo = True, f"En digital en EE.UU. ({nombres})"
+    elif fisicas:
+        hd, motivo = True, f"Salió en Blu-ray/DVD ({fisicas[0]})"
     else:
-        motivo = None
+        hd, motivo = False, None
+    anunciada = None
+    if not hd:
+        f = min([x for x in (dig_ar, dig_us) if x], default=None)
+        if f and f <= HOY:
+            anunciada = f  # fecha pasada pero sin plataforma confirmada: no lo marco HD
     proximo = min([f for f in (dig_ar, dig_us) if f and f > HOY], default=None)
     return {
         **tarjeta(d, ref["tipo"]),
@@ -131,7 +154,9 @@ def estado_titulo(ref):
         "digital_ar": dig_ar,
         "digital_us": dig_us,
         "digital_proximo": proximo,
+        "digital_sin_confirmar": anunciada,
         "plataformas": plats,
+        "plataformas_us": us,
         "link": link,
     }
 
@@ -199,6 +224,17 @@ def cartelera_play():
         nota = re.search(r"(Funciones? disponibles?.*?)$", resto)
         pelis.append({"titulo": titulo.title(), "clasif": x.group(2), "minutos": int(x.group(3)),
                       "funciones": funciones, "nota": nota.group(1).strip() if nota else None})
+    imgs = {}
+    for j in re.findall(r'<script[^>]*application/ld\+json[^>]*>(.*?)</script>', h, flags=re.S):
+        try:
+            for it in json.loads(j).get("itemListElement", []):
+                mv = it.get("item", {})
+                if mv.get("name") and mv.get("image"):
+                    imgs[mv["name"].strip().title()] = mv["image"]
+        except Exception:
+            pass
+    for p in pelis:
+        p["img_cine"] = imgs.get(p["titulo"])
     return {"desde": m.group(1), "hasta": m.group(2), "peliculas": pelis}
 
 
@@ -287,8 +323,19 @@ def main():
     estado = leer("data/estado.json", {"enviados": []})
     enviados = estado["enviados"]
     previas = {str(x["id"]): x for x in leer("data/series.json", {"series": []})["series"]}
-    series = []
-    for nombre in seguir["series"]:
+    excluir = {norm(x) for x in seguir.get("excluir", [])}
+    candidatas = [(n, True) for n in seguir["series"]]
+    # De Serializd: solo las que tenés al día (vistos >= total), que todavía pueden sacar capítulos
+    for x in leer("data/serializd.json", {"series": []})["series"]:
+        if x["vistos"] >= x["total"]:
+            candidatas.append((x["titulo"], False))
+    series, vistos_n = [], set()
+    for nombre, manual in candidatas:
+        if norm(nombre) in excluir or norm(nombre) in vistos_n:
+            continue
+        vistos_n.add(norm(nombre))
+        if not manual and cache.get(f"fin|{nombre}"):
+            continue  # terminada: no hace falta consultarla todos los días
         try:
             sr = estado_serie(nombre, cache)
         except Exception as err:
@@ -296,6 +343,10 @@ def main():
             continue
         if not sr:
             continue
+        if not manual and sr["estado"] in ("Ended", "Canceled"):
+            cache[f"fin|{nombre}"] = True
+            continue
+        sr["manual"] = manual
         series.append(sr)
         pv = previas.get(str(sr["id"]), {})
         u, p = sr["ultimo"], sr["proximo"]
@@ -303,9 +354,10 @@ def main():
         if u and u["fecha"] and u["fecha"] >= (date.fromisoformat(HOY) - timedelta(days=2)).isoformat():
             k = f"ep|{u['id']}"
             if k not in enviados:
-                avisar(f"📺 Salió capítulo nuevo de {sr['titulo']}", f"{codigo(u)}: {u['nombre']}", link)
+                if pv:  # serie nueva en la lista: la registro sin avisar
+                    avisar(f"📺 Salió capítulo nuevo de {sr['titulo']}", f"{codigo(u)}: {u['nombre']}", link)
                 enviados.append(k)
-        if p and p["fecha"] and p["e"] == 1 and (pv.get("proximo") or {}).get("id") != p["id"]:
+        if pv and p and p["fecha"] and p["e"] == 1 and (pv.get("proximo") or {}).get("id") != p["id"]:
             k = f"temp|{p['id']}"
             if k not in enviados:
                 avisar(f"📅 {sr['titulo']}: temporada {p['t']} ya tiene fecha", f"Se estrena el {p['fecha']}", link)

@@ -120,8 +120,9 @@ function cPeli(x){
   let tag;
   if(x.hd) tag='<span class="tag t-hd">HD</span>';
   else if(x.digital_proximo) tag=`<span class="tag t-prox">${fmt(x.digital_proximo)}</span>`;
+  else if(x.digital_sin_confirmar) tag='<span class="tag t-no">SIN CONFIRMAR</span>';
   else tag='<span class="tag t-no">CINE</span>';
-  return card(x,tag,[anio(x.fecha),plats(x)||(x.hd?x.motivo:'')].filter(Boolean).join(' · '));
+  return card(x,tag,[anio(x.fecha),plats(x)||(x.hd?x.motivo:x.digital_sin_confirmar?'Digital anunciado, sin plataforma':'')].filter(Boolean).join(' · '));
 }
 function cTend(x){return card(x,'',`${anio(x.fecha)} · ★ ${x.puntaje||'–'}`)}
 function cSerie(x){
@@ -177,7 +178,7 @@ Promise.all([j('data/tendencias.json'),j('data/esperadas.json'),j('data/series.j
   $('clubs').innerHTML=((c&&c.clubes)||[]).map(k=>`<a><b>${esc(k.nombre)}</b>
     <span>Todos los ${k.dia}${k.hora?' · '+k.hora:''} · gratis<br>${k.pelicula?'🎬 '+esc(k.pelicula)+(k.descripcion?'<br>'+esc(k.descripcion):''):'Película: se carga el día de la función'}</span></a>`).join('');
   // series: primero las que tienen capítulo próximo
-  SE.sort((a,b)=>((a.proximo||{}).fecha||'9999').localeCompare((b.proximo||{}).fecha||'9999'));
+  SE.sort((a,b)=>((a.proximo||{}).fecha||'9999').localeCompare((b.proximo||{}).fecha||'9999')||(b.manual-a.manual));
   pon('series',SE,cSerie,'Sumá series en data/seguir.json.');
   const prio=new Set((s&&s.prioridades)||[]);
   pon('prio',WL.filter(x=>prio.has(x.id)),cPeli,'');
