@@ -8,9 +8,13 @@ on:
     branches: [main]
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
+
+concurrency:
+  group: mi-cine
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -25,6 +29,13 @@ jobs:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
         run: python scripts/actualizar.py
+      - name: Guardar estado (para detectar cambios mañana)
+        run: |
+          git config user.name "mi-cine-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "Datos del $(date +%F)"
+          git push
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
