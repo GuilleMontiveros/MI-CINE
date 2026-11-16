@@ -1,0 +1,46 @@
+name: Agregar desde la app
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+  actions: write
+
+concurrency:
+  group: mi-cine
+  cancel-in-progress: false
+
+jobs:
+  agregar:
+    # Solo pedidos tuyos (dueño del repo) y con el prefijo de la app
+    if: startsWith(github.event.issue.title, '[mi-cine]') && github.event.issue.user.login == github.repository_owner
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Actualizar lista
+        id: run
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          CUERPO: ${{ github.event.issue.body }}
+        run: |
+          MSG=$(python scripts/agregar.py)
+          echo "msg=$MSG" >> "$GITHUB_OUTPUT"
+          git config user.name "mi-cine-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/seguir.json
+          git diff --cached --quiet || git commit -m "Desde la app: $MSG"
+          git push
+      - name: Cerrar pedido y actualizar la app
+        env:
+          GH_TOKEN: ${{ github.token }}
+          MSG: ${{ steps.run.outputs.msg }}
+          NUM: ${{ github.event.issue.number }}
+        run: |
+          gh issue close "$NUM" -R ${{ github.repository }} -c "✅ $MSG En 2–3 minutos aparece en la app."
+          gh workflow run actualizar.yml -R ${{ github.repository }}

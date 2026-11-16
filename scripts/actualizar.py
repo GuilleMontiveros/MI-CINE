@@ -186,6 +186,8 @@ def ep(e):
 
 def estado_serie(nombre, cache):
     clave = f"serie|{nombre}"
+    if isinstance(nombre, int):
+        cache[clave] = nombre
     if clave not in cache:
         r = tmdb("/search/tv", query=nombre)["results"]
         cache[clave] = r[0]["id"] if r else None
@@ -359,9 +361,14 @@ def main():
     seguir = leer("data/seguir.json", {"series": [], "prioridades": []})
     ids_wl = {e["id"] for e in titulos}
     prioridades = []
-    for nombre, anio in seguir["prioridades"]:
+    quitados = set(seguir.get("quitados", []))
+    pedidos = [(n, a, None) for n, a in seguir["prioridades"]] + \
+              [(x["titulo"], None, {"id": x["id"], "tipo": "movie"}) for x in seguir.get("prioridades_id", [])]
+    for nombre, anio, ref_directo in pedidos:
         try:
-            ref = buscar_id({"titulo": nombre, "anio": str(anio)}, cache)
+            ref = ref_directo or buscar_id({"titulo": nombre, "anio": str(anio)}, cache)
+            if ref and ref["id"] in quitados:
+                continue
             if not ref:
                 continue
             if ref["id"] in ids_wl:
@@ -385,6 +392,10 @@ def main():
     excluir = {norm(x) for x in seguir.get("excluir", [])}
     prio_series = {norm(x) for x in seguir.get("series_prioridad", [])}
     candidatas = [(n, True) for n in seguir.get("series_prioridad", []) + seguir["series"]]
+    for x in seguir.get("series_id", []):
+        candidatas.insert(0, (x["id"], True))
+        if x.get("prioridad"):
+            prio_series.add(norm(str(x["id"])))
     anuncios = leer("data/anuncios.json", {"series": {}})["series"]
     # De Serializd: solo las que tenés al día (vistos >= total), que todavía pueden sacar capítulos
     for x in leer("data/serializd.json", {"series": []})["series"]:
@@ -392,9 +403,10 @@ def main():
             candidatas.append((x["titulo"], False))
     series, vistos_n = [], set()
     for nombre, manual in candidatas:
-        if norm(nombre) in excluir or norm(nombre) in vistos_n:
+        nn = norm(str(nombre))
+        if nn in excluir or nn in vistos_n:
             continue
-        vistos_n.add(norm(nombre))
+        vistos_n.add(nn)
         if not manual and cache.get(f"fin|{nombre}"):
             continue  # terminada: no hace falta consultarla todos los días
         try:
@@ -408,8 +420,13 @@ def main():
             cache[f"fin|{nombre}"] = True
             continue
         sr["manual"] = manual
-        sr["prioridad"] = norm(nombre) in prio_series
-        an = anuncios.get(nombre)
+        if sr["id"] in set(seguir.get("quitados", [])) and not isinstance(nombre, int):
+            sr["prioridad"] = False
+        else:
+            sr["prioridad"] = nn in prio_series or norm(sr["titulo"]) in prio_series
+        if any(x["id"] == sr["id"] for x in series):
+            continue
+        an = anuncios.get(sr["titulo"]) or anuncios.get(str(nombre))
         u0, p0 = sr["ultimo"], sr["proximo"]
         if p0 and p0.get("fecha"):
             sr["resumen"] = f"Próximo: T{p0['t']} E{p0['e']}"
