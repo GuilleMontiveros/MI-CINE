@@ -224,17 +224,9 @@ def cartelera_play():
         nota = re.search(r"(Funciones? disponibles?.*?)$", resto)
         pelis.append({"titulo": titulo.title(), "clasif": x.group(2), "minutos": int(x.group(3)),
                       "funciones": funciones, "nota": nota.group(1).strip() if nota else None})
-    imgs = {}
-    for j in re.findall(r'<script[^>]*application/ld\+json[^>]*>(.*?)</script>', h, flags=re.S):
-        try:
-            for it in json.loads(j).get("itemListElement", []):
-                mv = it.get("item", {})
-                if mv.get("name") and mv.get("image"):
-                    imgs[mv["name"].strip().title()] = mv["image"]
-        except Exception:
-            pass
     for p in pelis:
-        p["img_cine"] = imgs.get(p["titulo"])
+        mm = re.search(r'"name"\s*:\s*"' + re.escape(p["titulo"]) + r'"[^{}]*?"image"\s*:\s*"([^"]+)"', h, flags=re.I)
+        p["img_cine"] = mm.group(1).replace("\\/", "/") if mm else None
     return {"desde": m.group(1), "hasta": m.group(2), "peliculas": pelis}
 
 

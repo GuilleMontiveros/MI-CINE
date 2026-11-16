@@ -168,7 +168,7 @@ Promise.all([j('data/tendencias.json'),j('data/esperadas.json'),j('data/series.j
 .then(([t,e,s,c,o,ca])=>{
   if(ca&&ca.play){const P=ca.play;$('cartsub').textContent=`del ${P.desde} al ${P.hasta}`;
     const l=[...P.peliculas].sort((a,b)=>b.mia-a.mia);
-    $('cart').innerHTML=l.map(p=>`<div class="peli ${p.mia?'mia':''}">${p.poster?`<img loading="lazy" src="${IMG+p.poster}" alt="">`:'<div class="ph"></div>'}<div><b>${esc(p.titulo)}</b> <span class="m">${esc(p.clasif)} · ${p.minutos} min${p.mia?' · ⭐ en tu lista':''}</span>${p.funciones.map(f=>`<div class="fx"><i>${f.formato}</i><span class="hs">${f.horas.join('  ')}</span></div>`).join('')}${p.nota?`<div class="m">${esc(p.nota)}</div>`:''}</div></div>`).join('')}
+    $('cart').innerHTML=l.map(p=>`<div class="peli ${p.mia?'mia':''}">${p.poster||p.img_cine?`<img loading="lazy" src="${p.poster?IMG+p.poster:p.img_cine}" alt="">`:'<div class="ph"></div>'}<div><b>${esc(p.titulo)}</b> <span class="m">${esc(p.clasif)} · ${p.minutos} min${p.mia?' · ⭐ en tu lista':''}</span>${p.funciones.map(f=>`<div class="fx"><i>${f.formato}</i><span class="hs">${f.horas.join('  ')}</span></div>`).join('')}${p.nota?`<div class="m">${esc(p.nota)}</div>`:''}</div></div>`).join('')}
   else $('cart').innerHTML='<p class="vacio">No pude leer la cartelera hoy.</p>';
   if(o){$('oscfuente').textContent='Mejor Película · Awards Radar '+fmt(o.actualizado);
     pon('oscar',o.peliculas,x=>cPeli(x).replace('<div class="p">',`<div class="p"><span class="num">${x.puesto}</span>`),'')}
