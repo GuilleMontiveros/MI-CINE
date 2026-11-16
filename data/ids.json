@@ -1675,5 +1675,54 @@
  "Paper Tiger|2026": {
   "id": 1381273,
   "tipo": "movie"
+ },
+ "carte|Como Robar Un Banco": {
+  "id": 1437511,
+  "poster": "/xS35fgWgRdF2em5MGxg5WG9dPKd.jpg"
+ },
+ "carte|Caballo Salvaje 9": {
+  "id": 891621,
+  "poster": "/bLDrHn76oiNYiELv1qw3Tfdkqc8.jpg"
+ },
+ "carte|Aniquilación": {
+  "id": 1284046,
+  "poster": "/bKq74yT1Gca4JCd7E6IAHPLWBg0.jpg"
+ },
+ "carte|Plumas: Operación Rescate": {
+  "id": 1280405,
+  "poster": "/12N7a0AqUK8tDYo8RgBXIZQ7kgJ.jpg"
+ },
+ "carte|Ebenezer: Los Fantasmas De Navidad": {
+  "id": 1567605,
+  "poster": "/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg"
+ },
+ "carte|Los Juesgo Del Hambre: Amanecer En La Cosecha": null,
+ "carte|Sacrificio: Los Elegidos": {
+  "id": 1284186,
+  "poster": "/fRjUuePNJFW2BcL5bXAe5xytGr9.jpg"
+ },
+ "carte|Godzilla Minus Zero": {
+  "id": 1381071,
+  "poster": "/2B7ZSUutCgwUAE5U0X7WlD8yiun.jpg"
+ },
+ "carte|El Gato Con Sombrero": {
+  "id": 1117898,
+  "poster": "/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg"
+ },
+ "carte|Wildwood: El Bosque Salvaje": {
+  "id": 791523,
+  "poster": "/sJ1uZ4DKsjs2iqLtCX46TifxqoE.jpg"
+ },
+ "carte|Clayface": {
+  "id": 1400940,
+  "poster": "/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg"
+ },
+ "carte|Escuela De Monstruos": {
+  "id": 1572116,
+  "poster": "/mL3UwoaSdzBrXeCsIRnk4f49ibO.jpg"
+ },
+ "carte|Madre Siniestra": {
+  "id": 1400837,
+  "poster": "/USCOKXrHBCeeK96qXmS0NyDHYL.jpg"
  }
 }

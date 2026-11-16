@@ -1,0 +1,253 @@
+{
+ "actualizado": "2026-11-16T21:39:05.276909+00:00",
+ "play": {
+  "desde": "12/11",
+  "hasta": "18/11",
+  "peliculas": [
+   {
+    "titulo": "Como Robar Un Banco",
+    "clasif": "R-17",
+    "minutos": 122,
+    "funciones": [
+     {
+      "formato": "2D cast",
+      "horas": [
+       "23:00"
+      ]
+     }
+    ],
+    "nota": null,
+    "id": 1437511,
+    "poster": "/xS35fgWgRdF2em5MGxg5WG9dPKd.jpg",
+    "mia": false
+   },
+   {
+    "titulo": "Caballo Salvaje 9",
+    "clasif": "R-17",
+    "minutos": 118,
+    "funciones": [
+     {
+      "formato": "2D sub",
+      "horas": [
+       "21:20"
+      ]
+     }
+    ],
+    "nota": null,
+    "id": 891621,
+    "poster": "/bLDrHn76oiNYiELv1qw3Tfdkqc8.jpg",
+    "mia": true
+   },
+   {
+    "titulo": "Aniquilación",
+    "clasif": "R-17",
+    "minutos": 92,
+    "funciones": [
+     {
+      "formato": "2D cast",
+      "horas": [
+       "23:10"
+      ]
+     }
+    ],
+    "nota": null,
+    "id": 1284046,
+    "poster": "/bKq74yT1Gca4JCd7E6IAHPLWBg0.jpg",
+    "mia": false
+   },
+   {
+    "titulo": "Plumas: Operación Rescate",
+    "clasif": "G",
+    "minutos": 86,
+    "funciones": [
+     {
+      "formato": "2D cast",
+      "horas": [
+       "16:40",
+       "18:10",
+       "19:40"
+      ]
+     }
+    ],
+    "nota": null,
+    "id": 1280405,
+    "poster": "/12N7a0AqUK8tDYo8RgBXIZQ7kgJ.jpg",
+    "mia": false
+   },
+   {
+    "titulo": "Ebenezer: Los Fantasmas De Navidad",
+    "clasif": "SP - (Supervisión Parental)",
+    "minutos": 115,
+    "funciones": [
+     {
+      "formato": "2D cast",
+      "horas": [
+       "17:00",
+       "19:30",
+       "23:30"
+      ]
+     },
+     {
+      "formato": "2D sub",
+      "horas": [
+       "21:30"
+      ]
+     }
+    ],
+    "nota": null,
+    "id": 1567605,
+    "poster": "/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
+    "mia": false
+   },
+   {
+    "titulo": "Los Juesgo Del Hambre: Amanecer En La Cosecha",
+    "clasif": "R-13",
+    "minutos": 158,
+    "funciones": [
+     {
+      "formato": "2D cast",
+      "horas": [
+       "19:20"
+      ]
+     },
+     {
+      "formato": "2D sub",
+      "horas": [
+       "22:20"
+      ]
+     }
+    ],
+    "nota": "Funciones disponibles únicamente miércoles 18/11",
+    "mia": false
+   },
+   {
+    "titulo": "Sacrificio: Los Elegidos",
+    "clasif": "R-13",
+    "minutos": 103,
+    "funciones": [
+     {
+      "formato": "2D sub",
+      "horas": [
+       "21:10"
+      ]
+     }
+    ],
+    "nota": null,
+    "id": 1284186,
+    "poster": "/fRjUuePNJFW2BcL5bXAe5xytGr9.jpg",
+    "mia": false
+   },
+   {
+    "titulo": "Godzilla Minus Zero",
+    "clasif": "R-13",
+    "minutos": 135,
+    "funciones": [
+     {
+      "formato": "2D cast",
+      "horas": [
+       "18:20",
+       "20:40"
+      ]
+     }
+    ],
+    "nota": null,
+    "id": 1381071,
+    "poster": "/2B7ZSUutCgwUAE5U0X7WlD8yiun.jpg",
+    "mia": true
+   },
+   {
+    "titulo": "El Gato Con Sombrero",
+    "clasif": "G",
+    "minutos": 114,
+    "funciones": [
+     {
+      "formato": "2D cast",
+      "horas": [
+       "16:30",
+       "20:30"
+      ]
+     },
+     {
+      "formato": "3D cast",
+      "horas": [
+       "18:30"
+      ]
+     }
+    ],
+    "nota": null,
+    "id": 1117898,
+    "poster": "/8TW5oOMZbxaMFVgletpW0bxd2Aa.jpg",
+    "mia": false
+   },
+   {
+    "titulo": "Wildwood: El Bosque Salvaje",
+    "clasif": "G",
+    "minutos": 130,
+    "funciones": [
+     {
+      "formato": "2D cast",
+      "horas": [
+       "17:10",
+       "19:00"
+      ]
+     }
+    ],
+    "nota": null,
+    "id": 791523,
+    "poster": "/sJ1uZ4DKsjs2iqLtCX46TifxqoE.jpg",
+    "mia": true
+   },
+   {
+    "titulo": "Clayface",
+    "clasif": "R-17",
+    "minutos": 108,
+    "funciones": [
+     {
+      "formato": "2D sub",
+      "horas": [
+       "22:30"
+      ]
+     }
+    ],
+    "nota": null,
+    "id": 1400940,
+    "poster": "/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
+    "mia": true
+   },
+   {
+    "titulo": "Escuela De Monstruos",
+    "clasif": "G",
+    "minutos": 81,
+    "funciones": [
+     {
+      "formato": "2D cast",
+      "horas": [
+       "16:50"
+      ]
+     }
+    ],
+    "nota": null,
+    "id": 1572116,
+    "poster": "/mL3UwoaSdzBrXeCsIRnk4f49ibO.jpg",
+    "mia": false
+   },
+   {
+    "titulo": "Madre Siniestra",
+    "clasif": "R-13",
+    "minutos": 93,
+    "funciones": [
+     {
+      "formato": "2D cast",
+      "horas": [
+       "23:20"
+      ]
+     }
+    ],
+    "nota": null,
+    "id": 1400837,
+    "poster": "/USCOKXrHBCeeK96qXmS0NyDHYL.jpg",
+    "mia": false
+   }
+  ]
+ }
+}
