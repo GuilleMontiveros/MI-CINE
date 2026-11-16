@@ -49,5 +49,14 @@
  ],
  "series_prioridad": [
   "The Altruists"
- ]
+ ],
+ "prioridades_id": [
+  {
+   "id": 1283515,
+   "tipo": "movie",
+   "titulo": "Verity. La sombra de un engaño"
+  }
+ ],
+ "series_id": [],
+ "quitados": []
 }
