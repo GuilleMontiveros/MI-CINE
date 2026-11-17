@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-17T14:51:00.173454+00:00",
+ "actualizado": "2026-11-17T14:52:15.003087+00:00",
  "titulos": [
   {
    "id": 37165,
@@ -26931,6 +26931,47 @@
    "prioridad": true,
    "en_play": false,
    "en_cc": false
+  },
+  {
+   "id": 1526844,
+   "tipo": "movie",
+   "titulo": "El agua nunca dolió",
+   "fecha": "2026-11-12",
+   "poster": "/u7pVncqI37dgP6UYzOiE6spekLI.jpg",
+   "fondo": "/6ckXqK1aGe8XEhQu0n0P5gKMeJK.jpg",
+   "puntaje": 0.0,
+   "sinopsis": "El agua nunca dolió cuenta la historia de Juana, una niña de 9 años que, tras haber sufrido un grave accidente, es intervenida quirúrgicamente sin su consentimiento. Perdiendo la posibilidad de caminar, Juana comienza una búsqueda por recuperar su autonomía, encontrando en el agua un medio para salir adelante.",
+   "hd": false,
+   "motivo": null,
+   "digital_ar": null,
+   "digital_us": null,
+   "digital_proximo": null,
+   "digital_sin_confirmar": null,
+   "cine_ar": "2026-11-12",
+   "cine_us": null,
+   "plataformas": {},
+   "plataformas_us": {},
+   "link": null,
+   "director": [
+    "Ana Clara Bustelo"
+   ],
+   "reparto": [
+    "Máxima Moral Fernández",
+    "Gema María Luz Vera",
+    "Jose Annechini",
+    "Celina Carrascosa De Marchi",
+    "Martín Ariel Aguado"
+   ],
+   "trailer": null,
+   "lema": "",
+   "duracion": 70,
+   "generos": [
+    "Drama"
+   ],
+   "hd_desde": null,
+   "prioridad": true,
+   "en_play": false,
+   "en_cc": true
   }
  ]
 }

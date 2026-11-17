@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-17T14:51:00.172546+00:00",
+ "actualizado": "2026-11-17T14:52:15.002323+00:00",
  "peliculas": [
   {
    "titulo": "El Corazon De La Bestia",
@@ -162,7 +162,7 @@
    "fondo": "/6ckXqK1aGe8XEhQu0n0P5gKMeJK.jpg",
    "sinopsis": "El agua nunca dolió cuenta la historia de Juana, una niña de 9 años que, tras haber sufrido un grave accidente, es intervenida quirúrgicamente sin su consentimiento. Perdiendo la posibilidad de caminar, Juana comienza una búsqueda por recuperar su autonomía, encontrando en el agua un medio para salir adelante.",
    "fecha": "2026-11-12",
-   "mia": false
+   "mia": true
   },
   {
    "titulo": "Caballo Salvaje Nueve",
