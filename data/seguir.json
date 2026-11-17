@@ -51,11 +51,6 @@
  ],
  "prioridades_id": [
   {
-   "id": 1283515,
-   "tipo": "movie",
-   "titulo": "Verity. La sombra de un engaño"
-  },
-  {
    "id": 891621,
    "tipo": "movie",
    "titulo": "Wild Horse Nine"
@@ -68,7 +63,8 @@
  ],
  "series_id": [],
  "quitados": [
-  1248832
+  1248832,
+  1283515
  ],
  "progreso": {
   "Cyberpunk: Edgerunners": "T2 E4"
