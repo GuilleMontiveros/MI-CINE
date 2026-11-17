@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-17T07:52:39.762584+00:00",
+ "actualizado": "2026-11-17T14:51:00.173454+00:00",
  "titulos": [
   {
    "id": 37165,
@@ -1524,8 +1524,8 @@
    },
    "link": "https://www.themoviedb.org/movie/502356-the-super-mario-bros-movie/watch?locale=AR",
    "director": [
-    "Aaron Horvath",
-    "Michael Jelenic"
+    "Michael Jelenic",
+    "Aaron Horvath"
    ],
    "reparto": [
     "Chris Pratt",
@@ -13203,8 +13203,8 @@
    },
    "link": "https://www.themoviedb.org/movie/283566-shin-evuangerion-ju-chang-ban/watch?locale=AR",
    "director": [
-    "中山勝一",
-    "Kazuya Tsurumaki"
+    "Kazuya Tsurumaki",
+    "Mahiro Maeda"
    ],
    "reparto": [
     "緒方恵美",
@@ -14888,7 +14888,7 @@
    "link": "https://www.themoviedb.org/movie/75629-q/watch?locale=AR",
    "director": [
     "Hideaki Anno",
-    "Kazuya Tsurumaki"
+    "Masayuki"
    ],
    "reparto": [
     "緒方恵美",
@@ -15538,6 +15538,7 @@
    },
    "plataformas_us": {
     "flatrate": [
+     "fuboTV",
      "HBO Max Amazon Channel",
      "Peacock Premium",
      "YouTube TV",
@@ -16012,7 +16013,7 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
-   "cine_ar": null,
+   "cine_ar": "2007-01-18",
    "cine_us": "2006-10-27",
    "plataformas": {
     "rent": [
@@ -16096,6 +16097,7 @@
    },
    "plataformas_us": {
     "flatrate": [
+     "fuboTV",
      "HBO Max Amazon Channel",
      "Peacock Premium",
      "YouTube TV",
@@ -19453,8 +19455,8 @@
    "fecha": "2026-09-19",
    "poster": "/ya8iLCNyoVpBO7B7JrNJVj3g7tK.jpg",
    "fondo": "/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
-   "puntaje": 7.6,
-   "sinopsis": "ver gratis in @vercineo Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska. ver gratis in vercineo.net",
+   "puntaje": 7.7,
+   "sinopsis": "¿Buscas películas y series gratis? ¡Busca Vercineo.net en Google!  ver gratis in @vercineo Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska. ver gratis in vercineo.net",
    "hd": true,
    "motivo": "Disponible en Argentina",
    "digital_ar": null,
@@ -21072,8 +21074,8 @@
    },
    "link": "https://www.themoviedb.org/movie/813-airplane/watch?locale=AR",
    "director": [
-    "Jerry Zucker",
-    "David Zucker"
+    "Jim Abrahams",
+    "Jerry Zucker"
    ],
    "reparto": [
     "Robert Hays",
@@ -21441,8 +21443,8 @@
    "plataformas_us": {},
    "link": "https://www.themoviedb.org/movie/47383-el-hombre-de-al-lado/watch?locale=AR",
    "director": [
-    "Mariano Cohn",
-    "Gastón Duprat"
+    "Gastón Duprat",
+    "Mariano Cohn"
    ],
    "reparto": [
     "Rafael Spregelburd",
@@ -23274,7 +23276,7 @@
    "titulo": "Viaje al fondo del mar",
    "fecha": "1961-07-12",
    "poster": "/ozenFRLzMzeReFD3N264QTbAQpz.jpg",
-   "fondo": "/wrafPAcHnOyWeJLf43yuaFp28Dw.jpg",
+   "fondo": "/7XKqAuDtkXauKFxZ8Q4qCcVDWJP.jpg",
    "puntaje": 5.6,
    "sinopsis": "Una expedición rutinaria al Polo Norte se convierte repentinamente en una trepidante carrera por salvar a toda la humanidad cuando un cinturón de radiación en el espacio convierte la Tierra en un verdadero infierno. El almirante Nelson y la tripulación del submarino atómico Seaview lucharán contra saboteadores, enormes criaturas marinas y ataques de submarinos enemigos, mientras intentan prevenir una catástrofe mundial.",
    "hd": true,
@@ -25656,8 +25658,8 @@
    },
    "link": "https://www.themoviedb.org/movie/109414-this-is-the-end/watch?locale=AR",
    "director": [
-    "Evan Goldberg",
-    "Seth Rogen"
+    "Seth Rogen",
+    "Evan Goldberg"
    ],
    "reparto": [
     "James Franco",
@@ -26120,7 +26122,7 @@
    "fecha": "2026-09-23",
    "poster": "/bYlv7oanFQB4zfTdDSGMz9cz1df.jpg",
    "fondo": "/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
-   "puntaje": 7.3,
+   "puntaje": 7.2,
    "sinopsis": "Un trabajador despedido y su esposa se cruzan con una documentalista y su pareja, y se enfrentan a sus deseos ocultos.",
    "hd": true,
    "motivo": "Disponible en Argentina",
@@ -26171,7 +26173,7 @@
    "poster": "/vrLEVObLGbUinE4sC4Lqao2dK0E.jpg",
    "fondo": "/8R79AZjX1Bt4219Ub3CrRMsPQsW.jpg",
    "puntaje": 7.5,
-   "sinopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor. ver gratis in vercineo.net",
+   "sinopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
    "hd": true,
    "motivo": "Disponible en Argentina",
    "digital_ar": null,
@@ -26237,7 +26239,7 @@
    "puntaje": 7.4,
    "sinopsis": "Karol ama profundamente a Dominique, pero el problema de impotencia sexual que sufre provoca el divorcio. Una serie de penurias se sucederán en la vida de Karol, que se verá obligado a volver a su Polonia natal y a intentar ganarse la vida como pueda.",
    "hd": true,
-   "motivo": "En digital en EE.UU. (HBO Max Amazon Channel, Criterion Channel, TCM)",
+   "motivo": "En digital en EE.UU. (HBO Max Amazon Channel, Criterion Channel, HBO Max)",
    "digital_ar": null,
    "digital_us": null,
    "digital_proximo": null,
@@ -26249,7 +26251,6 @@
     "flatrate": [
      "HBO Max Amazon Channel",
      "Criterion Channel",
-     "TCM",
      "HBO Max"
     ],
     "rent": [
@@ -26787,7 +26788,7 @@
     "吉岡秀隆",
     "Masami Nagasawa"
    ],
-   "trailer": null,
+   "trailer": "hmxKLaIp0cI",
    "lema": "No hay una tercera vez. Todo termina aquí.",
    "duracion": 135,
    "generos": [
@@ -26893,9 +26894,9 @@
    "titulo": "Vengadores: Doomsday",
    "fecha": "2026-12-16",
    "poster": "/7bQczUMnjz8iwxNP9YrmLkfI8od.jpg",
-   "fondo": "/s7zXvbb0AZp2iwcLjY75FGcZpLs.jpg",
+   "fondo": "/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
    "puntaje": 0.0,
-   "sinopsis": "Quinta entrega de la saga 'Vengadores' incluida en el Universo Cinematográfico Marvel (UCM). Sinopsis desconocido. ver gratis in vercineo.net",
+   "sinopsis": "Los héroes más queridos de tres universos distintos son abocados a una colisión catastrófica donde tendrán que hacer frente a la mayor amenaza a su existencia hasta la fecha.",
    "hd": false,
    "motivo": null,
    "digital_ar": null,
@@ -26927,59 +26928,6 @@
     "Aventura"
    ],
    "hd_desde": null,
-   "prioridad": true,
-   "en_play": false,
-   "en_cc": false
-  },
-  {
-   "id": 1283515,
-   "tipo": "movie",
-   "titulo": "Verity. La sombra de un engaño",
-   "fecha": "2026-09-30",
-   "poster": "/5j1YUuamobLACkzlkzvWfNuzFNg.jpg",
-   "fondo": "/cKetrF2dAnQ0AMV5i4BMOs41I5P.jpg",
-   "puntaje": 7.0,
-   "sinopsis": "ver gratis in vercineo.net  Lowen Ashleigh es contratada como escritora fantasma por Jeremy Crawford para escribir las novelas de su esposa Verity, autora de bestsellers, impedida tras un accidente. Lowen descubre las inquietantes verdades de Verity mientras reside en casa de los Crawford para trabajar.",
-   "hd": true,
-   "motivo": "En digital en EE.UU. (Amazon Video, Apple TV Store, Fandango At Home)",
-   "digital_ar": null,
-   "digital_us": "2026-10-27",
-   "digital_proximo": null,
-   "digital_sin_confirmar": null,
-   "cine_ar": "2026-10-01",
-   "cine_us": "2026-10-02",
-   "plataformas": {},
-   "plataformas_us": {
-    "rent": [
-     "Amazon Video",
-     "Apple TV Store",
-     "Fandango At Home"
-    ],
-    "buy": [
-     "Amazon Video",
-     "Apple TV Store",
-     "Fandango At Home"
-    ]
-   },
-   "link": null,
-   "director": [
-    "Michael Showalter"
-   ],
-   "reparto": [
-    "Dakota Johnson",
-    "Anne Hathaway",
-    "Josh Hartnett",
-    "Brady Wagner",
-    "Ismael Cruz Cordova"
-   ],
-   "trailer": "P-QWhkimt50",
-   "lema": "No hay luz adonde vamos.",
-   "duracion": 117,
-   "generos": [
-    "Misterio",
-    "Suspense"
-   ],
-   "hd_desde": "2026-11-16",
    "prioridad": true,
    "en_play": false,
    "en_cc": false
