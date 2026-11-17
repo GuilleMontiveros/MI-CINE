@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-17T14:52:15.003087+00:00",
+ "actualizado": "2026-11-17T21:01:27.526266+00:00",
  "titulos": [
   {
    "id": 37165,
@@ -753,8 +753,8 @@
    },
    "link": "https://www.themoviedb.org/movie/773-little-miss-sunshine/watch?locale=AR",
    "director": [
-    "Valerie Faris",
-    "Jonathan Dayton"
+    "Jonathan Dayton",
+    "Valerie Faris"
    ],
    "reparto": [
     "Greg Kinnear",
@@ -1524,8 +1524,8 @@
    },
    "link": "https://www.themoviedb.org/movie/502356-the-super-mario-bros-movie/watch?locale=AR",
    "director": [
-    "Michael Jelenic",
-    "Aaron Horvath"
+    "Aaron Horvath",
+    "Michael Jelenic"
    ],
    "reparto": [
     "Chris Pratt",
@@ -3864,7 +3864,7 @@
    "fecha": "2022-11-11",
    "poster": "/wcgPDyvKkgo2agNXcdE1eXLGzmf.jpg",
    "fondo": "/xQyGkQ8ICa4lgifGr3oZjkm3AJ2.jpg",
-   "puntaje": 7.6,
+   "puntaje": 7.5,
    "sinopsis": "Al crecer en la era de Arizona posterior a la Segunda Guerra Mundial, un niño llamado Sammy Fabelman descubre un secreto familiar devastador y explora cómo el poder de las películas puede ayudarlo a ver la verdad. Película semiautobiográfica sobre la infancia y juventud de Steven Spielberg.",
    "hd": true,
    "motivo": "Disponible en Argentina",
@@ -5909,6 +5909,9 @@
    "plataformas_us": {
     "flatrate": [
      "HBO Max Amazon Channel",
+     "TNT",
+     "TBS",
+     "tru TV",
      "HBO Max"
     ],
     "rent": [
@@ -6414,8 +6417,8 @@
    },
    "link": "https://www.themoviedb.org/movie/77338-intouchables/watch?locale=AR",
    "director": [
-    "Éric Toledano",
-    "Olivier Nakache"
+    "Olivier Nakache",
+    "Éric Toledano"
    ],
    "reparto": [
     "François Cluzet",
@@ -7484,8 +7487,7 @@
    },
    "plataformas_us": {
     "flatrate": [
-     "HBO Max Amazon Channel",
-     "HBO Max"
+     "HBO Max Amazon Channel"
     ],
     "rent": [
      "Amazon Video",
@@ -11387,8 +11389,7 @@
    },
    "plataformas_us": {
     "flatrate": [
-     "fuboTV",
-     "Angel Studios"
+     "fuboTV"
     ],
     "rent": [
      "Amazon Video",
@@ -14888,7 +14889,7 @@
    "link": "https://www.themoviedb.org/movie/75629-q/watch?locale=AR",
    "director": [
     "Hideaki Anno",
-    "Masayuki"
+    "Kazuya Tsurumaki"
    ],
    "reparto": [
     "緒方恵美",
@@ -15483,8 +15484,8 @@
    },
    "link": "https://www.themoviedb.org/movie/15137-evuangerion-xin-ju-chang-ban-xu/watch?locale=AR",
    "director": [
-    "Masayuki",
-    "Kazuya Tsurumaki"
+    "Kazuya Tsurumaki",
+    "Masayuki"
    ],
    "reparto": [
     "緒方恵美",
@@ -16390,6 +16391,7 @@
    },
    "plataformas_us": {
     "flatrate": [
+     "fuboTV",
      "HBO Max Amazon Channel",
      "Peacock Premium",
      "HBO Max",
@@ -19417,8 +19419,8 @@
    "hd": false,
    "motivo": null,
    "digital_ar": null,
-   "digital_us": null,
-   "digital_proximo": null,
+   "digital_us": "2026-11-24",
+   "digital_proximo": "2026-11-24",
    "digital_sin_confirmar": null,
    "cine_ar": "2026-10-22",
    "cine_us": "2026-10-09",
@@ -19456,7 +19458,7 @@
    "poster": "/ya8iLCNyoVpBO7B7JrNJVj3g7tK.jpg",
    "fondo": "/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
    "puntaje": 7.7,
-   "sinopsis": "¿Buscas películas y series gratis? ¡Busca Vercineo.net en Google!  ver gratis in @vercineo Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska. ver gratis in vercineo.net",
+   "sinopsis": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
    "hd": true,
    "motivo": "Disponible en Argentina",
    "digital_ar": null,
@@ -25349,7 +25351,7 @@
    "fecha": "2026-07-29",
    "poster": "/aMFx35t0T61S1ILDZrycPFRu95u.jpg",
    "fondo": "/hinFa5gPaUkZM0l5TsEb29Brw0H.jpg",
-   "puntaje": 6.0,
+   "puntaje": 5.9,
    "sinopsis": "Cuando el joven e ingenuo Elliot consigue un emocionante trabajo para Erika Tracy, una reconocida artista, ícono y provocadora, sus fantasías se hacen realidad cuando ella lo elige para convertirlo en su musa sexual. Pero Elliot pronto descubre que la situación lo supera, mientras Erika lo conduce por un viaje mucho más profundo de lo que jamás habría imaginado, adentrándolo en un mundo de sexo, obsesión, poder, traición y asesinato.",
    "hd": true,
    "motivo": "En digital en EE.UU. (Amazon Video, Apple TV Store, Google Play Movies)",
@@ -26920,7 +26922,7 @@
     "Paul Rudd"
    ],
    "trailer": "gcjnEYJ4OB8",
-   "lema": "",
+   "lema": "Te espera tu fin",
    "duracion": 165,
    "generos": [
     "Ciencia ficción",
