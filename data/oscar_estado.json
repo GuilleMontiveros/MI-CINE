@@ -12,7 +12,7 @@
    "puntaje": 8.0,
    "sinopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
    "hd": true,
-   "motivo": "Salió en Blu-ray/DVD (2026-11-17)",
+   "motivo": "En digital en EE.UU. (Amazon Video, Apple TV Store, Google Play Movies)",
    "digital_ar": null,
    "digital_us": "2026-11-17",
    "digital_proximo": null,
@@ -20,7 +20,15 @@
    "cine_ar": "2026-07-16",
    "cine_us": "2026-07-17",
    "plataformas": {},
-   "plataformas_us": {},
+   "plataformas_us": {
+    "buy": [
+     "Amazon Video",
+     "Apple TV Store",
+     "Google Play Movies",
+     "YouTube",
+     "Fandango At Home"
+    ]
+   },
    "link": null,
    "director": [
     "Christopher Nolan"
@@ -474,7 +482,7 @@
    "titulo": "Club Kid",
    "fecha": "2026-11-04",
    "poster": "/l4q1gziNMhpVQAzCIwmtbLSB1T9.jpg",
-   "fondo": "/AjrgF2JZb8WAeIFTvUjJK6VA2CG.jpg",
+   "fondo": "/m5zcXuV4qR9fBgXjPndLIPOcasF.jpg",
    "puntaje": 7.8,
    "sinopsis": "Peter (Jordan Firstman), un promotor de fiestas underground de Nueva York acostumbrado a vivir entre excesos, música electrónica y noches interminables, ve cómo su mundo da un vuelco cuando una desconocida aparece en su puerta con Arlo (Reggie Absolom), un niño de 10 años que asegura que es su hijo. Lo que comienza como una situación imposible pronto da paso a una loca, divertida y tierna conexión, tan inesperada como transformadora.",
    "hd": false,
@@ -629,7 +637,7 @@
    "fecha": "2026-11-13",
    "poster": "/p6oLmq5KmuWY6uRXBQBL2q30jia.jpg",
    "fondo": "/6S41dEoKH2cxw20QgLxhnsQoLQF.jpg",
-   "puntaje": 6.0,
+   "puntaje": 8.0,
    "sinopsis": "Dos hermanos se ven envueltos en un plan que resulta ser demasiado bueno para ser verdad. Mientras intentan desenvolverse en el peligroso mundo de la mafia rusa, los lazos familiares comienzan a resquebrajarse, con consecuencias que cambiarán sus vidas.",
    "hd": true,
    "motivo": "En digital en EE.UU. (Fandango At Home)",

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18T07:25:20.124251+00:00",
+ "actualizado": "2026-11-18T20:39:59.206548+00:00",
  "titulos": [
   {
    "id": 37165,
@@ -1524,8 +1524,8 @@
    },
    "link": "https://www.themoviedb.org/movie/502356-the-super-mario-bros-movie/watch?locale=AR",
    "director": [
-    "Michael Jelenic",
-    "Aaron Horvath"
+    "Aaron Horvath",
+    "Michael Jelenic"
    ],
    "reparto": [
     "Chris Pratt",
@@ -4470,6 +4470,7 @@
      "Peacock Premium",
      "Philo",
      "AMC+ Amazon Channel",
+     "Criterion Channel",
      "Shudder Amazon Channel",
      "Netflix Standard with Ads",
      "Shudder Apple TV channel",
@@ -4999,6 +5000,7 @@
      "Paramount Plus Premium",
      "Paramount Plus Essential",
      "Paramount+ Amazon Channel",
+     "Criterion Channel",
      "AMC",
      "Paramount+ Roku Premium Channel"
     ],
@@ -6926,7 +6928,9 @@
      "Amazon Prime Video"
     ],
     "rent": [
-     "Claro video"
+     "Apple TV Store",
+     "Claro video",
+     "Amazon Video"
     ],
     "buy": [
      "Apple TV Store",
@@ -7611,7 +7615,7 @@
    "puntaje": 7.6,
    "sinopsis": "El policía Takabe investiga unos extraños asesinatos. Las víctimas aparecen con una herida de arma blanca en forma de \"x\" y los culpables son personas totalmente normales sin ningun motivo para haber cometido el asesinato. Takabe empieza a sospechar que algo está influenciando a la gente para matar.",
    "hd": true,
-   "motivo": "En digital en EE.UU. (Amazon Video, Apple TV Store, Google Play Movies)",
+   "motivo": "En digital en EE.UU. (Criterion Channel, Amazon Video, Apple TV Store)",
    "digital_ar": null,
    "digital_us": null,
    "digital_proximo": null,
@@ -7620,6 +7624,9 @@
    "cine_us": null,
    "plataformas": {},
    "plataformas_us": {
+    "flatrate": [
+     "Criterion Channel"
+    ],
     "rent": [
      "Amazon Video",
      "Apple TV Store",
@@ -8075,7 +8082,7 @@
    "puntaje": 8.1,
    "sinopsis": "Después de obtener un éxito rotundo, un director de cine atraviesa una crisis de creatividad e intenta inútilmente hacer una nueva película. En esta situación, empieza a pasar revista a los hechos más importantes de su vida y a recordar a todas las mujeres a las que ha amado.",
    "hd": true,
-   "motivo": "En digital en EE.UU. (HBO Max Amazon Channel, HBO Max, Amazon Video)",
+   "motivo": "En digital en EE.UU. (HBO Max Amazon Channel, Criterion Channel, HBO Max)",
    "digital_ar": null,
    "digital_us": null,
    "digital_proximo": null,
@@ -8086,6 +8093,7 @@
    "plataformas_us": {
     "flatrate": [
      "HBO Max Amazon Channel",
+     "Criterion Channel",
      "HBO Max"
     ],
     "rent": [
@@ -9353,6 +9361,7 @@
    "plataformas_us": {
     "flatrate": [
      "HBO Max Amazon Channel",
+     "Criterion Channel",
      "HBO Max"
     ],
     "rent": [
@@ -9869,8 +9878,8 @@
    },
    "link": "https://www.themoviedb.org/movie/872-singin-in-the-rain/watch?locale=AR",
    "director": [
-    "Gene Kelly",
-    "Stanley Donen"
+    "Stanley Donen",
+    "Gene Kelly"
    ],
    "reparto": [
     "Gene Kelly",
@@ -10241,7 +10250,7 @@
    "puntaje": 8.5,
    "sinopsis": "Una banda de forajidos atemorizan a los habitantes de un pequeño pueblo, saqueándolos periódicamente sin piedad. Para repeler estos ataques, los aldeanos deciden contratar a mercenarios. Finalmente, consiguen los servicios de 7 guerreros, 7 samurais dispuestos a defenderlos a cambio, tan solo, de cobijo y comida.",
    "hd": true,
-   "motivo": "En digital en EE.UU. (HBO Max Amazon Channel, HBO Max, Amazon Video)",
+   "motivo": "En digital en EE.UU. (HBO Max Amazon Channel, Criterion Channel, HBO Max)",
    "digital_ar": null,
    "digital_us": null,
    "digital_proximo": null,
@@ -10252,6 +10261,7 @@
    "plataformas_us": {
     "flatrate": [
      "HBO Max Amazon Channel",
+     "Criterion Channel",
      "HBO Max"
     ],
     "rent": [
@@ -10537,7 +10547,7 @@
    "puntaje": 7.8,
    "sinopsis": "Un científico es enviado a la estación espacial de un remoto planeta cubierto de agua para investigar la misteriosa muerte de un médico. Adaptación del clásico de ciencia-ficción del escritor polaco Stanislaw Lem.",
    "hd": true,
-   "motivo": "En digital en EE.UU. (HBO Max Amazon Channel, HBO Max, Amazon Video)",
+   "motivo": "En digital en EE.UU. (HBO Max Amazon Channel, Criterion Channel, HBO Max)",
    "digital_ar": null,
    "digital_us": null,
    "digital_proximo": null,
@@ -10548,6 +10558,7 @@
    "plataformas_us": {
     "flatrate": [
      "HBO Max Amazon Channel",
+     "Criterion Channel",
      "HBO Max"
     ],
     "rent": [
@@ -14748,7 +14759,7 @@
    "puntaje": 7.6,
    "sinopsis": "Takao, quien está entrenando para convertirse en un zapatero, se salta la escuela para dibujar zapatos en un jardín de estilo japonés, un día se encuentra con una misteriosa mujer, Yukino, que es mayor que él. Los dos se comienzan a ver una y otra vez, pero sólo en días de lluvia. Con el tiempo ellos empiezan a profundizar su relación y a abrirse el uno al otro. Pero el final de la temporada de lluvias está muy cerca...",
    "hd": true,
-   "motivo": "En digital en EE.UU. (HiDive)",
+   "motivo": "En digital en EE.UU. (Criterion Channel, HiDive)",
    "digital_ar": null,
    "digital_us": null,
    "digital_proximo": null,
@@ -14758,6 +14769,7 @@
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
+     "Criterion Channel",
      "HiDive"
     ]
    },
@@ -14889,7 +14901,7 @@
    "link": "https://www.themoviedb.org/movie/75629-q/watch?locale=AR",
    "director": [
     "Hideaki Anno",
-    "Kazuya Tsurumaki"
+    "Masayuki"
    ],
    "reparto": [
     "緒方恵美",
@@ -14916,7 +14928,7 @@
    "tipo": "movie",
    "titulo": "Las nuevas desventuras de Cliff Booth",
    "fecha": "2026-11-24",
-   "poster": "/5jO6rhfethzH7xdWl6KCOxCNCzQ.jpg",
+   "poster": "/thX8Rs7nfgmPHfCgjoFuRovy49l.jpg",
    "fondo": "/qqPspJFy0XrEoVTKZdp0Em7kej6.jpg",
    "puntaje": 0.0,
    "sinopsis": "Ocho años después de los eventos de \"Érase una vez en... Hollywood\", Cliff Booth regresa a un Los Ángeles cambiante. Ahora trabajando como \"fixer\" en las sombras del sistema de estudios de Hollywood, Cliff se verá envuelto en una peligrosa red de secretos, crímenes y traiciones que pondrán a prueba todo lo que conoce sobre lealtad y supervivencia.",
@@ -15384,6 +15396,7 @@
    "cine_us": "2013-04-19",
    "plataformas": {
     "flatrate": [
+     "Netflix",
      "HBO Max",
      "Universal+ Amazon Channel"
     ],
@@ -16470,6 +16483,7 @@
    },
    "plataformas_us": {
     "flatrate": [
+     "Criterion Channel",
      "Sony Pictures Core Amazon Channel"
     ],
     "rent": [
@@ -17235,7 +17249,7 @@
    "puntaje": 8.1,
    "sinopsis": "A finales del siglo XIX, el doctor Frederick Treves descubre en un circo a un hombre llamado John Merrick. Se trata de un ciudadano británico con la cabeza monstruosamente deformada, que vive en una situación de constante humillación y sufrimiento al ser exhibido diariamente como una atracción de feria.",
    "hd": true,
-   "motivo": "En digital en EE.UU. (Amazon Video, Apple TV Store, Google Play Movies)",
+   "motivo": "En digital en EE.UU. (Criterion Channel, Amazon Video, Apple TV Store)",
    "digital_ar": null,
    "digital_us": null,
    "digital_proximo": null,
@@ -17244,6 +17258,9 @@
    "cine_us": "1980-10-10",
    "plataformas": {},
    "plataformas_us": {
+    "flatrate": [
+     "Criterion Channel"
+    ],
     "rent": [
      "Amazon Video",
      "Apple TV Store",
@@ -17531,7 +17548,7 @@
    "puntaje": 8.2,
    "sinopsis": "Tras encontrar un viejo rifle, un joven se une a las fuerzas de la resistencia soviética, que lucha por expulsar a las fuerzas nazis del frente oriental. Allí, será testigo de algunos los mayores horrores cometidos en la Segunda Guerra Mundial.",
    "hd": true,
-   "motivo": "En digital en EE.UU. (Amazon Video, Apple TV Store, Google Play Movies)",
+   "motivo": "En digital en EE.UU. (Criterion Channel, Amazon Video, Apple TV Store)",
    "digital_ar": null,
    "digital_us": null,
    "digital_proximo": null,
@@ -17540,6 +17557,9 @@
    "cine_us": "1985-12-06",
    "plataformas": {},
    "plataformas_us": {
+    "flatrate": [
+     "Criterion Channel"
+    ],
     "rent": [
      "Amazon Video",
      "Apple TV Store",
@@ -18433,7 +18453,7 @@
    "puntaje": 8.0,
    "sinopsis": "Drama ambientado en el mundo del ballet que trata sobre los sacrificios realizados para alcanzar el éxito profesional. Un empresario obliga a una bailarina a anteponer su carrera al amor.",
    "hd": true,
-   "motivo": "En digital en EE.UU. (HBO Max Amazon Channel, HBO Max, Amazon Video)",
+   "motivo": "En digital en EE.UU. (HBO Max Amazon Channel, Criterion Channel, HBO Max)",
    "digital_ar": null,
    "digital_us": null,
    "digital_proximo": null,
@@ -18444,6 +18464,7 @@
    "plataformas_us": {
     "flatrate": [
      "HBO Max Amazon Channel",
+     "Criterion Channel",
      "HBO Max"
     ],
     "rent": [
@@ -18765,7 +18786,7 @@
    "puntaje": 7.6,
    "sinopsis": "Retrata las vidas de dos chicos afroamericanos y sus esfuerzos para ser jugadores de baloncesto en la universidad, y así poder llegar a ser profesionales de la NBA.",
    "hd": true,
-   "motivo": "En digital en EE.UU. (fuboTV, HBO Max Amazon Channel, HBO Max)",
+   "motivo": "En digital en EE.UU. (fuboTV, HBO Max Amazon Channel, Criterion Channel)",
    "digital_ar": null,
    "digital_us": null,
    "digital_proximo": null,
@@ -18777,6 +18798,7 @@
     "flatrate": [
      "fuboTV",
      "HBO Max Amazon Channel",
+     "Criterion Channel",
      "HBO Max",
      "Shout! Factory Amazon Channel"
     ],
@@ -18827,7 +18849,7 @@
    "puntaje": 7.8,
    "sinopsis": "Un camionero y su compañero prueban la sopa de una viuda, y al ser de las peores que han probado nunca, la cocinera viuda les pide ayuda para mejorar en la elaboración de la sopa. Durante el proceso surgirá entre ellos el encariñamiento con la dulce viuda.\r Aclamada comedia japonesa que emula el formato de western (alguien acude al rescate de una viuda que necesita ayuda) y con un toque curioso alrededor del disfrute de la comida. Una cinta que tuvo un notable éxito internacional en su día. El director Itami era un presentador de televisión reconvertido en realizador.",
    "hd": true,
-   "motivo": "En digital en EE.UU. (HBO Max Amazon Channel, HBO Max, Amazon Video)",
+   "motivo": "En digital en EE.UU. (HBO Max Amazon Channel, Criterion Channel, HBO Max)",
    "digital_ar": null,
    "digital_us": null,
    "digital_proximo": null,
@@ -18838,6 +18860,7 @@
    "plataformas_us": {
     "flatrate": [
      "HBO Max Amazon Channel",
+     "Criterion Channel",
      "HBO Max"
     ],
     "rent": [
@@ -19763,7 +19786,7 @@
    "puntaje": 7.8,
    "sinopsis": "Dos ángeles sobrevuelan Berlín, ciudad dividida por el \"muro de la vergüenza\". Sólo son visibles para los niños y los hombres de corazón puro. Testigos impotentes que no pueden cambiar el curso de los acontecimientos, sienten una gran compasión por los seres humanos. Uno de ellos, decidido a conocer los sentimientos de los mortales, se enamora de una joven trapecista.",
    "hd": true,
-   "motivo": "En digital en EE.UU. (HBO Max Amazon Channel, HBO Max, Amazon Video)",
+   "motivo": "En digital en EE.UU. (HBO Max Amazon Channel, Criterion Channel, HBO Max)",
    "digital_ar": null,
    "digital_us": null,
    "digital_proximo": null,
@@ -19774,6 +19797,7 @@
    "plataformas_us": {
     "flatrate": [
      "HBO Max Amazon Channel",
+     "Criterion Channel",
      "HBO Max"
     ],
     "rent": [
@@ -21077,7 +21101,7 @@
    "link": "https://www.themoviedb.org/movie/813-airplane/watch?locale=AR",
    "director": [
     "Jim Abrahams",
-    "Jerry Zucker"
+    "David Zucker"
    ],
    "reparto": [
     "Robert Hays",
@@ -21478,7 +21502,7 @@
    "puntaje": 7.5,
    "sinopsis": "Buenos Aires, Argentina, 1983. En los últimos y turbulentos días de la dictadura militar, Alicia, profesora de historia en un instituto, comienza a hacer preguntas incómodas sobre los oscuros orígenes de Gaby, su hija adoptiva.",
    "hd": true,
-   "motivo": "En digital en EE.UU. (Cohen Media Amazon Channel, Amazon Video, Apple TV Store)",
+   "motivo": "En digital en EE.UU. (Amazon Prime Video, Cohen Media Amazon Channel, Amazon Prime Video with Ads)",
    "digital_ar": null,
    "digital_us": null,
    "digital_proximo": null,
@@ -21488,7 +21512,9 @@
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
-     "Cohen Media Amazon Channel"
+     "Amazon Prime Video",
+     "Cohen Media Amazon Channel",
+     "Amazon Prime Video with Ads"
     ],
     "rent": [
      "Amazon Video",
@@ -21702,7 +21728,7 @@
    "puntaje": 7.1,
    "sinopsis": "Historia de dos gemelos idénticos, el encantador Elliot y el introvertido Beverly. Son las caras opuestas de una misma personalidad: comparten las mismas costumbres, el mismo apartamento y la misma mujer. Pero, cuando entra en sus vidas una mujer especial, el vínculo que une a los gemelos, se ve, por primera vez, amenazado. Y esta amenaza se traduce en el descenso a un abismo de perversión, drogas y locura.",
    "hd": true,
-   "motivo": "En digital en EE.UU. (Night Flight Plus, Shout! Factory Amazon Channel, Amazon Video)",
+   "motivo": "En digital en EE.UU. (Criterion Channel, Night Flight Plus, Shout! Factory Amazon Channel)",
    "digital_ar": null,
    "digital_us": null,
    "digital_proximo": null,
@@ -21712,6 +21738,7 @@
    "plataformas": {},
    "plataformas_us": {
     "flatrate": [
+     "Criterion Channel",
      "Night Flight Plus",
      "Shout! Factory Amazon Channel"
     ],
@@ -22166,6 +22193,7 @@
      "AMC Plus Apple TV channel",
      "AMC+ Amazon Channel",
      "AMC+",
+     "Criterion Channel",
      "Shudder",
      "Shudder Amazon Channel",
      "Shudder Apple TV channel"
@@ -22614,6 +22642,7 @@
    "plataformas_us": {
     "flatrate": [
      "HBO Max Amazon Channel",
+     "Criterion Channel",
      "HBO Max"
     ],
     "rent": [
@@ -23533,7 +23562,7 @@
    "puntaje": 7.1,
    "sinopsis": "Un sargento de la Legión Extranjera en Djibouti, África, siente atracción, luego celos y, finalmente, odio por uno de sus soldados más sobresalientes. El enfrentamiento entre los dos hombres se convierte en la única guerra concreta para ellos, sumergidos en el tedio del entrenamiento y los rituales cotidianos de los militares en tiempos de paz. Libre adaptación de la novela \"Billy Budd\", de Herman Melville.",
    "hd": true,
-   "motivo": "En digital en EE.UU. (HBO Max Amazon Channel, HBO Max, Amazon Video)",
+   "motivo": "En digital en EE.UU. (HBO Max Amazon Channel, Criterion Channel, HBO Max)",
    "digital_ar": null,
    "digital_us": "2022-09-01",
    "digital_proximo": null,
@@ -23544,6 +23573,7 @@
    "plataformas_us": {
     "flatrate": [
      "HBO Max Amazon Channel",
+     "Criterion Channel",
      "HBO Max"
     ],
     "rent": [
@@ -23679,6 +23709,9 @@
     ]
    },
    "plataformas_us": {
+    "flatrate": [
+     "Criterion Channel"
+    ],
     "rent": [
      "Amazon Video",
      "Apple TV Store",
@@ -23901,7 +23934,7 @@
    "puntaje": 8.1,
    "sinopsis": "El 6 de mayo de 1938, Hitler visita Roma. Es un día de fiesta para la Italia fascista, que se vuelca en el recibimiento. En una casa de vecinos sólo quedan la portera, un ama de casa, Antonietta, y Gabriele, que teme a la policía por algún motivo desconocido. Al margen de la celebración política, Antonietta y Gabriele establecen una relación afectiva muy especial que les permite evadirse durante unas horas de la tristeza y monotonía de la vida cotidiana.",
    "hd": true,
-   "motivo": "En digital en EE.UU. (Amazon Video, Apple TV Store, Google Play Movies)",
+   "motivo": "En digital en EE.UU. (Criterion Channel, Amazon Video, Apple TV Store)",
    "digital_ar": null,
    "digital_us": null,
    "digital_proximo": null,
@@ -23910,6 +23943,9 @@
    "cine_us": "1977-09-25",
    "plataformas": {},
    "plataformas_us": {
+    "flatrate": [
+     "Criterion Channel"
+    ],
     "rent": [
      "Amazon Video",
      "Apple TV Store",
@@ -24018,6 +24054,7 @@
    "plataformas_us": {
     "flatrate": [
      "HBO Max Amazon Channel",
+     "Criterion Channel",
      "HBO Max"
     ],
     "rent": [
@@ -24127,7 +24164,7 @@
    "puntaje": 7.9,
    "sinopsis": "Historia de un hombre que un día se da cuenta de que apenas reconoce a las personas con las que ha vivido durante años, hasta el punto de que su propia esposa e hijos le parecen extraños y todo lo que lo rodea le resulta opaco e indiferente. Se lanza entonces a la búsqueda desesperada de algún punto de referencia para recuperar su identidad y no hundirse en el caos. Emprende así, a través de las ilimitadas regiones de la memoria, un viaje que lo conduce a la infancia, a la época en que era un niño que vivía en un pequeño pueblo costero; a la Italia de los años treinta, cuando el fascismo había",
    "hd": true,
-   "motivo": "En digital en EE.UU. (HBO Max Amazon Channel, YouTube TV, HBO Max)",
+   "motivo": "En digital en EE.UU. (HBO Max Amazon Channel, YouTube TV, Criterion Channel)",
    "digital_ar": null,
    "digital_us": null,
    "digital_proximo": null,
@@ -24139,6 +24176,7 @@
     "flatrate": [
      "HBO Max Amazon Channel",
      "YouTube TV",
+     "Criterion Channel",
      "HBO Max"
     ],
     "rent": [
@@ -24577,6 +24615,7 @@
    "plataformas_us": {
     "flatrate": [
      "HBO Max Amazon Channel",
+     "Criterion Channel",
      "HBO Max"
     ],
     "rent": [
@@ -24699,7 +24738,7 @@
    "puntaje": 7.5,
    "sinopsis": "Anna, una rica joven romana, su novio y Claudia, su mejor amiga, se embarcan en un crucero veraniego entre las escarpadas islas sicilianas...",
    "hd": true,
-   "motivo": "En digital en EE.UU. (HBO Max Amazon Channel, HBO Max, Amazon Video)",
+   "motivo": "En digital en EE.UU. (HBO Max Amazon Channel, Criterion Channel, HBO Max)",
    "digital_ar": null,
    "digital_us": null,
    "digital_proximo": null,
@@ -24710,6 +24749,7 @@
    "plataformas_us": {
     "flatrate": [
      "HBO Max Amazon Channel",
+     "Criterion Channel",
      "HBO Max"
     ],
     "rent": [
@@ -25137,6 +25177,9 @@
     ]
    },
    "plataformas_us": {
+    "flatrate": [
+     "Criterion Channel"
+    ],
     "rent": [
      "Apple TV Store",
      "Google Play Movies",
@@ -25585,8 +25628,8 @@
    },
    "link": "https://www.themoviedb.org/movie/228967-the-interview/watch?locale=AR",
    "director": [
-    "Seth Rogen",
-    "Evan Goldberg"
+    "Evan Goldberg",
+    "Seth Rogen"
    ],
    "reparto": [
     "James Franco",
@@ -25660,8 +25703,8 @@
    },
    "link": "https://www.themoviedb.org/movie/109414-this-is-the-end/watch?locale=AR",
    "director": [
-    "Evan Goldberg",
-    "Seth Rogen"
+    "Seth Rogen",
+    "Evan Goldberg"
    ],
    "reparto": [
     "James Franco",
@@ -25729,7 +25772,7 @@
    "titulo": "Digger",
    "fecha": "2026-09-28",
    "poster": "/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
-   "fondo": "/vC5IxhgO6cVmw9O4QgkraRzfHvh.jpg",
+   "fondo": "/4A3r1AjJg9Wa6ms3MGOScetCY0o.jpg",
    "puntaje": 7.5,
    "sinopsis": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
    "hd": false,
@@ -26173,7 +26216,7 @@
    "titulo": "Resident Evil",
    "fecha": "2026-09-16",
    "poster": "/vrLEVObLGbUinE4sC4Lqao2dK0E.jpg",
-   "fondo": "/8R79AZjX1Bt4219Ub3CrRMsPQsW.jpg",
+   "fondo": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
    "puntaje": 7.5,
    "sinopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
    "hd": true,
@@ -26852,7 +26895,7 @@
    "titulo": "Clayface",
    "fecha": "2026-10-19",
    "poster": "/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
-   "fondo": "/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
+   "fondo": "/f1TVhqJJdxMvUsUDuKHS0ekgYkk.jpg",
    "puntaje": 7.4,
    "sinopsis": "El meteórico ascenso de Matt Hagen, desde chico de la calle en Gotham hasta promesa de Hollywood, se ve trágicamente truncado cuando las acciones de un jefe del crimen local lo dejan horriblemente desfigurado. Abandonado por su equipo y sin nada que perder, Matt busca un tratamiento celular vanguardista que, milagrosamente, le devuelve su aspecto anterior… pero que también afecta inesperadamente a su percepción de la realidad, sumiéndolo en una espiral destructiva de venganza que lo consume por completo.",
    "hd": false,
@@ -26896,7 +26939,7 @@
    "titulo": "Vengadores: Doomsday",
    "fecha": "2026-12-16",
    "poster": "/7bQczUMnjz8iwxNP9YrmLkfI8od.jpg",
-   "fondo": "/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
+   "fondo": "/4NxnrRmI7goXMsRASwSegf50MC8.jpg",
    "puntaje": 0.0,
    "sinopsis": "Los héroes más queridos de tres universos distintos son abocados a una colisión catastrófica donde tendrán que hacer frente a la mayor amenaza a su existencia hasta la fecha.",
    "hd": false,

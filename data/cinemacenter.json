@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18T07:25:20.123493+00:00",
+ "actualizado": "2026-11-18T20:39:59.205027+00:00",
  "peliculas": [
   {
    "titulo": "El Corazon De La Bestia",
@@ -271,7 +271,7 @@
    "mia": false
   },
   {
-   "titulo": "Los Juegos El Hambre: Amanecer En La Cosecha",
+   "titulo": "Los Juegos Del Hambre: Amanecer En La Cosecha",
    "img_cine": "https://www.cinemacenter.com.ar/img_movies/3408_img2.jpg",
    "genero": "Acción",
    "id": 1300968,
@@ -304,14 +304,14 @@
    "mia": false
   },
   {
-   "titulo": "Bichos Del Mar",
-   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3674_img2.jpg",
-   "genero": "Documental",
-   "id": 1797377,
-   "poster": "/uYTQGXobST0zbqoBXmGBsuezb8h.jpg",
-   "fondo": null,
-   "sinopsis": "",
-   "fecha": "2026-11-26",
+   "titulo": "Ramayana: El Nacimiento De Una Leyenda",
+   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3693_img2.jpg",
+   "genero": "Ciencia Ficción",
+   "id": 656908,
+   "poster": "/nzL1ySE6vdmR6RxXhE7gLggkp41.jpg",
+   "fondo": "/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
+   "sinopsis": "Una antigua epopeya sigue a un joven príncipe y a una princesa, cuyo matrimonio y posterior exilio marcan el comienzo de un viaje legendario. Su historia de amor, deber y destino prepara el terreno para desafíos aún mayores.",
+   "fecha": "2026-11-05",
    "mia": false
   },
   {
@@ -354,17 +354,6 @@
    "mia": false
   },
   {
-   "titulo": "El Nacimiento De Cristo",
-   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3654_img2.jpg",
-   "genero": "Drama",
-   "id": 1408207,
-   "poster": "/wTlKaVl85SvxBCgKSdBSa5ZY7EJ.jpg",
-   "fondo": "/mH4RXqdkpOzdV3730HDfssPUQvb.jpg",
-   "sinopsis": "",
-   "fecha": "2026-12-03",
-   "mia": false
-  },
-  {
    "titulo": "El Ángel Guardián",
    "img_cine": "https://www.cinemacenter.com.ar/img_movies/3688_img2.jpg",
    "genero": "Acción",
@@ -379,6 +368,17 @@
    "titulo": "Realmente Amor (Re)",
    "img_cine": "https://www.cinemacenter.com.ar/img_movies/3692_img2.jpg",
    "genero": "Comedia Romántica",
+   "mia": false
+  },
+  {
+   "titulo": "Gohan",
+   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3694_img2.jpg",
+   "genero": "Drama",
+   "id": 28609,
+   "poster": "/yHxHxbysTyZLS6rIK9JF7CuWWW.jpg",
+   "fondo": "/6SFrBoiuioqljN42pbTmyRKccTp.jpg",
+   "sinopsis": "Han pasado varios años desde que Son Goku derrotó a Piccolo en la final del Gran Torneo de Artes Marciales y ahora reina la paz en el mundo. Al menos hasta la irrupción de Garlick Jr., un antiguo rival de Dios que busca las bolas de dragón para conseguir la inmortalidad y ocupar el trono celestial por la fuerza. Y por si fuera poco, en el proceso secuestra a Son Gohan, el hijo pequeño de Goku, que tiene la bola de cuatro estrellas. Goku acude al rescate, pero cuando llega a su fortaleza, Garlick Jr. ya ha invocado al Dragón Shenron. Goku y Piccolo se ven obligados a unir sus fuerzas, pero ni s",
+   "fecha": "1989-07-15",
    "mia": false
   },
   {
@@ -467,6 +467,17 @@
    "fondo": "/v7kL3an4ornAOWOxZucZilfTDbR.jpg",
    "sinopsis": "Cuando Tate Gordon, un arquitecto retraído, se muda a un pequeño pueblo costero para completar su último proyecto, conoce a una joven cautivadora que lo saca de su encierro y lo arrastra al centro de un misterio mortal que se cierne sobre la localidad.",
    "fecha": "2027-02-03",
+   "mia": false
+  },
+  {
+   "titulo": "El Nacimiento De Cristo",
+   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3654_img2.jpg",
+   "genero": "Drama",
+   "id": 1408207,
+   "poster": "/wTlKaVl85SvxBCgKSdBSa5ZY7EJ.jpg",
+   "fondo": "/mH4RXqdkpOzdV3730HDfssPUQvb.jpg",
+   "sinopsis": "",
+   "fecha": "2026-12-03",
    "mia": false
   },
   {
