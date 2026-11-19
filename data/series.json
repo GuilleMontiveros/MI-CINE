@@ -1,15 +1,15 @@
 {
- "actualizado": "2026-11-19T07:23:38.439979+00:00",
+ "actualizado": "2026-11-19T20:45:32.206769+00:00",
  "series": [
   {
    "id": 308007,
    "tipo": "tv",
-   "titulo": "The Altruists",
+   "titulo": "Los altruistas",
    "fecha": "2026-11-19",
-   "poster": "/foTyGlJ1jJh8QID5KwjsMytsJTV.jpg",
+   "poster": "/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
    "fondo": "/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg",
-   "puntaje": 0.0,
-   "sinopsis": "The story of Sam Bankman-Fried and Caroline Ellison, two hyper-smart, ambitious young idealists who tried to remake the global financial system in the blink of an eye - before they were accused of stealing $8 billion and became Gen Z's own Bonnie & Clyde.",
+   "puntaje": 6.0,
+   "sinopsis": "La historia de Sam Bankman-Fried, el joven visionario del sector de las criptomonedas caído en desgracia, y el tumultuoso romance entre él, cofundador de FTX en 2019, y su novia, Caroline Ellison. La miniserie retrata sus intentos por revolucionar el sistema financiero, que acabaron en un fraude de 36.000 millones de dólares y con él en la cárcel condenado a 25 años de prisión en el 2024.",
    "director": [
     "Graham Moore"
    ],
@@ -24,10 +24,10 @@
    "lema": "",
    "duracion": null,
    "generos": [
-    "Drama",
-    "Crimen"
+    "Crimen",
+    "Drama"
    ],
-   "estado": "Returning Series",
+   "estado": "Ended",
    "proximos": [
     {
      "id": 6756537,
@@ -109,7 +109,7 @@
    "fecha": "2026-10-09",
    "poster": "/1RXEvHmis1oKTAWtKOrzJqenpb6.jpg",
    "fondo": "/3zmB6PLnjf7rNNC2lnvinQtlJMx.jpg",
-   "puntaje": 9.0,
+   "puntaje": 8.8,
    "sinopsis": "En la era Meiji, Satoko Kirigaya, una joven aristócrata con una esperanza de vida limitada, sueña con casarse con un noble y convertirse en el orgullo de su familia. Cuando una conspiración la pone al borde de la muerte, se ve obligada a aceptar la ayuda de Shinpei Goto, un asesino que acaba obsesionándose con ella.",
    "director": [],
    "reparto": [

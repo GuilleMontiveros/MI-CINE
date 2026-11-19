@@ -1,28 +1,124 @@
 {
- "actualizado": "2026-11-19T07:23:32.290165+00:00",
+ "actualizado": "2026-11-19T20:45:26.182971+00:00",
  "play": {
-  "desde": "12/11",
-  "hasta": "18/11",
+  "desde": "19/11",
+  "hasta": "25/11",
   "peliculas": [
    {
-    "titulo": "Como Robar Un Banco",
-    "clasif": "R-17",
-    "minutos": 122,
+    "titulo": "Recen Por Mi: La Historia De Francisco",
+    "clasif": "G",
+    "minutos": 110,
     "funciones": [
      {
       "formato": "2D cast",
+      "horas": [
+       "19:30",
+       "22:30"
+      ]
+     }
+    ],
+    "nota": null,
+    "img_cine": "https://www.playcinema.net/2025/imgs/peliculas/peli_a5e958d7687503f3e0990eeb364e375c.webp",
+    "id": 1510295,
+    "poster": "/gnmbwuCoGwFblQ0tvvxHHh8LhTU.jpg",
+    "fondo": "/fma2xTmJ0UUG0AyJpjHU83gfwH.jpg",
+    "sinopsis": "",
+    "fecha": "2026-11-19",
+    "mia": false
+   },
+   {
+    "titulo": "Yo Soy Rocky",
+    "clasif": "SP - (Supervisión Parental)",
+    "minutos": 127,
+    "funciones": [
+     {
+      "formato": "2D cast",
+      "horas": [
+       "18:20",
+       "20:40"
+      ]
+     },
+     {
+      "formato": "2D sub",
       "horas": [
        "23:00"
       ]
      }
     ],
     "nota": null,
-    "img_cine": "https://www.playcinema.net/2025/imgs/peliculas/peli_5d3419966f619b0776b4603e5e60d745.webp",
-    "id": 1437511,
-    "poster": "/xS35fgWgRdF2em5MGxg5WG9dPKd.jpg",
-    "fondo": "/u38hNQbxvIicUdfrHpqa9puBnA9.jpg",
-    "sinopsis": "Un hombre desesperado planea un elaborado atraco contra el corrupto sistema financiero que arruinó su vida, con un grupo que documenta sus actos en redes sociales.",
-    "fecha": "2026-11-10",
+    "img_cine": "https://www.playcinema.net/2025/imgs/peliculas/peli_30e121111082853f9244055293677038.webp",
+    "id": 1286656,
+    "poster": "/6ItqVHcsb2swkE7ajS6EVCH2mpd.jpg",
+    "fondo": "/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
+    "sinopsis": "La electrizante historia real de un actor desconocido con la convicción inquebrantable de que no solo estaba destinado a escribir *Rocky*, sino a ser Rocky Balboa. Tras recibir negativas constantes, Sylvester Stallone lo apuesta todo a sí mismo y se mantiene firme en su empeño de interpretar el papel protagonista, contra todo pronóstico.",
+    "fecha": "2026-11-06",
+    "mia": false
+   },
+   {
+    "titulo": "Los Juesgo Del Hambre: Amanecer En La Cosecha",
+    "clasif": "R-13",
+    "minutos": 158,
+    "funciones": [
+     {
+      "formato": "2D cast",
+      "horas": [
+       "17:00",
+       "19:40"
+      ]
+     },
+     {
+      "formato": "2D sub",
+      "horas": [
+       "20:30",
+       "22:40"
+      ]
+     }
+    ],
+    "nota": null,
+    "img_cine": "https://www.playcinema.net/2025/imgs/peliculas/peli_0cf4644c03c34f6be293f302f5eb774f.webp",
+    "mia": false
+   },
+   {
+    "titulo": "Ebenezer: Los Fantasmas De Navidad",
+    "clasif": "SP - (Supervisión Parental)",
+    "minutos": 115,
+    "funciones": [
+     {
+      "formato": "2D cast",
+      "horas": [
+       "21:30",
+       "23:30"
+      ]
+     }
+    ],
+    "nota": null,
+    "img_cine": "https://www.playcinema.net/2025/imgs/peliculas/peli_05bdeccb98a233222e8f8ec654be1deb.webp",
+    "id": 1567605,
+    "poster": "/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
+    "fondo": "/fdOVxyNNL95SuI8BGaN6vudEuYX.jpg",
+    "sinopsis": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
+    "fecha": "2026-11-11",
+    "mia": false
+   },
+   {
+    "titulo": "Plumas: Operación Rescate",
+    "clasif": "G",
+    "minutos": 86,
+    "funciones": [
+     {
+      "formato": "2D cast",
+      "horas": [
+       "16:50"
+      ]
+     }
+    ],
+    "nota": null,
+    "img_cine": "https://www.playcinema.net/2025/imgs/peliculas/peli_c69a613c83c31e95ad6f6a4c7b8f14f7.webp",
+    "id": 1280405,
+    "poster": "/12N7a0AqUK8tDYo8RgBXIZQ7kgJ.jpg",
+    "fondo": "/ylOZ6sD51Bu1Jzsfk5hSwBnh0vT.jpg",
+    "sinopsis": "En el Reino de Castilia, una fuerza oscura se alza de nuevo. A pocos días de la coronación del nuevo Emperador y la Emperatriz, sus siete polluelos reales son secuestrados y depende de un héroe devolverlos sanos y salvos: un repartidor adolescente, Arturo el Chivo. Sus sueños de ser un barbero de talla mundial quedan en suspenso cuando se convierte en padre de la noche a la mañana. Si quiere mantener a salvo a los traviesos niños en su viaje, primero debe madurar, descubrir su propio pasado y, por el camino, despertar a campeones olvidados. ¿Podrá Arturo devolver a los herederos y salvar el re",
+    "fecha": "2024-09-05",
     "mia": false
    },
    {
@@ -38,129 +134,13 @@
      }
     ],
     "nota": null,
-    "img_cine": "https://www.playcinema.net/2025/imgs/peliculas/peli_e23ef0526d58acaf1aa6abe94cc30c79.webp",
+    "img_cine": "https://www.playcinema.net/2025/imgs/peliculas/peli_6ae64f825ac1bcad4908895ad2c8fba2.webp",
     "id": 891621,
     "poster": "/bLDrHn76oiNYiELv1qw3Tfdkqc8.jpg",
     "fondo": "/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
     "sinopsis": "Poco antes del golpe de Estado chileno de 1973, los agentes de la CIA Chris y Lee son enviados desde Santiago a la Isla de Pascua por su jefa de la oficina, MJ. Entre las emblemáticas estatuas de la isla, y mientras los veteranos compañeros lidian con sus oscuros pasados ​​y conspiraciones actuales, el nuevo vínculo que Chris establece con un par de estudiantes rebeldes amenaza con desbaratar el viaje de todos a este remoto paraíso.",
     "fecha": "2026-10-30",
     "mia": true
-   },
-   {
-    "titulo": "Aniquilación",
-    "clasif": "R-17",
-    "minutos": 92,
-    "funciones": [
-     {
-      "formato": "2D cast",
-      "horas": [
-       "23:10"
-      ]
-     }
-    ],
-    "nota": null,
-    "img_cine": "https://www.playcinema.net/2025/imgs/peliculas/peli_9dee3061d0f028749ffd6b7de34d2d57.webp",
-    "id": 1284046,
-    "poster": "/bKq74yT1Gca4JCd7E6IAHPLWBg0.jpg",
-    "fondo": "/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
-    "sinopsis": "Una francotiradora del ejército utiliza sus habilidades para proteger a su hija de un escuadrón de máquinas asesinas que escapó de una base militar secreta, mientras unos mercenarios intentan contenerla.",
-    "fecha": "2026-09-02",
-    "mia": false
-   },
-   {
-    "titulo": "Plumas: Operación Rescate",
-    "clasif": "G",
-    "minutos": 86,
-    "funciones": [
-     {
-      "formato": "2D cast",
-      "horas": [
-       "16:40",
-       "18:10",
-       "19:40"
-      ]
-     }
-    ],
-    "nota": null,
-    "img_cine": "https://www.playcinema.net/2025/imgs/peliculas/peli_bcad863780384150f1c7d1169ceb3f02.webp",
-    "id": 1280405,
-    "poster": "/12N7a0AqUK8tDYo8RgBXIZQ7kgJ.jpg",
-    "fondo": "/ylOZ6sD51Bu1Jzsfk5hSwBnh0vT.jpg",
-    "sinopsis": "En el Reino de Castilia, una fuerza oscura se alza de nuevo. A pocos días de la coronación del nuevo Emperador y la Emperatriz, sus siete polluelos reales son secuestrados y depende de un héroe devolverlos sanos y salvos: un repartidor adolescente, Arturo el Chivo. Sus sueños de ser un barbero de talla mundial quedan en suspenso cuando se convierte en padre de la noche a la mañana. Si quiere mantener a salvo a los traviesos niños en su viaje, primero debe madurar, descubrir su propio pasado y, por el camino, despertar a campeones olvidados. ¿Podrá Arturo devolver a los herederos y salvar el re",
-    "fecha": "2024-09-05",
-    "mia": false
-   },
-   {
-    "titulo": "Ebenezer: Los Fantasmas De Navidad",
-    "clasif": "SP - (Supervisión Parental)",
-    "minutos": 115,
-    "funciones": [
-     {
-      "formato": "2D cast",
-      "horas": [
-       "17:00",
-       "19:30",
-       "23:30"
-      ]
-     },
-     {
-      "formato": "2D sub",
-      "horas": [
-       "21:30"
-      ]
-     }
-    ],
-    "nota": null,
-    "img_cine": "https://www.playcinema.net/2025/imgs/peliculas/peli_e967da3f0ae8d7177ae60e5cc8e1b892.webp",
-    "id": 1567605,
-    "poster": "/gnG15MkiNeObCoPbHcLUX4zrNWh.jpg",
-    "fondo": "/fdOVxyNNL95SuI8BGaN6vudEuYX.jpg",
-    "sinopsis": "Reimaginación del clásico literario, una historia de fantasmas ambientada en el Londres de Dickens que sigue el viaje sobrenatural de un hombre para enfrentarse a su pasado, presente y futuro y luchar por una segunda oportunidad.",
-    "fecha": "2026-11-11",
-    "mia": false
-   },
-   {
-    "titulo": "Los Juesgo Del Hambre: Amanecer En La Cosecha",
-    "clasif": "R-13",
-    "minutos": 158,
-    "funciones": [
-     {
-      "formato": "2D cast",
-      "horas": [
-       "19:20"
-      ]
-     },
-     {
-      "formato": "2D sub",
-      "horas": [
-       "22:20"
-      ]
-     }
-    ],
-    "nota": "Funciones disponibles únicamente miércoles 18/11",
-    "img_cine": "https://www.playcinema.net/2025/imgs/peliculas/peli_bc1a669c3823ed66a7b45d22479aa640.webp",
-    "mia": false
-   },
-   {
-    "titulo": "Sacrificio: Los Elegidos",
-    "clasif": "R-13",
-    "minutos": 103,
-    "funciones": [
-     {
-      "formato": "2D sub",
-      "horas": [
-       "21:10"
-      ]
-     }
-    ],
-    "nota": null,
-    "img_cine": "https://www.playcinema.net/2025/imgs/peliculas/peli_75e8afcef1eb0350ba0438ebd5e5041b.webp",
-    "id": 1284186,
-    "poster": "/fRjUuePNJFW2BcL5bXAe5xytGr9.jpg",
-    "fondo": "/12kgv64tdeBHGCtTsZAb7nNaJX5.jpg",
-    "sinopsis": "Durante una gala benéfica repleta de estrellas —entre ellas celebridades, multimillonarios y discursos vacíos—, una estrella de cine inmersa en una crisis existencial es tomada como rehén por una guerrera radical y sus fieles seguidores. A medida que la noche se precipita hacia el caos, se desarrollan simultáneamente un viaje interior y una aventura externa, donde la línea que separa la representación de la creencia, y la salvación del sacrificio, comienza a desdibujarse.",
-    "fecha": "2026-08-12",
-    "mia": false
    },
    {
     "titulo": "Godzilla Minus Zero",
@@ -170,8 +150,8 @@
      {
       "formato": "2D cast",
       "horas": [
-       "18:20",
-       "20:40"
+       "17:10",
+       "19:00"
       ]
      }
     ],
@@ -193,13 +173,8 @@
       "formato": "2D cast",
       "horas": [
        "16:30",
+       "18:30",
        "20:30"
-      ]
-     },
-     {
-      "formato": "3D cast",
-      "horas": [
-       "18:30"
       ]
      }
     ],
@@ -220,8 +195,8 @@
      {
       "formato": "2D cast",
       "horas": [
-       "17:10",
-       "19:00"
+       "16:40",
+       "18:10"
       ]
      }
     ],
@@ -242,7 +217,7 @@
      {
       "formato": "2D sub",
       "horas": [
-       "22:30"
+       "23:10"
       ]
      }
     ],

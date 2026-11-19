@@ -12,14 +12,19 @@
    "puntaje": 8.0,
    "sinopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá.",
    "hd": true,
-   "motivo": "En digital en EE.UU. (Amazon Video, Apple TV Store, Google Play Movies)",
+   "motivo": "Disponible en Argentina",
    "digital_ar": null,
    "digital_us": "2026-11-17",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
    "cine_ar": "2026-07-16",
    "cine_us": "2026-07-17",
-   "plataformas": {},
+   "plataformas": {
+    "buy": [
+     "Apple TV Store",
+     "Amazon Video"
+    ]
+   },
    "plataformas_us": {
     "buy": [
      "Amazon Video",
@@ -29,7 +34,7 @@
      "Fandango At Home"
     ]
    },
-   "link": null,
+   "link": "https://www.themoviedb.org/movie/1368337-the-odyssey/watch?locale=AR",
    "director": [
     "Christopher Nolan"
    ],
@@ -56,7 +61,7 @@
    "titulo": "Puedes verlo todo",
    "fecha": "2026-10-16",
    "poster": "/g2PKUCpDChvYvT7IaUOYfjO0mbG.jpg",
-   "fondo": "/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
+   "fondo": "/rrbbzCyS45yooXpUGJatfptlHYI.jpg",
    "puntaje": 8.8,
    "sinopsis": "Treinta y cuatro días antes de ingresar en prisión, la famosa fundadora de Theranos, Elizabeth Holmes, invita a un equipo de rodaje escéptico a documentar cada uno de sus movimientos. Lo que comienza como un retrato íntimo se convierte en un alucinante viaje de tres años.",
    "hd": false,
@@ -181,7 +186,7 @@
    "titulo": "Proyecto Salvación",
    "fecha": "2026-03-15",
    "poster": "/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-   "fondo": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+   "fondo": "/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
    "puntaje": 8.6,
    "sinopsis": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
    "hd": true,
@@ -483,7 +488,7 @@
    "fecha": "2026-11-04",
    "poster": "/l4q1gziNMhpVQAzCIwmtbLSB1T9.jpg",
    "fondo": "/m5zcXuV4qR9fBgXjPndLIPOcasF.jpg",
-   "puntaje": 7.7,
+   "puntaje": 7.9,
    "sinopsis": "Peter (Jordan Firstman), un promotor de fiestas underground de Nueva York acostumbrado a vivir entre excesos, música electrónica y noches interminables, ve cómo su mundo da un vuelco cuando una desconocida aparece en su puerta con Arlo (Reggie Absolom), un niño de 10 años que asegura que es su hijo. Lo que comienza como una situación imposible pronto da paso a una loca, divertida y tierna conexión, tan inesperada como transformadora.",
    "hd": false,
    "motivo": null,
@@ -639,8 +644,8 @@
    "fondo": "/6S41dEoKH2cxw20QgLxhnsQoLQF.jpg",
    "puntaje": 8.0,
    "sinopsis": "Dos hermanos se ven envueltos en un plan que resulta ser demasiado bueno para ser verdad. Mientras intentan desenvolverse en el peligroso mundo de la mafia rusa, los lazos familiares comienzan a resquebrajarse, con consecuencias que cambiarán sus vidas.",
-   "hd": true,
-   "motivo": "En digital en EE.UU. (Fandango At Home)",
+   "hd": false,
+   "motivo": null,
    "digital_ar": null,
    "digital_us": null,
    "digital_proximo": null,
@@ -648,11 +653,7 @@
    "cine_ar": "2027-01-07",
    "cine_us": "2026-11-13",
    "plataformas": {},
-   "plataformas_us": {
-    "buy": [
-     "Fandango At Home"
-    ]
-   },
+   "plataformas_us": {},
    "link": null,
    "director": [
     "James Gray"

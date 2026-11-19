@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T07:23:38.439979+00:00",
+ "actualizado": "2026-11-19T20:45:32.206769+00:00",
  "titulos": [
   {
    "id": 37165,
@@ -231,10 +231,12 @@
     ],
     "rent": [
      "Apple TV Store",
-     "Claro video"
+     "Claro video",
+     "Amazon Video"
     ],
     "buy": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ]
    },
    "plataformas_us": {
@@ -448,11 +450,12 @@
    "digital_us": "2018-02-27",
    "digital_proximo": null,
    "digital_sin_confirmar": null,
-   "cine_ar": null,
+   "cine_ar": "2018-02-22",
    "cine_us": "2017-11-24",
    "plataformas": {
     "flatrate": [
-     "MovistarTV"
+     "MovistarTV",
+     "HBO Max"
     ],
     "rent": [
      "MovistarTV",
@@ -498,8 +501,8 @@
     "Esther Garrel"
    ],
    "trailer": "CDR8oapp2Wo",
-   "lema": "¿Es mejor hablar o morir?",
-   "duracion": 122,
+   "lema": "¿Es mejor hablar o morir?.",
+   "duracion": 132,
    "generos": [
     "Romance",
     "Drama"
@@ -753,8 +756,8 @@
    },
    "link": "https://www.themoviedb.org/movie/773-little-miss-sunshine/watch?locale=AR",
    "director": [
-    "Valerie Faris",
-    "Jonathan Dayton"
+    "Jonathan Dayton",
+    "Valerie Faris"
    ],
    "reparto": [
     "Greg Kinnear",
@@ -1524,8 +1527,8 @@
    },
    "link": "https://www.themoviedb.org/movie/502356-the-super-mario-bros-movie/watch?locale=AR",
    "director": [
-    "Michael Jelenic",
-    "Aaron Horvath"
+    "Aaron Horvath",
+    "Michael Jelenic"
    ],
    "reparto": [
     "Chris Pratt",
@@ -1647,10 +1650,12 @@
      "HBO Max"
     ],
     "rent": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ],
     "buy": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ]
    },
    "plataformas_us": {
@@ -1933,14 +1938,17 @@
      "HBO Max"
     ],
     "rent": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ],
     "buy": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ]
    },
    "plataformas_us": {
     "flatrate": [
+     "fuboTV",
      "HBO Max Amazon Channel",
      "Peacock Premium",
      "YouTube TV",
@@ -2011,10 +2019,12 @@
      "MovistarTV"
     ],
     "rent": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ],
     "buy": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ]
    },
    "plataformas_us": {
@@ -2380,14 +2390,17 @@
      "HBO Max"
     ],
     "rent": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ],
     "buy": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ]
    },
    "plataformas_us": {
     "flatrate": [
+     "fuboTV",
      "HBO Max Amazon Channel",
      "Peacock Premium",
      "YouTube TV",
@@ -2541,14 +2554,17 @@
      "HBO Max"
     ],
     "rent": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ],
     "buy": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ]
    },
    "plataformas_us": {
     "flatrate": [
+     "fuboTV",
      "HBO Max Amazon Channel",
      "Peacock Premium",
      "YouTube TV",
@@ -5070,10 +5086,12 @@
     ],
     "rent": [
      "Apple TV Store",
-     "Claro video"
+     "Claro video",
+     "Amazon Video"
     ],
     "buy": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ]
    },
    "plataformas_us": {
@@ -5431,8 +5449,7 @@
      "Apple TV Store",
      "Google Play Movies",
      "YouTube",
-     "Fandango At Home",
-     "FlixFling"
+     "Fandango At Home"
     ],
     "buy": [
      "Amazon Video",
@@ -5902,10 +5919,12 @@
      "HBO Max"
     ],
     "rent": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ],
     "buy": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ]
    },
    "plataformas_us": {
@@ -6419,8 +6438,8 @@
    },
    "link": "https://www.themoviedb.org/movie/77338-intouchables/watch?locale=AR",
    "director": [
-    "Olivier Nakache",
-    "Éric Toledano"
+    "Éric Toledano",
+    "Olivier Nakache"
    ],
    "reparto": [
     "François Cluzet",
@@ -7002,10 +7021,12 @@
      "HBO Max"
     ],
     "rent": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ],
     "buy": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ]
    },
    "plataformas_us": {
@@ -8344,10 +8365,6 @@
     ]
    },
    "plataformas_us": {
-    "flatrate": [
-     "Netflix",
-     "Netflix Standard with Ads"
-    ],
     "rent": [
      "Amazon Video",
      "Apple TV Store",
@@ -8528,10 +8545,12 @@
    "cine_us": "2012-10-12",
    "plataformas": {
     "rent": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ],
     "buy": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ]
    },
    "plataformas_us": {
@@ -9034,8 +9053,8 @@
    },
    "link": "https://www.themoviedb.org/movie/803796-kpop-demon-hunters/watch?locale=AR",
    "director": [
-    "Chris Appelhans",
-    "Maggie Kang"
+    "Maggie Kang",
+    "Chris Appelhans"
    ],
    "reparto": [
     "Arden Cho",
@@ -9711,10 +9730,12 @@
     ],
     "rent": [
      "Apple TV Store",
-     "Claro video"
+     "Claro video",
+     "Amazon Video"
     ],
     "buy": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ]
    },
    "plataformas_us": {
@@ -9779,10 +9800,12 @@
     ],
     "rent": [
      "Apple TV Store",
-     "Claro video"
+     "Claro video",
+     "Amazon Video"
     ],
     "buy": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ]
    },
    "plataformas_us": {
@@ -9849,10 +9872,12 @@
      "HBO Max"
     ],
     "rent": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ],
     "buy": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ]
    },
    "plataformas_us": {
@@ -10247,7 +10272,7 @@
    "fecha": "1954-04-26",
    "poster": "/zr4DkzWIMjaWtj6hlsbN6dnNeTX.jpg",
    "fondo": "/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
-   "puntaje": 8.5,
+   "puntaje": 8.4,
    "sinopsis": "Una banda de forajidos atemorizan a los habitantes de un pequeño pueblo, saqueándolos periódicamente sin piedad. Para repeler estos ataques, los aldeanos deciden contratar a mercenarios. Finalmente, consiguen los servicios de 7 guerreros, 7 samurais dispuestos a defenderlos a cambio, tan solo, de cobijo y comida.",
    "hd": true,
    "motivo": "En digital en EE.UU. (HBO Max Amazon Channel, Criterion Channel, HBO Max)",
@@ -10607,7 +10632,7 @@
    "fecha": "1992-11-18",
    "poster": "/o2s9ow0uRRm1BcF3teznk5twd90.jpg",
    "fondo": "/yj9VAqzlA0kasae8rK1VG3NvDZk.jpg",
-   "puntaje": 7.6,
+   "puntaje": 7.5,
    "sinopsis": "Malcolm Little (1925–1965) nació en Omaha (Nebraska). Su padre, ministro baptista, murió siendo él niño, y su madre acabó en un psiquiátrico cuando el Ku Klux Klan incendió su casa. Después de ser rechazado por el ejército, cayó en la delincuencia y fue a parar a la cárcel. Allí se convirtió al Islam y cambió radicalmente su vida, convirtiéndose pronto en un carismático líder del movimiento de liberación de la comunidad negra norteamericana.",
    "hd": true,
    "motivo": "Disponible en Argentina",
@@ -11399,9 +11424,6 @@
     ]
    },
    "plataformas_us": {
-    "flatrate": [
-     "fuboTV"
-    ],
     "rent": [
      "Amazon Video",
      "Apple TV Store",
@@ -11542,10 +11564,12 @@
      "HBO Max"
     ],
     "rent": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ],
     "buy": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ]
    },
    "plataformas_us": {
@@ -11693,10 +11717,12 @@
      "HBO Max"
     ],
     "rent": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ],
     "buy": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ]
    },
    "plataformas_us": {
@@ -12042,10 +12068,12 @@
      "HBO Max"
     ],
     "rent": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ],
     "buy": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ]
    },
    "plataformas_us": {
@@ -12666,10 +12694,12 @@
      "HBO Max"
     ],
     "rent": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ],
     "buy": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ]
    },
    "plataformas_us": {
@@ -12860,10 +12890,12 @@
     ],
     "rent": [
      "Apple TV Store",
-     "Claro video"
+     "Claro video",
+     "Amazon Video"
     ],
     "buy": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ]
    },
    "plataformas_us": {
@@ -13339,10 +13371,12 @@
      "HBO Max"
     ],
     "rent": [
-     "Claro video"
+     "Claro video",
+     "Amazon Video"
     ],
     "buy": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ]
    },
    "plataformas_us": {
@@ -14067,10 +14101,12 @@
    "cine_us": "2018-08-15",
    "plataformas": {
     "rent": [
-     "Claro video"
+     "Claro video",
+     "Amazon Video"
     ],
     "buy": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ]
    },
    "plataformas_us": {
@@ -14142,10 +14178,12 @@
     ],
     "rent": [
      "Apple TV Store",
-     "Claro video"
+     "Claro video",
+     "Amazon Video"
     ],
     "buy": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ]
    },
    "plataformas_us": {
@@ -14409,10 +14447,12 @@
     ],
     "rent": [
      "Apple TV Store",
-     "Claro video"
+     "Claro video",
+     "Amazon Video"
     ],
     "buy": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ]
    },
    "plataformas_us": {
@@ -14901,7 +14941,7 @@
    "link": "https://www.themoviedb.org/movie/75629-q/watch?locale=AR",
    "director": [
     "Hideaki Anno",
-    "Kazuya Tsurumaki"
+    "Masayuki"
    ],
    "reparto": [
     "緒方恵美",
@@ -15544,10 +15584,12 @@
      "HBO Max"
     ],
     "rent": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ],
     "buy": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ]
    },
    "plataformas_us": {
@@ -15753,10 +15795,12 @@
      "HBO Max"
     ],
     "rent": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ],
     "buy": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ]
    },
    "plataformas_us": {
@@ -16103,10 +16147,12 @@
      "HBO Max"
     ],
     "rent": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ],
     "buy": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ]
    },
    "plataformas_us": {
@@ -16396,10 +16442,12 @@
      "HBO Max"
     ],
     "rent": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ],
     "buy": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ]
    },
    "plataformas_us": {
@@ -16795,10 +16843,12 @@
      "Netflix"
     ],
     "rent": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ],
     "buy": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ]
    },
    "plataformas_us": {
@@ -16910,10 +16960,12 @@
    "cine_us": "2001-06-08",
    "plataformas": {
     "rent": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ],
     "buy": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ]
    },
    "plataformas_us": {
@@ -17623,10 +17675,12 @@
     ],
     "rent": [
      "Apple TV Store",
-     "Claro video"
+     "Claro video",
+     "Amazon Video"
     ],
     "buy": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ]
    },
    "plataformas_us": {
@@ -18484,8 +18538,8 @@
    },
    "link": null,
    "director": [
-    "Michael Powell",
-    "Emeric Pressburger"
+    "Emeric Pressburger",
+    "Michael Powell"
    ],
    "reparto": [
     "Adolf Wohlbrück",
@@ -19944,7 +19998,8 @@
     ],
     "rent": [
      "Apple TV Store",
-     "Claro video"
+     "Claro video",
+     "Amazon Video"
     ],
     "buy": [
      "Apple TV Store"
@@ -20609,10 +20664,12 @@
      "HBO Max"
     ],
     "rent": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ],
     "buy": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ]
    },
    "plataformas_us": {
@@ -21100,7 +21157,7 @@
    },
    "link": "https://www.themoviedb.org/movie/813-airplane/watch?locale=AR",
    "director": [
-    "Jim Abrahams",
+    "Jerry Zucker",
     "David Zucker"
    ],
    "reparto": [
@@ -21469,8 +21526,8 @@
    "plataformas_us": {},
    "link": "https://www.themoviedb.org/movie/47383-el-hombre-de-al-lado/watch?locale=AR",
    "director": [
-    "Mariano Cohn",
-    "Gastón Duprat"
+    "Gastón Duprat",
+    "Mariano Cohn"
    ],
    "reparto": [
     "Rafael Spregelburd",
@@ -21812,7 +21869,8 @@
      "fuboTV",
      "MGM+ Amazon Channel",
      "Philo",
-     "MGM Plus"
+     "MGM Plus",
+     "TCM"
     ],
     "rent": [
      "Amazon Video",
@@ -22323,10 +22381,12 @@
    "cine_us": "1975-09-21",
    "plataformas": {
     "rent": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ],
     "buy": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ]
    },
    "plataformas_us": {
@@ -22637,6 +22697,12 @@
     "flatrate": [
      "MUBI",
      "MUBI Amazon Channel"
+    ],
+    "rent": [
+     "Apple TV Store"
+    ],
+    "buy": [
+     "Apple TV Store"
     ]
    },
    "plataformas_us": {
@@ -23702,10 +23768,12 @@
      "HBO Max"
     ],
     "rent": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ],
     "buy": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ]
    },
    "plataformas_us": {
@@ -23759,7 +23827,7 @@
    "fecha": "1957-10-25",
    "poster": "/vz8J8nTbF5JP7PQK4VNVsO8rzCy.jpg",
    "fondo": "/nbMY2UcNnaAr3jrrowzN0NaxQyr.jpg",
-   "puntaje": 8.3,
+   "puntaje": 8.2,
    "sinopsis": "Primera Guerra Mundial (1914-1918). En 1916, en Francia, el general Boulard ordena la conquista de una inexpugnable posición alemana y encarga esa misión al ambicioso general Mireau. El encargado de dirigir el ataque será el coronel Dax. La toma de la colina resulta un infierno, y el regimiento emprende la retirada hacia las trincheras. El alto mando militar, irritado por la derrota, decide imponer al regimiento un terrible castigo que sirva de ejemplo a los demás soldados.",
    "hd": true,
    "motivo": "Disponible en Argentina",
@@ -25108,10 +25176,12 @@
    "cine_us": "1989-09-01",
    "plataformas": {
     "rent": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ],
     "buy": [
-     "Apple TV Store"
+     "Apple TV Store",
+     "Amazon Video"
     ]
    },
    "plataformas_us": {
@@ -25349,7 +25419,7 @@
    "tipo": "movie",
    "titulo": "Artificial",
    "fecha": "2026-12-25",
-   "poster": "/2bz0HPE8OFOqnyvl8sCdVDIg1KX.jpg",
+   "poster": "/tD4JOGcI5SSBKSFo4coObYwRlxE.jpg",
    "fondo": "/qt79gpmITExaeb3Y74gxgkVSvaZ.jpg",
    "puntaje": 0.0,
    "sinopsis": "En noviembre de 2023, en pleno auge mundial de la inteligencia artificial, el cofundador de OpenAI, Ilya Sutskever, se alió con la junta directiva de la empresa para tomar una de las decisiones más determinantes, la cual transformó radicalmente la compañía tal como la conocemos: la destitución del actual director ejecutivo, Sam Altman. Esta controvertida decisión provocó una reacción de rechazo masiva que, finalmente, desembocó en el regreso de Altman cinco días después.",
@@ -25929,7 +25999,7 @@
    "fecha": "2017-11-24",
    "poster": "/iQrsPKVtqP5OtCuxeUpZ6qtieK7.jpg",
    "fondo": "/6DtbbpgM4HUSaNog3XltDziceeQ.jpg",
-   "puntaje": 6.0,
+   "puntaje": 6.2,
    "sinopsis": "Agustina encontró las cintas de video que su padre Jaime grabó antes del accidente que le quitó la vida. Los secretos familiares que su historia y la de Jaime la empujarán a involucrarse en una búsqueda que revelará una historia marcada la sexualidad y el activismo político.",
    "hd": true,
    "motivo": "Disponible en Argentina",
@@ -26852,7 +26922,7 @@
    "titulo": "Puedes verlo todo",
    "fecha": "2026-10-16",
    "poster": "/g2PKUCpDChvYvT7IaUOYfjO0mbG.jpg",
-   "fondo": "/nhIL3O4W9h5V5JbNQm7yjoDk3So.jpg",
+   "fondo": "/rrbbzCyS45yooXpUGJatfptlHYI.jpg",
    "puntaje": 8.8,
    "sinopsis": "Treinta y cuatro días antes de ingresar en prisión, la famosa fundadora de Theranos, Elizabeth Holmes, invita a un equipo de rodaje escéptico a documentar cada uno de sus movimientos. Lo que comienza como un retrato íntimo se convierte en un alucinante viaje de tres años.",
    "hd": false,
@@ -26939,7 +27009,7 @@
    "titulo": "Vengadores: Doomsday",
    "fecha": "2026-12-16",
    "poster": "/7bQczUMnjz8iwxNP9YrmLkfI8od.jpg",
-   "fondo": "/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
+   "fondo": "/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
    "puntaje": 0.0,
    "sinopsis": "Los héroes más queridos de tres universos distintos son abocados a una colisión catastrófica donde tendrán que hacer frente a la mayor amenaza a su existencia hasta la fecha.",
    "hd": false,
