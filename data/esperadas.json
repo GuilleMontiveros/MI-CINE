@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18T20:39:59.206548+00:00",
+ "actualizado": "2026-11-19T07:23:38.439979+00:00",
  "titulos": [
   {
    "id": 37165,
@@ -1524,8 +1524,8 @@
    },
    "link": "https://www.themoviedb.org/movie/502356-the-super-mario-bros-movie/watch?locale=AR",
    "director": [
-    "Aaron Horvath",
-    "Michael Jelenic"
+    "Michael Jelenic",
+    "Aaron Horvath"
    ],
    "reparto": [
     "Chris Pratt",
@@ -3864,7 +3864,7 @@
    "fecha": "2022-11-11",
    "poster": "/wcgPDyvKkgo2agNXcdE1eXLGzmf.jpg",
    "fondo": "/xQyGkQ8ICa4lgifGr3oZjkm3AJ2.jpg",
-   "puntaje": 7.5,
+   "puntaje": 7.6,
    "sinopsis": "Al crecer en la era de Arizona posterior a la Segunda Guerra Mundial, un niño llamado Sammy Fabelman descubre un secreto familiar devastador y explora cómo el poder de las películas puede ayudarlo a ver la verdad. Película semiautobiográfica sobre la infancia y juventud de Steven Spielberg.",
    "hd": true,
    "motivo": "Disponible en Argentina",
@@ -6419,8 +6419,8 @@
    },
    "link": "https://www.themoviedb.org/movie/77338-intouchables/watch?locale=AR",
    "director": [
-    "Éric Toledano",
-    "Olivier Nakache"
+    "Olivier Nakache",
+    "Éric Toledano"
    ],
    "reparto": [
     "François Cluzet",
@@ -9878,8 +9878,8 @@
    },
    "link": "https://www.themoviedb.org/movie/872-singin-in-the-rain/watch?locale=AR",
    "director": [
-    "Stanley Donen",
-    "Gene Kelly"
+    "Gene Kelly",
+    "Stanley Donen"
    ],
    "reparto": [
     "Gene Kelly",
@@ -12772,7 +12772,7 @@
     "Dave Franco"
    ],
    "trailer": "bv0sKzFvpmo",
-   "lema": "",
+   "lema": "Actúa con naturalidad.",
    "duracion": 104,
    "generos": [
     "Animación",
@@ -14901,7 +14901,7 @@
    "link": "https://www.themoviedb.org/movie/75629-q/watch?locale=AR",
    "director": [
     "Hideaki Anno",
-    "Masayuki"
+    "Kazuya Tsurumaki"
    ],
    "reparto": [
     "緒方恵美",
@@ -15497,8 +15497,8 @@
    },
    "link": "https://www.themoviedb.org/movie/15137-evuangerion-xin-ju-chang-ban-xu/watch?locale=AR",
    "director": [
-    "Masayuki",
-    "Kazuya Tsurumaki"
+    "Kazuya Tsurumaki",
+    "Masayuki"
    ],
    "reparto": [
     "緒方恵美",
@@ -16027,7 +16027,7 @@
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
-   "cine_ar": "2007-01-18",
+   "cine_ar": null,
    "cine_us": "2006-10-27",
    "plataformas": {
     "rent": [
@@ -21469,8 +21469,8 @@
    "plataformas_us": {},
    "link": "https://www.themoviedb.org/movie/47383-el-hombre-de-al-lado/watch?locale=AR",
    "director": [
-    "Gastón Duprat",
-    "Mariano Cohn"
+    "Mariano Cohn",
+    "Gastón Duprat"
    ],
    "reparto": [
     "Rafael Spregelburd",
@@ -26601,9 +26601,9 @@
    "lema": "¿Hasta dónde llegarías por quienes amas?.",
    "duracion": 132,
    "generos": [
+    "Aventura",
     "Animación",
-    "Fantasía",
-    "Aventura"
+    "Drama"
    ],
    "agregada": "2026-10-24",
    "hd_desde": null,
@@ -26766,7 +26766,7 @@
    "fecha": "2026-10-30",
    "poster": "/bLDrHn76oiNYiELv1qw3Tfdkqc8.jpg",
    "fondo": "/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
-   "puntaje": 8.0,
+   "puntaje": 7.9,
    "sinopsis": "Poco antes del golpe de Estado chileno de 1973, los agentes de la CIA Chris y Lee son enviados desde Santiago a la Isla de Pascua por su jefa de la oficina, MJ. Entre las emblemáticas estatuas de la isla, y mientras los veteranos compañeros lidian con sus oscuros pasados ​​y conspiraciones actuales, el nuevo vínculo que Chris establece con un par de estudiantes rebeldes amenaza con desbaratar el viaje de todos a este remoto paraíso.",
    "hd": false,
    "motivo": null,
@@ -26801,7 +26801,7 @@
    "hd_desde": null,
    "prioridad": true,
    "en_play": true,
-   "en_cc": true
+   "en_cc": false
   },
   {
    "id": 1381071,
@@ -26939,7 +26939,7 @@
    "titulo": "Vengadores: Doomsday",
    "fecha": "2026-12-16",
    "poster": "/7bQczUMnjz8iwxNP9YrmLkfI8od.jpg",
-   "fondo": "/4NxnrRmI7goXMsRASwSegf50MC8.jpg",
+   "fondo": "/g3gpP5YDbA85DsA0bt5mgGQIe5q.jpg",
    "puntaje": 0.0,
    "sinopsis": "Los héroes más queridos de tres universos distintos son abocados a una colisión catastrófica donde tendrán que hacer frente a la mayor amenaza a su existencia hasta la fecha.",
    "hd": false,

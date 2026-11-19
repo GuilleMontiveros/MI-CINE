@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18T20:39:59.205027+00:00",
+ "actualizado": "2026-11-19T07:23:38.439172+00:00",
  "peliculas": [
   {
    "titulo": "El Corazon De La Bestia",
@@ -7,7 +7,25 @@
     {
      "formato": "2d cast",
      "dias": {
-      "2026-11-18": [
+      "2026-11-19": [
+       "22:00"
+      ],
+      "2026-11-20": [
+       "22:00"
+      ],
+      "2026-11-21": [
+       "22:00"
+      ],
+      "2026-11-22": [
+       "22:00"
+      ],
+      "2026-11-23": [
+       "22:00"
+      ],
+      "2026-11-24": [
+       "22:00"
+      ],
+      "2026-11-25": [
        "22:00"
       ]
      }
@@ -21,33 +39,31 @@
    "mia": true
   },
   {
-   "titulo": "Madre Siniestra",
-   "funciones": [
-    {
-     "formato": "2d cast",
-     "dias": {
-      "2026-11-18": [
-       "22:50"
-      ]
-     }
-    }
-   ],
-   "id": 1400837,
-   "poster": "/USCOKXrHBCeeK96qXmS0NyDHYL.jpg",
-   "fondo": "/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
-   "sinopsis": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama \"Otra mamá\", se vuelve cada vez más amenazante para ella y su familia.",
-   "fecha": "2026-10-07",
-   "mia": false
-  },
-  {
    "titulo": "Godzilla Minus Zero",
    "funciones": [
     {
      "formato": "2d cast",
      "dias": {
-      "2026-11-18": [
-       "16:10",
-       "18:40"
+      "2026-11-19": [
+       "20:00"
+      ],
+      "2026-11-20": [
+       "20:00"
+      ],
+      "2026-11-21": [
+       "20:00"
+      ],
+      "2026-11-22": [
+       "20:00"
+      ],
+      "2026-11-23": [
+       "20:00"
+      ],
+      "2026-11-24": [
+       "20:00"
+      ],
+      "2026-11-25": [
+       "20:00"
       ]
      }
     }
@@ -65,8 +81,26 @@
     {
      "formato": "2d cast",
      "dias": {
-      "2026-11-18": [
-       "17:20"
+      "2026-11-19": [
+       "20:30"
+      ],
+      "2026-11-20": [
+       "20:30"
+      ],
+      "2026-11-21": [
+       "20:30"
+      ],
+      "2026-11-22": [
+       "20:30"
+      ],
+      "2026-11-23": [
+       "20:30"
+      ],
+      "2026-11-24": [
+       "20:30"
+      ],
+      "2026-11-25": [
+       "20:30"
       ]
      }
     }
@@ -84,7 +118,25 @@
     {
      "formato": "2d cast",
      "dias": {
-      "2026-11-18": [
+      "2026-11-19": [
+       "18:00"
+      ],
+      "2026-11-20": [
+       "18:00"
+      ],
+      "2026-11-21": [
+       "18:00"
+      ],
+      "2026-11-22": [
+       "18:00"
+      ],
+      "2026-11-23": [
+       "18:00"
+      ],
+      "2026-11-24": [
+       "18:00"
+      ],
+      "2026-11-25": [
        "18:00"
       ]
      }
@@ -92,8 +144,26 @@
     {
      "formato": "3d cast",
      "dias": {
-      "2026-11-18": [
-       "17:10"
+      "2026-11-19": [
+       "17:00"
+      ],
+      "2026-11-20": [
+       "17:00"
+      ],
+      "2026-11-21": [
+       "17:00"
+      ],
+      "2026-11-22": [
+       "17:00"
+      ],
+      "2026-11-23": [
+       "17:00"
+      ],
+      "2026-11-24": [
+       "17:00"
+      ],
+      "2026-11-25": [
+       "17:00"
       ]
      }
     }
@@ -111,8 +181,37 @@
     {
      "formato": "2d cast",
      "dias": {
-      "2026-11-18": [
-       "19:00"
+      "2026-11-19": [
+       "16:00"
+      ],
+      "2026-11-20": [
+       "16:00"
+      ],
+      "2026-11-21": [
+       "16:00"
+      ],
+      "2026-11-22": [
+       "16:00"
+      ],
+      "2026-11-23": [
+       "16:00"
+      ],
+      "2026-11-24": [
+       "16:00"
+      ],
+      "2026-11-25": [
+       "16:00"
+      ]
+     }
+    },
+    {
+     "formato": "2d sub",
+     "dias": {
+      "2026-11-19": [
+       "22:20"
+      ],
+      "2026-11-22": [
+       "22:20"
       ]
      }
     }
@@ -130,7 +229,25 @@
     {
      "formato": "2d cast",
      "dias": {
-      "2026-11-18": [
+      "2026-11-19": [
+       "21:30"
+      ],
+      "2026-11-20": [
+       "21:30"
+      ],
+      "2026-11-21": [
+       "21:30"
+      ],
+      "2026-11-22": [
+       "21:30"
+      ],
+      "2026-11-23": [
+       "21:30"
+      ],
+      "2026-11-24": [
+       "21:30"
+      ],
+      "2026-11-25": [
        "21:30"
       ]
      }
@@ -144,32 +261,31 @@
    "mia": true
   },
   {
-   "titulo": "Caballo Salvaje Nueve",
-   "funciones": [
-    {
-     "formato": "2d sub",
-     "dias": {
-      "2026-11-18": [
-       "19:50"
-      ]
-     }
-    }
-   ],
-   "id": 891621,
-   "poster": "/bLDrHn76oiNYiELv1qw3Tfdkqc8.jpg",
-   "fondo": "/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
-   "sinopsis": "Poco antes del golpe de Estado chileno de 1973, los agentes de la CIA Chris y Lee son enviados desde Santiago a la Isla de Pascua por su jefa de la oficina, MJ. Entre las emblemáticas estatuas de la isla, y mientras los veteranos compañeros lidian con sus oscuros pasados ​​y conspiraciones actuales, el nuevo vínculo que Chris establece con un par de estudiantes rebeldes amenaza con desbaratar el viaje de todos a este remoto paraíso.",
-   "fecha": "2026-10-30",
-   "mia": true
-  },
-  {
    "titulo": "Como Robar Un Banco",
    "funciones": [
     {
      "formato": "2d cast",
      "dias": {
-      "2026-11-18": [
-       "17:40"
+      "2026-11-19": [
+       "17:20"
+      ],
+      "2026-11-20": [
+       "17:20"
+      ],
+      "2026-11-21": [
+       "17:20"
+      ],
+      "2026-11-22": [
+       "17:20"
+      ],
+      "2026-11-23": [
+       "17:20"
+      ],
+      "2026-11-24": [
+       "17:20"
+      ],
+      "2026-11-25": [
+       "17:20"
       ]
      }
     }
@@ -182,51 +298,31 @@
    "mia": false
   },
   {
-   "titulo": "Aniquilación",
-   "funciones": [
-    {
-     "formato": "2d cast",
-     "dias": {
-      "2026-11-18": [
-       "20:30"
-      ]
-     }
-    }
-   ],
-   "id": 1284046,
-   "poster": "/bKq74yT1Gca4JCd7E6IAHPLWBg0.jpg",
-   "fondo": "/pmPXXniQlb4EdYY0gVZO90rf54F.jpg",
-   "sinopsis": "Una francotiradora del ejército utiliza sus habilidades para proteger a su hija de un escuadrón de máquinas asesinas que escapó de una base militar secreta, mientras unos mercenarios intentan contenerla.",
-   "fecha": "2026-09-02",
-   "mia": false
-  },
-  {
-   "titulo": "Ju-On: El Grito",
-   "funciones": [
-    {
-     "formato": "2d cast",
-     "dias": {
-      "2026-11-18": [
-       "22:40"
-      ]
-     }
-    }
-   ],
-   "id": 259233,
-   "poster": "/wJHee7DW3NACAsBXsEqlTofbb0Q.jpg",
-   "fondo": "/8v7CBqnCIyaQejMV8rh87NjX5sE.jpg",
-   "sinopsis": "Una maestra de escuela llamada Yui visita la casa de un chico llamado Toshio Saeki, que ha estado ausente del colegio por un largo periodo de tiempo. Cuando llega, revive el terrible drama que se produjo en el hogar de Saeki hace 10 años. Una caja de carton en un armario es la clave para revelar una verdad oculta por mucho tiempo.",
-   "fecha": "2014-06-28",
-   "mia": false
-  },
-  {
    "titulo": "Ebenezer: Los Fantasmas De Navidad",
    "funciones": [
     {
      "formato": "2d cast",
      "dias": {
-      "2026-11-18": [
-       "19:20"
+      "2026-11-19": [
+       "22:10"
+      ],
+      "2026-11-20": [
+       "22:10"
+      ],
+      "2026-11-21": [
+       "22:10"
+      ],
+      "2026-11-22": [
+       "22:10"
+      ],
+      "2026-11-23": [
+       "22:10"
+      ],
+      "2026-11-24": [
+       "22:10"
+      ],
+      "2026-11-25": [
+       "22:10"
       ]
      }
     }
@@ -244,8 +340,26 @@
     {
      "formato": "2d cast",
      "dias": {
-      "2026-11-18": [
-       "17:50"
+      "2026-11-19": [
+       "17:40"
+      ],
+      "2026-11-20": [
+       "17:40"
+      ],
+      "2026-11-21": [
+       "17:40"
+      ],
+      "2026-11-22": [
+       "17:40"
+      ],
+      "2026-11-23": [
+       "17:40"
+      ],
+      "2026-11-24": [
+       "17:40"
+      ],
+      "2026-11-25": [
+       "17:40"
       ]
      }
     }
@@ -256,13 +370,48 @@
    "sinopsis": "En el Reino de Castilia, una fuerza oscura se alza de nuevo. A pocos días de la coronación del nuevo Emperador y la Emperatriz, sus siete polluelos reales son secuestrados y depende de un héroe devolverlos sanos y salvos: un repartidor adolescente, Arturo el Chivo. Sus sueños de ser un barbero de talla mundial quedan en suspenso cuando se convierte en padre de la noche a la mañana. Si quiere mantener a salvo a los traviesos niños en su viaje, primero debe madurar, descubrir su propio pasado y, por el camino, despertar a campeones olvidados. ¿Podrá Arturo devolver a los herederos y salvar el re",
    "fecha": "2024-09-05",
    "mia": false
-  }
- ],
- "proximos": [
+  },
   {
    "titulo": "Yo Soy Rocky",
-   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3636_img2.jpg",
-   "genero": "Biográfica",
+   "funciones": [
+    {
+     "formato": "2d cast",
+     "dias": {
+      "2026-11-19": [
+       "17:10"
+      ],
+      "2026-11-20": [
+       "17:10"
+      ],
+      "2026-11-21": [
+       "17:10"
+      ],
+      "2026-11-22": [
+       "17:10"
+      ],
+      "2026-11-23": [
+       "17:10"
+      ],
+      "2026-11-24": [
+       "17:10"
+      ],
+      "2026-11-25": [
+       "17:10"
+      ]
+     }
+    },
+    {
+     "formato": "2d sub",
+     "dias": {
+      "2026-11-19": [
+       "22:30"
+      ],
+      "2026-11-22": [
+       "22:30"
+      ]
+     }
+    }
+   ],
    "id": 1286656,
    "poster": "/6ItqVHcsb2swkE7ajS6EVCH2mpd.jpg",
    "fondo": "/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
@@ -271,20 +420,35 @@
    "mia": false
   },
   {
-   "titulo": "Los Juegos Del Hambre: Amanecer En La Cosecha",
-   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3408_img2.jpg",
-   "genero": "Acción",
-   "id": 1300968,
-   "poster": "/nijGyrqQbDhSGss4uugQokvBAsG.jpg",
-   "fondo": "/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
-   "sinopsis": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la siega de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy.",
-   "fecha": "2026-11-18",
-   "mia": false
-  },
-  {
-   "titulo": "Recen Por Mí: La Historia De Francisco",
-   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3673_img2.jpg",
-   "genero": "Documental",
+   "titulo": "Recen Por Mi",
+   "funciones": [
+    {
+     "formato": "2d cast",
+     "dias": {
+      "2026-11-19": [
+       "19:40"
+      ],
+      "2026-11-20": [
+       "19:40"
+      ],
+      "2026-11-21": [
+       "19:40"
+      ],
+      "2026-11-22": [
+       "19:40"
+      ],
+      "2026-11-23": [
+       "19:40"
+      ],
+      "2026-11-24": [
+       "19:40"
+      ],
+      "2026-11-25": [
+       "19:40"
+      ]
+     }
+    }
+   ],
    "id": 1510295,
    "poster": "/gnmbwuCoGwFblQ0tvvxHHh8LhTU.jpg",
    "fondo": "/fma2xTmJ0UUG0AyJpjHU83gfwH.jpg",
@@ -294,15 +458,48 @@
   },
   {
    "titulo": "La Asistente De La Morgue",
-   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3508_img2.jpg",
-   "genero": "Terror",
+   "funciones": [
+    {
+     "formato": "2d cast",
+     "dias": {
+      "2026-11-20": [
+       "22:50"
+      ],
+      "2026-11-21": [
+       "22:50"
+      ],
+      "2026-11-23": [
+       "22:50"
+      ],
+      "2026-11-24": [
+       "22:50"
+      ],
+      "2026-11-25": [
+       "22:50"
+      ]
+     }
+    },
+    {
+     "formato": "2d sub",
+     "dias": {
+      "2026-11-19": [
+       "22:50"
+      ],
+      "2026-11-22": [
+       "22:50"
+      ]
+     }
+    }
+   ],
    "id": 1470130,
    "poster": "/6wVW8SnkRhIAPPk8QqFuf45kRt8.jpg",
    "fondo": "/gM1kQRPwOVW1Eos5tVWqcYmHR5S.jpg",
    "sinopsis": "Rebecca Owens, una licenciada en ciencias mortuorias, acepta un trabajo nocturno en la funeraria River Fields. Lo que comienza como un trabajo rutinario pronto se vuelve siniestro al enfrentarse a terroríficas fuerzas sobrenaturales.",
    "fecha": "2026-02-13",
    "mia": false
-  },
+  }
+ ],
+ "proximos": [
   {
    "titulo": "Ramayana: El Nacimiento De Una Leyenda",
    "img_cine": "https://www.cinemacenter.com.ar/img_movies/3693_img2.jpg",
