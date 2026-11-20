@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T07:14:51.748787+00:00",
+ "actualizado": "2026-11-20T20:29:11.108684+00:00",
  "series": [
   {
    "id": 308007,
@@ -8,7 +8,7 @@
    "fecha": "2026-11-19",
    "poster": "/iRFLTlydFocAEWN2yIoBWGTXyFe.jpg",
    "fondo": "/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg",
-   "puntaje": 7.3,
+   "puntaje": 6.6,
    "sinopsis": "Jóvenes, idealistas y, de repente, multimillonarios. Intentaron hacer el bien, pero sacaron lo peor el uno del otro. Una historia de amor tóxico inspirada en un fraude real.",
    "director": [
     "Graham Moore"
@@ -18,7 +18,7 @@
     "Anthony Boyle",
     "Alex Lawther",
     "Karan Soni",
-    "Naomi Okada"
+    "Madison Hu"
    ],
    "trailer": "REiLOgTemWM",
    "lema": "",
@@ -38,8 +38,12 @@
     "nombre": "Modo Dios"
    },
    "proximo": null,
-   "plataformas": {},
-   "link": null,
+   "plataformas": {
+    "flatrate": [
+     "Netflix"
+    ]
+   },
+   "link": "https://www.themoviedb.org/tv/308007-the-altruists/watch?locale=AR",
    "manual": true,
    "progreso": null,
    "prioridad": true,
