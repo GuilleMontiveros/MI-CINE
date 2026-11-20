@@ -1,15 +1,15 @@
 {
- "actualizado": "2026-11-20T00:42:46.499666+00:00",
+ "actualizado": "2026-11-20T07:14:51.748787+00:00",
  "series": [
   {
    "id": 308007,
    "tipo": "tv",
    "titulo": "Los altruistas",
    "fecha": "2026-11-19",
-   "poster": "/hiX70sXdvEPVE11QqmLuaX16gdh.jpg",
+   "poster": "/iRFLTlydFocAEWN2yIoBWGTXyFe.jpg",
    "fondo": "/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg",
-   "puntaje": 6.0,
-   "sinopsis": "La historia de Sam Bankman-Fried, el joven visionario del sector de las criptomonedas caído en desgracia, y el tumultuoso romance entre él, cofundador de FTX en 2019, y su novia, Caroline Ellison. La miniserie retrata sus intentos por revolucionar el sistema financiero, que acabaron en un fraude de 36.000 millones de dólares y con él en la cárcel condenado a 25 años de prisión en el 2024.",
+   "puntaje": 7.3,
+   "sinopsis": "Jóvenes, idealistas y, de repente, multimillonarios. Intentaron hacer el bien, pero sacaron lo peor el uno del otro. Una historia de amor tóxico inspirada en un fraude real.",
    "director": [
     "Graham Moore"
    ],
@@ -28,79 +28,22 @@
     "Drama"
    ],
    "estado": "Ended",
-   "proximos": [
-    {
-     "id": 6756537,
-     "fecha": "2026-11-19",
-     "t": 1,
-     "e": 1,
-     "nombre": "Episodio 1"
-    },
-    {
-     "id": 7657003,
-     "fecha": "2026-11-19",
-     "t": 1,
-     "e": 2,
-     "nombre": "Episodio 2"
-    },
-    {
-     "id": 7657004,
-     "fecha": "2026-11-19",
-     "t": 1,
-     "e": 3,
-     "nombre": "Episodio 3"
-    },
-    {
-     "id": 7657005,
-     "fecha": "2026-11-19",
-     "t": 1,
-     "e": 4,
-     "nombre": "Episodio 4"
-    },
-    {
-     "id": 7657006,
-     "fecha": "2026-11-19",
-     "t": 1,
-     "e": 5,
-     "nombre": "Episodio 5"
-    },
-    {
-     "id": 7657008,
-     "fecha": "2026-11-19",
-     "t": 1,
-     "e": 6,
-     "nombre": "Episodio 6"
-    },
-    {
-     "id": 7657010,
-     "fecha": "2026-11-19",
-     "t": 1,
-     "e": 7,
-     "nombre": "Episodio 7"
-    },
-    {
-     "id": 7657011,
-     "fecha": "2026-11-19",
-     "t": 1,
-     "e": 8,
-     "nombre": "Episodio 8"
-    }
-   ],
+   "proximos": [],
    "temporadas": 1,
-   "ultimo": null,
-   "proximo": {
-    "id": 6756537,
+   "ultimo": {
+    "id": 7657011,
     "fecha": "2026-11-19",
     "t": 1,
-    "e": 1,
-    "nombre": "Episodio 1"
+    "e": 8,
+    "nombre": "Modo Dios"
    },
+   "proximo": null,
    "plataformas": {},
    "link": null,
    "manual": true,
    "progreso": null,
    "prioridad": true,
-   "resumen": "Próximo: T1 E1"
+   "resumen": "Terminada"
   },
   {
    "id": 320909,
@@ -109,7 +52,7 @@
    "fecha": "2026-10-09",
    "poster": "/1RXEvHmis1oKTAWtKOrzJqenpb6.jpg",
    "fondo": "/3zmB6PLnjf7rNNC2lnvinQtlJMx.jpg",
-   "puntaje": 8.8,
+   "puntaje": 8.9,
    "sinopsis": "En la era Meiji, Satoko Kirigaya, una joven aristócrata con una esperanza de vida limitada, sueña con casarse con un noble y convertirse en el orgullo de su familia. Cuando una conspiración la pone al borde de la muerte, se ve obligada a aceptar la ayuda de Shinpei Goto, un asesino que acaba obsesionándose con ella.",
    "director": [],
    "reparto": [
