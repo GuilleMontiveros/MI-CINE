@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T20:29:11.108684+00:00",
+ "actualizado": "2026-11-21T07:06:15.389688+00:00",
  "series": [
   {
    "id": 308007,
@@ -73,13 +73,6 @@
    "estado": "Returning Series",
    "proximos": [
     {
-     "id": 7928203,
-     "fecha": "2026-11-20",
-     "t": 1,
-     "e": 7,
-     "nombre": "Episodio 7"
-    },
-    {
      "id": 7928204,
      "fecha": "2026-11-27",
      "t": 1,
@@ -117,18 +110,18 @@
    ],
    "temporadas": 1,
    "ultimo": {
-    "id": 7928202,
-    "fecha": "2026-11-13",
-    "t": 1,
-    "e": 6,
-    "nombre": "Sentimientos sinceros"
-   },
-   "proximo": {
     "id": 7928203,
     "fecha": "2026-11-20",
     "t": 1,
     "e": 7,
     "nombre": "Episodio 7"
+   },
+   "proximo": {
+    "id": 7928204,
+    "fecha": "2026-11-27",
+    "t": 1,
+    "e": 8,
+    "nombre": "Episodio 8"
    },
    "plataformas": {
     "flatrate": [
@@ -140,7 +133,7 @@
    "manual": true,
    "progreso": null,
    "prioridad": false,
-   "resumen": "Próximo: T1 E7"
+   "resumen": "Próximo: T1 E8"
   },
   {
    "id": 207347,
