@@ -101,10 +101,10 @@
    "id": 1422041,
    "tipo": "movie",
    "titulo": "La bola negra",
-   "fecha": "2026-01-14",
+   "fecha": "2026-09-25",
    "poster": "/t1azKLExwUxKj6v6m2L535evuRa.jpg",
    "fondo": "/bDsmYvrzto7xrEwqDpLC3SPhn9A.jpg",
-   "puntaje": 7.9,
+   "puntaje": 8.0,
    "sinopsis": "Las vidas interconectadas de tres hombres en tres épocas distintas, tres existencias íntimamente ligadas por la sexualidad y el deseo, el dolor y la herencia.",
    "hd": false,
    "motivo": null,
@@ -330,10 +330,10 @@
    "fecha": "2026-11-06",
    "poster": "/6ItqVHcsb2swkE7ajS6EVCH2mpd.jpg",
    "fondo": "/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
-   "puntaje": 8.5,
+   "puntaje": 8.4,
    "sinopsis": "La electrizante historia real de un actor desconocido con la convicción inquebrantable de que no solo estaba destinado a escribir *Rocky*, sino a ser Rocky Balboa. Tras recibir negativas constantes, Sylvester Stallone lo apuesta todo a sí mismo y se mantiene firme en su empeño de interpretar el papel protagonista, contra todo pronóstico.",
-   "hd": false,
-   "motivo": null,
+   "hd": true,
+   "motivo": "En digital en EE.UU. (Fandango At Home)",
    "digital_ar": null,
    "digital_us": null,
    "digital_proximo": null,
@@ -341,7 +341,11 @@
    "cine_ar": "2026-11-19",
    "cine_us": "2026-11-06",
    "plataformas": {},
-   "plataformas_us": {},
+   "plataformas_us": {
+    "buy": [
+     "Fandango At Home"
+    ]
+   },
    "link": null,
    "director": [
     "Peter Farrelly"
@@ -525,7 +529,7 @@
    "id": 1476614,
    "tipo": "movie",
    "titulo": "De repente",
-   "fecha": "2026-02-11",
+   "fecha": "2026-06-19",
    "poster": "/gniQjGg0LaLaiWQOqxdVJkMH0Jx.jpg",
    "fondo": "/rQEfTB65F71Y2yIlAzv3GJ3m7Rz.jpg",
    "puntaje": 7.8,
@@ -605,7 +609,7 @@
    "fecha": "2026-06-13",
    "poster": "/9L7ND90Rl6RANG5l0Z5ZfsI3RET.jpg",
    "fondo": "/iPVAMaI0W4lr7Rl56m0H388eR5.jpg",
-   "puntaje": 7.2,
+   "puntaje": 7.3,
    "sinopsis": "Los Gheorghius, una pareja rumano‑noruega muy devota, se instala en un pueblo remoto junto a un fiordo, donde entablan una estrecha amistad con sus vecinos, los Halbergs. Sus hijos se hacen amigos pese a haber sido educados de forma muy distinta. Todo cambia cuando la adolescente Elia Gheorghiu aparece en el colegio con moratones, y la comunidad se pregunta si la educación tradicional que reciben los hijos de los Gheorghiu puede estar relacionada.",
    "hd": false,
    "motivo": null,
