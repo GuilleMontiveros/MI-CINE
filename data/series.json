@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-22T19:51:40.400977+00:00",
+ "actualizado": "2026-11-23T07:34:47.585534+00:00",
  "series": [
   {
    "id": 308007,
@@ -8,7 +8,7 @@
    "fecha": "2026-11-19",
    "poster": "/iRFLTlydFocAEWN2yIoBWGTXyFe.jpg",
    "fondo": "/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg",
-   "puntaje": 6.6,
+   "puntaje": 6.3,
    "sinopsis": "Jóvenes, idealistas y, de repente, multimillonarios. Intentaron hacer el bien, pero sacaron lo peor el uno del otro. Una historia de amor tóxico inspirada en un fraude real.",
    "director": [
     "Graham Moore"
@@ -21,7 +21,7 @@
     "Madison Hu"
    ],
    "trailer": "REiLOgTemWM",
-   "lema": "",
+   "lema": "Hicieron falta dos para llevarse miles de millones.",
    "duracion": null,
    "generos": [
     "Crimen",
@@ -160,13 +160,6 @@
    "estado": "Returning Series",
    "proximos": [
     {
-     "id": 7906177,
-     "fecha": "2026-11-22",
-     "t": 1,
-     "e": 32,
-     "nombre": "Episodio 32"
-    },
-    {
      "id": 7906179,
      "fecha": "2026-11-29",
      "t": 1,
@@ -204,18 +197,18 @@
    ],
    "temporadas": 1,
    "ultimo": {
-    "id": 7906175,
-    "fecha": "2026-11-15",
-    "t": 1,
-    "e": 31,
-    "nombre": "Nochebuena"
-   },
-   "proximo": {
     "id": 7906177,
     "fecha": "2026-11-22",
     "t": 1,
     "e": 32,
     "nombre": "Episodio 32"
+   },
+   "proximo": {
+    "id": 7906179,
+    "fecha": "2026-11-29",
+    "t": 1,
+    "e": 33,
+    "nombre": "Episodio 33"
    },
    "plataformas": {
     "flatrate": [
@@ -226,7 +219,7 @@
    "manual": true,
    "progreso": null,
    "prioridad": false,
-   "resumen": "Próximo: T1 E32"
+   "resumen": "Próximo: T1 E33"
   },
   {
    "id": 105248,
