@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25T08:30:23.405907+00:00",
+ "actualizado": "2026-11-25T21:47:14.309826+00:00",
  "titulos": [
   {
    "id": 37165,
@@ -1527,8 +1527,8 @@
    },
    "link": "https://www.themoviedb.org/movie/502356-the-super-mario-bros-movie/watch?locale=AR",
    "director": [
-    "Michael Jelenic",
-    "Aaron Horvath"
+    "Aaron Horvath",
+    "Michael Jelenic"
    ],
    "reparto": [
     "Chris Pratt",
@@ -3223,8 +3223,7 @@
      "AMC+",
      "Shudder",
      "Shudder Amazon Channel",
-     "Shudder Apple TV channel",
-     "Chilling"
+     "Shudder Apple TV channel"
     ],
     "rent": [
      "Amazon Video",
@@ -6440,8 +6439,8 @@
    },
    "link": "https://www.themoviedb.org/movie/77338-intouchables/watch?locale=AR",
    "director": [
-    "Olivier Nakache",
-    "Éric Toledano"
+    "Éric Toledano",
+    "Olivier Nakache"
    ],
    "reparto": [
     "François Cluzet",
@@ -9061,8 +9060,8 @@
    },
    "link": "https://www.themoviedb.org/movie/803796-kpop-demon-hunters/watch?locale=AR",
    "director": [
-    "Maggie Kang",
-    "Chris Appelhans"
+    "Chris Appelhans",
+    "Maggie Kang"
    ],
    "reparto": [
     "Arden Cho",
@@ -9912,8 +9911,8 @@
    },
    "link": "https://www.themoviedb.org/movie/872-singin-in-the-rain/watch?locale=AR",
    "director": [
-    "Stanley Donen",
-    "Gene Kelly"
+    "Gene Kelly",
+    "Stanley Donen"
    ],
    "reparto": [
     "Gene Kelly",
@@ -10003,7 +10002,7 @@
    "fecha": "1977-02-01",
    "poster": "/ge9EiugwgIR9xorW7sOYPavju5M.jpg",
    "fondo": "/9uXGLBPIJkPqmVwiyh3FI0iAe6n.jpg",
-   "puntaje": 7.5,
+   "puntaje": 7.4,
    "sinopsis": "Una joven (Jessica Harper) ingresa en una exclusiva academia de baile la misma noche en que asesinan a una de las alumnas. La subdirectora del centro es la amable Madame Blank, que brinda a la nueva alumna las comodidades y facilidades necesarias para su aprendizaje. Pero, poco a poco, una atmósfera malsana se va apoderando del lugar, y la estancia de la joven se va convirtiendo en una verdadera pesadilla.",
    "hd": true,
    "motivo": "Disponible en Argentina",
@@ -13972,7 +13971,7 @@
    "fecha": "1977-02-01",
    "poster": "/ge9EiugwgIR9xorW7sOYPavju5M.jpg",
    "fondo": "/9uXGLBPIJkPqmVwiyh3FI0iAe6n.jpg",
-   "puntaje": 7.5,
+   "puntaje": 7.4,
    "sinopsis": "Una joven (Jessica Harper) ingresa en una exclusiva academia de baile la misma noche en que asesinan a una de las alumnas. La subdirectora del centro es la amable Madame Blank, que brinda a la nueva alumna las comodidades y facilidades necesarias para su aprendizaje. Pero, poco a poco, una atmósfera malsana se va apoderando del lugar, y la estancia de la joven se va convirtiendo en una verdadera pesadilla.",
    "hd": true,
    "motivo": "Disponible en Argentina",
@@ -14961,7 +14960,7 @@
    "link": "https://www.themoviedb.org/movie/75629-q/watch?locale=AR",
    "director": [
     "Hideaki Anno",
-    "Kazuya Tsurumaki"
+    "Masayuki"
    ],
    "reparto": [
     "緒方恵美",
@@ -14989,7 +14988,7 @@
    "titulo": "Las nuevas desventuras de Cliff Booth",
    "fecha": "2026-11-24",
    "poster": "/40bbOEa0ISI1KQmQmy2zQ2DD0tD.jpg",
-   "fondo": "/qqPspJFy0XrEoVTKZdp0Em7kej6.jpg",
+   "fondo": "/aRO4TuqF8dkRCb5tPlsSlpJbmQD.jpg",
    "puntaje": 0.0,
    "sinopsis": "Ocho años después de los eventos de \"Érase una vez en... Hollywood\", Cliff Booth regresa a un Los Ángeles cambiante. Ahora trabajando como \"fixer\" en las sombras del sistema de estudios de Hollywood, Cliff se verá envuelto en una peligrosa red de secretos, crímenes y traiciones que pondrán a prueba todo lo que conoce sobre lealtad y supervivencia.",
    "hd": false,
@@ -19505,20 +19504,31 @@
    "tipo": "movie",
    "titulo": "El Precio de la Red",
    "fecha": "2026-10-07",
-   "poster": "/xT7yxocpGjqzalCUTr9IFDf8Oyb.jpg",
+   "poster": "/6OOJvaYJnXNEVnbZAJBHcMqbY3q.jpg",
    "fondo": "/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
    "puntaje": 7.0,
    "sinopsis": "Explora las prácticas internas de Facebook, la difusión de información falsa, el impacto en la salud mental de los adolescentes y la conexión con los eventos del 6 de enero en el Capitolio.",
-   "hd": false,
-   "motivo": null,
+   "hd": true,
+   "motivo": "En digital en EE.UU. (Amazon Video, Apple TV Store, Fandango At Home)",
    "digital_ar": null,
    "digital_us": "2026-11-24",
    "digital_proximo": null,
-   "digital_sin_confirmar": "2026-11-24",
+   "digital_sin_confirmar": null,
    "cine_ar": "2026-10-22",
    "cine_us": "2026-10-09",
    "plataformas": {},
-   "plataformas_us": {},
+   "plataformas_us": {
+    "rent": [
+     "Amazon Video",
+     "Apple TV Store",
+     "Fandango At Home"
+    ],
+    "buy": [
+     "Amazon Video",
+     "Apple TV Store",
+     "Fandango At Home"
+    ]
+   },
    "link": null,
    "director": [
     "Aaron Sorkin"
@@ -19538,7 +19548,7 @@
     "Suspense"
    ],
    "agregada": "2026-06-13",
-   "hd_desde": null,
+   "hd_desde": "2026-11-25",
    "prioridad": true,
    "en_play": false,
    "en_cc": false
@@ -19547,7 +19557,7 @@
    "id": 1263337,
    "tipo": "movie",
    "titulo": "En el corazón de la bestia",
-   "fecha": "2026-09-19",
+   "fecha": "2026-09-23",
    "poster": "/ya8iLCNyoVpBO7B7JrNJVj3g7tK.jpg",
    "fondo": "/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
    "puntaje": 7.9,
@@ -20441,7 +20451,7 @@
    "titulo": "Annie Hall",
    "fecha": "1977-04-19",
    "poster": "/8zsJ5bgIjOBc9YGFE7jVffDom0Z.jpg",
-   "fondo": "/8n9dYsTbXTykzm2Nuy7R2ftapXQ.jpg",
+   "fondo": "/3rytSjzwuWS0ZUn6xwUHUAL1gbP.jpg",
    "puntaje": 7.7,
    "sinopsis": "Alvy Singer, un tipo algo neurótico, trabaja como humorista en clubs nocturnos. A sus 40 años, tras romper con Annie, su última novia, reflexiona sobre su vida, rememorando sus amores, sus matrimonios, pero muy en especial su relación con Annie, a la que conoció en una cancha de tenis. Al final, llega a la conclusión de que son sus manías y obsesiones las que siempre acaban arruinando su relación con las mujeres.",
    "hd": true,
@@ -21171,7 +21181,7 @@
    },
    "link": "https://www.themoviedb.org/movie/813-airplane/watch?locale=AR",
    "director": [
-    "Jim Abrahams",
+    "Jerry Zucker",
     "David Zucker"
    ],
    "reparto": [
@@ -21540,8 +21550,8 @@
    "plataformas_us": {},
    "link": "https://www.themoviedb.org/movie/47383-el-hombre-de-al-lado/watch?locale=AR",
    "director": [
-    "Mariano Cohn",
-    "Gastón Duprat"
+    "Gastón Duprat",
+    "Mariano Cohn"
    ],
    "reparto": [
     "Rafael Spregelburd",
@@ -25476,7 +25486,7 @@
    "fecha": "2026-07-29",
    "poster": "/aMFx35t0T61S1ILDZrycPFRu95u.jpg",
    "fondo": "/34z9eBtEBv6QoroLuUA55cU3e8Q.jpg",
-   "puntaje": 6.0,
+   "puntaje": 5.9,
    "sinopsis": "Cuando el joven e ingenuo Elliot consigue un emocionante trabajo para Erika Tracy, una reconocida artista, ícono y provocadora, sus fantasías se hacen realidad cuando ella lo elige para convertirlo en su musa sexual. Pero Elliot pronto descubre que la situación lo supera, mientras Erika lo conduce por un viaje mucho más profundo de lo que jamás habría imaginado, adentrándolo en un mundo de sexo, obsesión, poder, traición y asesinato.",
    "hd": true,
    "motivo": "En digital en EE.UU. (Amazon Video, Apple TV Store, Google Play Movies)",
@@ -26937,16 +26947,27 @@
    "fondo": "/rrbbzCyS45yooXpUGJatfptlHYI.jpg",
    "puntaje": 8.7,
    "sinopsis": "Treinta y cuatro días antes de ingresar en prisión, la famosa fundadora de Theranos, Elizabeth Holmes, invita a un equipo de rodaje escéptico a documentar cada uno de sus movimientos. Lo que comienza como un retrato íntimo se convierte en un alucinante viaje de tres años.",
-   "hd": false,
-   "motivo": null,
+   "hd": true,
+   "motivo": "En digital en EE.UU. (Amazon Video, Apple TV Store, Fandango At Home)",
    "digital_ar": null,
    "digital_us": "2026-11-24",
    "digital_proximo": null,
-   "digital_sin_confirmar": "2026-11-24",
+   "digital_sin_confirmar": null,
    "cine_ar": "2026-11-26",
    "cine_us": "2026-10-16",
    "plataformas": {},
-   "plataformas_us": {},
+   "plataformas_us": {
+    "rent": [
+     "Amazon Video",
+     "Apple TV Store",
+     "Fandango At Home"
+    ],
+    "buy": [
+     "Amazon Video",
+     "Apple TV Store",
+     "Fandango At Home"
+    ]
+   },
    "link": null,
    "director": [
     "Nathan Fielder",
@@ -26966,7 +26987,7 @@
     "Documental"
    ],
    "agregada": "2026-11-17",
-   "hd_desde": null,
+   "hd_desde": "2026-11-25",
    "prioridad": true,
    "en_play": false,
    "en_cc": false
