@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-24T09:51:59.012641+00:00",
+ "actualizado": "2026-11-25T08:30:23.405029+00:00",
  "peliculas": [
   {
    "titulo": "El Corazon De La Bestia",
@@ -7,9 +7,6 @@
     {
      "formato": "2d cast",
      "dias": {
-      "2026-11-24": [
-       "22:00"
-      ],
       "2026-11-25": [
        "22:00"
       ]
@@ -29,9 +26,6 @@
     {
      "formato": "2d cast",
      "dias": {
-      "2026-11-24": [
-       "20:00"
-      ],
       "2026-11-25": [
        "20:00"
       ]
@@ -51,9 +45,6 @@
     {
      "formato": "2d cast",
      "dias": {
-      "2026-11-24": [
-       "20:30"
-      ],
       "2026-11-25": [
        "20:30"
       ]
@@ -73,9 +64,6 @@
     {
      "formato": "2d cast",
      "dias": {
-      "2026-11-24": [
-       "18:00"
-      ],
       "2026-11-25": [
        "18:00"
       ]
@@ -84,9 +72,6 @@
     {
      "formato": "3d cast",
      "dias": {
-      "2026-11-24": [
-       "17:00"
-      ],
       "2026-11-25": [
        "17:00"
       ]
@@ -106,9 +91,6 @@
     {
      "formato": "2d cast",
      "dias": {
-      "2026-11-24": [
-       "16:00"
-      ],
       "2026-11-25": [
        "16:00"
       ]
@@ -128,9 +110,6 @@
     {
      "formato": "2d cast",
      "dias": {
-      "2026-11-24": [
-       "21:30"
-      ],
       "2026-11-25": [
        "21:30"
       ]
@@ -150,9 +129,6 @@
     {
      "formato": "2d cast",
      "dias": {
-      "2026-11-24": [
-       "17:20"
-      ],
       "2026-11-25": [
        "17:20"
       ]
@@ -172,9 +148,6 @@
     {
      "formato": "2d cast",
      "dias": {
-      "2026-11-24": [
-       "22:10"
-      ],
       "2026-11-25": [
        "22:10"
       ]
@@ -194,9 +167,6 @@
     {
      "formato": "2d cast",
      "dias": {
-      "2026-11-24": [
-       "17:40"
-      ],
       "2026-11-25": [
        "17:40"
       ]
@@ -216,9 +186,6 @@
     {
      "formato": "2d cast",
      "dias": {
-      "2026-11-24": [
-       "17:10"
-      ],
       "2026-11-25": [
        "17:10"
       ]
@@ -238,9 +205,6 @@
     {
      "formato": "2d cast",
      "dias": {
-      "2026-11-24": [
-       "19:40"
-      ],
       "2026-11-25": [
        "19:40"
       ]
@@ -260,9 +224,6 @@
     {
      "formato": "2d cast",
      "dias": {
-      "2026-11-24": [
-       "22:50"
-      ],
       "2026-11-25": [
        "22:50"
       ]
@@ -278,17 +239,6 @@
   }
  ],
  "proximos": [
-  {
-   "titulo": "Ramayana: El Nacimiento De Una Leyenda",
-   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3693_img2.jpg",
-   "genero": "Ciencia Ficción",
-   "id": 656908,
-   "poster": "/nzL1ySE6vdmR6RxXhE7gLggkp41.jpg",
-   "fondo": "/yHVZncPRZr63mezRX20IyKLrSkv.jpg",
-   "sinopsis": "Una antigua epopeya sigue a un joven príncipe y a una princesa, cuyo matrimonio y posterior exilio marcan el comienzo de un viaje legendario. Su historia de amor, deber y destino prepara el terreno para desafíos aún mayores.",
-   "fecha": "2026-11-05",
-   "mia": false
-  },
   {
    "titulo": "La Nueva Focker",
    "img_cine": "https://www.cinemacenter.com.ar/img_movies/3546_img2.jpg",
@@ -320,12 +270,23 @@
   {
    "titulo": "La Psicópata",
    "img_cine": "https://www.cinemacenter.com.ar/img_movies/3616_img2.jpg",
-   "genero": "Drama",
+   "genero": "Thriller",
    "id": 1379486,
    "poster": "/2r09thBfqsWkoyGVtrxc00uYpSy.jpg",
    "fondo": "/84Sh7J9uvMjqEqEyRsKXaiSBcjP.jpg",
    "sinopsis": "En 1858, la misteriosa institutriz Winifred Notty llega a Ensor House para educar a los hijos de la familia. Su disciplina extrema y su inquietante presencia despiertan sospechas, mientras los empleados de la mansión comienzan a desaparecer sin dejar rastro. Los dueños pronto descubren que tras su apariencia impecable se esconden secretos perturbadores.",
    "fecha": "2026-11-11",
+   "mia": false
+  },
+  {
+   "titulo": "Spider Man: Un (Nuevo) Nuevo Día",
+   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3696_img2.jpg",
+   "genero": "Acción",
+   "id": 969681,
+   "poster": "/tluwRNA7k0XfTtDkdLYKX1KOSCJ.jpg",
+   "fondo": "/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg",
+   "sinopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad—un Spider-Man a tiempo completo—, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrenta",
+   "fecha": "2026-07-29",
    "mia": false
   },
   {
@@ -343,17 +304,6 @@
    "titulo": "Realmente Amor (Re)",
    "img_cine": "https://www.cinemacenter.com.ar/img_movies/3692_img2.jpg",
    "genero": "Comedia Romántica",
-   "mia": false
-  },
-  {
-   "titulo": "Gohan",
-   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3694_img2.jpg",
-   "genero": "Drama",
-   "id": 28609,
-   "poster": "/yHxHxbysTyZLS6rIK9JF7CuWWW.jpg",
-   "fondo": "/6SFrBoiuioqljN42pbTmyRKccTp.jpg",
-   "sinopsis": "Han pasado varios años desde que Son Goku derrotó a Piccolo en la final del Gran Torneo de Artes Marciales y ahora reina la paz en el mundo. Al menos hasta la irrupción de Garlick Jr., un antiguo rival de Dios que busca las bolas de dragón para conseguir la inmortalidad y ocupar el trono celestial por la fuerza. Y por si fuera poco, en el proceso secuestra a Son Gohan, el hijo pequeño de Goku, que tiene la bola de cuatro estrellas. Goku acude al rescate, pero cuando llega a su fortaleza, Garlick Jr. ya ha invocado al Dragón Shenron. Goku y Piccolo se ven obligados a unir sus fuerzas, pero ni s",
-   "fecha": "1989-07-15",
    "mia": false
   },
   {
@@ -475,6 +425,17 @@
    "fondo": "/gQvnOr5S9isMrrV97RtxXZlresC.jpg",
    "sinopsis": "Dos niños descubren un bosque repleto de estanques que conducen a otros mundos. Uno de ellos los lleva a una ciudad muerta bajo un sol moribundo, donde despiertan a una reina que había exterminado a toda la población, y terminan trayéndola accidentalmente a Londres.",
    "fecha": "2027-02-10",
+   "mia": false
+  },
+  {
+   "titulo": "Gohan",
+   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3694_img2.jpg",
+   "genero": "Drama",
+   "id": 28609,
+   "poster": "/yHxHxbysTyZLS6rIK9JF7CuWWW.jpg",
+   "fondo": "/6SFrBoiuioqljN42pbTmyRKccTp.jpg",
+   "sinopsis": "Han pasado varios años desde que Son Goku derrotó a Piccolo en la final del Gran Torneo de Artes Marciales y ahora reina la paz en el mundo. Al menos hasta la irrupción de Garlick Jr., un antiguo rival de Dios que busca las bolas de dragón para conseguir la inmortalidad y ocupar el trono celestial por la fuerza. Y por si fuera poco, en el proceso secuestra a Son Gohan, el hijo pequeño de Goku, que tiene la bola de cuatro estrellas. Goku acude al rescate, pero cuando llega a su fortaleza, Garlick Jr. ya ha invocado al Dragón Shenron. Goku y Piccolo se ven obligados a unir sus fuerzas, pero ni s",
+   "fecha": "1989-07-15",
    "mia": false
   },
   {
