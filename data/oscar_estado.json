@@ -77,7 +77,8 @@
     "rent": [
      "Amazon Video",
      "Apple TV Store",
-     "Fandango At Home"
+     "Fandango At Home",
+     "Plex"
     ],
     "buy": [
      "Amazon Video",
@@ -342,10 +343,10 @@
    "fecha": "2026-11-06",
    "poster": "/n8Nfb2jIUCOIVHjF0u89TIQ5ZfY.jpg",
    "fondo": "/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
-   "puntaje": 8.4,
+   "puntaje": 8.3,
    "sinopsis": "La electrizante historia real de un actor desconocido con la convicción inquebrantable de que no solo estaba destinado a escribir *Rocky*, sino a ser Rocky Balboa. Tras recibir negativas constantes, Sylvester Stallone lo apuesta todo a sí mismo y se mantiene firme en su empeño de interpretar el papel protagonista, contra todo pronóstico.",
-   "hd": true,
-   "motivo": "En digital en EE.UU. (Fandango At Home)",
+   "hd": false,
+   "motivo": null,
    "digital_ar": null,
    "digital_us": null,
    "digital_proximo": null,
@@ -353,11 +354,7 @@
    "cine_ar": "2026-11-19",
    "cine_us": "2026-11-06",
    "plataformas": {},
-   "plataformas_us": {
-    "buy": [
-     "Fandango At Home"
-    ]
-   },
+   "plataformas_us": {},
    "link": null,
    "director": [
     "Peter Farrelly"
@@ -504,7 +501,7 @@
    "titulo": "Club Kid",
    "fecha": "2026-11-04",
    "poster": "/l4q1gziNMhpVQAzCIwmtbLSB1T9.jpg",
-   "fondo": "/m5zcXuV4qR9fBgXjPndLIPOcasF.jpg",
+   "fondo": "/767ZDrZk48YlKM4cmOvdQF9yFHn.jpg",
    "puntaje": 7.9,
    "sinopsis": "Peter (Jordan Firstman), un promotor de fiestas underground de Nueva York acostumbrado a vivir entre excesos, música electrónica y noches interminables, ve cómo su mundo da un vuelco cuando una desconocida aparece en su puerta con Arlo (Reggie Absolom), un niño de 10 años que asegura que es su hijo. Lo que comienza como una situación imposible pronto da paso a una loca, divertida y tierna conexión, tan inesperada como transformadora.",
    "hd": false,
@@ -544,10 +541,10 @@
    "fecha": "2026-06-19",
    "poster": "/gniQjGg0LaLaiWQOqxdVJkMH0Jx.jpg",
    "fondo": "/rQEfTB65F71Y2yIlAzv3GJ3m7Rz.jpg",
-   "puntaje": 7.9,
+   "puntaje": 7.8,
    "sinopsis": "Marie-Lou, directora de una residencia para personas mayores, intenta implantar un modelo de cuidados centrado en la escucha y en la dignidad de los residentes, pese a la resistencia de parte del personal. Su vida cambia cuando conoce a Mari, una directora de teatro japonesa que lucha contra el cáncer. A partir de una amistad profunda y de apoyo mutuo, ambas emprenden una lucha compartida por “hacer posible lo imposible”.",
-   "hd": false,
-   "motivo": null,
+   "hd": true,
+   "motivo": "En digital en EE.UU. (Fandango At Home)",
    "digital_ar": null,
    "digital_us": null,
    "digital_proximo": null,
@@ -555,7 +552,11 @@
    "cine_ar": null,
    "cine_us": "2026-11-25",
    "plataformas": {},
-   "plataformas_us": {},
+   "plataformas_us": {
+    "buy": [
+     "Fandango At Home"
+    ]
+   },
    "link": null,
    "director": [
     "濱口竜介"
@@ -636,7 +637,8 @@
     "rent": [
      "Amazon Video",
      "Apple TV Store",
-     "Fandango At Home"
+     "Fandango At Home",
+     "Plex"
     ],
     "buy": [
      "Amazon Video",

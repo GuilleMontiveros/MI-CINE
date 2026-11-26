@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26T08:16:56.060949+00:00",
+ "actualizado": "2026-11-26T21:43:54.296570+00:00",
  "titulos": [
   {
    "id": 37165,
@@ -66,8 +66,7 @@
     "Drama"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 593643,
@@ -133,8 +132,7 @@
     "Terror"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 210577,
@@ -202,8 +200,7 @@
     "Drama"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 694,
@@ -273,8 +270,7 @@
     "Suspense"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 274,
@@ -352,8 +348,7 @@
     "Drama"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 24,
@@ -423,8 +418,7 @@
     "Crimen"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 398818,
@@ -499,8 +493,7 @@
     "Drama"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 10315,
@@ -563,8 +556,7 @@
     "Comedia"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 103,
@@ -637,8 +629,7 @@
     "Drama"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 207,
@@ -700,8 +691,7 @@
     "Drama"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 773,
@@ -761,8 +751,7 @@
     "Drama"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 458723,
@@ -839,8 +828,7 @@
     "Suspense"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 376867,
@@ -913,8 +901,7 @@
     "Drama"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 760104,
@@ -988,8 +975,7 @@
     "Terror"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 315162,
@@ -1010,7 +996,8 @@
    "cine_us": "2022-12-21",
    "plataformas": {
     "flatrate": [
-     "MovistarTV"
+     "MovistarTV",
+     "HBO Max"
     ],
     "rent": [
      "Apple TV Store",
@@ -1064,8 +1051,7 @@
     "Fantasía"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 674324,
@@ -1129,8 +1115,7 @@
     "Comedia"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 4232,
@@ -1218,8 +1203,7 @@
     "Misterio"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 840430,
@@ -1294,8 +1278,7 @@
     "Comedia"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 447332,
@@ -1382,8 +1365,7 @@
     "Ciencia ficción"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 8392,
@@ -1449,8 +1431,7 @@
     "Familia"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 502356,
@@ -1526,8 +1507,7 @@
     "Aventura"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 539,
@@ -1601,8 +1581,7 @@
     "Misterio"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 672,
@@ -1610,7 +1589,7 @@
    "titulo": "Harry Potter y la cámara secreta",
    "fecha": "2002-11-13",
    "poster": "/3nvGqfZE3yrsqehpF107byUdUSq.jpg",
-   "fondo": "/7tbeoSTWW2cWPecjQo9fcdf0Hzv.jpg",
+   "fondo": "/zuYEvft5fuzBDOeq4ClYpiu9LlO.jpg",
    "puntaje": 7.7,
    "sinopsis": "Harry regresa a su segundo año a Hogwarts, pero descubre que cosas malas ocurren debido a que un sitio llamado la Cámara de los Secretos ha sido abierto por el heredero de Slytherin y hará que los hijos de muggles, los impuros, aparezcan petrificados misteriosamente por un animal monstruoso.",
    "hd": true,
@@ -1639,6 +1618,7 @@
    },
    "plataformas_us": {
     "flatrate": [
+     "fuboTV",
      "HBO Max Amazon Channel",
      "Peacock Premium",
      "HBO Max",
@@ -1680,8 +1660,7 @@
     "Fantasía"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 424,
@@ -1750,8 +1729,7 @@
     "Bélica"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 913290,
@@ -1816,8 +1794,7 @@
     "Suspense"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1020006,
@@ -1886,8 +1863,7 @@
     "Drama"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 12444,
@@ -1966,8 +1942,7 @@
     "Fantasía"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1422,
@@ -2038,8 +2013,7 @@
     "Crimen"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 142,
@@ -2105,8 +2079,7 @@
     "Romance"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 101,
@@ -2182,8 +2155,7 @@
     "Acción"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1091,
@@ -2257,8 +2229,7 @@
     "Ciencia ficción"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 290250,
@@ -2330,8 +2301,7 @@
     "Acción"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 12444,
@@ -2410,8 +2380,7 @@
     "Fantasía"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 240,
@@ -2492,8 +2461,7 @@
     "Crimen"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 767,
@@ -2501,7 +2469,7 @@
    "titulo": "Harry Potter y el misterio del príncipe",
    "fecha": "2009-07-15",
    "poster": "/tO0UGkNuQoxyXve0mvwtXP49NAO.jpg",
-   "fondo": "/ze6Mx4QE5mQVXRYmG2flncqqle4.jpg",
+   "fondo": "/mITJS77BV4TSqdFB5FPGBc7JKXj.jpg",
    "puntaje": 7.7,
    "sinopsis": "En medio de los desastres que azotan a Inglaterra, Harry y sus compañeros vuelven a Hogwarts para cursar su sexto año de estudios; y aunque las medidas de seguridad han convertido al colegio en una fortaleza, algunos estudiantes son víctimas de ataques inexplicables. Harry sospecha que Draco Malfoy es el responsable de los mismos y decide averiguar la razón. Mientras tanto, Albus Dumbledore y el protagonista exploran el pasado de Lord Voldemort mediante recuerdos que el director ha recolectado. Con esto, Dumbledore planea preparar al muchacho para el día de la batalla final.",
    "hd": true,
@@ -2572,8 +2540,7 @@
     "Fantasía"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 850165,
@@ -2642,8 +2609,7 @@
     "Historia"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 857,
@@ -2724,8 +2690,7 @@
     "Historia"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 394117,
@@ -2787,8 +2752,7 @@
     "Drama"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 423,
@@ -2853,8 +2817,7 @@
     "Bélica"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 85,
@@ -2939,8 +2902,7 @@
     "Acción"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 639933,
@@ -3016,8 +2978,7 @@
     "Fantasía"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 502033,
@@ -3077,8 +3038,7 @@
     "Música"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 562,
@@ -3145,8 +3105,7 @@
     "Suspense"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 948,
@@ -3154,7 +3113,7 @@
    "titulo": "La noche de Halloween",
    "fecha": "1978-10-25",
    "poster": "/6bsDpDL312h6vEGPOPWoweaZWUG.jpg",
-   "fondo": "/sHI9xlFRWCJ38AIIfOqnGjuEvXz.jpg",
+   "fondo": "/jvnKem7L2SI61jRFxmc2C9Hxlzy.jpg",
    "puntaje": 7.6,
    "sinopsis": "Durante la noche de Halloween, Michael, un niño de seis años, asesina a su familia con un cuchillo de cocina. Es internado en un psiquiátrico del que huye quince años más tarde, precisamente la víspera de Halloween. El psicópata vuelve a su pueblo y comete una serie de asesinatos. Mientras, uno de los médicos del psiquiátrico le sigue la pista.",
    "hd": true,
@@ -3216,8 +3175,7 @@
     "Suspense"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 817758,
@@ -3286,8 +3244,7 @@
     "Drama"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 426,
@@ -3356,8 +3313,7 @@
     "Suspense"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 639,
@@ -3428,8 +3384,7 @@
     "Drama"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1417,
@@ -3485,8 +3440,7 @@
     "Bélica"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 839369,
@@ -3543,8 +3497,7 @@
     "Drama"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 16859,
@@ -3614,8 +3567,7 @@
     "Fantasía"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 994108,
@@ -3679,8 +3631,7 @@
     "Fantasía"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 550988,
@@ -3746,8 +3697,7 @@
     "Ciencia ficción"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 235,
@@ -3816,8 +3766,7 @@
     "Aventura"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 804095,
@@ -3885,8 +3834,7 @@
     "Drama"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 12429,
@@ -3959,8 +3907,7 @@
     "Familia"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 929590,
@@ -4031,8 +3978,7 @@
     "Drama"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 882598,
@@ -4114,8 +4060,7 @@
     "Misterio"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 798286,
@@ -4186,8 +4131,7 @@
     "Fantasía"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 976573,
@@ -4251,8 +4195,7 @@
     "Familia"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 615643,
@@ -4321,8 +4264,7 @@
     "Drama"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 59436,
@@ -4391,8 +4333,7 @@
     "Romance"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 30497,
@@ -4466,8 +4407,7 @@
     "Terror"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 793,
@@ -4536,8 +4476,7 @@
     "Crimen"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 520763,
@@ -4619,8 +4558,7 @@
     "Terror"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 559907,
@@ -4695,8 +4633,7 @@
     "Fantasía"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 370172,
@@ -4771,8 +4708,7 @@
     "Aventura"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 429,
@@ -4848,8 +4784,7 @@
     "Western"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1056360,
@@ -4912,8 +4847,7 @@
     "Drama"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 805,
@@ -4990,8 +4924,7 @@
     "Suspense"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 334,
@@ -5059,8 +4992,7 @@
     "Drama"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 426426,
@@ -5108,8 +5040,7 @@
     "Drama"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 746036,
@@ -5180,8 +5111,7 @@
     "Romance"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 524,
@@ -5255,8 +5185,7 @@
     "Drama"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 843527,
@@ -5334,8 +5263,7 @@
     "Drama"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 314365,
@@ -5408,8 +5336,7 @@
     "Historia"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 511809,
@@ -5475,8 +5402,7 @@
     "Crimen"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 705996,
@@ -5542,8 +5468,7 @@
     "Romance"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 823482,
@@ -5612,8 +5537,7 @@
     "Fantasía"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 507076,
@@ -5676,8 +5600,7 @@
     "Música"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 11237,
@@ -5744,8 +5667,7 @@
     "Suspense"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 637,
@@ -5817,8 +5739,7 @@
     "Drama"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 630,
@@ -5895,8 +5816,7 @@
     "Familia"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 11216,
@@ -5966,8 +5886,7 @@
     "Romance"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 428449,
@@ -6040,8 +5959,7 @@
     "Romance"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 587,
@@ -6110,8 +6028,7 @@
     "Drama"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 597208,
@@ -6177,8 +6094,7 @@
     "Suspense"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 2649,
@@ -6244,8 +6160,7 @@
     "Misterio"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 9426,
@@ -6304,8 +6219,7 @@
     "Ciencia ficción"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 77338,
@@ -6369,8 +6283,7 @@
     "Comedia"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1700,
@@ -6435,8 +6348,7 @@
     "Suspense"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 508965,
@@ -6486,8 +6398,7 @@
     "Comedia"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 97367,
@@ -6546,8 +6457,7 @@
     "Crimen"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 18,
@@ -6607,8 +6517,7 @@
     "Aventura"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 17654,
@@ -6679,8 +6588,7 @@
     "Ciencia ficción"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 81,
@@ -6752,8 +6660,7 @@
     "Fantasía"
    ],
    "agregada": "2024-06-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 974576,
@@ -6825,8 +6732,7 @@
     "Suspense"
    ],
    "agregada": "2025-04-12",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 426063,
@@ -6897,8 +6803,7 @@
     "Fantasía"
    ],
    "agregada": "2025-04-12",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 696506,
@@ -6976,8 +6881,7 @@
     "Aventura"
    ],
    "agregada": "2025-04-12",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1184918,
@@ -7050,8 +6954,7 @@
     "Ciencia ficción"
    ],
    "agregada": "2025-04-12",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 945961,
@@ -7077,7 +6980,6 @@
    },
    "plataformas_us": {
     "flatrate": [
-     "Hulu",
      "Peacock Premium",
      "Peacock Premium Plus"
     ],
@@ -7115,8 +7017,7 @@
     "Ciencia ficción"
    ],
    "agregada": "2025-04-12",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1013850,
@@ -7178,8 +7079,7 @@
     "Drama"
    ],
    "agregada": "2025-04-12",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 286217,
@@ -7243,8 +7143,7 @@
     "Aventura"
    ],
    "agregada": "2025-04-12",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 467244,
@@ -7315,8 +7214,7 @@
     "Bélica"
    ],
    "agregada": "2025-04-12",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 661539,
@@ -7378,8 +7276,7 @@
     "Música"
    ],
    "agregada": "2025-04-12",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 549509,
@@ -7449,8 +7346,7 @@
     "Drama"
    ],
    "agregada": "2025-04-12",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 9693,
@@ -7522,8 +7418,7 @@
     "Acción"
    ],
    "agregada": "2025-04-12",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 36095,
@@ -7582,8 +7477,7 @@
     "Crimen"
    ],
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 106,
@@ -7647,8 +7541,7 @@
     "Aventura"
    ],
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 592831,
@@ -7704,8 +7597,7 @@
     "Fantasía"
    ],
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 9464,
@@ -7769,8 +7661,7 @@
     "Comedia"
    ],
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 392044,
@@ -7836,8 +7727,7 @@
     "Crimen"
    ],
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 206647,
@@ -7913,8 +7803,7 @@
     "Suspense"
    ],
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 197,
@@ -7982,8 +7871,7 @@
     "Bélica"
    ],
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 422,
@@ -8042,8 +7930,7 @@
     "Drama"
    ],
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 19,
@@ -8112,8 +7999,7 @@
     "Ciencia ficción"
    ],
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 61617,
@@ -8161,8 +8047,7 @@
     "Animación"
    ],
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 4553,
@@ -8221,8 +8106,7 @@
     "Drama"
    ],
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 951491,
@@ -8293,8 +8177,7 @@
     "Suspense"
    ],
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 220289,
@@ -8369,8 +8252,7 @@
     "Ciencia ficción"
    ],
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 452522,
@@ -8411,8 +8293,7 @@
     "Suspense"
    ],
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 68734,
@@ -8484,8 +8365,7 @@
     "Suspense"
    ],
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 607,
@@ -8564,8 +8444,7 @@
     "Comedia"
    ],
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 396461,
@@ -8632,8 +8511,7 @@
     "Misterio"
    ],
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 979,
@@ -8674,8 +8552,7 @@
     "Crimen"
    ],
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 458305,
@@ -8747,8 +8624,7 @@
     "Terror"
    ],
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 541671,
@@ -8821,8 +8697,7 @@
     "Crimen"
    ],
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 9740,
@@ -8900,8 +8775,7 @@
     "Suspense"
    ],
    "agregada": "2025-07-01",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 803796,
@@ -8952,8 +8826,7 @@
     "Comedia"
    ],
    "agregada": "2026-04-21",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1084242,
@@ -9017,8 +8890,7 @@
     "Comedia"
    ],
    "agregada": "2026-04-21",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 823219,
@@ -9083,8 +8955,7 @@
     "Familia"
    ],
    "agregada": "2026-04-21",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 83533,
@@ -9148,8 +9019,7 @@
     "Fantasía"
    ],
    "agregada": "2026-04-21",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1124566,
@@ -9220,8 +9090,7 @@
     "Drama"
    ],
    "agregada": "2026-04-21",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 843,
@@ -9292,8 +9161,7 @@
     "Romance"
    ],
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 542178,
@@ -9357,8 +9225,7 @@
     "Comedia"
    ],
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1137350,
@@ -9428,8 +9295,7 @@
     "Suspense"
    ],
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1366,
@@ -9510,8 +9376,7 @@
     "Drama"
    ],
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 116745,
@@ -9574,8 +9439,7 @@
     "Drama"
    ],
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 73,
@@ -9643,8 +9507,7 @@
     "Drama"
    ],
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 4995,
@@ -9716,8 +9579,7 @@
     "Comedia"
    ],
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 872,
@@ -9772,8 +9634,8 @@
    },
    "link": "https://www.themoviedb.org/movie/872-singin-in-the-rain/watch?locale=AR",
    "director": [
-    "Gene Kelly",
-    "Stanley Donen"
+    "Stanley Donen",
+    "Gene Kelly"
    ],
    "reparto": [
     "Gene Kelly",
@@ -9790,8 +9652,7 @@
     "Romance"
    ],
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 207703,
@@ -9851,8 +9712,7 @@
     "Acción"
    ],
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 11906,
@@ -9910,8 +9770,7 @@
     "Misterio"
    ],
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 575265,
@@ -9993,8 +9852,7 @@
     "Aventura"
    ],
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 620,
@@ -10071,8 +9929,7 @@
     "Fantasía"
    ],
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 14537,
@@ -10125,8 +9982,7 @@
     "Historia"
    ],
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 346,
@@ -10186,8 +10042,7 @@
     "Drama"
    ],
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 34530,
@@ -10232,8 +10087,7 @@
     "Historia"
    ],
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 12493,
@@ -10289,8 +10143,7 @@
     "Suspense"
    ],
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 110,
@@ -10347,8 +10200,7 @@
     "Romance"
    ],
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 600354,
@@ -10417,8 +10269,7 @@
     "Drama"
    ],
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 593,
@@ -10479,8 +10330,7 @@
     "Misterio"
    ],
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1883,
@@ -10550,8 +10400,7 @@
     "Historia"
    ],
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1578,
@@ -10629,8 +10478,7 @@
     "Historia"
    ],
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 704264,
@@ -10685,8 +10533,7 @@
     "Animación"
    ],
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 632617,
@@ -10760,8 +10607,7 @@
     "Drama"
    ],
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 111,
@@ -10835,8 +10681,7 @@
     "Drama"
    ],
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 26005,
@@ -10887,8 +10732,7 @@
     "Drama"
    ],
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 290,
@@ -10954,8 +10798,7 @@
     "Suspense"
    ],
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 68722,
@@ -11016,8 +10859,7 @@
     "Drama"
    ],
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 11621,
@@ -11089,8 +10931,7 @@
     "Fantasía"
    ],
    "agregada": "2026-04-22",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1574,
@@ -11162,8 +11003,7 @@
     "Drama"
    ],
    "agregada": "2026-05-10",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 313297,
@@ -11235,8 +11075,7 @@
     "Familia"
    ],
    "agregada": "2026-05-10",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1402,
@@ -11307,8 +11146,7 @@
     "Drama"
    ],
    "agregada": "2026-05-10",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 37724,
@@ -11384,8 +11222,7 @@
     "Suspense"
    ],
    "agregada": "2026-05-10",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 8810,
@@ -11455,8 +11292,7 @@
     "Ciencia ficción"
    ],
    "agregada": "2026-05-10",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 218,
@@ -11537,8 +11373,7 @@
     "Ciencia ficción"
    ],
    "agregada": "2026-05-10",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 931285,
@@ -11613,8 +11448,7 @@
     "Aventura"
    ],
    "agregada": "2026-05-20",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1119449,
@@ -11681,8 +11515,7 @@
     "Aventura"
    ],
    "agregada": "2026-05-21",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1242011,
@@ -11748,8 +11581,7 @@
     "Romance"
    ],
    "agregada": "2026-05-21",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1202479,
@@ -11819,8 +11651,7 @@
     "Suspense"
    ],
    "agregada": "2026-05-21",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 508439,
@@ -11883,8 +11714,7 @@
     "Comedia"
    ],
    "agregada": "2026-05-21",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 68726,
@@ -11956,8 +11786,7 @@
     "Aventura"
    ],
    "agregada": "2026-05-21",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 582014,
@@ -12032,8 +11861,7 @@
     "Drama"
    ],
    "agregada": "2026-05-21",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 967941,
@@ -12108,8 +11936,7 @@
     "Romance"
    ],
    "agregada": "2026-05-21",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 217,
@@ -12194,8 +12021,7 @@
     "Acción"
    ],
    "agregada": "2026-05-21",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 406,
@@ -12253,8 +12079,7 @@
     "Drama"
    ],
    "agregada": "2026-05-21",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1478143,
@@ -12285,8 +12110,7 @@
     "Documental"
    ],
    "agregada": "2026-05-21",
-   "hd_desde": null,
-   "en_play": false
+   "hd_desde": null
   },
   {
    "id": 558449,
@@ -12368,8 +12192,7 @@
     "Drama"
    ],
    "agregada": "2026-05-21",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 747188,
@@ -12442,8 +12265,7 @@
     "Drama"
    ],
    "agregada": "2026-05-21",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 22970,
@@ -12507,8 +12329,7 @@
     "Misterio"
    ],
    "agregada": "2026-05-21",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 161,
@@ -12585,8 +12406,7 @@
     "Crimen"
    ],
    "agregada": "2026-05-21",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1327819,
@@ -12647,8 +12467,7 @@
     "Comedia"
    ],
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 705861,
@@ -12697,8 +12516,7 @@
     "Comedia"
    ],
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 614934,
@@ -12771,8 +12589,7 @@
     "Drama"
    ],
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 619979,
@@ -12821,8 +12638,7 @@
     "Suspense"
    ],
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 335787,
@@ -12901,8 +12717,7 @@
     "Misterio"
    ],
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 406759,
@@ -12937,6 +12752,7 @@
    },
    "plataformas_us": {
     "flatrate": [
+     "fuboTV",
      "MovieSphere+ Amazon Channel"
     ],
     "rent": [
@@ -12974,8 +12790,7 @@
     "Acción"
    ],
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 805058,
@@ -13033,8 +12848,7 @@
     "Drama"
    ],
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 283566,
@@ -13096,8 +12910,7 @@
     "Ciencia ficción"
    ],
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 795813,
@@ -13172,8 +12985,7 @@
     "Romance"
    ],
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 602269,
@@ -13247,8 +13059,7 @@
     "Suspense"
    ],
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 516632,
@@ -13313,8 +13124,7 @@
     "Suspense"
    ],
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 533514,
@@ -13374,8 +13184,7 @@
     "Fantasía"
    ],
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 435615,
@@ -13435,8 +13244,7 @@
     "Ciencia ficción"
    ],
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 599377,
@@ -13502,8 +13310,7 @@
     "Terror"
    ],
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 157433,
@@ -13577,8 +13384,7 @@
     "Terror"
    ],
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 433249,
@@ -13626,8 +13432,7 @@
     "Ciencia ficción"
    ],
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 518158,
@@ -13693,8 +13498,7 @@
     "Comedia"
    ],
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 346910,
@@ -13762,8 +13566,7 @@
     "Suspense"
    ],
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 11906,
@@ -13821,8 +13624,7 @@
     "Misterio"
    ],
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 369972,
@@ -13894,8 +13696,7 @@
     "Drama"
    ],
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 455207,
@@ -13965,8 +13766,7 @@
     "Romance"
    ],
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 402900,
@@ -14043,8 +13843,7 @@
     "Acción"
    ],
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 475215,
@@ -14100,8 +13899,7 @@
     "Fantasía"
    ],
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 398181,
@@ -14158,8 +13956,7 @@
     "Suspense"
    ],
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 340674,
@@ -14231,8 +14028,7 @@
     "Suspense"
    ],
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 382322,
@@ -14306,8 +14102,7 @@
     "Drama"
    ],
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 331583,
@@ -14378,8 +14173,7 @@
     "Suspense"
    ],
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 263472,
@@ -14450,8 +14244,7 @@
     "Crimen"
    ],
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 64686,
@@ -14519,8 +14312,7 @@
     "Fantasía"
    ],
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 68724,
@@ -14593,8 +14385,7 @@
     "Drama"
    ],
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 198375,
@@ -14640,8 +14431,7 @@
     "Romance"
    ],
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 109428,
@@ -14718,8 +14508,7 @@
     "Terror"
    ],
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 75629,
@@ -14765,8 +14554,7 @@
     "Acción"
    ],
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1457866,
@@ -14808,8 +14596,7 @@
    ],
    "agregada": "2026-05-23",
    "hd_desde": null,
-   "prioridad": true,
-   "en_play": false
+   "prioridad": true
   },
   {
    "id": 800158,
@@ -14858,8 +14645,7 @@
     "Suspense"
    ],
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 7445,
@@ -14912,8 +14698,7 @@
     "Bélica"
    ],
    "agregada": "2026-05-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 11645,
@@ -14959,8 +14744,7 @@
     "Historia"
    ],
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 499778,
@@ -14999,8 +14783,7 @@
     "Documental"
    ],
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 4148,
@@ -15074,8 +14857,7 @@
     "Romance"
    ],
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 11321,
@@ -15142,8 +14924,7 @@
     "Drama"
    ],
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 425274,
@@ -15212,8 +14993,7 @@
     "Suspense"
    ],
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 75612,
@@ -15290,8 +15070,7 @@
     "Aventura"
    ],
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 15137,
@@ -15352,8 +15131,7 @@
     "Acción"
    ],
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 675,
@@ -15361,7 +15139,7 @@
    "titulo": "Harry Potter y la Orden del Fénix",
    "fecha": "2007-07-08",
    "poster": "/vYUjcTKDXOHJOlilNK953m8zJww.jpg",
-   "fondo": "/pkxPkHOPJjOvzfQOclANEBT8OfK.jpg",
+   "fondo": "/9svsJni0pNROt53QBEj9JqZMuEK.jpg",
    "puntaje": 7.7,
    "sinopsis": "Harry Potter regresa por quinto año a Hogwarts aún sacudido por la tragedia ocurrida en el Torneo de los Tres Magos. Debido a que el Ministro de la Magia niega el regreso de Lord Voldemort, Harry se convierte en el centro de atención de la comunidad mágica. Mientras lucha con sus problemas en el colegio, incluyendo a la nueva profesora Dolores Umbridge, intentará aprender más sobre la misteriosa Orden del Fénix.",
    "hd": true,
@@ -15432,8 +15210,7 @@
     "Fantasía"
    ],
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1562,
@@ -15500,8 +15277,7 @@
     "Ciencia ficción"
    ],
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1381,
@@ -15561,8 +15337,7 @@
     "Romance"
    ],
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1440,
@@ -15633,8 +15408,7 @@
     "Romance"
    ],
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1406657,
@@ -15703,8 +15477,7 @@
     "Drama"
    ],
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 28874,
@@ -15767,8 +15540,7 @@
     "Ciencia ficción"
    ],
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 315465,
@@ -15841,8 +15613,7 @@
     "Animación"
    ],
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1164,
@@ -15907,8 +15678,7 @@
     "Drama"
    ],
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 674,
@@ -15987,8 +15757,7 @@
     "Fantasía"
    ],
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 2567,
@@ -16048,8 +15817,7 @@
     "Drama"
    ],
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 2288,
@@ -16121,8 +15889,7 @@
     "Romance"
    ],
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1677,
@@ -16197,8 +15964,7 @@
     "Música"
    ],
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 673,
@@ -16206,7 +15972,7 @@
    "titulo": "Harry Potter y el prisionero de Azkaban",
    "fecha": "2004-05-31",
    "poster": "/oabaGVDN9pqLzMT6w5qMGdFawH5.jpg",
-   "fondo": "/vbk5CfaAHOjQPSAcYm6AoRRz2Af.jpg",
+   "fondo": "/htmYEfH7TQgzsXHCnNXxmoYKQtL.jpg",
    "puntaje": 8.0,
    "sinopsis": "Harry está deseando que termine el verano para comenzar un nuevo curso en Hogwarts, y abandonar lo antes posible la casa de sus despreciables tíos, los Dursley. Lo que desconoce Harry es que va a tener que abandonar Privet Drive antes de tiempo e inesperadamente después de convertir a su tía Marge en un globo gigante. Un autobús noctámbulo, y encantado por supuesto, le llevará a la taberna El Caldero Chorreante, donde le espera nada menos que Cornelius Fudge, el Ministro de Magia.",
    "hd": true,
@@ -16276,8 +16042,7 @@
     "Fantasía"
    ],
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 2757,
@@ -16350,8 +16115,7 @@
     "Drama"
    ],
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 7342,
@@ -16426,8 +16190,7 @@
     "Suspense"
    ],
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 27090,
@@ -16467,8 +16230,7 @@
     "Drama"
    ],
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 2675,
@@ -16531,8 +16293,7 @@
     "Terror"
    ],
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 4147,
@@ -16594,8 +16355,7 @@
     "Suspense"
    ],
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 644,
@@ -16671,8 +16431,7 @@
     "Aventura"
    ],
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1391,
@@ -16712,8 +16471,7 @@
     "Romance"
    ],
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 9705,
@@ -16782,8 +16540,7 @@
     "Suspense"
    ],
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 95,
@@ -16846,8 +16603,7 @@
     "Aventura"
    ],
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 9769,
@@ -16915,8 +16671,7 @@
     "Romance"
    ],
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1089,
@@ -16992,8 +16747,7 @@
     "Crimen"
    ],
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 311,
@@ -17057,8 +16811,7 @@
     "Crimen"
    ],
    "agregada": "2026-05-24",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1955,
@@ -17116,8 +16869,7 @@
     "Historia"
    ],
    "agregada": "2026-05-28",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 109421,
@@ -17185,8 +16937,7 @@
     "Drama"
    ],
    "agregada": "2026-05-29",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1452267,
@@ -17238,8 +16989,7 @@
     "Bélica"
    ],
    "agregada": "2026-05-31",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1557,
@@ -17279,8 +17029,7 @@
     "Suspense"
    ],
    "agregada": "2026-05-31",
-   "hd_desde": null,
-   "en_play": false
+   "hd_desde": null
   },
   {
    "id": 1430077,
@@ -17351,8 +17100,7 @@
     "Suspense"
    ],
    "agregada": "2026-06-04",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 25237,
@@ -17411,8 +17159,7 @@
     "Terror"
    ],
    "agregada": "2026-06-05",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 190859,
@@ -17487,8 +17234,7 @@
     "Acción"
    ],
    "agregada": "2026-06-05",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1086967,
@@ -17536,8 +17282,7 @@
     "Documental"
    ],
    "agregada": "2026-06-05",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 25,
@@ -17608,8 +17353,7 @@
     "Bélica"
    ],
    "agregada": "2026-06-05",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 13,
@@ -17699,8 +17443,7 @@
     "Romance"
    ],
    "agregada": "2026-06-05",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1335757,
@@ -17737,8 +17480,7 @@
     "Documental"
    ],
    "agregada": "2026-06-05",
-   "hd_desde": null,
-   "en_play": false
+   "hd_desde": null
   },
   {
    "id": 8741,
@@ -17798,8 +17540,7 @@
     "Bélica"
    ],
    "agregada": "2026-06-05",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 799766,
@@ -17877,8 +17618,7 @@
     "Drama"
    ],
    "agregada": "2026-06-06",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 594,
@@ -17954,8 +17694,7 @@
     "Drama"
    ],
    "agregada": "2026-06-06",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 446354,
@@ -18027,8 +17766,7 @@
     "Historia"
    ],
    "agregada": "2026-06-06",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 8066,
@@ -18089,8 +17827,7 @@
     "Drama"
    ],
    "agregada": "2026-06-08",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 15244,
@@ -18144,8 +17881,7 @@
     "Suspense"
    ],
    "agregada": "2026-06-08",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 5336,
@@ -18185,8 +17921,7 @@
     "Drama"
    ],
    "agregada": "2026-06-08",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 5335,
@@ -18244,8 +17979,7 @@
     "Drama"
    ],
    "agregada": "2026-06-08",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 19542,
@@ -18306,8 +18040,7 @@
     "Romance"
    ],
    "agregada": "2026-06-08",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 17057,
@@ -18370,8 +18103,7 @@
     "Romance"
    ],
    "agregada": "2026-06-08",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 624,
@@ -18442,8 +18174,7 @@
     "Drama"
    ],
    "agregada": "2026-06-08",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 829,
@@ -18510,8 +18241,7 @@
     "Suspense"
    ],
    "agregada": "2026-06-08",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 68,
@@ -18570,8 +18300,7 @@
     "Ciencia ficción"
    ],
    "agregada": "2026-06-08",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 14275,
@@ -18632,8 +18361,7 @@
     "Documental"
    ],
    "agregada": "2026-06-08",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 11830,
@@ -18692,8 +18420,7 @@
     "Comedia"
    ],
    "agregada": "2026-06-08",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1027014,
@@ -18743,8 +18470,7 @@
     "Música"
    ],
    "agregada": "2026-06-09",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 608658,
@@ -18792,8 +18518,7 @@
     "Documental"
    ],
    "agregada": "2026-06-09",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 4960,
@@ -18856,8 +18581,7 @@
     "Drama"
    ],
    "agregada": "2026-06-09",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 21450,
@@ -18915,8 +18639,7 @@
     "Comedia"
    ],
    "agregada": "2026-06-09",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 13398,
@@ -18980,8 +18703,7 @@
     "Comedia"
    ],
    "agregada": "2026-06-09",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1541,
@@ -19057,8 +18779,7 @@
     "Crimen"
    ],
    "agregada": "2026-06-10",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 4982,
@@ -19134,8 +18855,7 @@
     "Crimen"
    ],
    "agregada": "2026-06-10",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 20662,
@@ -19213,8 +18933,7 @@
     "Historia"
    ],
    "agregada": "2026-06-10",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1281331,
@@ -19266,8 +18985,7 @@
    ],
    "agregada": "2026-06-13",
    "hd_desde": "2026-11-25",
-   "prioridad": true,
-   "en_play": false
+   "prioridad": true
   },
   {
    "id": 1263337,
@@ -19333,8 +19051,7 @@
    ],
    "agregada": "2026-06-13",
    "hd_desde": "2026-11-16",
-   "prioridad": true,
-   "en_play": false
+   "prioridad": true
   },
   {
    "id": 1284041,
@@ -19383,8 +19100,7 @@
     "Ciencia ficción"
    ],
    "agregada": "2026-06-16",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 11631,
@@ -19456,8 +19172,7 @@
     "Romance"
    ],
    "agregada": "2026-06-20",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 153,
@@ -19493,13 +19208,11 @@
    "plataformas_us": {
     "rent": [
      "Amazon Video",
-     "Apple TV Store",
      "Google Play Movies",
      "YouTube"
     ],
     "buy": [
      "Amazon Video",
-     "Apple TV Store",
      "Google Play Movies",
      "YouTube"
     ]
@@ -19524,14 +19237,13 @@
     "Romance"
    ],
    "agregada": "2026-06-20",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1421903,
    "tipo": "movie",
    "titulo": "Licantropo",
-   "fecha": "2026-12-25",
+   "fecha": "2026-12-24",
    "poster": "/bzJ1pupikR5SvU6eT0zVlgF0CWP.jpg",
    "fondo": "/jmW9NkzbpI9vhyxJU2x644Nj7VU.jpg",
    "puntaje": 0.0,
@@ -19565,8 +19277,7 @@
     "Fantasía"
    ],
    "agregada": "2026-06-30",
-   "hd_desde": null,
-   "en_play": false
+   "hd_desde": null
   },
   {
    "id": 144,
@@ -19627,8 +19338,7 @@
     "Romance"
    ],
    "agregada": "2026-07-02",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1585,
@@ -19708,8 +19418,7 @@
     "Fantasía"
    ],
    "agregada": "2026-07-08",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 497,
@@ -19779,8 +19488,7 @@
     "Crimen"
    ],
    "agregada": "2026-07-08",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 399057,
@@ -19856,8 +19564,7 @@
     "Misterio"
    ],
    "agregada": "2026-07-15",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1688652,
@@ -19905,8 +19612,7 @@
     "Comedia"
    ],
    "agregada": "2026-07-15",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1029955,
@@ -19966,8 +19672,7 @@
     "Drama"
    ],
    "agregada": "2026-07-15",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1564614,
@@ -20030,8 +19735,7 @@
     "Romance"
    ],
    "agregada": "2026-07-15",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 9373,
@@ -20102,8 +19806,7 @@
     "Terror"
    ],
    "agregada": "2026-07-19",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 128489,
@@ -20144,8 +19847,7 @@
     "Misterio"
    ],
    "agregada": "2026-07-21",
-   "hd_desde": null,
-   "en_play": false
+   "hd_desde": null
   },
   {
    "id": 703,
@@ -20218,8 +19920,7 @@
     "Romance"
    ],
    "agregada": "2026-07-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 696,
@@ -20292,8 +19993,7 @@
     "Romance"
    ],
    "agregada": "2026-07-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 475303,
@@ -20361,8 +20061,7 @@
     "Romance"
    ],
    "agregada": "2026-07-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 2654,
@@ -20432,8 +20131,7 @@
     "Misterio"
    ],
    "agregada": "2026-07-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 25623,
@@ -20491,8 +20189,7 @@
     "Terror"
    ],
    "agregada": "2026-07-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 949423,
@@ -20564,8 +20261,7 @@
     "Terror"
    ],
    "agregada": "2026-07-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 504,
@@ -20620,8 +20316,7 @@
     "Drama"
    ],
    "agregada": "2026-07-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1677172,
@@ -20659,8 +20354,7 @@
     "Animación"
    ],
    "agregada": "2026-07-23",
-   "hd_desde": null,
-   "en_play": false
+   "hd_desde": null
   },
   {
    "id": 786,
@@ -20740,8 +20434,7 @@
     "Música"
    ],
    "agregada": "2026-07-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 107,
@@ -20815,8 +20508,7 @@
     "Comedia"
    ],
    "agregada": "2026-07-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 813,
@@ -20873,8 +20565,8 @@
    },
    "link": "https://www.themoviedb.org/movie/813-airplane/watch?locale=AR",
    "director": [
-    "Jerry Zucker",
-    "David Zucker"
+    "Jim Abrahams",
+    "Jerry Zucker"
    ],
    "reparto": [
     "Robert Hays",
@@ -20890,8 +20582,7 @@
     "Comedia"
    ],
    "agregada": "2026-07-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 3082,
@@ -20951,8 +20642,7 @@
     "Romance"
    ],
    "agregada": "2026-07-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 228150,
@@ -20998,7 +20688,6 @@
      "Google Play Movies",
      "YouTube",
      "Fandango At Home",
-     "FlixFling",
      "Plex"
     ],
     "buy": [
@@ -21029,8 +20718,7 @@
     "Acción"
    ],
    "agregada": "2026-07-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1170608,
@@ -21071,8 +20759,7 @@
    ],
    "agregada": "2026-07-23",
    "hd_desde": null,
-   "prioridad": true,
-   "en_play": false
+   "prioridad": true
   },
   {
    "id": 1003598,
@@ -21114,8 +20801,7 @@
     "Aventura"
    ],
    "agregada": "2026-07-23",
-   "hd_desde": null,
-   "en_play": false
+   "hd_desde": null
   },
   {
    "id": 911916,
@@ -21157,8 +20843,7 @@
     "Aventura"
    ],
    "agregada": "2026-07-23",
-   "hd_desde": null,
-   "en_play": false
+   "hd_desde": null
   },
   {
    "id": 13651,
@@ -21201,8 +20886,7 @@
     "Comedia"
    ],
    "agregada": "2026-07-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 47383,
@@ -21235,8 +20919,8 @@
    "plataformas_us": {},
    "link": "https://www.themoviedb.org/movie/47383-el-hombre-de-al-lado/watch?locale=AR",
    "director": [
-    "Gastón Duprat",
-    "Mariano Cohn"
+    "Mariano Cohn",
+    "Gastón Duprat"
    ],
    "reparto": [
     "Rafael Spregelburd",
@@ -21254,8 +20938,7 @@
     "Comedia"
    ],
    "agregada": "2026-07-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 29263,
@@ -21313,8 +20996,7 @@
     "Historia"
    ],
    "agregada": "2026-07-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 66862,
@@ -21356,8 +21038,7 @@
     "Drama"
    ],
    "agregada": "2026-07-23",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 38368,
@@ -21419,8 +21100,7 @@
     "Fantasía"
    ],
    "agregada": "2026-07-24",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1946,
@@ -21475,8 +21155,7 @@
     "Ciencia ficción"
    ],
    "agregada": "2026-07-28",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 9540,
@@ -21532,8 +21211,7 @@
     "Terror"
    ],
    "agregada": "2026-07-28",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 37257,
@@ -21611,8 +21289,7 @@
     "Crimen"
    ],
    "agregada": "2026-07-29",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 284,
@@ -21688,8 +21365,7 @@
     "Romance"
    ],
    "agregada": "2026-07-29",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 599,
@@ -21763,8 +21439,7 @@
     "Drama"
    ],
    "agregada": "2026-07-29",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 239,
@@ -21841,8 +21516,7 @@
     "Crimen"
    ],
    "agregada": "2026-07-29",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1443,
@@ -21909,8 +21583,7 @@
     "Romance"
    ],
    "agregada": "2026-07-29",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1933,
@@ -21989,8 +21662,7 @@
     "Suspense"
    ],
    "agregada": "2026-07-30",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 9299,
@@ -22053,8 +21725,7 @@
     "Suspense"
    ],
    "agregada": "2026-07-30",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 968,
@@ -22120,8 +21791,7 @@
     "Suspense"
    ],
    "agregada": "2026-08-01",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 9040,
@@ -22182,8 +21852,7 @@
     "Drama"
    ],
    "agregada": "2026-08-01",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 7972,
@@ -22257,8 +21926,7 @@
     "Suspense"
    ],
    "agregada": "2026-08-01",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1386618,
@@ -22298,8 +21966,7 @@
     "Aventura"
    ],
    "agregada": "2026-08-02",
-   "hd_desde": null,
-   "en_play": false
+   "hd_desde": null
   },
   {
    "id": 1084244,
@@ -22362,8 +22029,7 @@
     "Comedia"
    ],
    "agregada": "2026-08-02",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 18329,
@@ -22433,8 +22099,7 @@
     "Romance"
    ],
    "agregada": "2026-08-02",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 3112,
@@ -22511,8 +22176,7 @@
     "Suspense"
    ],
    "agregada": "2026-08-05",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 11902,
@@ -22571,8 +22235,7 @@
     "Bélica"
    ],
    "agregada": "2026-08-05",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 336000,
@@ -22642,8 +22305,7 @@
     "Drama"
    ],
    "agregada": "2026-08-07",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 806704,
@@ -22684,8 +22346,7 @@
     "Crimen"
    ],
    "agregada": "2026-08-07",
-   "hd_desde": null,
-   "en_play": false
+   "hd_desde": null
   },
   {
    "id": 40807,
@@ -22747,8 +22408,7 @@
     "Drama"
    ],
    "agregada": "2026-08-07",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1375441,
@@ -22802,8 +22462,7 @@
    ],
    "agregada": "2026-08-07",
    "hd_desde": "2026-11-16",
-   "prioridad": true,
-   "en_play": false
+   "prioridad": true
   },
   {
    "id": 1903,
@@ -22880,8 +22539,7 @@
     "Ciencia ficción"
    ],
    "agregada": "2026-08-11",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1682479,
@@ -22917,8 +22575,7 @@
     "Documental"
    ],
    "agregada": "2026-08-12",
-   "hd_desde": null,
-   "en_play": false
+   "hd_desde": null
   },
   {
    "id": 832,
@@ -22974,8 +22631,7 @@
     "Crimen"
    ],
    "agregada": "2026-08-12",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 9800,
@@ -23042,8 +22698,7 @@
     "Drama"
    ],
    "agregada": "2026-08-14",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 2160,
@@ -23092,8 +22747,7 @@
     "Ciencia ficción"
    ],
    "agregada": "2026-08-21",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 949,
@@ -23161,8 +22815,7 @@
     "Acción"
    ],
    "agregada": "2026-08-25",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 586810,
@@ -23231,8 +22884,7 @@
     "Suspense"
    ],
    "agregada": "2026-08-26",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 38985,
@@ -23289,8 +22941,7 @@
     "Acción"
    ],
    "agregada": "2026-08-26",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 14626,
@@ -23349,8 +23000,7 @@
     "Drama"
    ],
    "agregada": "2026-08-26",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 501,
@@ -23415,8 +23065,7 @@
     "Documental"
    ],
    "agregada": "2026-08-26",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 802,
@@ -23488,8 +23137,7 @@
     "Romance"
    ],
    "agregada": "2026-08-26",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 975,
@@ -23560,8 +23208,7 @@
     "Drama"
    ],
    "agregada": "2026-08-26",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 28422,
@@ -23602,8 +23249,7 @@
     "Romance"
    ],
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 12720,
@@ -23657,8 +23303,7 @@
     "Suspense"
    ],
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 42229,
@@ -23716,8 +23361,7 @@
     "Romance"
    ],
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 41876,
@@ -23757,8 +23401,7 @@
     "Historia"
    ],
    "agregada": "2026-08-30",
-   "hd_desde": null,
-   "en_play": false
+   "hd_desde": null
   },
   {
    "id": 179144,
@@ -23824,8 +23467,7 @@
     "Drama"
    ],
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 24192,
@@ -23883,8 +23525,7 @@
     "Drama"
    ],
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 7857,
@@ -23945,8 +23586,7 @@
     "Drama"
    ],
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 21135,
@@ -24000,8 +23640,7 @@
     "Romance"
    ],
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 8416,
@@ -24060,8 +23699,7 @@
     "Drama"
    ],
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 8422,
@@ -24123,8 +23761,7 @@
     "Crimen"
    ],
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1394,
@@ -24183,8 +23820,7 @@
     "Romance"
    ],
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 307,
@@ -24250,8 +23886,7 @@
     "Bélica"
    ],
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 41050,
@@ -24308,8 +23943,7 @@
     "Romance"
    ],
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 17295,
@@ -24377,8 +24011,7 @@
     "Historia"
    ],
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 335,
@@ -24448,8 +24081,7 @@
     "Western"
    ],
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 5165,
@@ -24506,8 +24138,7 @@
     "Romance"
    ],
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 439,
@@ -24547,8 +24178,7 @@
     "Drama"
    ],
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1040,
@@ -24606,8 +24236,7 @@
     "Drama"
    ],
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 19426,
@@ -24665,8 +24294,7 @@
     "Comedia"
    ],
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 72721,
@@ -24721,8 +24349,7 @@
     "Documental"
    ],
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 865569,
@@ -24761,8 +24388,7 @@
     "Drama"
    ],
    "agregada": "2026-08-30",
-   "hd_desde": null,
-   "en_play": false
+   "hd_desde": null
   },
   {
    "id": 1675,
@@ -24802,8 +24428,7 @@
     "Drama"
    ],
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1779,
@@ -24868,8 +24493,7 @@
     "Comedia"
    ],
    "agregada": "2026-08-30",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 638,
@@ -24930,8 +24554,7 @@
     "Misterio"
    ],
    "agregada": "2026-09-01",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1637,
@@ -24993,8 +24616,7 @@
     "Suspense"
    ],
    "agregada": "2026-09-02",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 9472,
@@ -25055,8 +24677,7 @@
     "Comedia"
    ],
    "agregada": "2026-09-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1492198,
@@ -25064,7 +24685,7 @@
    "titulo": "Artificial",
    "fecha": "2026-12-25",
    "poster": "/tD4JOGcI5SSBKSFo4coObYwRlxE.jpg",
-   "fondo": "/sTKpFaObARrgKXU3099qbBjLLod.jpg",
+   "fondo": "/ovHvZm64SPWJyE3xbEFfDsFmaR8.jpg",
    "puntaje": 0.0,
    "sinopsis": "En noviembre de 2023, en pleno auge mundial de la inteligencia artificial, el cofundador de OpenAI, Ilya Sutskever, se alió con la junta directiva de la empresa para tomar una de las decisiones más determinantes, la cual transformó radicalmente la compañía tal como la conocemos: la destitución del actual director ejecutivo, Sam Altman. Esta controvertida decisión provocó una reacción de rechazo masiva que, finalmente, desembocó en el regreso de Altman cinco días después.",
    "hd": false,
@@ -25097,15 +24718,14 @@
     "Comedia"
    ],
    "agregada": "2026-09-05",
-   "hd_desde": null,
-   "en_play": false
+   "hd_desde": null
   },
   {
    "id": 1288059,
    "tipo": "movie",
    "titulo": "Quiero tu sexo",
    "fecha": "2026-07-29",
-   "poster": "/aMFx35t0T61S1ILDZrycPFRu95u.jpg",
+   "poster": "/elfSneOaK7vJaIr7DgLYJ0Fvj4c.jpg",
    "fondo": "/34z9eBtEBv6QoroLuUA55cU3e8Q.jpg",
    "puntaje": 5.9,
    "sinopsis": "Cuando el joven e ingenuo Elliot consigue un emocionante trabajo para Erika Tracy, una reconocida artista, ícono y provocadora, sus fantasías se hacen realidad cuando ella lo elige para convertirlo en su musa sexual. Pero Elliot pronto descubre que la situación lo supera, mientras Erika lo conduce por un viaje mucho más profundo de lo que jamás habría imaginado, adentrándolo en un mundo de sexo, obsesión, poder, traición y asesinato.",
@@ -25155,8 +24775,7 @@
     "Misterio"
    ],
    "agregada": "2026-09-07",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 10428,
@@ -25232,8 +24851,7 @@
     "Suspense"
    ],
    "agregada": "2026-09-08",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 812583,
@@ -25283,8 +24901,7 @@
     "Comedia"
    ],
    "agregada": "2026-09-08",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 228967,
@@ -25338,8 +24955,8 @@
    },
    "link": "https://www.themoviedb.org/movie/228967-the-interview/watch?locale=AR",
    "director": [
-    "Seth Rogen",
-    "Evan Goldberg"
+    "Evan Goldberg",
+    "Seth Rogen"
    ],
    "reparto": [
     "James Franco",
@@ -25356,8 +24973,7 @@
     "Comedia"
    ],
    "agregada": "2026-09-11",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 109414,
@@ -25412,8 +25028,8 @@
    },
    "link": "https://www.themoviedb.org/movie/109414-this-is-the-end/watch?locale=AR",
    "director": [
-    "Seth Rogen",
-    "Evan Goldberg"
+    "Evan Goldberg",
+    "Seth Rogen"
    ],
    "reparto": [
     "James Franco",
@@ -25430,8 +25046,7 @@
     "Comedia"
    ],
    "agregada": "2026-09-11",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1796809,
@@ -25470,8 +25085,7 @@
     "Terror"
    ],
    "agregada": "2026-09-12",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1248832,
@@ -25511,8 +25125,7 @@
     "Drama"
    ],
    "agregada": "2026-09-13",
-   "hd_desde": null,
-   "en_play": false
+   "hd_desde": null
   },
   {
    "id": 27072,
@@ -25556,8 +25169,7 @@
     "Drama"
    ],
    "agregada": "2026-09-15",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 2756,
@@ -25623,8 +25235,7 @@
     "Ciencia ficción"
    ],
    "agregada": "2026-09-16",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 518776,
@@ -25677,8 +25288,7 @@
     "Documental"
    ],
    "agregada": "2026-09-16",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 43003,
@@ -25734,8 +25344,7 @@
     "Documental"
    ],
    "agregada": "2026-09-16",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1480,
@@ -25799,8 +25408,7 @@
     "Drama"
    ],
    "agregada": "2026-09-16",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 3766,
@@ -25857,8 +25465,7 @@
     "Suspense"
    ],
    "agregada": "2026-09-16",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1483525,
@@ -25867,7 +25474,7 @@
    "fecha": "2026-09-23",
    "poster": "/bYlv7oanFQB4zfTdDSGMz9cz1df.jpg",
    "fondo": "/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
-   "puntaje": 7.2,
+   "puntaje": 7.1,
    "sinopsis": "Un trabajador despedido y su esposa se cruzan con una documentalista y su pareja, y se enfrentan a sus deseos ocultos.",
    "hd": true,
    "motivo": "Disponible en Argentina",
@@ -25906,8 +25513,7 @@
     "Drama"
    ],
    "agregada": "2026-09-16",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1423191,
@@ -25970,8 +25576,7 @@
    ],
    "agregada": "2026-09-19",
    "hd_desde": "2026-11-16",
-   "prioridad": true,
-   "en_play": false
+   "prioridad": true
   },
   {
    "id": 109,
@@ -26028,15 +25633,14 @@
     "Misterio"
    ],
    "agregada": "2026-09-20",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 1706935,
    "tipo": "movie",
    "titulo": "Untitled Fred Astaire Biopic",
    "fecha": null,
-   "poster": "/3J0LwxNEG3UJ1OgqR9bbeZowP6U.jpg",
+   "poster": null,
    "fondo": null,
    "puntaje": 0.0,
    "sinopsis": "A biopic about Fred Astaire, centering on the relationship between Astaire and his sister, Adele Astaire. Plot TBA.",
@@ -26067,8 +25671,7 @@
     "Drama"
    ],
    "agregada": "2026-09-26",
-   "hd_desde": null,
-   "en_play": false
+   "hd_desde": null
   },
   {
    "id": 1265,
@@ -26127,8 +25730,7 @@
     "Familia"
    ],
    "agregada": "2026-10-03",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 437583,
@@ -26191,8 +25793,7 @@
     "Romance"
    ],
    "agregada": "2026-10-16",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 2011,
@@ -26240,8 +25841,8 @@
    },
    "link": "https://www.themoviedb.org/movie/2011-persepolis/watch?locale=AR",
    "director": [
-    "Vincent Paronnaud",
-    "Marjane Satrapi"
+    "Marjane Satrapi",
+    "Vincent Paronnaud"
    ],
    "reparto": [
     "Chiara Mastroianni",
@@ -26258,8 +25859,7 @@
     "Drama"
    ],
    "agregada": "2026-10-20",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 791523,
@@ -26301,8 +25901,7 @@
    ],
    "agregada": "2026-10-24",
    "hd_desde": null,
-   "prioridad": true,
-   "en_play": true
+   "prioridad": true
   },
   {
    "id": 397243,
@@ -26378,8 +25977,7 @@
     "Misterio"
    ],
    "agregada": "2026-10-24",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 13310,
@@ -26446,8 +26044,7 @@
     "Drama"
    ],
    "agregada": "2026-10-24",
-   "hd_desde": "2026-11-16",
-   "en_play": false
+   "hd_desde": "2026-11-16"
   },
   {
    "id": 891621,
@@ -26489,8 +26086,7 @@
    ],
    "agregada": "2026-11-17",
    "hd_desde": null,
-   "prioridad": true,
-   "en_play": true
+   "prioridad": true
   },
   {
    "id": 1381071,
@@ -26531,8 +26127,7 @@
     "Acción"
    ],
    "agregada": "2026-11-17",
-   "hd_desde": null,
-   "en_play": true
+   "hd_desde": null
   },
   {
    "id": 1765072,
@@ -26556,7 +26151,8 @@
     "rent": [
      "Amazon Video",
      "Apple TV Store",
-     "Fandango At Home"
+     "Fandango At Home",
+     "Plex"
     ],
     "buy": [
      "Amazon Video",
@@ -26584,8 +26180,7 @@
    ],
    "agregada": "2026-11-17",
    "hd_desde": "2026-11-25",
-   "prioridad": true,
-   "en_play": false
+   "prioridad": true
   },
   {
    "id": 1400940,
@@ -26627,8 +26222,7 @@
    ],
    "agregada": "2026-11-17",
    "hd_desde": null,
-   "prioridad": true,
-   "en_play": true
+   "prioridad": true
   },
   {
    "id": 1003596,
@@ -26670,8 +26264,7 @@
     "Aventura"
    ],
    "hd_desde": null,
-   "prioridad": true,
-   "en_play": false
+   "prioridad": true
   },
   {
    "id": 1526844,
@@ -26710,8 +26303,7 @@
     "Drama"
    ],
    "hd_desde": null,
-   "prioridad": true,
-   "en_play": false
+   "prioridad": true
   }
  ]
 }
