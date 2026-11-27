@@ -1,15 +1,15 @@
 {
- "actualizado": "2026-11-27T01:48:32.735121+00:00",
+ "actualizado": "2026-11-27T08:26:50.000127+00:00",
  "pelis_hoy": [
   {
-   "id": 1458300,
+   "id": 1153576,
    "tipo": "movie",
-   "titulo": "Mosquito Bowl: Un partido en plena guerra",
-   "fecha": "2026-10-29",
-   "poster": "/yWhMnr8pkhgZ1rGlj4z2dxLbS99.jpg",
-   "fondo": "/k2djfMwL3LhpvZMfPN7IFX4DG5N.jpg",
-   "puntaje": 7.3,
-   "sinopsis": "Tras el ataque a Pearl Harbor, cuatro estrellas del fútbol americano se alistan en el cuerpo de Marines y descubren la importancia de la camaradería y el coste de la guerra."
+   "titulo": "Street Fighter",
+   "fecha": "2026-10-13",
+   "poster": "/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
+   "fondo": "/3BBjkQmdGacKYZtpmK2vIfuDmON.jpg",
+   "puntaje": 6.2,
+   "sinopsis": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!"
   },
   {
    "id": 1003596,
@@ -20,6 +20,16 @@
    "fondo": "/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
    "puntaje": 0.0,
    "sinopsis": "Los héroes más queridos de tres universos distintos son abocados a una colisión catastrófica donde tendrán que hacer frente a la mayor amenaza a su existencia hasta la fecha."
+  },
+  {
+   "id": 1458300,
+   "tipo": "movie",
+   "titulo": "Mosquito Bowl: Un partido en plena guerra",
+   "fecha": "2026-10-29",
+   "poster": "/uYjAyQJTsZMyVvAWsjnXQaci4Zj.jpg",
+   "fondo": "/nfcXn5yvBejpbljQIBrTlOMQZoC.jpg",
+   "puntaje": 7.6,
+   "sinopsis": "Tras el ataque a Pearl Harbor, cuatro estrellas del fútbol americano se alistan en el cuerpo de Marines y descubren la importancia de la camaradería y el coste de la guerra."
   },
   {
    "id": 1280115,
@@ -38,28 +48,8 @@
    "fecha": "2026-11-25",
    "poster": "/zPaypaMulDEVhuTCN1hPN1Hg4DI.jpg",
    "fondo": "/wdjW11Tp4w9EfDBxbjyBJvDVHDA.jpg",
-   "puntaje": 5.8,
+   "puntaje": 5.5,
    "sinopsis": "Billie, una adolescente impulsiva y poco convencional, desata accidentalmente unos poderes mágicos secretos y sale disparada de los suburbios hacia un reino mágico llamado Hexe, donde la reciben Ms. Quill y Elias Quire. A medida que se desarrolla el viaje de Billie, descubre misterios familiares que podrían cambiar para siempre el mundo mágico de las brujas."
-  },
-  {
-   "id": 1300968,
-   "tipo": "movie",
-   "titulo": "Los juegos del hambre: Amanecer en la cosecha",
-   "fecha": "2026-11-18",
-   "poster": "/eKYwrBki1B2DqS3ZtSN1IyVL7lW.jpg",
-   "fondo": "/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
-   "puntaje": 7.8,
-   "sinopsis": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy."
-  },
-  {
-   "id": 1281331,
-   "tipo": "movie",
-   "titulo": "El Precio de la Red",
-   "fecha": "2026-10-07",
-   "poster": "/6OOJvaYJnXNEVnbZAJBHcMqbY3q.jpg",
-   "fondo": "/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
-   "puntaje": 7.0,
-   "sinopsis": "Explora las prácticas internas de Facebook, la difusión de información falsa, el impacto en la salud mental de los adolescentes y la conexión con los eventos del 6 de enero en el Capitolio."
   },
   {
    "id": 969681,
@@ -72,14 +62,14 @@
    "sinopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad—un Spider-Man a tiempo completo—, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrenta"
   },
   {
-   "id": 1765072,
+   "id": 1300968,
    "tipo": "movie",
-   "titulo": "Puedes verlo todo",
-   "fecha": "2026-10-16",
-   "poster": "/hcuFuAlGeQy1yKhd3I0hZ5sgCzl.jpg",
-   "fondo": "/fnIcdPVaO4JAzfLhv8OVEqFK6a7.jpg",
-   "puntaje": 8.6,
-   "sinopsis": "Treinta y cuatro días antes de ingresar en prisión, la famosa fundadora de Theranos, Elizabeth Holmes, invita a un equipo de rodaje escéptico a documentar cada uno de sus movimientos. Lo que comienza como un retrato íntimo se convierte en un alucinante viaje de tres años."
+   "titulo": "Los juegos del hambre: Amanecer en la cosecha",
+   "fecha": "2026-11-18",
+   "poster": "/jIsgnEnvk6JWNkzUBi4pCtXhh5t.jpg",
+   "fondo": "/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+   "puntaje": 7.8,
+   "sinopsis": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy."
   },
   {
    "id": 1368337,
@@ -92,14 +82,14 @@
    "sinopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá."
   },
   {
-   "id": 1153576,
+   "id": 1765072,
    "tipo": "movie",
-   "titulo": "Street Fighter",
-   "fecha": "2026-10-13",
-   "poster": "/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
-   "fondo": "/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
-   "puntaje": 6.2,
-   "sinopsis": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!"
+   "titulo": "Puedes verlo todo",
+   "fecha": "2026-10-16",
+   "poster": "/hcuFuAlGeQy1yKhd3I0hZ5sgCzl.jpg",
+   "fondo": "/fnIcdPVaO4JAzfLhv8OVEqFK6a7.jpg",
+   "puntaje": 8.6,
+   "sinopsis": "Treinta y cuatro días antes de ingresar en prisión, la famosa fundadora de Theranos, Elizabeth Holmes, invita a un equipo de rodaje escéptico a documentar cada uno de sus movimientos. Lo que comienza como un retrato íntimo se convierte en un alucinante viaje de tres años."
   },
   {
    "id": 1195803,
@@ -112,26 +102,6 @@
    "sinopsis": "Una pescadora vive en la periferia de un pueblo costero; es soltera, apestosa y objeto de burlas constantes. Un día, harta de sus estirados y estrechos vecinos, encarga un marido de mimbre para ella."
   },
   {
-   "id": 1400336,
-   "tipo": "movie",
-   "titulo": "Ahora los suegros son ellos",
-   "fecha": "2026-11-21",
-   "poster": "/iU2XxFhMxC5Z2gOPASkRmtuDjJQ.jpg",
-   "fondo": "/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
-   "puntaje": 7.1,
-   "sinopsis": "Henry, hijo de Greg y Pam Focker, se enfrenta al caos familiar cuando decide casarse con una mujer de carácter fuerte que parece ser totalmente incompatible con él."
-  },
-  {
-   "id": 1595124,
-   "tipo": "movie",
-   "titulo": "Hermanastras",
-   "fecha": "2026-11-20",
-   "poster": "/5f69fuZBiPoa8H1AJ3UHH4AztOb.jpg",
-   "fondo": "/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
-   "puntaje": 7.1,
-   "sinopsis": "En esta encantadora e inusual comedia de acción, la hermanastra «malvada» de Cenicienta roba la varita del Hada Madrina y destruye la historia que conoce todo el mundo."
-  },
-  {
    "id": 1170608,
    "tipo": "movie",
    "titulo": "Dune: Parte tres",
@@ -142,13 +112,53 @@
    "sinopsis": "Como emperador, Paul Atreides se enfrenta a las consecuencias de su ascenso al poder, mientras conspiraciones políticas y una guerra santa que abarca toda la galaxia amenazan el futuro que solo él puede prever."
   },
   {
+   "id": 1400336,
+   "tipo": "movie",
+   "titulo": "Ahora los suegros son ellos",
+   "fecha": "2026-11-21",
+   "poster": "/iU2XxFhMxC5Z2gOPASkRmtuDjJQ.jpg",
+   "fondo": "/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
+   "puntaje": 7.1,
+   "sinopsis": "Henry, hijo de Greg y Pam Focker, se enfrenta al caos familiar cuando decide casarse con una mujer de carácter fuerte que parece ser totalmente incompatible con él."
+  },
+  {
+   "id": 1281331,
+   "tipo": "movie",
+   "titulo": "El Precio de la Red",
+   "fecha": "2026-10-07",
+   "poster": "/6OOJvaYJnXNEVnbZAJBHcMqbY3q.jpg",
+   "fondo": "/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
+   "puntaje": 7.0,
+   "sinopsis": "Explora las prácticas internas de Facebook, la difusión de información falsa, el impacto en la salud mental de los adolescentes y la conexión con los eventos del 6 de enero en el Capitolio."
+  },
+  {
+   "id": 1269325,
+   "tipo": "movie",
+   "titulo": "दृश्यम: आखिरी हिस्सा",
+   "fecha": "2026-10-02",
+   "poster": "/7T62GSduOWDMB0gGDBs9pmtLTSB.jpg",
+   "fondo": "/slSC0xYHynkHAwIdLPqfW9Blcow.jpg",
+   "puntaje": 7.7,
+   "sinopsis": ""
+  },
+  {
+   "id": 1595124,
+   "tipo": "movie",
+   "titulo": "Hermanastras",
+   "fecha": "2026-11-20",
+   "poster": "/5f69fuZBiPoa8H1AJ3UHH4AztOb.jpg",
+   "fondo": "/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
+   "puntaje": 7.0,
+   "sinopsis": "En esta encantadora e inusual comedia de acción, la hermanastra «malvada» de Cenicienta roba la varita del Hada Madrina y destruye la historia que conoce todo el mundo."
+  },
+  {
    "id": 1496696,
    "tipo": "movie",
    "titulo": "Breeder",
    "fecha": "2026-10-28",
    "poster": "/alsb3UC17kxIcytLWvwkmL0STgU.jpg",
    "fondo": "/l5gJE9xW1FFtub3gUezh1PjBbY5.jpg",
-   "puntaje": 7.5,
+   "puntaje": 7.6,
    "sinopsis": ""
   },
   {
@@ -162,14 +172,24 @@
    "sinopsis": "Dos editores rivales, Ryan Michell y Hannah Hendricks, se quedan tirados por una nevada navideña y se ven obligados a alquilar un coche para viajar a Nueva York, donde podrán salvar su carrera. Conforme se acumulan los percances en carretera y los desvíos hacia pueblecitos, el espíritu navideño consigue que su gran rivalidad se convierta en algo inesperado."
   },
   {
-   "id": 1423191,
+   "id": 1391021,
    "tipo": "movie",
-   "titulo": "Resident Evil",
-   "fecha": "2026-09-16",
-   "poster": "/vrLEVObLGbUinE4sC4Lqao2dK0E.jpg",
-   "fondo": "/vqNSvCFknXObgqn7nOFrJVEeGht.jpg",
-   "puntaje": 7.5,
-   "sinopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor."
+   "titulo": "欢迎来龙餐馆",
+   "fecha": "2026-08-08",
+   "poster": "/2OJX7udqqpk5c82pXXdL2hnny0D.jpg",
+   "fondo": "/hgKtkrPT1mQEWRem7YO6kh3Jf7Q.jpg",
+   "puntaje": 8.9,
+   "sinopsis": ""
+  },
+  {
+   "id": 1101412,
+   "tipo": "movie",
+   "titulo": "Fall 2: Deadpoint",
+   "fecha": "2026-09-01",
+   "poster": "/ccBIyg1ITvuCDr4eMeEH0ZgNh4t.jpg",
+   "fondo": "/nGau0KBOaRILSK5MqFcuTfv7GMl.jpg",
+   "puntaje": 7.2,
+   "sinopsis": "Tras perder a su intrépida hermana Shiloh, Jax, profundamente dolida, emprende una peligrosa escalada con Luce, una vieja amiga de Shiloh, para honrar su memoria. Mientras caminan sobre la cuerda floja por los peligrosos tablones del monte Kwan, un aterrador desprendimiento de rocas les deja varados a 1.500 metros de altura. En medio de vértigos, verdades oscuras y giros crueles, Jax debe enfrentarse a sus miedos más profundos para luchar por la supervivencia y el final."
   },
   {
    "id": 1381071,
@@ -178,28 +198,8 @@
    "fecha": "2026-11-03",
    "poster": "/2B7ZSUutCgwUAE5U0X7WlD8yiun.jpg",
    "fondo": "/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-   "puntaje": 7.7,
+   "puntaje": 7.6,
    "sinopsis": "La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida cotidiana. Justo cuando la humanidad lograba aferrarse a una paz duramente conquistada, una nueva amenaza irrumpe, aplastando la esperanza en un instante."
-  },
-  {
-   "id": 1457866,
-   "tipo": "movie",
-   "titulo": "Las nuevas desventuras de Cliff Booth",
-   "fecha": "2026-11-24",
-   "poster": "/40bbOEa0ISI1KQmQmy2zQ2DD0tD.jpg",
-   "fondo": "/aRO4TuqF8dkRCb5tPlsSlpJbmQD.jpg",
-   "puntaje": 8.0,
-   "sinopsis": "Ocho años después de los eventos de \"Érase una vez en... Hollywood\", Cliff Booth regresa a un Los Ángeles cambiante. Ahora trabajando como \"fixer\" en las sombras del sistema de estudios de Hollywood, Cliff se verá envuelto en una peligrosa red de secretos, crímenes y traiciones que pondrán a prueba todo lo que conoce sobre lealtad y supervivencia."
-  },
-  {
-   "id": 1401459,
-   "tipo": "movie",
-   "titulo": "Fiordo",
-   "fecha": "2026-06-13",
-   "poster": "/9L7ND90Rl6RANG5l0Z5ZfsI3RET.jpg",
-   "fondo": "/iPVAMaI0W4lr7Rl56m0H388eR5.jpg",
-   "puntaje": 7.3,
-   "sinopsis": "Los Gheorghius, una pareja rumano‑noruega muy devota, se instala en un pueblo remoto junto a un fiordo, donde entablan una estrecha amistad con sus vecinos, los Halbergs. Sus hijos se hacen amigos pese a haber sido educados de forma muy distinta. Todo cambia cuando la adolescente Elia Gheorghiu aparece en el colegio con moratones, y la comunidad se pregunta si la educación tradicional que reciben los hijos de los Gheorghiu puede estar relacionada."
   }
  ],
  "pelis_semana": [
@@ -218,7 +218,7 @@
    "tipo": "movie",
    "titulo": "Los juegos del hambre: Amanecer en la cosecha",
    "fecha": "2026-11-18",
-   "poster": "/eKYwrBki1B2DqS3ZtSN1IyVL7lW.jpg",
+   "poster": "/jIsgnEnvk6JWNkzUBi4pCtXhh5t.jpg",
    "fondo": "/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
    "puntaje": 7.8,
    "sinopsis": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy."
@@ -234,24 +234,24 @@
    "sinopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá."
   },
   {
+   "id": 1153576,
+   "tipo": "movie",
+   "titulo": "Street Fighter",
+   "fecha": "2026-10-13",
+   "poster": "/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
+   "fondo": "/3BBjkQmdGacKYZtpmK2vIfuDmON.jpg",
+   "puntaje": 6.2,
+   "sinopsis": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!"
+  },
+  {
    "id": 1538497,
    "tipo": "movie",
    "titulo": "Hechizo: Bienvenidos a Hexe",
    "fecha": "2026-11-25",
    "poster": "/zPaypaMulDEVhuTCN1hPN1Hg4DI.jpg",
    "fondo": "/wdjW11Tp4w9EfDBxbjyBJvDVHDA.jpg",
-   "puntaje": 5.8,
+   "puntaje": 5.5,
    "sinopsis": "Billie, una adolescente impulsiva y poco convencional, desata accidentalmente unos poderes mágicos secretos y sale disparada de los suburbios hacia un reino mágico llamado Hexe, donde la reciben Ms. Quill y Elias Quire. A medida que se desarrolla el viaje de Billie, descubre misterios familiares que podrían cambiar para siempre el mundo mágico de las brujas."
-  },
-  {
-   "id": 1595124,
-   "tipo": "movie",
-   "titulo": "Hermanastras",
-   "fecha": "2026-11-20",
-   "poster": "/5f69fuZBiPoa8H1AJ3UHH4AztOb.jpg",
-   "fondo": "/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
-   "puntaje": 7.1,
-   "sinopsis": "En esta encantadora e inusual comedia de acción, la hermanastra «malvada» de Cenicienta roba la varita del Hada Madrina y destruye la historia que conoce todo el mundo."
   },
   {
    "id": 969681,
@@ -264,6 +264,26 @@
    "sinopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad—un Spider-Man a tiempo completo—, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrenta"
   },
   {
+   "id": 1595124,
+   "tipo": "movie",
+   "titulo": "Hermanastras",
+   "fecha": "2026-11-20",
+   "poster": "/5f69fuZBiPoa8H1AJ3UHH4AztOb.jpg",
+   "fondo": "/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
+   "puntaje": 7.0,
+   "sinopsis": "En esta encantadora e inusual comedia de acción, la hermanastra «malvada» de Cenicienta roba la varita del Hada Madrina y destruye la historia que conoce todo el mundo."
+  },
+  {
+   "id": 1458300,
+   "tipo": "movie",
+   "titulo": "Mosquito Bowl: Un partido en plena guerra",
+   "fecha": "2026-10-29",
+   "poster": "/uYjAyQJTsZMyVvAWsjnXQaci4Zj.jpg",
+   "fondo": "/nfcXn5yvBejpbljQIBrTlOMQZoC.jpg",
+   "puntaje": 7.6,
+   "sinopsis": "Tras el ataque a Pearl Harbor, cuatro estrellas del fútbol americano se alistan en el cuerpo de Marines y descubren la importancia de la camaradería y el coste de la guerra."
+  },
+  {
    "id": 1765072,
    "tipo": "movie",
    "titulo": "Puedes verlo todo",
@@ -272,16 +292,6 @@
    "fondo": "/fnIcdPVaO4JAzfLhv8OVEqFK6a7.jpg",
    "puntaje": 8.6,
    "sinopsis": "Treinta y cuatro días antes de ingresar en prisión, la famosa fundadora de Theranos, Elizabeth Holmes, invita a un equipo de rodaje escéptico a documentar cada uno de sus movimientos. Lo que comienza como un retrato íntimo se convierte en un alucinante viaje de tres años."
-  },
-  {
-   "id": 1458300,
-   "tipo": "movie",
-   "titulo": "Mosquito Bowl: Un partido en plena guerra",
-   "fecha": "2026-10-29",
-   "poster": "/yWhMnr8pkhgZ1rGlj4z2dxLbS99.jpg",
-   "fondo": "/rtrWdS4UrhqnH9wNEWOgrMBsmSa.jpg",
-   "puntaje": 7.4,
-   "sinopsis": "Tras el ataque a Pearl Harbor, cuatro estrellas del fútbol americano se alistan en el cuerpo de Marines y descubren la importancia de la camaradería y el coste de la guerra."
   },
   {
    "id": 1281331,
@@ -294,36 +304,6 @@
    "sinopsis": "Explora las prácticas internas de Facebook, la difusión de información falsa, el impacto en la salud mental de los adolescentes y la conexión con los eventos del 6 de enero en el Capitolio."
   },
   {
-   "id": 1195803,
-   "tipo": "movie",
-   "titulo": "Wicker",
-   "fecha": "2026-10-21",
-   "poster": "/ewPz6uvKrbKlQrLRi1r9NTZQLzN.jpg",
-   "fondo": "/r4DTGm1f1r23cyjRJ5kFMh7qYlj.jpg",
-   "puntaje": 7.6,
-   "sinopsis": "Una pescadora vive en la periferia de un pueblo costero; es soltera, apestosa y objeto de burlas constantes. Un día, harta de sus estirados y estrechos vecinos, encarga un marido de mimbre para ella."
-  },
-  {
-   "id": 1131943,
-   "tipo": "movie",
-   "titulo": "Madden",
-   "fecha": "2026-11-18",
-   "poster": "/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
-   "fondo": "/lRsapglJZIyMfGl8oQyNASlZqDC.jpg",
-   "puntaje": 6.5,
-   "sinopsis": "Narra la increíble trayectoria de John Madden junto a su mejor amigo y figura verdaderamente singular, Al Davis: desde su colaboración con los Raiders —con quienes ganaron un Super Bowl— hasta convertirse en la voz más reconocible del fútbol americano y crear la serie de videojuegos Madden NFL, conocida a nivel mundial."
-  },
-  {
-   "id": 1153576,
-   "tipo": "movie",
-   "titulo": "Street Fighter",
-   "fecha": "2026-10-13",
-   "poster": "/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
-   "fondo": "/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
-   "puntaje": 6.2,
-   "sinopsis": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!"
-  },
-  {
    "id": 1280115,
    "tipo": "movie",
    "titulo": "El camino del pequeño guerrero",
@@ -332,16 +312,6 @@
    "fondo": "/vOByLZRhCIIItlSlCT7bYbI9MYL.jpg",
    "puntaje": 7.6,
    "sinopsis": "Jake es un SEAL de la Marina herido que se convierte en el mentor de su tímido sobrino Marc. Utilizando los principios de su formación militar, Jake enseña a Marc a ser un pequeño guerrero cuando empieza el instituto."
-  },
-  {
-   "id": 1400336,
-   "tipo": "movie",
-   "titulo": "Ahora los suegros son ellos",
-   "fecha": "2026-11-21",
-   "poster": "/iU2XxFhMxC5Z2gOPASkRmtuDjJQ.jpg",
-   "fondo": "/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
-   "puntaje": 7.1,
-   "sinopsis": "Henry, hijo de Greg y Pam Focker, se enfrenta al caos familiar cuando decide casarse con una mujer de carácter fuerte que parece ser totalmente incompatible con él."
   },
   {
    "id": 1170608,
@@ -354,6 +324,16 @@
    "sinopsis": "Como emperador, Paul Atreides se enfrenta a las consecuencias de su ascenso al poder, mientras conspiraciones políticas y una guerra santa que abarca toda la galaxia amenazan el futuro que solo él puede prever."
   },
   {
+   "id": 1195803,
+   "tipo": "movie",
+   "titulo": "Wicker",
+   "fecha": "2026-10-21",
+   "poster": "/ewPz6uvKrbKlQrLRi1r9NTZQLzN.jpg",
+   "fondo": "/r4DTGm1f1r23cyjRJ5kFMh7qYlj.jpg",
+   "puntaje": 7.6,
+   "sinopsis": "Una pescadora vive en la periferia de un pueblo costero; es soltera, apestosa y objeto de burlas constantes. Un día, harta de sus estirados y estrechos vecinos, encarga un marido de mimbre para ella."
+  },
+  {
    "id": 1611767,
    "tipo": "movie",
    "titulo": "Bronca Navidad",
@@ -362,6 +342,16 @@
    "fondo": "/x6kwEsxxqLIoqpIrZOXRV0LORqm.jpg",
    "puntaje": 6.1,
    "sinopsis": "Dos editores rivales, Ryan Michell y Hannah Hendricks, se quedan tirados por una nevada navideña y se ven obligados a alquilar un coche para viajar a Nueva York, donde podrán salvar su carrera. Conforme se acumulan los percances en carretera y los desvíos hacia pueblecitos, el espíritu navideño consigue que su gran rivalidad se convierta en algo inesperado."
+  },
+  {
+   "id": 1400336,
+   "tipo": "movie",
+   "titulo": "Ahora los suegros son ellos",
+   "fecha": "2026-11-21",
+   "poster": "/iU2XxFhMxC5Z2gOPASkRmtuDjJQ.jpg",
+   "fondo": "/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
+   "puntaje": 7.1,
+   "sinopsis": "Henry, hijo de Greg y Pam Focker, se enfrenta al caos familiar cuando decide casarse con una mujer de carácter fuerte que parece ser totalmente incompatible con él."
   },
   {
    "id": 1551025,
@@ -374,14 +364,14 @@
    "sinopsis": "Una estricta guardaespaldas viaja a un rancho de Montana con el famoso actor al que protege. Pero al fingir ser pareja por Navidad surge un amor real."
   },
   {
-   "id": 1381071,
+   "id": 1131943,
    "tipo": "movie",
-   "titulo": "Godzilla Minus Zero",
-   "fecha": "2026-11-03",
-   "poster": "/2B7ZSUutCgwUAE5U0X7WlD8yiun.jpg",
-   "fondo": "/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-   "puntaje": 7.7,
-   "sinopsis": "La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida cotidiana. Justo cuando la humanidad lograba aferrarse a una paz duramente conquistada, una nueva amenaza irrumpe, aplastando la esperanza en un instante."
+   "titulo": "Madden",
+   "fecha": "2026-11-18",
+   "poster": "/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
+   "fondo": "/lRsapglJZIyMfGl8oQyNASlZqDC.jpg",
+   "puntaje": 6.5,
+   "sinopsis": "Narra la increíble trayectoria de John Madden junto a su mejor amigo y figura verdaderamente singular, Al Davis: desde su colaboración con los Raiders —con quienes ganaron un Super Bowl— hasta convertirse en la voz más reconocible del fútbol americano y crear la serie de videojuegos Madden NFL, conocida a nivel mundial."
   },
   {
    "id": 1568060,
@@ -392,6 +382,16 @@
    "fondo": "/qKFLZz7rnZAJuyZ9HVEhwIINftz.jpg",
    "puntaje": 7.1,
    "sinopsis": "Bienvenidos a Tagus, donde el poder, el privilegio y los secretos mortales se esconden tras fachadas perfectas. Jude Derry llega a esta exclusiva universidad con una misión oculta: infiltrarse en el círculo de los hermanos Cash para descubrir la verdad sobre la muerte de su hermano. Los tres herederos del imperio familiar, Aegan, el carismático y calculador primogénito, Adrik, el enigmático y misterioso hermano mediano, y Alex, el rebelde e impredecible hermano pequeño, dominan Tagus con un magnetismo al que nadie puede resistirse. Lo que comienza como una venganza personal se transforma en un"
+  },
+  {
+   "id": 1381071,
+   "tipo": "movie",
+   "titulo": "Godzilla Minus Zero",
+   "fecha": "2026-11-03",
+   "poster": "/2B7ZSUutCgwUAE5U0X7WlD8yiun.jpg",
+   "fondo": "/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
+   "puntaje": 7.6,
+   "sinopsis": "La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida cotidiana. Justo cuando la humanidad lograba aferrarse a una paz duramente conquistada, una nueva amenaza irrumpe, aplastando la esperanza en un instante."
   },
   {
    "id": 1423191,
@@ -412,28 +412,18 @@
    "fecha": "2026-11-24",
    "poster": "/d8IKBDXQvj3d6clsjqydT4xcw14.jpg",
    "fondo": "/rACaCUxa8WAxkqdpZl0vGqBmIJg.jpg",
-   "puntaje": 5.3,
+   "puntaje": 5.2,
    "sinopsis": "Cora, una fugitiva convertida en Blade Runner, se alía con Olwen, una replicante moribunda, para dar caza a un fugitivo en un Los Ángeles renacido. Juntas descubren una verdad que amenaza con destruir su frágil ciudad."
   },
   {
    "id": 326247,
    "tipo": "tv",
-   "titulo": "Fool night",
+   "titulo": "Fool Night",
    "fecha": "2026-11-26",
    "poster": "/vTTr4YG3qIUq6E5uahU0fWSWch7.jpg",
    "fondo": "/rumSTVTcuZj0khFXxXgwXouIMgg.jpg",
    "puntaje": 9.0,
-   "sinopsis": "En un mundo oscuro lleno de desesperación, elige el camino de transformarse en una Flor Espiritual — una planta en la que los humanos se transforman. ¿Debería seguir viviendo como persona o desechar su dolor y empezar una nueva vida como planta? ¿Qué camino elegirías tú en su situación?"
-  },
-  {
-   "id": 84773,
-   "tipo": "tv",
-   "titulo": "El Señor de los Anillos: Los Anillos de Poder",
-   "fecha": "2022-09-01",
-   "poster": "/xdsgZ60TBFiuAIvGPtxRsjDt4NV.jpg",
-   "fondo": "/uVOcz7JBOuZxsx9IYpx6Ah174LX.jpg",
-   "puntaje": 7.2,
-   "sinopsis": "Un reparto coral de personajes —unos conocidos y otros nuevos— debe afrontar la reaparición del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta los majestuosos bosques de Lindon, desde el reino insular de Númenor hasta los extremos más remotos del mapa, estos parajes y personajes forjarán los legados que perdurarán más allá de su desaparición."
+   "sinopsis": "En un futuro sin sol donde los humanos se convierten en plantas para crear oxígeno, un joven desesperado inicia la transformación... y destapa una conspiración muy arraigada."
   },
   {
    "id": 244447,
@@ -446,24 +436,14 @@
    "sinopsis": "Sophie O'Neil se traslada al profundo este de Texas y sucumbe a los encantos de Margo, una socialité de la zona. Su vida pronto se ve consumida por la obsesión, la seducción y el asesinato"
   },
   {
-   "id": 338930,
+   "id": 84773,
    "tipo": "tv",
-   "titulo": "Servicio de Urgencias",
-   "fecha": "2026-11-26",
-   "poster": "/oFoT6GRACWN9X6fFvtCys0ViDUl.jpg",
-   "fondo": "/7JBjCdmH8kddW41YoipVVwQJllm.jpg",
-   "puntaje": 8.5,
-   "sinopsis": "En unas Urgencias saturadas de Oslo, un entregado equipo de profesionales médicos lidia con problemas personales, presiones políticas y una arriesgada incorporación."
-  },
-  {
-   "id": 279246,
-   "tipo": "tv",
-   "titulo": "La emperatriz divorciada",
-   "fecha": "2026-11-03",
-   "poster": "/7cS90VaWOqQhgmsT0FYXYmIMcRp.jpg",
-   "fondo": "/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-   "puntaje": 8.7,
-   "sinopsis": "Navier, la querida emperatriz del Imperio Oriental, gobierna junto al emperador Sovieshu. Pero cuando Sovieshu se enamora de una esclava fugitiva y pide el divorcio, Navier accede con la condición de poder volver a casarse con su rival, el príncipe Heinrey del Reino Occidental."
+   "titulo": "El Señor de los Anillos: Los Anillos de Poder",
+   "fecha": "2022-09-01",
+   "poster": "/xdsgZ60TBFiuAIvGPtxRsjDt4NV.jpg",
+   "fondo": "/uVOcz7JBOuZxsx9IYpx6Ah174LX.jpg",
+   "puntaje": 7.2,
+   "sinopsis": "Un reparto coral de personajes —unos conocidos y otros nuevos— debe afrontar la reaparición del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta los majestuosos bosques de Lindon, desde el reino insular de Númenor hasta los extremos más remotos del mapa, estos parajes y personajes forjarán los legados que perdurarán más allá de su desaparición."
   },
   {
    "id": 310209,
@@ -471,49 +451,9 @@
    "titulo": "De nueve a seis",
    "fecha": "2026-11-25",
    "poster": "/ivqPmbma8NSvw7BBNz4oK3hzPmX.jpg",
-   "fondo": "/y6vS0tG9uQPOU9y2YhuZ0Uga99c.jpg",
-   "puntaje": 5.0,
+   "fondo": "/eQQ5z8oHYBGTAVsvRm9TYibCWVD.jpg",
+   "puntaje": 6.5,
    "sinopsis": "Tras ser acusada del incendio de un coche, la directora de Chronic Motors es degradada de su cargo. ¿Encontrará el amor y la felicidad en la oficina?"
-  },
-  {
-   "id": 291507,
-   "tipo": "tv",
-   "titulo": "El cuerpo",
-   "fecha": "2026-11-11",
-   "poster": "/gmuXlkAxFTgy3TpWFf5cJ7Xw05c.jpg",
-   "fondo": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
-   "puntaje": 8.0,
-   "sinopsis": "La noche de Halloween, un grupo de baile femenino lidia con remordimientos, deseos impuros y visiones fantasmales cuando una novatada sale endemoniadamente mal."
-  },
-  {
-   "id": 302837,
-   "tipo": "tv",
-   "titulo": "El secuestro de Toos van der Valk",
-   "fecha": "2026-11-26",
-   "poster": "/yTn41duVqEmiBimV3itSyOpUPnU.jpg",
-   "fondo": "/5BVPUwWwVrlia7OC0dXxPEQM6Uv.jpg",
-   "puntaje": 0.0,
-   "sinopsis": "Tras el secuestro en 1982 de la matriarca de un poderoso imperio hotelero neerlandés, su familia hará lo imposible para conseguir su rescate"
-  },
-  {
-   "id": 247718,
-   "tipo": "tv",
-   "titulo": "Tierra de mafiosos",
-   "fecha": "2025-03-30",
-   "poster": "/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
-   "fondo": "/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
-   "puntaje": 8.7,
-   "sinopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo."
-  },
-  {
-   "id": 313701,
-   "tipo": "tv",
-   "titulo": "Navidades filipinas",
-   "fecha": "2026-11-26",
-   "poster": "/zYUsYASG6gLiSnddKEj2fNRS4R3.jpg",
-   "fondo": "/f4ocST2EI5HDUPVB2FyQ7pkk7Ns.jpg",
-   "puntaje": 0.0,
-   "sinopsis": ""
   },
   {
    "id": 218347,
@@ -526,44 +466,34 @@
    "sinopsis": "Rhiannon Lewis no causa mucha impresión,la gente se cruza con ella y no la mira dos veces hasta que es llevada al extremo y pierde el control. La vida de Rhiannon se transforma, pero ¿puede guardar su secreto mortal?"
   },
   {
-   "id": 259909,
+   "id": 338930,
    "tipo": "tv",
-   "titulo": "Dexter: Resurrección",
-   "fecha": "2025-07-13",
-   "poster": "/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
-   "fondo": "/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
-   "puntaje": 8.5,
-   "sinopsis": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar."
+   "titulo": "Servicio de Urgencias",
+   "fecha": "2026-11-26",
+   "poster": "/oFoT6GRACWN9X6fFvtCys0ViDUl.jpg",
+   "fondo": "/7JBjCdmH8kddW41YoipVVwQJllm.jpg",
+   "puntaje": 8.1,
+   "sinopsis": "En unas Urgencias saturadas de Oslo, un entregado equipo de profesionales médicos lidia con problemas personales, presiones políticas y una arriesgada incorporación."
   },
   {
-   "id": 37854,
+   "id": 302837,
    "tipo": "tv",
-   "titulo": "One Piece",
-   "fecha": "1999-10-20",
-   "poster": "/revXibqFO4JrwmLe34MKth1GVrd.jpg",
-   "fondo": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-   "puntaje": 8.8,
-   "sinopsis": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece."
+   "titulo": "El secuestro de Toos van der Valk",
+   "fecha": "2026-11-26",
+   "poster": "/yTn41duVqEmiBimV3itSyOpUPnU.jpg",
+   "fondo": "/6k5dug3eriqHf1kgJeLHXrfBROc.jpg",
+   "puntaje": 0.0,
+   "sinopsis": "Tras el secuestro en 1982 de la matriarca de un poderoso imperio hotelero neerlandés, su familia hará lo imposible para conseguir su rescate"
   },
   {
-   "id": 153312,
+   "id": 279246,
    "tipo": "tv",
-   "titulo": "Tulsa King",
-   "fecha": "2022-11-13",
-   "poster": "/6ryay9RQfT5jrY9i1dveUUGryAO.jpg",
-   "fondo": "/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-   "puntaje": 8.3,
-   "sinopsis": "Justo después de ser liberado de prisión después de 25 años, el capo de la mafia de Nueva York, Dwight \"El General\" Manfredi, es exiliado sin contemplaciones por su jefe para instalarse en Tulsa, Oklahoma. Al darse cuenta de que su familia de la mafia puede no tener sus mejores intereses en mente, Dwight construye lentamente una \"tripulación\" a partir de un grupo de personajes inverosímiles, para ayudarlo a establecer un nuevo imperio criminal en un lugar que para él bien podría ser otro planeta."
-  },
-  {
-   "id": 300523,
-   "tipo": "tv",
-   "titulo": "El camino azul",
-   "fecha": "2026-11-20",
-   "poster": "/knb9JmYjCpBfMxFRfGhslV8fzxV.jpg",
-   "fondo": "/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg",
-   "puntaje": 7.9,
-   "sinopsis": "Dos inspectores colaboran tras una oleada de asesinatos brutales y mensajes en clave que trascienden fronteras. La verdad, sin embargo, acecha peligrosamente cerca."
+   "titulo": "La emperatriz divorciada",
+   "fecha": "2026-11-03",
+   "poster": "/7cS90VaWOqQhgmsT0FYXYmIMcRp.jpg",
+   "fondo": "/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+   "puntaje": 8.7,
+   "sinopsis": "Navier, la querida emperatriz del Imperio Oriental, gobierna junto al emperador Sovieshu. Pero cuando Sovieshu se enamora de una esclava fugitiva y pide el divorcio, Navier accede con la condición de poder volver a casarse con su rival, el príncipe Heinrey del Reino Occidental."
   },
   {
    "id": 2190,
@@ -574,6 +504,16 @@
    "fondo": "/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
    "puntaje": 8.3,
    "sinopsis": "South Park es una serie de televisión estadounidense de animación, creada por Trey Parker y Matt Stone para el canal Comedy Central. Está dirigida al público adulto y se caracteriza por satirizar con humor negro la sociedad, actualidad y cultura estadounidense a través de las historias y situaciones surrealistas que les suceden a sus protagonistas, cuatro niños (Stan, Kyle, Cartman y Kenny) residentes en un pueblo ficticio de Colorado que se llama South Park."
+  },
+  {
+   "id": 291507,
+   "tipo": "tv",
+   "titulo": "El cuerpo",
+   "fecha": "2026-11-11",
+   "poster": "/gmuXlkAxFTgy3TpWFf5cJ7Xw05c.jpg",
+   "fondo": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
+   "puntaje": 8.0,
+   "sinopsis": "La noche de Halloween, un grupo de baile femenino lidia con remordimientos, deseos impuros y visiones fantasmales cuando una novatada sale endemoniadamente mal."
   },
   {
    "id": 292044,
@@ -596,14 +536,74 @@
    "sinopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio q"
   },
   {
-   "id": 254630,
+   "id": 313701,
    "tipo": "tv",
-   "titulo": "12 12 12",
-   "fecha": "2026-11-12",
-   "poster": "/wqiJp937rgCXf2eZRTo5m5dhpp2.jpg",
-   "fondo": "/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
-   "puntaje": 6.3,
-   "sinopsis": "Un robo lleva 12 meses de planificación y 12 horas de ejecución. Y, si no se atrapa al ladrón al cabo de 12 días, ya no se lo atrapa. A través de tres frenéticas líneas temporales, un agente del FBI y un delincuente habitual juegan al gato y el ratón por toda Europa con resultados fatales."
+   "titulo": "Navidades filipinas",
+   "fecha": "2026-11-26",
+   "poster": "/zYUsYASG6gLiSnddKEj2fNRS4R3.jpg",
+   "fondo": "/f4ocST2EI5HDUPVB2FyQ7pkk7Ns.jpg",
+   "puntaje": 0.0,
+   "sinopsis": ""
+  },
+  {
+   "id": 37854,
+   "tipo": "tv",
+   "titulo": "One Piece",
+   "fecha": "1999-10-20",
+   "poster": "/revXibqFO4JrwmLe34MKth1GVrd.jpg",
+   "fondo": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+   "puntaje": 8.8,
+   "sinopsis": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece."
+  },
+  {
+   "id": 273247,
+   "tipo": "tv",
+   "titulo": "Verdades ocultas",
+   "fecha": "2025-09-23",
+   "poster": "/jgfHT7oLJtBDlRABiTTEp2AEret.jpg",
+   "fondo": "/xz9YhlTE5gdr1mrQkY01vDvQF59.jpg",
+   "puntaje": 7.0,
+   "sinopsis": "Un librero en Tulsa (Arizona) se convierte en periodista de investigación para destapar la corrupción local. Cuando sus pesquisas dan con conexiones siniestras, tendrá que proteger tanto a su familia como a la verdad."
+  },
+  {
+   "id": 300523,
+   "tipo": "tv",
+   "titulo": "El camino azul",
+   "fecha": "2026-11-20",
+   "poster": "/knb9JmYjCpBfMxFRfGhslV8fzxV.jpg",
+   "fondo": "/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg",
+   "puntaje": 8.0,
+   "sinopsis": "Dos inspectores colaboran tras una oleada de asesinatos brutales y mensajes en clave que trascienden fronteras. La verdad, sin embargo, acecha peligrosamente cerca."
+  },
+  {
+   "id": 247718,
+   "tipo": "tv",
+   "titulo": "Tierra de mafiosos",
+   "fecha": "2025-03-30",
+   "poster": "/xOBnonAeHiZuiTPOLBFMFSPI6jy.jpg",
+   "fondo": "/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
+   "puntaje": 8.7,
+   "sinopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo."
+  },
+  {
+   "id": 322052,
+   "tipo": "tv",
+   "titulo": "동절기",
+   "fecha": "2026-11-27",
+   "poster": "/yT3JE6hh8yxDAbfZcHSSl1qFPQG.jpg",
+   "fondo": "/5gB4CYt9LDJNiifDGVZs6Za5bLd.jpg",
+   "puntaje": 0.0,
+   "sinopsis": ""
+  },
+  {
+   "id": 290826,
+   "tipo": "tv",
+   "titulo": "DIG",
+   "fecha": "2026-11-23",
+   "poster": "/eyW6V0R0SzG3BqtYKhlZKGBaUCn.jpg",
+   "fondo": "/apHJDHRa0LMtZlcMvKK74InRMfc.jpg",
+   "puntaje": 5.9,
+   "sinopsis": "Sigue la historia de cuatro mujeres que trabajan en una excavación arqueológica en Grecia. Cuando el equipo descubre un secreto enterrado hace mucho tiempo con el potencial de reescribir la historia, se ven envueltas en una peligrosa conspiración internacional."
   }
  ],
  "series_semana": [
@@ -613,7 +613,7 @@
    "titulo": "Blade Runner 2099",
    "fecha": "2026-11-24",
    "poster": "/d8IKBDXQvj3d6clsjqydT4xcw14.jpg",
-   "fondo": "/rACaCUxa8WAxkqdpZl0vGqBmIJg.jpg",
+   "fondo": "/uOlIq21Rx0Sl7y39b1znTfQYGb7.jpg",
    "puntaje": 5.2,
    "sinopsis": "Cora, una fugitiva convertida en Blade Runner, se alía con Olwen, una replicante moribunda, para dar caza a un fugitivo en un Los Ángeles renacido. Juntas descubren una verdad que amenaza con destruir su frágil ciudad."
   },
@@ -628,6 +628,16 @@
    "sinopsis": "Un reparto coral de personajes —unos conocidos y otros nuevos— debe afrontar la reaparición del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta los majestuosos bosques de Lindon, desde el reino insular de Númenor hasta los extremos más remotos del mapa, estos parajes y personajes forjarán los legados que perdurarán más allá de su desaparición."
   },
   {
+   "id": 300523,
+   "tipo": "tv",
+   "titulo": "El camino azul",
+   "fecha": "2026-11-20",
+   "poster": "/knb9JmYjCpBfMxFRfGhslV8fzxV.jpg",
+   "fondo": "/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg",
+   "puntaje": 8.0,
+   "sinopsis": "Dos inspectores colaboran tras una oleada de asesinatos brutales y mensajes en clave que trascienden fronteras. La verdad, sin embargo, acecha peligrosamente cerca."
+  },
+  {
    "id": 247718,
    "tipo": "tv",
    "titulo": "Tierra de mafiosos",
@@ -638,54 +648,14 @@
    "sinopsis": "El poder está en juego cuando los Harrigan y los Stevenson, dos familias criminales londinenses en guerra, se enfrentan en una batalla de matar o morir que amenaza con derribar imperios y arruinar vidas. Atrapado en el fuego cruzado está Harry Da Souza, el astuto \"solucionador\" tan peligroso como atractivo, que sabe muy bien dónde están las lealtades cuando las fuerzas opuestas chocan. A medida que los reinos se enfrentan, se cruzarán las líneas, y la única gracia salvadora es una garantía de vida o muerte: la familia por encima de todo."
   },
   {
-   "id": 300523,
+   "id": 326247,
    "tipo": "tv",
-   "titulo": "El camino azul",
-   "fecha": "2026-11-20",
-   "poster": "/knb9JmYjCpBfMxFRfGhslV8fzxV.jpg",
-   "fondo": "/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg",
-   "puntaje": 7.9,
-   "sinopsis": "Dos inspectores colaboran tras una oleada de asesinatos brutales y mensajes en clave que trascienden fronteras. La verdad, sin embargo, acecha peligrosamente cerca."
-  },
-  {
-   "id": 259909,
-   "tipo": "tv",
-   "titulo": "Dexter: Resurrección",
-   "fecha": "2025-07-13",
-   "poster": "/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
-   "fondo": "/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
-   "puntaje": 8.5,
-   "sinopsis": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar."
-  },
-  {
-   "id": 291507,
-   "tipo": "tv",
-   "titulo": "El cuerpo",
-   "fecha": "2026-11-11",
-   "poster": "/gmuXlkAxFTgy3TpWFf5cJ7Xw05c.jpg",
-   "fondo": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
-   "puntaje": 8.0,
-   "sinopsis": "La noche de Halloween, un grupo de baile femenino lidia con remordimientos, deseos impuros y visiones fantasmales cuando una novatada sale endemoniadamente mal."
-  },
-  {
-   "id": 103540,
-   "tipo": "tv",
-   "titulo": "Percy Jackson y los dioses del Olimpo",
-   "fecha": "2023-12-19",
-   "poster": "/zVcpkAw47UmTd2AXIhl3gOpeguT.jpg",
-   "fondo": "/dLIKNqBi9L1cVbwuniXkaNOsIXg.jpg",
-   "puntaje": 7.3,
-   "sinopsis": "Percy Jackson emprende una peligrosa misión. Dejando atrás a los monstruos y burlando a los dioses, recorrerá Estados Unidos para devolver el Rayo Maestro de Zeus y evitar la guerra. Con ayuda de sus compañeros de misión, Annabeth y Grover, el viaje de Percy lo acercará más a las respuestas que busca: cómo encajar en un mundo que le es ajeno y si logrará entender su destino."
-  },
-  {
-   "id": 279246,
-   "tipo": "tv",
-   "titulo": "La emperatriz divorciada",
-   "fecha": "2026-11-03",
-   "poster": "/7cS90VaWOqQhgmsT0FYXYmIMcRp.jpg",
-   "fondo": "/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
-   "puntaje": 8.7,
-   "sinopsis": "Navier, la querida emperatriz del Imperio Oriental, gobierna junto al emperador Sovieshu. Pero cuando Sovieshu se enamora de una esclava fugitiva y pide el divorcio, Navier accede con la condición de poder volver a casarse con su rival, el príncipe Heinrey del Reino Occidental."
+   "titulo": "Fool Night",
+   "fecha": "2026-11-26",
+   "poster": "/vTTr4YG3qIUq6E5uahU0fWSWch7.jpg",
+   "fondo": "/rumSTVTcuZj0khFXxXgwXouIMgg.jpg",
+   "puntaje": 9.0,
+   "sinopsis": "En un futuro sin sol donde los humanos se convierten en plantas para crear oxígeno, un joven desesperado inicia la transformación... y destapa una conspiración muy arraigada."
   },
   {
    "id": 244447,
@@ -698,6 +668,56 @@
    "sinopsis": "Sophie O'Neil se traslada al profundo este de Texas y sucumbe a los encantos de Margo, una socialité de la zona. Su vida pronto se ve consumida por la obsesión, la seducción y el asesinato"
   },
   {
+   "id": 291507,
+   "tipo": "tv",
+   "titulo": "El cuerpo",
+   "fecha": "2026-11-11",
+   "poster": "/gmuXlkAxFTgy3TpWFf5cJ7Xw05c.jpg",
+   "fondo": "/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
+   "puntaje": 8.0,
+   "sinopsis": "La noche de Halloween, un grupo de baile femenino lidia con remordimientos, deseos impuros y visiones fantasmales cuando una novatada sale endemoniadamente mal."
+  },
+  {
+   "id": 279246,
+   "tipo": "tv",
+   "titulo": "La emperatriz divorciada",
+   "fecha": "2026-11-03",
+   "poster": "/7cS90VaWOqQhgmsT0FYXYmIMcRp.jpg",
+   "fondo": "/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+   "puntaje": 8.7,
+   "sinopsis": "Navier, la querida emperatriz del Imperio Oriental, gobierna junto al emperador Sovieshu. Pero cuando Sovieshu se enamora de una esclava fugitiva y pide el divorcio, Navier accede con la condición de poder volver a casarse con su rival, el príncipe Heinrey del Reino Occidental."
+  },
+  {
+   "id": 103540,
+   "tipo": "tv",
+   "titulo": "Percy Jackson y los dioses del Olimpo",
+   "fecha": "2023-12-19",
+   "poster": "/zVcpkAw47UmTd2AXIhl3gOpeguT.jpg",
+   "fondo": "/dLIKNqBi9L1cVbwuniXkaNOsIXg.jpg",
+   "puntaje": 7.3,
+   "sinopsis": "Percy Jackson emprende una peligrosa misión. Dejando atrás a los monstruos y burlando a los dioses, recorrerá Estados Unidos para devolver el Rayo Maestro de Zeus y evitar la guerra. Con ayuda de sus compañeros de misión, Annabeth y Grover, el viaje de Percy lo acercará más a las respuestas que busca: cómo encajar en un mundo que le es ajeno y si logrará entender su destino."
+  },
+  {
+   "id": 259909,
+   "tipo": "tv",
+   "titulo": "Dexter: Resurrección",
+   "fecha": "2025-07-13",
+   "poster": "/lZyvtYfG6RMJm3B6sjfJvcTVtFw.jpg",
+   "fondo": "/vcpj6rRDS93ImHCLPY8bwBuFGjR.jpg",
+   "puntaje": 8.5,
+   "sinopsis": "Dexter Morgan despierta de un coma de diez semanas y, mientras comienza una dolorosa recuperación, se entera de que su hijo Harrison Morgan ha huido a Nueva York. Tanto el padre como el hijo se sienten más cerca de enfrentarse a la oscuridad de la que han intentado escapar."
+  },
+  {
+   "id": 310209,
+   "tipo": "tv",
+   "titulo": "De nueve a seis",
+   "fecha": "2026-11-25",
+   "poster": "/ivqPmbma8NSvw7BBNz4oK3hzPmX.jpg",
+   "fondo": "/eQQ5z8oHYBGTAVsvRm9TYibCWVD.jpg",
+   "puntaje": 6.5,
+   "sinopsis": "Tras ser acusada del incendio de un coche, la directora de Chronic Motors es degradada de su cargo. ¿Encontrará el amor y la felicidad en la oficina?"
+  },
+  {
    "id": 213375,
    "tipo": "tv",
    "titulo": "VisionQuest",
@@ -706,36 +726,6 @@
    "fondo": "/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
    "puntaje": 8.2,
    "sinopsis": "Tras reiniciarse, Visión ha estado huyendo de quienes pretenden convertirlo en un arma y ahora se encuentra escondido. Buscando un nuevo propósito, pide consejo a las distintas IA que están integradas en su programación, incluidos Friday, Edith, Jarvis y el infame Ultrón. Su discreta existencia llega a su fin cuando una recompensa por su cabeza le obliga a huir junto a Thomas Shepard, un misterioso joven que podría ser la reencarnación de su hijo. Mientras evita ser capturado, Visión tendrá que enfrentarse a su propia naturaleza, resistirse a la influencia de Ultrón y desentrañar el misterio q"
-  },
-  {
-   "id": 303745,
-   "tipo": "tv",
-   "titulo": "Un amor infiltrado",
-   "fecha": "2026-10-19",
-   "poster": "/rElWNrEbdYyPg1opWTtNiYm3ut5.jpg",
-   "fondo": "/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
-   "puntaje": 8.9,
-   "sinopsis": "El heredero del Grupo Taekang, Yoon Yi-jun, es el sospechoso principal de un impactante asesinato. Para descubrir la verdad, Kang Jae-hee se hace pasar por hombre para ser el secretario de Yi-jun. Cuanto más cerca están de dar con la verdad, más se acercan Yi-jun y Jae-hee. ¿Podrán Jae-hee, que esconde su identidad, y Yi-jun, que esconde un secreto, confesar lo que sienten el uno por el otro?"
-  },
-  {
-   "id": 254630,
-   "tipo": "tv",
-   "titulo": "12 12 12",
-   "fecha": "2026-11-12",
-   "poster": "/wqiJp937rgCXf2eZRTo5m5dhpp2.jpg",
-   "fondo": "/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
-   "puntaje": 6.3,
-   "sinopsis": "Un robo lleva 12 meses de planificación y 12 horas de ejecución. Y, si no se atrapa al ladrón al cabo de 12 días, ya no se lo atrapa. A través de tres frenéticas líneas temporales, un agente del FBI y un delincuente habitual juegan al gato y el ratón por toda Europa con resultados fatales."
-  },
-  {
-   "id": 308007,
-   "tipo": "tv",
-   "titulo": "Los altruistas",
-   "fecha": "2026-11-19",
-   "poster": "/iRFLTlydFocAEWN2yIoBWGTXyFe.jpg",
-   "fondo": "/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg",
-   "puntaje": 6.5,
-   "sinopsis": "Jóvenes, idealistas y, de repente, multimillonarios. Intentaron hacer el bien, pero sacaron lo peor el uno del otro. Una historia de amor tóxico inspirada en un fraude real."
   },
   {
    "id": 290826,
@@ -748,46 +738,6 @@
    "sinopsis": "Sigue la historia de cuatro mujeres que trabajan en una excavación arqueológica en Grecia. Cuando el equipo descubre un secreto enterrado hace mucho tiempo con el potencial de reescribir la historia, se ven envueltas en una peligrosa conspiración internacional."
   },
   {
-   "id": 117488,
-   "tipo": "tv",
-   "titulo": "Yellowjackets",
-   "fecha": "2021-11-14",
-   "poster": "/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
-   "fondo": "/ibFWJDWS8cTO6s2vZVd2uKDm8p.jpg",
-   "puntaje": 7.4,
-   "sinopsis": "Después de un accidente de avión en las profundidades de Ontario, los miembros de un equipo de fútbol femenino son los únicos supervivientes del accidente. Las chicas de secundaria tendrán que luchar por su supervivencia contra los clanes caníbales."
-  },
-  {
-   "id": 310209,
-   "tipo": "tv",
-   "titulo": "De nueve a seis",
-   "fecha": "2026-11-25",
-   "poster": "/ivqPmbma8NSvw7BBNz4oK3hzPmX.jpg",
-   "fondo": "/y6vS0tG9uQPOU9y2YhuZ0Uga99c.jpg",
-   "puntaje": 5.0,
-   "sinopsis": "Tras ser acusada del incendio de un coche, la directora de Chronic Motors es degradada de su cargo. ¿Encontrará el amor y la felicidad en la oficina?"
-  },
-  {
-   "id": 2190,
-   "tipo": "tv",
-   "titulo": "South Park",
-   "fecha": "1997-08-13",
-   "poster": "/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
-   "fondo": "/3UviYOlhn8EgXMBuiT6MnUuo1w9.jpg",
-   "puntaje": 8.3,
-   "sinopsis": "South Park es una serie de televisión estadounidense de animación, creada por Trey Parker y Matt Stone para el canal Comedy Central. Está dirigida al público adulto y se caracteriza por satirizar con humor negro la sociedad, actualidad y cultura estadounidense a través de las historias y situaciones surrealistas que les suceden a sus protagonistas, cuatro niños (Stan, Kyle, Cartman y Kenny) residentes en un pueblo ficticio de Colorado que se llama South Park."
-  },
-  {
-   "id": 96677,
-   "tipo": "tv",
-   "titulo": "Lupin",
-   "fecha": "2021-01-08",
-   "poster": "/gZ2ocZUwqVetPz9AvVVhzrFrpPA.jpg",
-   "fondo": "/jgAZYiuRV37pCxmhx8NTdhE36RL.jpg",
-   "puntaje": 7.7,
-   "sinopsis": "Inspirado por las aventuras de Arsène Lupin, el ladrón de guante blanco Assane Diop se propone vengar la injusticia sufrida por su padre a manos de una familia rica."
-  },
-  {
    "id": 37854,
    "tipo": "tv",
    "titulo": "One Piece",
@@ -798,6 +748,46 @@
    "sinopsis": "Esta historia se sitúa en el momento más álgido de la Gran Era de los Piratas, cuando el joven Monkey D. Luffy quiere llegar a ser el Rey de los Piratas y hacerse al fin con un legendario tesoro, el One Piece."
   },
   {
+   "id": 117488,
+   "tipo": "tv",
+   "titulo": "Yellowjackets",
+   "fecha": "2021-11-14",
+   "poster": "/xRnGrn7Z7SC0KIBodocoU1QgDZF.jpg",
+   "fondo": "/ibFWJDWS8cTO6s2vZVd2uKDm8p.jpg",
+   "puntaje": 7.4,
+   "sinopsis": "Después de un accidente de avión en las profundidades de Ontario, los miembros de un equipo de fútbol femenino son los únicos supervivientes del accidente. Las chicas de secundaria tendrán que luchar por su supervivencia contra los clanes caníbales."
+  },
+  {
+   "id": 303745,
+   "tipo": "tv",
+   "titulo": "Un amor infiltrado",
+   "fecha": "2026-10-19",
+   "poster": "/rElWNrEbdYyPg1opWTtNiYm3ut5.jpg",
+   "fondo": "/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
+   "puntaje": 8.9,
+   "sinopsis": "El heredero del Grupo Taekang, Yoon Yi-jun, es el sospechoso principal de un impactante asesinato. Para descubrir la verdad, Kang Jae-hee se hace pasar por hombre para ser el secretario de Yi-jun. Cuanto más cerca están de dar con la verdad, más se acercan Yi-jun y Jae-hee. ¿Podrán Jae-hee, que esconde su identidad, y Yi-jun, que esconde un secreto, confesar lo que sienten el uno por el otro?"
+  },
+  {
+   "id": 218347,
+   "tipo": "tv",
+   "titulo": "Sweetpea",
+   "fecha": "2024-10-10",
+   "poster": "/mWTC2oovCWN4hzTNB88OZHwC8BX.jpg",
+   "fondo": "/xE8SLBIwNQ1kkCz45XDaPYzv0wz.jpg",
+   "puntaje": 7.4,
+   "sinopsis": "Rhiannon Lewis no causa mucha impresión,la gente se cruza con ella y no la mira dos veces hasta que es llevada al extremo y pierde el control. La vida de Rhiannon se transforma, pero ¿puede guardar su secreto mortal?"
+  },
+  {
+   "id": 254630,
+   "tipo": "tv",
+   "titulo": "12 12 12",
+   "fecha": "2026-11-12",
+   "poster": "/wqiJp937rgCXf2eZRTo5m5dhpp2.jpg",
+   "fondo": "/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
+   "puntaje": 6.3,
+   "sinopsis": "Un robo lleva 12 meses de planificación y 12 horas de ejecución. Y, si no se atrapa al ladrón al cabo de 12 días, ya no se lo atrapa. A través de tres frenéticas líneas temporales, un agente del FBI y un delincuente habitual juegan al gato y el ratón por toda Europa con resultados fatales."
+  },
+  {
    "id": 203483,
    "tipo": "tv",
    "titulo": "两京十五日",
@@ -806,6 +796,16 @@
    "fondo": "/pFTGCQ3oVhFkuOCjnvCPeVsQBaL.jpg",
    "puntaje": 8.1,
    "sinopsis": ""
+  },
+  {
+   "id": 153312,
+   "tipo": "tv",
+   "titulo": "Tulsa King",
+   "fecha": "2022-11-13",
+   "poster": "/6ryay9RQfT5jrY9i1dveUUGryAO.jpg",
+   "fondo": "/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+   "puntaje": 8.3,
+   "sinopsis": "Justo después de ser liberado de prisión después de 25 años, el capo de la mafia de Nueva York, Dwight \"El General\" Manfredi, es exiliado sin contemplaciones por su jefe para instalarse en Tulsa, Oklahoma. Al darse cuenta de que su familia de la mafia puede no tener sus mejores intereses en mente, Dwight construye lentamente una \"tripulación\" a partir de un grupo de personajes inverosímiles, para ayudarlo a establecer un nuevo imperio criminal en un lugar que para él bien podría ser otro planeta."
   }
  ],
  "hoy": [
@@ -815,19 +815,29 @@
    "titulo": "Blade Runner 2099",
    "fecha": "2026-11-24",
    "poster": "/d8IKBDXQvj3d6clsjqydT4xcw14.jpg",
-   "fondo": "/rACaCUxa8WAxkqdpZl0vGqBmIJg.jpg",
+   "fondo": "/uOlIq21Rx0Sl7y39b1znTfQYGb7.jpg",
    "puntaje": 5.2,
    "sinopsis": "Cora, una fugitiva convertida en Blade Runner, se alía con Olwen, una replicante moribunda, para dar caza a un fugitivo en un Los Ángeles renacido. Juntas descubren una verdad que amenaza con destruir su frágil ciudad."
   },
   {
-   "id": 1458300,
+   "id": 1153576,
    "tipo": "movie",
-   "titulo": "Mosquito Bowl: Un partido en plena guerra",
-   "fecha": "2026-10-29",
-   "poster": "/yWhMnr8pkhgZ1rGlj4z2dxLbS99.jpg",
-   "fondo": "/rtrWdS4UrhqnH9wNEWOgrMBsmSa.jpg",
-   "puntaje": 7.4,
-   "sinopsis": "Tras el ataque a Pearl Harbor, cuatro estrellas del fútbol americano se alistan en el cuerpo de Marines y descubren la importancia de la camaradería y el coste de la guerra."
+   "titulo": "Street Fighter",
+   "fecha": "2026-10-13",
+   "poster": "/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
+   "fondo": "/3BBjkQmdGacKYZtpmK2vIfuDmON.jpg",
+   "puntaje": 6.2,
+   "sinopsis": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!"
+  },
+  {
+   "id": 326247,
+   "tipo": "tv",
+   "titulo": "Fool Night",
+   "fecha": "2026-11-26",
+   "poster": "/vTTr4YG3qIUq6E5uahU0fWSWch7.jpg",
+   "fondo": "/rumSTVTcuZj0khFXxXgwXouIMgg.jpg",
+   "puntaje": 8.7,
+   "sinopsis": "En un futuro sin sol donde los humanos se convierten en plantas para crear oxígeno, un joven desesperado inicia la transformación... y destapa una conspiración muy arraigada."
   },
   {
    "id": 1003596,
@@ -840,14 +850,24 @@
    "sinopsis": "Los héroes más queridos de tres universos distintos son abocados a una colisión catastrófica donde tendrán que hacer frente a la mayor amenaza a su existencia hasta la fecha."
   },
   {
-   "id": 326247,
+   "id": 1458300,
+   "tipo": "movie",
+   "titulo": "Mosquito Bowl: Un partido en plena guerra",
+   "fecha": "2026-10-29",
+   "poster": "/uYjAyQJTsZMyVvAWsjnXQaci4Zj.jpg",
+   "fondo": "/nfcXn5yvBejpbljQIBrTlOMQZoC.jpg",
+   "puntaje": 7.6,
+   "sinopsis": "Tras el ataque a Pearl Harbor, cuatro estrellas del fútbol americano se alistan en el cuerpo de Marines y descubren la importancia de la camaradería y el coste de la guerra."
+  },
+  {
+   "id": 244447,
    "tipo": "tv",
-   "titulo": "Fool night",
-   "fecha": "2026-11-26",
-   "poster": "/vTTr4YG3qIUq6E5uahU0fWSWch7.jpg",
-   "fondo": "/rumSTVTcuZj0khFXxXgwXouIMgg.jpg",
-   "puntaje": 9.0,
-   "sinopsis": "En un mundo oscuro lleno de desesperación, elige el camino de transformarse en una Flor Espiritual — una planta en la que los humanos se transforman. ¿Debería seguir viviendo como persona o desechar su dolor y empezar una nueva vida como planta? ¿Qué camino elegirías tú en su situación?"
+   "titulo": "Las esposas cazadoras",
+   "fecha": "2025-07-21",
+   "poster": "/1HaPE9JjSjwQpXunsq5otOA8Hdj.jpg",
+   "fondo": "/6PerjrTmwTNiRcfn0SpjU8N9Nio.jpg",
+   "puntaje": 7.0,
+   "sinopsis": "Sophie O'Neil se traslada al profundo este de Texas y sucumbe a los encantos de Margo, una socialité de la zona. Su vida pronto se ve consumida por la obsesión, la seducción y el asesinato"
   },
   {
    "id": 1280115,
@@ -866,7 +886,7 @@
    "fecha": "2026-11-25",
    "poster": "/zPaypaMulDEVhuTCN1hPN1Hg4DI.jpg",
    "fondo": "/wdjW11Tp4w9EfDBxbjyBJvDVHDA.jpg",
-   "puntaje": 5.8,
+   "puntaje": 5.5,
    "sinopsis": "Billie, una adolescente impulsiva y poco convencional, desata accidentalmente unos poderes mágicos secretos y sale disparada de los suburbios hacia un reino mágico llamado Hexe, donde la reciben Ms. Quill y Elias Quire. A medida que se desarrolla el viaje de Billie, descubre misterios familiares que podrían cambiar para siempre el mundo mágico de las brujas."
   },
   {
@@ -880,26 +900,6 @@
    "sinopsis": "Un reparto coral de personajes —unos conocidos y otros nuevos— debe afrontar la reaparición del mal en la Tierra Media. Desde las profundidades más oscuras de las Montañas Nubladas hasta los majestuosos bosques de Lindon, desde el reino insular de Númenor hasta los extremos más remotos del mapa, estos parajes y personajes forjarán los legados que perdurarán más allá de su desaparición."
   },
   {
-   "id": 1300968,
-   "tipo": "movie",
-   "titulo": "Los juegos del hambre: Amanecer en la cosecha",
-   "fecha": "2026-11-18",
-   "poster": "/eKYwrBki1B2DqS3ZtSN1IyVL7lW.jpg",
-   "fondo": "/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
-   "puntaje": 7.8,
-   "sinopsis": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy."
-  },
-  {
-   "id": 244447,
-   "tipo": "tv",
-   "titulo": "Las esposas cazadoras",
-   "fecha": "2025-07-21",
-   "poster": "/1HaPE9JjSjwQpXunsq5otOA8Hdj.jpg",
-   "fondo": "/6PerjrTmwTNiRcfn0SpjU8N9Nio.jpg",
-   "puntaje": 7.0,
-   "sinopsis": "Sophie O'Neil se traslada al profundo este de Texas y sucumbe a los encantos de Margo, una socialité de la zona. Su vida pronto se ve consumida por la obsesión, la seducción y el asesinato"
-  },
-  {
    "id": 969681,
    "tipo": "movie",
    "titulo": "Spider-Man: Brand New Day",
@@ -910,14 +910,14 @@
    "sinopsis": "Han pasado cuatro años desde los acontecimientos de No Way Home, y Peter Parker ahora es un adulto que vive completamente solo, ha desaparecido voluntariamente de las vidas y recuerdos de quienes ama. Combatiendo el crimen en una Nueva York que ya no conoce su nombre, se ha dedicado por completo a proteger su ciudad—un Spider-Man a tiempo completo—, pero a medida que aumentan las exigencias sobre él, la presión desencadena una evolución física que amenaza su existencia, al mismo tiempo que un extraño nuevo patrón de crímenes da lugar a una de las amenazas más poderosas a las que se ha enfrenta"
   },
   {
-   "id": 1153576,
+   "id": 1300968,
    "tipo": "movie",
-   "titulo": "Street Fighter",
-   "fecha": "2026-10-13",
-   "poster": "/2kdEEUkbkJe08kTDMCUbBrZ71Aw.jpg",
-   "fondo": "/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
-   "puntaje": 6.2,
-   "sinopsis": "En 1993, los distanciados luchadores callejeros Ryu y Ken Masters se ven arrastrados de nuevo al combate cuando la misteriosa Chun-Li los recluta para el próximo Torneo World Warrior: un enfrentamiento brutal de puños, destino y furia. Sin embargo, tras esta gran batalla se esconde una conspiración mortal que los obliga a enfrentarse tanto entre sí como a los demonios de su pasado. Y si no lo logran... ¡será el fin de la partida!"
+   "titulo": "Los juegos del hambre: Amanecer en la cosecha",
+   "fecha": "2026-11-18",
+   "poster": "/jIsgnEnvk6JWNkzUBi4pCtXhh5t.jpg",
+   "fondo": "/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+   "puntaje": 7.8,
+   "sinopsis": "Explora Panem 24 años antes de la saga de Katniss, comenzando en la mañana de la cosecha de los 50º Juegos del Hambre, donde participa un joven Haymitch Abernathy."
   },
   {
    "id": 1765072,
@@ -940,6 +940,16 @@
    "sinopsis": "Tras la caída de Troya, el legendario rey de Ítaca, Odiseo a.k.a. Ulises, emprende un largo y peligroso viaje para regresar junto a su esposa Penélope y su hijo Telémaco. En el camino deberá enfrentarse a criaturas mitológicas, dioses caprichosos y pruebas que pondrán a prueba su ingenio, su resistencia y su humanidad. Mientras tanto, en Ítaca, el futuro de su reino pende de un hilo ante la creciente amenaza de quienes creen que jamás volverá."
   },
   {
+   "id": 310209,
+   "tipo": "tv",
+   "titulo": "De nueve a seis",
+   "fecha": "2026-11-25",
+   "poster": "/ivqPmbma8NSvw7BBNz4oK3hzPmX.jpg",
+   "fondo": "/eQQ5z8oHYBGTAVsvRm9TYibCWVD.jpg",
+   "puntaje": 6.5,
+   "sinopsis": "Tras ser acusada del incendio de un coche, la directora de Chronic Motors es degradada de su cargo. ¿Encontrará el amor y la felicidad en la oficina?"
+  },
+  {
    "id": 1195803,
    "tipo": "movie",
    "titulo": "Wicker",
@@ -948,6 +958,26 @@
    "fondo": "/r4DTGm1f1r23cyjRJ5kFMh7qYlj.jpg",
    "puntaje": 7.6,
    "sinopsis": "Una pescadora vive en la periferia de un pueblo costero; es soltera, apestosa y objeto de burlas constantes. Un día, harta de sus estirados y estrechos vecinos, encarga un marido de mimbre para ella."
+  },
+  {
+   "id": 218347,
+   "tipo": "tv",
+   "titulo": "Sweetpea",
+   "fecha": "2024-10-10",
+   "poster": "/mWTC2oovCWN4hzTNB88OZHwC8BX.jpg",
+   "fondo": "/xE8SLBIwNQ1kkCz45XDaPYzv0wz.jpg",
+   "puntaje": 7.4,
+   "sinopsis": "Rhiannon Lewis no causa mucha impresión,la gente se cruza con ella y no la mira dos veces hasta que es llevada al extremo y pierde el control. La vida de Rhiannon se transforma, pero ¿puede guardar su secreto mortal?"
+  },
+  {
+   "id": 1170608,
+   "tipo": "movie",
+   "titulo": "Dune: Parte tres",
+   "fecha": "2026-12-15",
+   "poster": "/uj4EuGmFNAc4CHBVEtRZ04MXzka.jpg",
+   "fondo": "/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
+   "puntaje": 0.0,
+   "sinopsis": "Como emperador, Paul Atreides se enfrenta a las consecuencias de su ascenso al poder, mientras conspiraciones políticas y una guerra santa que abarca toda la galaxia amenazan el futuro que solo él puede prever."
   },
   {
    "id": 1281331,
@@ -960,6 +990,16 @@
    "sinopsis": "Explora las prácticas internas de Facebook, la difusión de información falsa, el impacto en la salud mental de los adolescentes y la conexión con los eventos del 6 de enero en el Capitolio."
   },
   {
+   "id": 338930,
+   "tipo": "tv",
+   "titulo": "Servicio de Urgencias",
+   "fecha": "2026-11-26",
+   "poster": "/oFoT6GRACWN9X6fFvtCys0ViDUl.jpg",
+   "fondo": "/7JBjCdmH8kddW41YoipVVwQJllm.jpg",
+   "puntaje": 8.1,
+   "sinopsis": "En unas Urgencias saturadas de Oslo, un entregado equipo de profesionales médicos lidia con problemas personales, presiones políticas y una arriesgada incorporación."
+  },
+  {
    "id": 1400336,
    "tipo": "movie",
    "titulo": "Ahora los suegros son ellos",
@@ -968,46 +1008,6 @@
    "fondo": "/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
    "puntaje": 7.1,
    "sinopsis": "Henry, hijo de Greg y Pam Focker, se enfrenta al caos familiar cuando decide casarse con una mujer de carácter fuerte que parece ser totalmente incompatible con él."
-  },
-  {
-   "id": 310209,
-   "tipo": "tv",
-   "titulo": "De nueve a seis",
-   "fecha": "2026-11-25",
-   "poster": "/ivqPmbma8NSvw7BBNz4oK3hzPmX.jpg",
-   "fondo": "/y6vS0tG9uQPOU9y2YhuZ0Uga99c.jpg",
-   "puntaje": 5.0,
-   "sinopsis": "Tras ser acusada del incendio de un coche, la directora de Chronic Motors es degradada de su cargo. ¿Encontrará el amor y la felicidad en la oficina?"
-  },
-  {
-   "id": 338930,
-   "tipo": "tv",
-   "titulo": "Servicio de Urgencias",
-   "fecha": "2026-11-26",
-   "poster": "/oFoT6GRACWN9X6fFvtCys0ViDUl.jpg",
-   "fondo": "/7JBjCdmH8kddW41YoipVVwQJllm.jpg",
-   "puntaje": 8.5,
-   "sinopsis": "En unas Urgencias saturadas de Oslo, un entregado equipo de profesionales médicos lidia con problemas personales, presiones políticas y una arriesgada incorporación."
-  },
-  {
-   "id": 1595124,
-   "tipo": "movie",
-   "titulo": "Hermanastras",
-   "fecha": "2026-11-20",
-   "poster": "/5f69fuZBiPoa8H1AJ3UHH4AztOb.jpg",
-   "fondo": "/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
-   "puntaje": 7.1,
-   "sinopsis": "En esta encantadora e inusual comedia de acción, la hermanastra «malvada» de Cenicienta roba la varita del Hada Madrina y destruye la historia que conoce todo el mundo."
-  },
-  {
-   "id": 1170608,
-   "tipo": "movie",
-   "titulo": "Dune: Parte tres",
-   "fecha": "2026-12-15",
-   "poster": "/uj4EuGmFNAc4CHBVEtRZ04MXzka.jpg",
-   "fondo": "/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
-   "puntaje": 0.0,
-   "sinopsis": "Como emperador, Paul Atreides se enfrenta a las consecuencias de su ascenso al poder, mientras conspiraciones políticas y una guerra santa que abarca toda la galaxia amenazan el futuro que solo él puede prever."
   }
  ]
 }

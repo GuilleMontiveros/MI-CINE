@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-27T01:48:32.735121+00:00",
+ "actualizado": "2026-11-27T08:26:50.000127+00:00",
  "titulos": [
   {
    "id": 37165,
@@ -1508,8 +1508,8 @@
    },
    "link": "https://www.themoviedb.org/movie/502356-the-super-mario-bros-movie/watch?locale=AR",
    "director": [
-    "Michael Jelenic",
-    "Aaron Horvath"
+    "Aaron Horvath",
+    "Michael Jelenic"
    ],
    "reparto": [
     "Chris Pratt",
@@ -14749,7 +14749,7 @@
    "link": "https://www.themoviedb.org/movie/75629-q/watch?locale=AR",
    "director": [
     "Hideaki Anno",
-    "Masayuki"
+    "Kazuya Tsurumaki"
    ],
    "reparto": [
     "緒方恵美",
@@ -25411,8 +25411,8 @@
    },
    "link": "https://www.themoviedb.org/movie/109414-this-is-the-end/watch?locale=AR",
    "director": [
-    "Evan Goldberg",
-    "Seth Rogen"
+    "Seth Rogen",
+    "Evan Goldberg"
    ],
    "reparto": [
     "James Franco",
@@ -25478,7 +25478,7 @@
    "titulo": "Digger",
    "fecha": "2026-09-28",
    "poster": "/koqE0V2IgIPVy5o2vVkoGJvnB8b.jpg",
-   "fondo": "/4A3r1AjJg9Wa6ms3MGOScetCY0o.jpg",
+   "fondo": "/rrII8v7ExyX9KzyHopW6B9mfrOD.jpg",
    "puntaje": 7.5,
    "sinopsis": "El hombre más poderoso del mundo se embarca en una misión frenética para demostrar que es el salvador de la humanidad antes de que el desastre que ha desencadenado lo destruya todo.",
    "hd": false,
@@ -26239,8 +26239,8 @@
    },
    "link": "https://www.themoviedb.org/movie/2011-persepolis/watch?locale=AR",
    "director": [
-    "Marjane Satrapi",
-    "Vincent Paronnaud"
+    "Vincent Paronnaud",
+    "Marjane Satrapi"
    ],
    "reparto": [
     "Chiara Mastroianni",
@@ -26498,7 +26498,7 @@
    "fecha": "2026-11-03",
    "poster": "/2B7ZSUutCgwUAE5U0X7WlD8yiun.jpg",
    "fondo": "/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-   "puntaje": 7.7,
+   "puntaje": 7.6,
    "sinopsis": "La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida cotidiana. Justo cuando la humanidad lograba aferrarse a una paz duramente conquistada, una nueva amenaza irrumpe, aplastando la esperanza en un instante.",
    "hd": false,
    "motivo": null,
@@ -26539,7 +26539,7 @@
    "titulo": "Puedes verlo todo",
    "fecha": "2026-10-16",
    "poster": "/hcuFuAlGeQy1yKhd3I0hZ5sgCzl.jpg",
-   "fondo": "/rrbbzCyS45yooXpUGJatfptlHYI.jpg",
+   "fondo": "/fnIcdPVaO4JAzfLhv8OVEqFK6a7.jpg",
    "puntaje": 8.6,
    "sinopsis": "Treinta y cuatro días antes de ingresar en prisión, la famosa fundadora de Theranos, Elizabeth Holmes, invita a un equipo de rodaje escéptico a documentar cada uno de sus movimientos. Lo que comienza como un retrato íntimo se convierte en un alucinante viaje de tres años.",
    "hd": true,
