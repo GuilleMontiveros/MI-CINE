@@ -1,78 +1,28 @@
 {
- "actualizado": "2026-11-25T21:47:14.309106+00:00",
+ "actualizado": "2026-11-27T01:48:32.734250+00:00",
  "peliculas": [
-  {
-   "titulo": "El Corazon De La Bestia",
-   "funciones": [
-    {
-     "formato": "2d cast",
-     "dias": {
-      "2026-11-25": [
-       "22:00"
-      ]
-     }
-    }
-   ],
-   "id": 1263337,
-   "poster": "/ya8iLCNyoVpBO7B7JrNJVj3g7tK.jpg",
-   "fondo": "/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
-   "sinopsis": "Tras sobrevivir a un brutal accidente aéreo, el oficial de las Fuerzas Especiales James Belmont y su perro de combate Odín intentarán regresar a la civilización desde un remoto lugar en medio de los parajes salvajes de Alaska.",
-   "fecha": "2026-09-19",
-   "mia": true
-  },
-  {
-   "titulo": "Godzilla Minus Zero",
-   "funciones": [
-    {
-     "formato": "2d cast",
-     "dias": {
-      "2026-11-25": [
-       "20:00"
-      ]
-     }
-    }
-   ],
-   "id": 1381071,
-   "poster": "/2B7ZSUutCgwUAE5U0X7WlD8yiun.jpg",
-   "fondo": "/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
-   "sinopsis": "La guerra dejó a Japón en la ruina, y Godzilla lo sumió en una situación aún peor. Han pasado dos años desde entonces, y el país ha librado una lucha ardua por recuperarse y finalmente retomar su vida cotidiana. Justo cuando la humanidad lograba aferrarse a una paz duramente conquistada, una nueva amenaza irrumpe, aplastando la esperanza en un instante.",
-   "fecha": "2026-11-03",
-   "mia": true
-  },
-  {
-   "titulo": "Wildwood: El Bosque Salvaje",
-   "funciones": [
-    {
-     "formato": "2d cast",
-     "dias": {
-      "2026-11-25": [
-       "20:30"
-      ]
-     }
-    }
-   ],
-   "id": 791523,
-   "poster": "/sJ1uZ4DKsjs2iqLtCX46TifxqoE.jpg",
-   "fondo": "/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-   "sinopsis": "Prue y su compañero de clase Curtis se ven arrastrados a un bosque mágico poblado por criaturas encantadas, aliados leales y adversarios formidables, mientras emprenden una misión desesperada para rescatar al hermano bebé de Prue —secuestrado por una bandada de cuervos liderada por una misteriosa mujer llamada Alexandra—.",
-   "fecha": "2026-10-19",
-   "mia": true
-  },
   {
    "titulo": "El Gato Con Sombrero",
    "funciones": [
     {
      "formato": "2d cast",
      "dias": {
-      "2026-11-25": [
-       "18:00"
-      ]
-     }
-    },
-    {
-     "formato": "3d cast",
-     "dias": {
-      "2026-11-25": [
+      "2026-11-27": [
+       "17:00"
+      ],
+      "2026-11-28": [
+       "17:00"
+      ],
+      "2026-11-29": [
+       "17:00"
+      ],
+      "2026-11-30": [
+       "17:00"
+      ],
+      "2026-12-01": [
+       "17:00"
+      ],
+      "2026-12-02": [
        "17:00"
       ]
      }
@@ -91,8 +41,55 @@
     {
      "formato": "2d cast",
      "dias": {
-      "2026-11-25": [
-       "16:00"
+      "2026-11-27": [
+       "16:00",
+       "18:10"
+      ],
+      "2026-11-28": [
+       "16:00",
+       "18:10"
+      ],
+      "2026-11-29": [
+       "16:00",
+       "18:10"
+      ],
+      "2026-11-30": [
+       "16:00",
+       "18:10"
+      ],
+      "2026-12-01": [
+       "16:00",
+       "18:10"
+      ],
+      "2026-12-02": [
+       "16:00",
+       "18:10"
+      ]
+     }
+    },
+    {
+     "formato": "2d sub",
+     "dias": {
+      "2026-11-26": [
+       "22:20"
+      ],
+      "2026-11-27": [
+       "22:20"
+      ],
+      "2026-11-28": [
+       "22:20"
+      ],
+      "2026-11-29": [
+       "22:20"
+      ],
+      "2026-11-30": [
+       "22:20"
+      ],
+      "2026-12-01": [
+       "22:20"
+      ],
+      "2026-12-02": [
+       "22:20"
       ]
      }
     }
@@ -110,7 +107,25 @@
     {
      "formato": "2d cast",
      "dias": {
-      "2026-11-25": [
+      "2026-11-26": [
+       "21:30"
+      ],
+      "2026-11-27": [
+       "21:30"
+      ],
+      "2026-11-28": [
+       "21:30"
+      ],
+      "2026-11-29": [
+       "21:30"
+      ],
+      "2026-11-30": [
+       "21:30"
+      ],
+      "2026-12-01": [
+       "21:30"
+      ],
+      "2026-12-02": [
        "21:30"
       ]
      }
@@ -124,32 +139,31 @@
    "mia": true
   },
   {
-   "titulo": "Como Robar Un Banco",
-   "funciones": [
-    {
-     "formato": "2d cast",
-     "dias": {
-      "2026-11-25": [
-       "17:20"
-      ]
-     }
-    }
-   ],
-   "id": 1437511,
-   "poster": "/xS35fgWgRdF2em5MGxg5WG9dPKd.jpg",
-   "fondo": "/u38hNQbxvIicUdfrHpqa9puBnA9.jpg",
-   "sinopsis": "Un hombre desesperado planea un elaborado atraco contra el corrupto sistema financiero que arruinó su vida, con un grupo que documenta sus actos en redes sociales.",
-   "fecha": "2026-11-10",
-   "mia": false
-  },
-  {
    "titulo": "Ebenezer: Los Fantasmas De Navidad",
    "funciones": [
     {
      "formato": "2d cast",
      "dias": {
-      "2026-11-25": [
-       "22:10"
+      "2026-11-26": [
+       "22:00"
+      ],
+      "2026-11-27": [
+       "22:00"
+      ],
+      "2026-11-28": [
+       "22:00"
+      ],
+      "2026-11-29": [
+       "22:00"
+      ],
+      "2026-11-30": [
+       "22:00"
+      ],
+      "2026-12-01": [
+       "22:00"
+      ],
+      "2026-12-02": [
+       "22:00"
       ]
      }
     }
@@ -162,32 +176,31 @@
    "mia": false
   },
   {
-   "titulo": "Plumas Operacion Rescate",
-   "funciones": [
-    {
-     "formato": "2d cast",
-     "dias": {
-      "2026-11-25": [
-       "17:40"
-      ]
-     }
-    }
-   ],
-   "id": 1280405,
-   "poster": "/12N7a0AqUK8tDYo8RgBXIZQ7kgJ.jpg",
-   "fondo": "/ylOZ6sD51Bu1Jzsfk5hSwBnh0vT.jpg",
-   "sinopsis": "En el Reino de Castilia, una fuerza oscura se alza de nuevo. A pocos días de la coronación del nuevo Emperador y la Emperatriz, sus siete polluelos reales son secuestrados y depende de un héroe devolverlos sanos y salvos: un repartidor adolescente, Arturo el Chivo. Sus sueños de ser un barbero de talla mundial quedan en suspenso cuando se convierte en padre de la noche a la mañana. Si quiere mantener a salvo a los traviesos niños en su viaje, primero debe madurar, descubrir su propio pasado y, por el camino, despertar a campeones olvidados. ¿Podrá Arturo devolver a los herederos y salvar el re",
-   "fecha": "2024-09-05",
-   "mia": false
-  },
-  {
    "titulo": "Yo Soy Rocky",
    "funciones": [
     {
      "formato": "2d cast",
      "dias": {
-      "2026-11-25": [
-       "17:10"
+      "2026-11-26": [
+       "22:10"
+      ],
+      "2026-11-27": [
+       "22:10"
+      ],
+      "2026-11-28": [
+       "22:10"
+      ],
+      "2026-11-29": [
+       "22:10"
+      ],
+      "2026-11-30": [
+       "22:10"
+      ],
+      "2026-12-01": [
+       "22:10"
+      ],
+      "2026-12-02": [
+       "22:10"
       ]
      }
     }
@@ -200,31 +213,30 @@
    "mia": false
   },
   {
-   "titulo": "Recen Por Mi",
-   "funciones": [
-    {
-     "formato": "2d cast",
-     "dias": {
-      "2026-11-25": [
-       "19:40"
-      ]
-     }
-    }
-   ],
-   "id": 1510295,
-   "poster": "/gnmbwuCoGwFblQ0tvvxHHh8LhTU.jpg",
-   "fondo": "/fma2xTmJ0UUG0AyJpjHU83gfwH.jpg",
-   "sinopsis": "",
-   "fecha": "2025-11-07",
-   "mia": false
-  },
-  {
    "titulo": "La Asistente De La Morgue",
    "funciones": [
     {
      "formato": "2d cast",
      "dias": {
-      "2026-11-25": [
+      "2026-11-26": [
+       "22:50"
+      ],
+      "2026-11-27": [
+       "22:50"
+      ],
+      "2026-11-28": [
+       "22:50"
+      ],
+      "2026-11-29": [
+       "22:50"
+      ],
+      "2026-11-30": [
+       "22:50"
+      ],
+      "2026-12-01": [
+       "22:50"
+      ],
+      "2026-12-02": [
        "22:50"
       ]
      }
@@ -236,13 +248,48 @@
    "sinopsis": "Rebecca Owens, una licenciada en ciencias mortuorias, acepta un trabajo nocturno en la funeraria River Fields. Lo que comienza como un trabajo rutinario pronto se vuelve siniestro al enfrentarse a terroríficas fuerzas sobrenaturales.",
    "fecha": "2026-02-13",
    "mia": false
-  }
- ],
- "proximos": [
+  },
   {
    "titulo": "La Nueva Focker",
-   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3546_img2.jpg",
-   "genero": "Comedia",
+   "funciones": [
+    {
+     "formato": "2d cast",
+     "dias": {
+      "2026-11-27": [
+       "17:50"
+      ],
+      "2026-11-28": [
+       "17:50"
+      ],
+      "2026-11-29": [
+       "17:50"
+      ],
+      "2026-11-30": [
+       "17:50"
+      ],
+      "2026-12-01": [
+       "17:50"
+      ],
+      "2026-12-02": [
+       "17:50"
+      ]
+     }
+    },
+    {
+     "formato": "2d sub",
+     "dias": {
+      "2026-11-26": [
+       "22:30"
+      ],
+      "2026-11-29": [
+       "22:30"
+      ],
+      "2026-12-01": [
+       "22:30"
+      ]
+     }
+    }
+   ],
    "id": 1400336,
    "poster": "/iU2XxFhMxC5Z2gOPASkRmtuDjJQ.jpg",
    "fondo": "/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
@@ -251,11 +298,67 @@
    "mia": false
   },
   {
-   "titulo": "Hechizo: Bienvenidos A Heze",
-   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3581_img2.jpg",
-   "genero": "Animación",
+   "titulo": "Hechizo: Bienvenidos A Hexe",
+   "funciones": [
+    {
+     "formato": "2d cast",
+     "dias": {
+      "2026-11-26": [
+       "20:30"
+      ],
+      "2026-11-27": [
+       "18:00"
+      ],
+      "2026-11-28": [
+       "18:00"
+      ],
+      "2026-11-29": [
+       "18:00"
+      ],
+      "2026-11-30": [
+       "18:00"
+      ],
+      "2026-12-01": [
+       "18:00"
+      ],
+      "2026-12-02": [
+       "18:00"
+      ]
+     }
+    },
+    {
+     "formato": "3d cast",
+     "dias": {
+      "2026-11-27": [
+       "17:10"
+      ],
+      "2026-11-28": [
+       "17:10"
+      ],
+      "2026-11-29": [
+       "17:10"
+      ],
+      "2026-11-30": [
+       "17:10"
+      ],
+      "2026-12-01": [
+       "17:10"
+      ],
+      "2026-12-02": [
+       "17:10"
+      ]
+     }
+    }
+   ],
+   "id": 1538497,
+   "poster": "/zPaypaMulDEVhuTCN1hPN1Hg4DI.jpg",
+   "fondo": "/wdjW11Tp4w9EfDBxbjyBJvDVHDA.jpg",
+   "sinopsis": "Billie, una adolescente impulsiva y poco convencional, desata accidentalmente unos poderes mágicos secretos y sale disparada de los suburbios hacia un reino mágico llamado Hexe, donde la reciben Ms. Quill y Elias Quire. A medida que se desarrolla el viaje de Billie, descubre misterios familiares que podrían cambiar para siempre el mundo mágico de las brujas.",
+   "fecha": "2026-11-25",
    "mia": false
-  },
+  }
+ ],
+ "proximos": [
   {
    "titulo": "Noche Sin Paz 2",
    "img_cine": "https://www.cinemacenter.com.ar/img_movies/3615_img2.jpg",
