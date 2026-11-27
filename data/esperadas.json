@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-27T08:26:50.000127+00:00",
+ "actualizado": "2026-11-27T21:26:25.585514+00:00",
  "titulos": [
   {
    "id": 37165,
@@ -862,7 +862,8 @@
    "plataformas": {
     "flatrate": [
      "Amazon Prime Video",
-     "MovistarTV"
+     "MovistarTV",
+     "Diamond Films Plus Amazon Channel"
     ],
     "rent": [
      "Apple TV Store",
@@ -2281,7 +2282,8 @@
    "cine_us": "2016-05-20",
    "plataformas": {
     "flatrate": [
-     "MovistarTV"
+     "MovistarTV",
+     "Diamond Films Plus Amazon Channel"
     ],
     "rent": [
      "Claro video",
@@ -2748,7 +2750,8 @@
    "cine_us": "2017-10-06",
    "plataformas": {
     "flatrate": [
-     "MovistarTV"
+     "MovistarTV",
+     "Diamond Films Plus Amazon Channel"
     ],
     "rent": [
      "Claro video"
@@ -3509,7 +3512,8 @@
    "cine_us": "2023-11-17",
    "plataformas": {
     "flatrate": [
-     "Amazon Prime Video"
+     "Amazon Prime Video",
+     "Diamond Films Plus Amazon Channel"
     ],
     "rent": [
      "Apple TV Store",
@@ -3985,7 +3989,8 @@
     "flatrate": [
      "Netflix",
      "MovistarTV",
-     "HBO Max"
+     "HBO Max",
+     "Diamond Films Plus Amazon Channel"
     ],
     "rent": [
      "Apple TV Store",
@@ -4055,6 +4060,7 @@
    "cine_us": "2022-09-30",
    "plataformas": {
     "flatrate": [
+     "Netflix",
      "Disney Plus",
      "MovistarTV",
      "Paramount+ Amazon Channel",
@@ -4138,7 +4144,8 @@
    "cine_us": "2023-04-14",
    "plataformas": {
     "flatrate": [
-     "Amazon Prime Video"
+     "Amazon Prime Video",
+     "Diamond Films Plus Amazon Channel"
     ],
     "rent": [
      "Apple TV Store",
@@ -4275,7 +4282,8 @@
    "cine_us": "2020-12-11",
    "plataformas": {
     "flatrate": [
-     "MovistarTV"
+     "MovistarTV",
+     "Diamond Films Plus Amazon Channel"
     ],
     "rent": [
      "Apple TV Store",
@@ -4645,7 +4653,8 @@
     "flatrate": [
      "Amazon Prime Video",
      "MovistarTV",
-     "HBO Max"
+     "HBO Max",
+     "Diamond Films Plus Amazon Channel"
     ],
     "rent": [
      "Apple TV Store",
@@ -5498,6 +5507,9 @@
    "cine_ar": null,
    "cine_us": "2022-10-14",
    "plataformas": {
+    "flatrate": [
+     "Diamond Films Plus Amazon Channel"
+    ],
     "rent": [
      "Apple TV Store",
      "Claro video",
@@ -5854,7 +5866,9 @@
    },
    "plataformas_us": {
     "flatrate": [
+     "fuboTV",
      "HBO Max Amazon Channel",
+     "TCM",
      "TNT",
      "TBS",
      "tru TV",
@@ -5919,7 +5933,8 @@
    "cine_us": "1990-02-23",
    "plataformas": {
     "flatrate": [
-     "MovistarTV"
+     "MovistarTV",
+     "Diamond Films Plus Amazon Channel"
     ],
     "rent": [
      "Apple TV Store",
@@ -6509,6 +6524,9 @@
    "cine_ar": null,
    "cine_us": "2013-03-27",
    "plataformas": {
+    "flatrate": [
+     "Diamond Films Plus Amazon Channel"
+    ],
     "rent": [
      "Claro video"
     ]
@@ -7266,7 +7284,8 @@
    "cine_us": "2023-12-15",
    "plataformas": {
     "flatrate": [
-     "Amazon Prime Video"
+     "Amazon Prime Video",
+     "Diamond Films Plus Amazon Channel"
     ],
     "rent": [
      "Apple TV Store",
@@ -10710,7 +10729,8 @@
     "flatrate": [
      "Amazon Prime Video",
      "MovistarTV",
-     "HBO Max"
+     "HBO Max",
+     "Diamond Films Plus Amazon Channel"
     ],
     "rent": [
      "Apple TV Store",
@@ -10976,6 +10996,9 @@
    "cine_ar": "2013-02-07",
    "cine_us": "2012-09-14",
    "plataformas": {
+    "flatrate": [
+     "Diamond Films Plus Amazon Channel"
+    ],
     "rent": [
      "Claro video"
     ]
@@ -12152,6 +12175,7 @@
      "fuboTV",
      "Paramount Plus Premium",
      "Paramount Plus Essential",
+     "Philo",
      "Paramount+ Amazon Channel",
      "YouTube TV",
      "Paramount+ Roku Premium Channel",
@@ -12926,7 +12950,8 @@
     "flatrate": [
      "Amazon Prime Video",
      "MovistarTV",
-     "HBO Max"
+     "HBO Max",
+     "Diamond Films Plus Amazon Channel"
     ],
     "rent": [
      "Claro video",
@@ -13079,8 +13104,8 @@
    },
    "link": "https://www.themoviedb.org/movie/283566-shin-evuangerion-ju-chang-ban/watch?locale=AR",
    "director": [
-    "Kazuya Tsurumaki",
-    "Mahiro Maeda"
+    "中山勝一",
+    "Kazuya Tsurumaki"
    ],
    "reparto": [
     "緒方恵美",
@@ -14777,7 +14802,7 @@
    "fecha": "2026-11-24",
    "poster": "/40bbOEa0ISI1KQmQmy2zQ2DD0tD.jpg",
    "fondo": "/aRO4TuqF8dkRCb5tPlsSlpJbmQD.jpg",
-   "puntaje": 8.0,
+   "puntaje": 8.2,
    "sinopsis": "Ocho años después de los eventos de \"Érase una vez en... Hollywood\", Cliff Booth regresa a un Los Ángeles cambiante. Ahora trabajando como \"fixer\" en las sombras del sistema de estudios de Hollywood, Cliff se verá envuelto en una peligrosa red de secretos, crímenes y traiciones que pondrán a prueba todo lo que conoce sobre lealtad y supervivencia.",
    "hd": false,
    "motivo": null,
@@ -14804,9 +14829,8 @@
    "lema": "",
    "duracion": 141,
    "generos": [
-    "Comedia",
-    "Drama",
-    "Suspense"
+    "Suspense",
+    "Crimen"
    ],
    "agregada": "2026-05-23",
    "hd_desde": null,
@@ -17139,6 +17163,9 @@
    "cine_ar": "2013-03-28",
    "cine_us": "2013-02-08",
    "plataformas": {
+    "flatrate": [
+     "Diamond Films Plus Amazon Channel"
+    ],
     "rent": [
      "Amazon Video"
     ],
@@ -17821,6 +17848,9 @@
    "cine_ar": "2025-02-27",
    "cine_us": "2024-12-25",
    "plataformas": {
+    "flatrate": [
+     "Diamond Films Plus Amazon Channel"
+    ],
     "rent": [
      "Apple TV Store",
      "Claro video",
@@ -19305,7 +19335,8 @@
      "JustWatch TV Store",
      "Google Play Movies",
      "YouTube",
-     "Fandango At Home"
+     "Fandango At Home",
+     "Plex"
     ],
     "buy": [
      "Amazon Video",
@@ -19801,7 +19832,8 @@
    "cine_us": "2017-10-20",
    "plataformas": {
     "flatrate": [
-     "MovistarTV"
+     "MovistarTV",
+     "Diamond Films Plus Amazon Channel"
     ],
     "rent": [
      "Apple TV Store",
@@ -20577,14 +20609,18 @@
    "puntaje": 7.2,
    "sinopsis": "Basada en hechos reales. Aileen Wuornos es una prostituta que fue ejecutada en 2002 en el estado de Florida, tras confesarse autora de seis asesinatos, incluido un policía. Aileen declaró que había matado en defensa propia, como reacción a los violentos ataques que sufria mientras ejercía su oficio. Al borde de la desesperación y del suicidio, conoce un día en un bar a Selby Wall, una joven lesbiana, que ha sido enviada por sus padres a vivir con su tía para \"curar su homosexualidad\". Wuornos, víctima de una trágica infancia llena de abusos, rápidamente se enamora de Selby, encontrando en ella",
    "hd": true,
-   "motivo": "En digital en EE.UU. (Amazon Video, Apple TV Store, Google Play Movies)",
+   "motivo": "Disponible en Argentina",
    "digital_ar": null,
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
    "cine_ar": null,
    "cine_us": "2003-12-24",
-   "plataformas": {},
+   "plataformas": {
+    "flatrate": [
+     "Diamond Films Plus Amazon Channel"
+    ]
+   },
    "plataformas_us": {
     "rent": [
      "Amazon Video",
@@ -20601,7 +20637,7 @@
      "Fandango At Home"
     ]
    },
-   "link": null,
+   "link": "https://www.themoviedb.org/movie/504-monster/watch?locale=AR",
    "director": [
     "Patty Jenkins"
    ],
@@ -20873,8 +20909,8 @@
    },
    "link": "https://www.themoviedb.org/movie/813-airplane/watch?locale=AR",
    "director": [
-    "Jim Abrahams",
-    "Jerry Zucker"
+    "Jerry Zucker",
+    "David Zucker"
    ],
    "reparto": [
     "Robert Hays",
@@ -22771,8 +22807,7 @@
     "rent": [
      "Amazon Video",
      "Apple TV Store",
-     "Fandango At Home",
-     "Plex"
+     "Fandango At Home"
     ],
     "buy": [
      "Amazon Video",
@@ -23113,6 +23148,7 @@
    "cine_us": "1995-12-15",
    "plataformas": {
     "flatrate": [
+     "Amazon Prime Video",
      "Disney Plus",
      "MovistarTV"
     ]
@@ -23497,7 +23533,7 @@
    "fecha": "1957-10-25",
    "poster": "/vz8J8nTbF5JP7PQK4VNVsO8rzCy.jpg",
    "fondo": "/nbMY2UcNnaAr3jrrowzN0NaxQyr.jpg",
-   "puntaje": 8.3,
+   "puntaje": 8.2,
    "sinopsis": "Primera Guerra Mundial (1914-1918). En 1916, en Francia, el general Boulard ordena la conquista de una inexpugnable posición alemana y encarga esa misión al ambicioso general Mireau. El encargado de dirigir el ataque será el coronel Dax. La toma de la colina resulta un infierno, y el regimiento emprende la retirada hacia las trincheras. El alto mando militar, irritado por la derrota, decide imponer al regimiento un terrible castigo que sirva de ejemplo a los demás soldados.",
    "hd": true,
    "motivo": "Disponible en Argentina",
@@ -25337,8 +25373,8 @@
    },
    "link": "https://www.themoviedb.org/movie/228967-the-interview/watch?locale=AR",
    "director": [
-    "Evan Goldberg",
-    "Seth Rogen"
+    "Seth Rogen",
+    "Evan Goldberg"
    ],
    "reparto": [
     "James Franco",
@@ -25411,8 +25447,8 @@
    },
    "link": "https://www.themoviedb.org/movie/109414-this-is-the-end/watch?locale=AR",
    "director": [
-    "Seth Rogen",
-    "Evan Goldberg"
+    "Evan Goldberg",
+    "Seth Rogen"
    ],
    "reparto": [
     "James Franco",
@@ -25635,21 +25671,14 @@
    "puntaje": 6.2,
    "sinopsis": "Agustina encontró las cintas de video que su padre Jaime grabó antes del accidente que le quitó la vida. Los secretos familiares que su historia y la de Jaime la empujarán a involucrarse en una búsqueda que revelará una historia marcada la sexualidad y el activismo político.",
    "hd": true,
-   "motivo": "Disponible en Argentina",
+   "motivo": "En digital en EE.UU. (GuideDoc, DocAlliance Films, DocAlliance Films)",
    "digital_ar": null,
    "digital_us": null,
    "digital_proximo": null,
    "digital_sin_confirmar": null,
    "cine_ar": null,
    "cine_us": null,
-   "plataformas": {
-    "flatrate": [
-     "DocAlliance Films"
-    ],
-    "rent": [
-     "DocAlliance Films"
-    ]
-   },
+   "plataformas": {},
    "plataformas_us": {
     "flatrate": [
      "GuideDoc",
@@ -25659,7 +25688,7 @@
      "DocAlliance Films"
     ]
    },
-   "link": "https://www.themoviedb.org/movie/518776-el-silencio-es-un-cuerpo-que-cae/watch?locale=AR",
+   "link": null,
    "director": [
     "Agustina Comedi"
    ],
@@ -26035,7 +26064,7 @@
    "tipo": "movie",
    "titulo": "Untitled Fred Astaire Biopic",
    "fecha": null,
-   "poster": null,
+   "poster": "/3Dd4eSPKdJVYQgbftPxI1koUglx.jpg",
    "fondo": null,
    "puntaje": 0.0,
    "sinopsis": "A biopic about Fred Astaire, centering on the relationship between Astaire and his sister, Adele Astaire. Plot TBA.",
@@ -26322,7 +26351,8 @@
    "cine_us": "2016-12-21",
    "plataformas": {
     "flatrate": [
-     "Amazon Prime Video"
+     "Amazon Prime Video",
+     "Diamond Films Plus Amazon Channel"
     ],
     "rent": [
      "Apple TV Store",

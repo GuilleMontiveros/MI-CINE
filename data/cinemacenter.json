@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-27T08:26:49.998526+00:00",
+ "actualizado": "2026-11-27T21:26:25.584831+00:00",
  "peliculas": [
   {
    "titulo": "El Gato Con Sombrero",
@@ -386,6 +386,28 @@
    "titulo": "Realmente Amor (Re)",
    "img_cine": "https://www.cinemacenter.com.ar/img_movies/3692_img2.jpg",
    "genero": "Comedia Romántica",
+   "mia": false
+  },
+  {
+   "titulo": "Duna",
+   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3698_img2.jpg",
+   "genero": "Ciencia Ficción",
+   "id": 1811898,
+   "poster": null,
+   "fondo": "/coc8t0MCzvk0INviClX3SLJsMU5.jpg",
+   "sinopsis": "",
+   "fecha": "",
+   "mia": false
+  },
+  {
+   "titulo": "Duna: Parte Dos",
+   "img_cine": "https://www.cinemacenter.com.ar/img_movies/3699_img2.jpg",
+   "genero": "Ciencia Ficción",
+   "id": 693134,
+   "poster": "/v2NN1TMK3ifuiEyawa3ukkcSOUQ.jpg",
+   "fondo": "/eZ239CUp1d6OryZEBPnO2n87gMG.jpg",
+   "sinopsis": "Sigue el viaje mítico de Paul Atreides mientras se une a Chani y los Fremen en una guerra de venganza contra los conspiradores que destruyeron a su familia. Al enfrentarse a una elección entre el amor de su vida y el destino del universo conocido, Paul se esfuerza por evitar un futuro terrible que solo él puede prever.",
+   "fecha": "2024-02-27",
    "mia": false
   },
   {

@@ -198,7 +198,7 @@
    "titulo": "Proyecto Salvación",
    "fecha": "2026-03-15",
    "poster": "/7lwOTxajURKEWO6gI370NTrVdBO.jpg",
-   "fondo": "/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
+   "fondo": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
    "puntaje": 8.6,
    "sinopsis": "El profesor de ciencias Ryland Grace se despierta en una nave espacial a años luz de casa sin recordar quién es ni cómo ha llegado hasta allí. A medida que recupera la memoria, empieza a descubrir su misión: resolver el enigma de la misteriosa sustancia que provoca la extinción del sol. Deberá recurrir a sus conocimientos científicos y a sus ideas poco ortodoxas para salvar todo lo que hay en la Tierra de la extinción... pero una amistad inesperada significa que quizá no tenga que hacerlo solo.",
    "hd": true,
@@ -345,8 +345,8 @@
    "fondo": "/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
    "puntaje": 8.3,
    "sinopsis": "La electrizante historia real de un actor desconocido con la convicción inquebrantable de que no solo estaba destinado a escribir *Rocky*, sino a ser Rocky Balboa. Tras recibir negativas constantes, Sylvester Stallone lo apuesta todo a sí mismo y se mantiene firme en su empeño de interpretar el papel protagonista, contra todo pronóstico.",
-   "hd": false,
-   "motivo": null,
+   "hd": true,
+   "motivo": "En digital en EE.UU. (Fandango At Home)",
    "digital_ar": null,
    "digital_us": null,
    "digital_proximo": null,
@@ -354,7 +354,11 @@
    "cine_ar": "2026-11-19",
    "cine_us": "2026-11-06",
    "plataformas": {},
-   "plataformas_us": {},
+   "plataformas_us": {
+    "buy": [
+     "Fandango At Home"
+    ]
+   },
    "link": null,
    "director": [
     "Peter Farrelly"
@@ -464,7 +468,7 @@
    "fecha": "2026-11-20",
    "poster": "/kohUtEueIVyDXC30MaOdi36aAwn.jpg",
    "fondo": "/AlUUcnCiPbZUcAKoiS7GyXN7y6Z.jpg",
-   "puntaje": 0.0,
+   "puntaje": 10.0,
    "sinopsis": "La historia real, profundamente emotiva e inspiradora, de Ian Charleson, un actor de gran talento cuyo mayor desafío se convierte en su mayor triunfo. Al afrontar su propia mortalidad con una honestidad inquebrantable, ingenio y elegancia, Charleson ofrece una interpretación valiente que se transforma en una fuente de sanación e inspiración para quienes le rodean.",
    "hd": false,
    "motivo": null,
@@ -625,7 +629,7 @@
    "puntaje": 7.3,
    "sinopsis": "Los Gheorghius, una pareja rumano‑noruega muy devota, se instala en un pueblo remoto junto a un fiordo, donde entablan una estrecha amistad con sus vecinos, los Halbergs. Sus hijos se hacen amigos pese a haber sido educados de forma muy distinta. Todo cambia cuando la adolescente Elia Gheorghiu aparece en el colegio con moratones, y la comunidad se pregunta si la educación tradicional que reciben los hijos de los Gheorghiu puede estar relacionada.",
    "hd": true,
-   "motivo": "En digital en EE.UU. (Amazon Video, Apple TV Store, Fandango At Home)",
+   "motivo": "En digital en EE.UU. (Amazon Video, Apple TV Store, Google Play Movies)",
    "digital_ar": null,
    "digital_us": "2026-11-24",
    "digital_proximo": null,
@@ -637,12 +641,16 @@
     "rent": [
      "Amazon Video",
      "Apple TV Store",
+     "Google Play Movies",
+     "YouTube",
      "Fandango At Home",
      "Plex"
     ],
     "buy": [
      "Amazon Video",
      "Apple TV Store",
+     "Google Play Movies",
+     "YouTube",
      "Fandango At Home"
     ]
    },
@@ -672,7 +680,7 @@
    "fecha": "2026-11-13",
    "poster": "/p6oLmq5KmuWY6uRXBQBL2q30jia.jpg",
    "fondo": "/7QshsnWS3NIZp60qMgcYm1C6dxm.jpg",
-   "puntaje": 8.1,
+   "puntaje": 7.9,
    "sinopsis": "Dos hermanos se ven envueltos en un plan que resulta ser demasiado bueno para ser verdad. Mientras intentan desenvolverse en el peligroso mundo de la mafia rusa, los lazos familiares comienzan a resquebrajarse, con consecuencias que cambiarán sus vidas.",
    "hd": false,
    "motivo": null,
