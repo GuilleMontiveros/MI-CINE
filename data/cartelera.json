@@ -1,29 +1,69 @@
 {
- "actualizado": "2026-11-26T08:13:45.063965+00:00",
+ "actualizado": "2026-11-28T07:44:55.091120+00:00",
  "play": {
-  "desde": "19/11",
-  "hasta": "25/11",
+  "desde": "26/11",
+  "hasta": "02/12",
   "peliculas": [
    {
-    "titulo": "Recen Por Mi: La Historia De Francisco",
+    "titulo": "La Nueva Focker",
     "clasif": "G",
-    "minutos": 110,
+    "minutos": 105,
     "funciones": [
      {
       "formato": "2D cast",
       "horas": [
-       "19:30",
-       "22:30"
+       "16:40",
+       "18:40",
+       "19:30"
+      ]
+     },
+     {
+      "formato": "2D sub",
+      "horas": [
+       "21:30",
+       "23:30"
       ]
      }
     ],
     "nota": null,
-    "img_cine": "https://www.playcinema.net/2025/imgs/peliculas/peli_a5e958d7687503f3e0990eeb364e375c.webp",
-    "id": 1510295,
-    "poster": "/gnmbwuCoGwFblQ0tvvxHHh8LhTU.jpg",
-    "fondo": "/fma2xTmJ0UUG0AyJpjHU83gfwH.jpg",
-    "sinopsis": "",
-    "fecha": "2026-11-19",
+    "img_cine": "https://www.playcinema.net/2025/imgs/peliculas/peli_900a8074e1ca6b84ce23e5cc50eabc5b.webp",
+    "id": 1400336,
+    "poster": "/iU2XxFhMxC5Z2gOPASkRmtuDjJQ.jpg",
+    "fondo": "/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
+    "sinopsis": "Henry, hijo de Greg y Pam Focker, se enfrenta al caos familiar cuando decide casarse con una mujer de carácter fuerte que parece ser totalmente incompatible con él.",
+    "fecha": "2026-11-21",
+    "mia": false
+   },
+   {
+    "titulo": "Hechizo: Bienvenidos A Hexe",
+    "clasif": "G",
+    "minutos": 103,
+    "funciones": [
+     {
+      "formato": "2D cast",
+      "horas": [
+       "16:30",
+       "17:30",
+       "19:00",
+       "20:20",
+       "22:40"
+      ]
+     },
+     {
+      "formato": "3D cast",
+      "horas": [
+       "18:20",
+       "21:10"
+      ]
+     }
+    ],
+    "nota": null,
+    "img_cine": "https://www.playcinema.net/2025/imgs/peliculas/peli_d5c210926cbb028bee75a6073660767b.webp",
+    "id": 1538497,
+    "poster": "/zPaypaMulDEVhuTCN1hPN1Hg4DI.jpg",
+    "fondo": "/wdjW11Tp4w9EfDBxbjyBJvDVHDA.jpg",
+    "sinopsis": "Billie, una adolescente impulsiva y poco convencional, desata accidentalmente unos poderes mágicos secretos y sale disparada de los suburbios hacia un reino mágico llamado Hexe, donde la reciben Ms. Quill y Elias Quire. A medida que se desarrolla el viaje de Billie, descubre misterios familiares que podrían cambiar para siempre el mundo mágico de las brujas.",
+    "fecha": "2026-11-25",
     "mia": false
    },
    {
@@ -34,19 +74,18 @@
      {
       "formato": "2D cast",
       "horas": [
-       "18:20",
-       "20:40"
+       "21:00"
       ]
      },
      {
       "formato": "2D sub",
       "horas": [
-       "23:00"
+       "23:10"
       ]
      }
     ],
     "nota": null,
-    "img_cine": "https://www.playcinema.net/2025/imgs/peliculas/peli_30e121111082853f9244055293677038.webp",
+    "img_cine": "https://www.playcinema.net/2025/imgs/peliculas/peli_fc3064173b35fcde2065210babdf6179.webp",
     "id": 1286656,
     "poster": "/6ItqVHcsb2swkE7ajS6EVCH2mpd.jpg",
     "fondo": "/1lnnjBCRLZzKRhQipK5zm61YkPe.jpg",
@@ -69,13 +108,13 @@
      {
       "formato": "2D sub",
       "horas": [
-       "20:30",
-       "22:40"
+       "20:40",
+       "22:20"
       ]
      }
     ],
     "nota": null,
-    "img_cine": "https://www.playcinema.net/2025/imgs/peliculas/peli_0cf4644c03c34f6be293f302f5eb774f.webp",
+    "img_cine": "https://www.playcinema.net/2025/imgs/peliculas/peli_9512060181d50295a419200939967a0b.webp",
     "mia": false
    },
    {
@@ -86,8 +125,7 @@
      {
       "formato": "2D cast",
       "horas": [
-       "21:30",
-       "23:30"
+       "23:20"
       ]
      }
     ],
@@ -101,48 +139,6 @@
     "mia": false
    },
    {
-    "titulo": "Plumas: Operación Rescate",
-    "clasif": "G",
-    "minutos": 86,
-    "funciones": [
-     {
-      "formato": "2D cast",
-      "horas": [
-       "16:50"
-      ]
-     }
-    ],
-    "nota": null,
-    "img_cine": "https://www.playcinema.net/2025/imgs/peliculas/peli_c69a613c83c31e95ad6f6a4c7b8f14f7.webp",
-    "id": 1280405,
-    "poster": "/12N7a0AqUK8tDYo8RgBXIZQ7kgJ.jpg",
-    "fondo": "/ylOZ6sD51Bu1Jzsfk5hSwBnh0vT.jpg",
-    "sinopsis": "En el Reino de Castilia, una fuerza oscura se alza de nuevo. A pocos días de la coronación del nuevo Emperador y la Emperatriz, sus siete polluelos reales son secuestrados y depende de un héroe devolverlos sanos y salvos: un repartidor adolescente, Arturo el Chivo. Sus sueños de ser un barbero de talla mundial quedan en suspenso cuando se convierte en padre de la noche a la mañana. Si quiere mantener a salvo a los traviesos niños en su viaje, primero debe madurar, descubrir su propio pasado y, por el camino, despertar a campeones olvidados. ¿Podrá Arturo devolver a los herederos y salvar el re",
-    "fecha": "2024-09-05",
-    "mia": false
-   },
-   {
-    "titulo": "Caballo Salvaje 9",
-    "clasif": "R-17",
-    "minutos": 118,
-    "funciones": [
-     {
-      "formato": "2D sub",
-      "horas": [
-       "21:20"
-      ]
-     }
-    ],
-    "nota": null,
-    "img_cine": "https://www.playcinema.net/2025/imgs/peliculas/peli_6ae64f825ac1bcad4908895ad2c8fba2.webp",
-    "id": 891621,
-    "poster": "/bLDrHn76oiNYiELv1qw3Tfdkqc8.jpg",
-    "fondo": "/3uLA0ujne91bkzFStZICCYeqhnt.jpg",
-    "sinopsis": "Poco antes del golpe de Estado chileno de 1973, los agentes de la CIA Chris y Lee son enviados desde Santiago a la Isla de Pascua por su jefa de la oficina, MJ. Entre las emblemáticas estatuas de la isla, y mientras los veteranos compañeros lidian con sus oscuros pasados ​​y conspiraciones actuales, el nuevo vínculo que Chris establece con un par de estudiantes rebeldes amenaza con desbaratar el viaje de todos a este remoto paraíso.",
-    "fecha": "2026-10-30",
-    "mia": true
-   },
-   {
     "titulo": "Godzilla Minus Zero",
     "clasif": "R-13",
     "minutos": 135,
@@ -150,8 +146,7 @@
      {
       "formato": "2D cast",
       "horas": [
-       "17:10",
-       "19:00"
+       "23:00"
       ]
      }
     ],
@@ -172,9 +167,8 @@
      {
       "formato": "2D cast",
       "horas": [
-       "16:30",
-       "18:30",
-       "20:30"
+       "17:10",
+       "19:10"
       ]
      }
     ],
@@ -185,70 +179,6 @@
     "fondo": "/9y9o686DsQg0KzPtERzcW7Cf8IE.jpg",
     "sinopsis": "Un astuto gato lleva el caos con sus travesuras a la vida de un par de hermanos que lidian con su mudanza a una nueva ciudad.",
     "fecha": "2026-10-31",
-    "mia": false
-   },
-   {
-    "titulo": "Wildwood: El Bosque Salvaje",
-    "clasif": "G",
-    "minutos": 130,
-    "funciones": [
-     {
-      "formato": "2D cast",
-      "horas": [
-       "16:40",
-       "18:10"
-      ]
-     }
-    ],
-    "nota": null,
-    "img_cine": "https://www.playcinema.net/2025/imgs/peliculas/peli_14120c614edd3c9d73bcc8552f94bda7.webp",
-    "id": 791523,
-    "poster": "/sJ1uZ4DKsjs2iqLtCX46TifxqoE.jpg",
-    "fondo": "/sl5NJ1vtyhP9Vr88bB4blULsJYp.jpg",
-    "sinopsis": "Prue y su compañero de clase Curtis se ven arrastrados a un bosque mágico poblado por criaturas encantadas, aliados leales y adversarios formidables, mientras emprenden una misión desesperada para rescatar al hermano bebé de Prue —secuestrado por una bandada de cuervos liderada por una misteriosa mujer llamada Alexandra—.",
-    "fecha": "2026-10-19",
-    "mia": true
-   },
-   {
-    "titulo": "Clayface",
-    "clasif": "R-17",
-    "minutos": 108,
-    "funciones": [
-     {
-      "formato": "2D sub",
-      "horas": [
-       "23:10"
-      ]
-     }
-    ],
-    "nota": null,
-    "img_cine": "https://www.playcinema.net/2025/imgs/peliculas/peli_b326a62a3b77f4c2a3417efb69ca9056.webp",
-    "id": 1400940,
-    "poster": "/6ihSDJlBNcvoTWzSA0jonZyOXTs.jpg",
-    "fondo": "/xSDoxv4pHvs4xZjvTb0Iqg1A6ro.jpg",
-    "sinopsis": "El meteórico ascenso de Matt Hagen, desde chico de la calle en Gotham hasta promesa de Hollywood, se ve trágicamente truncado cuando las acciones de un jefe del crimen local lo dejan horriblemente desfigurado. Abandonado por su equipo y sin nada que perder, Matt busca un tratamiento celular vanguardista que, milagrosamente, le devuelve su aspecto anterior… pero que también afecta inesperadamente a su percepción de la realidad, sumiéndolo en una espiral destructiva de venganza que lo consume por completo.",
-    "fecha": "2026-10-19",
-    "mia": true
-   },
-   {
-    "titulo": "Madre Siniestra",
-    "clasif": "R-13",
-    "minutos": 93,
-    "funciones": [
-     {
-      "formato": "2D cast",
-      "horas": [
-       "23:20"
-      ]
-     }
-    ],
-    "nota": null,
-    "img_cine": "https://www.playcinema.net/2025/imgs/peliculas/peli_2de6877a8920be37e6a0b42d75efded6.webp",
-    "id": 1400837,
-    "poster": "/USCOKXrHBCeeK96qXmS0NyDHYL.jpg",
-    "fondo": "/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
-    "sinopsis": "Bela, una niña de 8 años que vive en un hogar con problemas matrimoniales, enfrenta a una entidad siniestra que sale de su armario. La presencia, a quien llama \"Otra mamá\", se vuelve cada vez más amenazante para ella y su familia.",
-    "fecha": "2026-10-07",
     "mia": false
    }
   ]

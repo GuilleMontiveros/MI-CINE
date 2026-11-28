@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-27T21:26:25.585514+00:00",
+ "actualizado": "2026-11-28T07:45:00.593857+00:00",
  "series": [
   {
    "id": 308007,
@@ -73,13 +73,6 @@
    "estado": "Returning Series",
    "proximos": [
     {
-     "id": 7928204,
-     "fecha": "2026-11-27",
-     "t": 1,
-     "e": 8,
-     "nombre": "Episodio 8"
-    },
-    {
      "id": 7928205,
      "fecha": "2026-12-04",
      "t": 1,
@@ -110,18 +103,18 @@
    ],
    "temporadas": 1,
    "ultimo": {
-    "id": 7928203,
-    "fecha": "2026-11-20",
-    "t": 1,
-    "e": 7,
-    "nombre": "Demonio y corazón"
-   },
-   "proximo": {
     "id": 7928204,
     "fecha": "2026-11-27",
     "t": 1,
     "e": 8,
     "nombre": "Episodio 8"
+   },
+   "proximo": {
+    "id": 7928205,
+    "fecha": "2026-12-04",
+    "t": 1,
+    "e": 9,
+    "nombre": "Episodio 9"
    },
    "plataformas": {
     "flatrate": [
@@ -133,7 +126,7 @@
    "manual": true,
    "progreso": null,
    "prioridad": false,
-   "resumen": "Próximo: T1 E8"
+   "resumen": "Próximo: T1 E9"
   },
   {
    "id": 207347,

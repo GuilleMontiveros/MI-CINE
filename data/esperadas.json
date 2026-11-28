@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-27T21:26:25.585514+00:00",
+ "actualizado": "2026-11-28T07:45:00.593857+00:00",
  "titulos": [
   {
    "id": 37165,
@@ -67,6 +67,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -134,6 +135,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -203,6 +205,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -274,6 +277,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -353,6 +357,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -424,6 +429,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -500,6 +506,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -564,6 +571,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -638,6 +646,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -701,6 +710,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -743,8 +753,8 @@
    },
    "link": "https://www.themoviedb.org/movie/773-little-miss-sunshine/watch?locale=AR",
    "director": [
-    "Valerie Faris",
-    "Jonathan Dayton"
+    "Jonathan Dayton",
+    "Valerie Faris"
    ],
    "reparto": [
     "Greg Kinnear",
@@ -762,6 +772,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -840,6 +851,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -915,6 +927,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -990,6 +1003,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -1067,6 +1081,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -1132,6 +1147,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -1221,6 +1237,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -1297,6 +1314,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -1385,6 +1403,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -1452,6 +1471,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -1529,6 +1549,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -1604,6 +1625,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -1684,6 +1706,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -1754,6 +1777,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -1820,6 +1844,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -1890,6 +1915,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -1970,6 +1996,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -2042,6 +2069,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -2109,6 +2137,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -2186,6 +2215,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -2261,6 +2291,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -2335,6 +2366,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -2415,6 +2447,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -2497,6 +2530,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -2577,6 +2611,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -2647,6 +2682,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -2729,6 +2765,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -2793,6 +2830,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -2859,6 +2897,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -2945,6 +2984,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -3022,6 +3062,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -3083,6 +3124,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -3151,6 +3193,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -3222,6 +3265,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -3292,6 +3336,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -3362,6 +3407,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -3434,6 +3480,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -3491,6 +3538,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -3550,6 +3598,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -3621,6 +3670,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -3686,6 +3736,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -3753,6 +3804,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -3823,6 +3875,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -3892,6 +3945,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -3966,6 +4020,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -4039,6 +4094,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -4123,6 +4179,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -4196,6 +4253,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -4261,6 +4319,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -4332,6 +4391,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -4402,6 +4462,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -4477,6 +4538,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -4547,6 +4609,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -4630,6 +4693,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -4707,6 +4771,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -4783,6 +4848,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -4860,6 +4926,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -4924,6 +4991,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -5002,6 +5070,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -5071,6 +5140,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -5120,6 +5190,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -5192,6 +5263,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -5267,6 +5339,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -5346,6 +5419,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -5420,6 +5494,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -5487,6 +5562,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -5557,6 +5633,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -5627,6 +5704,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -5691,6 +5769,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -5759,6 +5838,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -5832,6 +5912,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -5912,6 +5993,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -5984,6 +6066,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -6058,6 +6141,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -6128,6 +6212,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -6195,6 +6280,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -6262,6 +6348,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -6322,6 +6409,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -6387,6 +6475,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -6453,6 +6542,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -6504,6 +6594,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -6567,6 +6658,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -6628,6 +6720,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -6700,6 +6793,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -6773,6 +6867,7 @@
    ],
    "agregada": "2024-06-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -6846,6 +6941,7 @@
    ],
    "agregada": "2025-04-12",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -6918,6 +7014,7 @@
    ],
    "agregada": "2025-04-12",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -6997,6 +7094,7 @@
    ],
    "agregada": "2025-04-12",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -7071,6 +7169,7 @@
    ],
    "agregada": "2025-04-12",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -7135,6 +7234,7 @@
    ],
    "agregada": "2025-04-12",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -7198,6 +7298,7 @@
    ],
    "agregada": "2025-04-12",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -7263,6 +7364,7 @@
    ],
    "agregada": "2025-04-12",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -7336,6 +7438,7 @@
    ],
    "agregada": "2025-04-12",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -7399,6 +7502,7 @@
    ],
    "agregada": "2025-04-12",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -7470,6 +7574,7 @@
    ],
    "agregada": "2025-04-12",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -7543,6 +7648,7 @@
    ],
    "agregada": "2025-04-12",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -7603,6 +7709,7 @@
    ],
    "agregada": "2025-07-01",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -7668,6 +7775,7 @@
    ],
    "agregada": "2025-07-01",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -7725,6 +7833,7 @@
    ],
    "agregada": "2025-07-01",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -7790,6 +7899,7 @@
    ],
    "agregada": "2025-07-01",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -7857,6 +7967,7 @@
    ],
    "agregada": "2025-07-01",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -7934,6 +8045,7 @@
    ],
    "agregada": "2025-07-01",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -8003,6 +8115,7 @@
    ],
    "agregada": "2025-07-01",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -8063,6 +8176,7 @@
    ],
    "agregada": "2025-07-01",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -8133,6 +8247,7 @@
    ],
    "agregada": "2025-07-01",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -8182,6 +8297,7 @@
    ],
    "agregada": "2025-07-01",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -8242,6 +8358,7 @@
    ],
    "agregada": "2025-07-01",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -8314,6 +8431,7 @@
    ],
    "agregada": "2025-07-01",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -8390,6 +8508,7 @@
    ],
    "agregada": "2025-07-01",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -8432,6 +8551,7 @@
    ],
    "agregada": "2025-07-01",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -8505,6 +8625,7 @@
    ],
    "agregada": "2025-07-01",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -8585,6 +8706,7 @@
    ],
    "agregada": "2025-07-01",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -8653,6 +8775,7 @@
    ],
    "agregada": "2025-07-01",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -8695,6 +8818,7 @@
    ],
    "agregada": "2025-07-01",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -8768,6 +8892,7 @@
    ],
    "agregada": "2025-07-01",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -8842,6 +8967,7 @@
    ],
    "agregada": "2025-07-01",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -8921,6 +9047,7 @@
    ],
    "agregada": "2025-07-01",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -8973,6 +9100,7 @@
    ],
    "agregada": "2026-04-21",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -9038,6 +9166,7 @@
    ],
    "agregada": "2026-04-21",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -9104,6 +9233,7 @@
    ],
    "agregada": "2026-04-21",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -9169,6 +9299,7 @@
    ],
    "agregada": "2026-04-21",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -9241,6 +9372,7 @@
    ],
    "agregada": "2026-04-21",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -9313,6 +9445,7 @@
    ],
    "agregada": "2026-04-22",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -9378,6 +9511,7 @@
    ],
    "agregada": "2026-04-22",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -9449,6 +9583,7 @@
    ],
    "agregada": "2026-04-22",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -9531,6 +9666,7 @@
    ],
    "agregada": "2026-04-22",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -9595,6 +9731,7 @@
    ],
    "agregada": "2026-04-22",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -9664,6 +9801,7 @@
    ],
    "agregada": "2026-04-22",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -9737,6 +9875,7 @@
    ],
    "agregada": "2026-04-22",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -9792,8 +9931,8 @@
    },
    "link": "https://www.themoviedb.org/movie/872-singin-in-the-rain/watch?locale=AR",
    "director": [
-    "Stanley Donen",
-    "Gene Kelly"
+    "Gene Kelly",
+    "Stanley Donen"
    ],
    "reparto": [
     "Gene Kelly",
@@ -9811,6 +9950,7 @@
    ],
    "agregada": "2026-04-22",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -9872,6 +10012,7 @@
    ],
    "agregada": "2026-04-22",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -9931,6 +10072,7 @@
    ],
    "agregada": "2026-04-22",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -10014,6 +10156,7 @@
    ],
    "agregada": "2026-04-22",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -10092,6 +10235,7 @@
    ],
    "agregada": "2026-04-22",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -10146,6 +10290,7 @@
    ],
    "agregada": "2026-04-22",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -10155,7 +10300,7 @@
    "fecha": "1954-04-26",
    "poster": "/zr4DkzWIMjaWtj6hlsbN6dnNeTX.jpg",
    "fondo": "/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
-   "puntaje": 8.5,
+   "puntaje": 8.4,
    "sinopsis": "Una banda de forajidos atemorizan a los habitantes de un pequeño pueblo, saqueándolos periódicamente sin piedad. Para repeler estos ataques, los aldeanos deciden contratar a mercenarios. Finalmente, consiguen los servicios de 7 guerreros, 7 samurais dispuestos a defenderlos a cambio, tan solo, de cobijo y comida.",
    "hd": true,
    "motivo": "En digital en EE.UU. (HBO Max Amazon Channel, Criterion Channel, HBO Max)",
@@ -10207,6 +10352,7 @@
    ],
    "agregada": "2026-04-22",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -10253,6 +10399,7 @@
    ],
    "agregada": "2026-04-22",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -10310,6 +10457,7 @@
    ],
    "agregada": "2026-04-22",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -10368,6 +10516,7 @@
    ],
    "agregada": "2026-04-22",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -10438,6 +10587,7 @@
    ],
    "agregada": "2026-04-22",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -10500,6 +10650,7 @@
    ],
    "agregada": "2026-04-22",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -10571,6 +10722,7 @@
    ],
    "agregada": "2026-04-22",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -10650,6 +10802,7 @@
    ],
    "agregada": "2026-04-22",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -10706,6 +10859,7 @@
    ],
    "agregada": "2026-04-22",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -10782,6 +10936,7 @@
    ],
    "agregada": "2026-04-22",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -10857,6 +11012,7 @@
    ],
    "agregada": "2026-04-22",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -10909,6 +11065,7 @@
    ],
    "agregada": "2026-04-22",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -10976,6 +11133,7 @@
    ],
    "agregada": "2026-04-22",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -11041,6 +11199,7 @@
    ],
    "agregada": "2026-04-22",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -11114,6 +11273,7 @@
    ],
    "agregada": "2026-04-22",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -11187,6 +11347,7 @@
    ],
    "agregada": "2026-05-10",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -11260,6 +11421,7 @@
    ],
    "agregada": "2026-05-10",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -11332,6 +11494,7 @@
    ],
    "agregada": "2026-05-10",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -11409,6 +11572,7 @@
    ],
    "agregada": "2026-05-10",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -11480,6 +11644,7 @@
    ],
    "agregada": "2026-05-10",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -11562,6 +11727,7 @@
    ],
    "agregada": "2026-05-10",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -11638,6 +11804,7 @@
    ],
    "agregada": "2026-05-20",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -11706,6 +11873,7 @@
    ],
    "agregada": "2026-05-21",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -11773,6 +11941,7 @@
    ],
    "agregada": "2026-05-21",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -11844,6 +12013,7 @@
    ],
    "agregada": "2026-05-21",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -11908,6 +12078,7 @@
    ],
    "agregada": "2026-05-21",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -11981,6 +12152,7 @@
    ],
    "agregada": "2026-05-21",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -12057,6 +12229,7 @@
    ],
    "agregada": "2026-05-21",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -12133,6 +12306,7 @@
    ],
    "agregada": "2026-05-21",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -12220,6 +12394,7 @@
    ],
    "agregada": "2026-05-21",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -12279,6 +12454,7 @@
    ],
    "agregada": "2026-05-21",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -12311,6 +12487,7 @@
    ],
    "agregada": "2026-05-21",
    "hd_desde": null,
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -12394,6 +12571,7 @@
    ],
    "agregada": "2026-05-21",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -12468,6 +12646,7 @@
    ],
    "agregada": "2026-05-21",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -12533,6 +12712,7 @@
    ],
    "agregada": "2026-05-21",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -12611,6 +12791,7 @@
    ],
    "agregada": "2026-05-21",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -12673,6 +12854,7 @@
    ],
    "agregada": "2026-05-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -12723,6 +12905,7 @@
    ],
    "agregada": "2026-05-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -12797,6 +12980,7 @@
    ],
    "agregada": "2026-05-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -12847,6 +13031,7 @@
    ],
    "agregada": "2026-05-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -12927,6 +13112,7 @@
    ],
    "agregada": "2026-05-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -13002,6 +13188,7 @@
    ],
    "agregada": "2026-05-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -13061,6 +13248,7 @@
    ],
    "agregada": "2026-05-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -13104,8 +13292,8 @@
    },
    "link": "https://www.themoviedb.org/movie/283566-shin-evuangerion-ju-chang-ban/watch?locale=AR",
    "director": [
-    "中山勝一",
-    "Kazuya Tsurumaki"
+    "Kazuya Tsurumaki",
+    "Mahiro Maeda"
    ],
    "reparto": [
     "緒方恵美",
@@ -13124,6 +13312,7 @@
    ],
    "agregada": "2026-05-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -13200,6 +13389,7 @@
    ],
    "agregada": "2026-05-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -13275,6 +13465,7 @@
    ],
    "agregada": "2026-05-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -13341,6 +13532,7 @@
    ],
    "agregada": "2026-05-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -13402,6 +13594,7 @@
    ],
    "agregada": "2026-05-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -13463,6 +13656,7 @@
    ],
    "agregada": "2026-05-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -13530,6 +13724,7 @@
    ],
    "agregada": "2026-05-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -13605,6 +13800,7 @@
    ],
    "agregada": "2026-05-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -13654,6 +13850,7 @@
    ],
    "agregada": "2026-05-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -13721,6 +13918,7 @@
    ],
    "agregada": "2026-05-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -13790,6 +13988,7 @@
    ],
    "agregada": "2026-05-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -13849,6 +14048,7 @@
    ],
    "agregada": "2026-05-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -13922,6 +14122,7 @@
    ],
    "agregada": "2026-05-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -13993,6 +14194,7 @@
    ],
    "agregada": "2026-05-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -14071,6 +14273,7 @@
    ],
    "agregada": "2026-05-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -14128,6 +14331,7 @@
    ],
    "agregada": "2026-05-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -14186,6 +14390,7 @@
    ],
    "agregada": "2026-05-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -14259,6 +14464,7 @@
    ],
    "agregada": "2026-05-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -14334,6 +14540,7 @@
    ],
    "agregada": "2026-05-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -14406,6 +14613,7 @@
    ],
    "agregada": "2026-05-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -14478,6 +14686,7 @@
    ],
    "agregada": "2026-05-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -14547,6 +14756,7 @@
    ],
    "agregada": "2026-05-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -14621,6 +14831,7 @@
    ],
    "agregada": "2026-05-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -14668,6 +14879,7 @@
    ],
    "agregada": "2026-05-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -14746,6 +14958,7 @@
    ],
    "agregada": "2026-05-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -14793,6 +15006,7 @@
    ],
    "agregada": "2026-05-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -14835,6 +15049,7 @@
    "agregada": "2026-05-23",
    "hd_desde": null,
    "prioridad": true,
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -14885,6 +15100,7 @@
    ],
    "agregada": "2026-05-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -14939,6 +15155,7 @@
    ],
    "agregada": "2026-05-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -14986,6 +15203,7 @@
    ],
    "agregada": "2026-05-24",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -15026,6 +15244,7 @@
    ],
    "agregada": "2026-05-24",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -15101,6 +15320,7 @@
    ],
    "agregada": "2026-05-24",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -15169,6 +15389,7 @@
    ],
    "agregada": "2026-05-24",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -15239,6 +15460,7 @@
    ],
    "agregada": "2026-05-24",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -15317,6 +15539,7 @@
    ],
    "agregada": "2026-05-24",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -15359,8 +15582,8 @@
    },
    "link": "https://www.themoviedb.org/movie/15137-evuangerion-xin-ju-chang-ban-xu/watch?locale=AR",
    "director": [
-    "Kazuya Tsurumaki",
-    "Masayuki"
+    "Masayuki",
+    "Kazuya Tsurumaki"
    ],
    "reparto": [
     "緒方恵美",
@@ -15379,6 +15602,7 @@
    ],
    "agregada": "2026-05-24",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -15459,6 +15683,7 @@
    ],
    "agregada": "2026-05-24",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -15527,6 +15752,7 @@
    ],
    "agregada": "2026-05-24",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -15588,6 +15814,7 @@
    ],
    "agregada": "2026-05-24",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -15660,6 +15887,7 @@
    ],
    "agregada": "2026-05-24",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -15730,6 +15958,7 @@
    ],
    "agregada": "2026-05-24",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -15794,6 +16023,7 @@
    ],
    "agregada": "2026-05-24",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -15868,6 +16098,7 @@
    ],
    "agregada": "2026-05-24",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -15934,6 +16165,7 @@
    ],
    "agregada": "2026-05-24",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -16014,6 +16246,7 @@
    ],
    "agregada": "2026-05-24",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -16075,6 +16308,7 @@
    ],
    "agregada": "2026-05-24",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -16148,6 +16382,7 @@
    ],
    "agregada": "2026-05-24",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -16224,6 +16459,7 @@
    ],
    "agregada": "2026-05-24",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -16303,6 +16539,7 @@
    ],
    "agregada": "2026-05-24",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -16377,6 +16614,7 @@
    ],
    "agregada": "2026-05-24",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -16453,6 +16691,7 @@
    ],
    "agregada": "2026-05-24",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -16494,6 +16733,7 @@
    ],
    "agregada": "2026-05-24",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -16558,6 +16798,7 @@
    ],
    "agregada": "2026-05-24",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -16621,6 +16862,7 @@
    ],
    "agregada": "2026-05-24",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -16698,6 +16940,7 @@
    ],
    "agregada": "2026-05-24",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -16739,6 +16982,7 @@
    ],
    "agregada": "2026-05-24",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -16809,6 +17053,7 @@
    ],
    "agregada": "2026-05-24",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -16873,6 +17118,7 @@
    ],
    "agregada": "2026-05-24",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -16942,6 +17188,7 @@
    ],
    "agregada": "2026-05-24",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -17019,6 +17266,7 @@
    ],
    "agregada": "2026-05-24",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -17084,6 +17332,7 @@
    ],
    "agregada": "2026-05-24",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -17143,6 +17392,7 @@
    ],
    "agregada": "2026-05-28",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -17215,6 +17465,7 @@
    ],
    "agregada": "2026-05-29",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -17268,6 +17519,7 @@
    ],
    "agregada": "2026-05-31",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -17309,6 +17561,7 @@
    ],
    "agregada": "2026-05-31",
    "hd_desde": null,
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -17381,6 +17634,7 @@
    ],
    "agregada": "2026-06-04",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -17441,6 +17695,7 @@
    ],
    "agregada": "2026-06-05",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -17517,6 +17772,7 @@
    ],
    "agregada": "2026-06-05",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -17566,6 +17822,7 @@
    ],
    "agregada": "2026-06-05",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -17638,6 +17895,7 @@
    ],
    "agregada": "2026-06-05",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -17729,6 +17987,7 @@
    ],
    "agregada": "2026-06-05",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -17767,6 +18026,7 @@
    ],
    "agregada": "2026-06-05",
    "hd_desde": null,
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -17828,6 +18088,7 @@
    ],
    "agregada": "2026-06-05",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -17910,6 +18171,7 @@
    ],
    "agregada": "2026-06-06",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -17987,6 +18249,7 @@
    ],
    "agregada": "2026-06-06",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -18060,6 +18323,7 @@
    ],
    "agregada": "2026-06-06",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -18122,6 +18386,7 @@
    ],
    "agregada": "2026-06-08",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -18177,6 +18442,7 @@
    ],
    "agregada": "2026-06-08",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -18218,6 +18484,7 @@
    ],
    "agregada": "2026-06-08",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -18277,6 +18544,7 @@
    ],
    "agregada": "2026-06-08",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -18320,8 +18588,8 @@
    },
    "link": null,
    "director": [
-    "Michael Powell",
-    "Emeric Pressburger"
+    "Emeric Pressburger",
+    "Michael Powell"
    ],
    "reparto": [
     "Adolf Wohlbrück",
@@ -18339,6 +18607,7 @@
    ],
    "agregada": "2026-06-08",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -18403,6 +18672,7 @@
    ],
    "agregada": "2026-06-08",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -18475,6 +18745,7 @@
    ],
    "agregada": "2026-06-08",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -18543,6 +18814,7 @@
    ],
    "agregada": "2026-06-08",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -18603,6 +18875,7 @@
    ],
    "agregada": "2026-06-08",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -18665,6 +18938,7 @@
    ],
    "agregada": "2026-06-08",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -18725,6 +18999,7 @@
    ],
    "agregada": "2026-06-08",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -18776,6 +19051,7 @@
    ],
    "agregada": "2026-06-09",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -18825,6 +19101,7 @@
    ],
    "agregada": "2026-06-09",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -18889,6 +19166,7 @@
    ],
    "agregada": "2026-06-09",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -18948,6 +19226,7 @@
    ],
    "agregada": "2026-06-09",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -19013,6 +19292,7 @@
    ],
    "agregada": "2026-06-09",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -19090,6 +19370,7 @@
    ],
    "agregada": "2026-06-10",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -19167,6 +19448,7 @@
    ],
    "agregada": "2026-06-10",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -19246,6 +19528,7 @@
    ],
    "agregada": "2026-06-10",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -19255,7 +19538,7 @@
    "fecha": "2026-10-07",
    "poster": "/6OOJvaYJnXNEVnbZAJBHcMqbY3q.jpg",
    "fondo": "/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
-   "puntaje": 7.0,
+   "puntaje": 6.9,
    "sinopsis": "Explora las prácticas internas de Facebook, la difusión de información falsa, el impacto en la salud mental de los adolescentes y la conexión con los eventos del 6 de enero en el Capitolio.",
    "hd": true,
    "motivo": "En digital en EE.UU. (Amazon Video, Apple TV Store, Fandango At Home)",
@@ -19299,6 +19582,7 @@
    "agregada": "2026-06-13",
    "hd_desde": "2026-11-25",
    "prioridad": true,
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -19367,6 +19651,7 @@
    "agregada": "2026-06-13",
    "hd_desde": "2026-11-16",
    "prioridad": true,
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -19417,6 +19702,7 @@
    ],
    "agregada": "2026-06-16",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -19490,6 +19776,7 @@
    ],
    "agregada": "2026-06-20",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -19556,6 +19843,7 @@
    ],
    "agregada": "2026-06-20",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -19597,6 +19885,7 @@
    ],
    "agregada": "2026-06-30",
    "hd_desde": null,
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -19659,6 +19948,7 @@
    ],
    "agregada": "2026-07-02",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -19740,6 +20030,7 @@
    ],
    "agregada": "2026-07-08",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -19811,6 +20102,7 @@
    ],
    "agregada": "2026-07-08",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -19889,6 +20181,7 @@
    ],
    "agregada": "2026-07-15",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -19938,6 +20231,7 @@
    ],
    "agregada": "2026-07-15",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -19999,6 +20293,7 @@
    ],
    "agregada": "2026-07-15",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -20063,6 +20358,7 @@
    ],
    "agregada": "2026-07-15",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -20135,6 +20431,7 @@
    ],
    "agregada": "2026-07-19",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -20177,6 +20474,7 @@
    ],
    "agregada": "2026-07-21",
    "hd_desde": null,
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -20251,6 +20549,7 @@
    ],
    "agregada": "2026-07-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -20325,6 +20624,7 @@
    ],
    "agregada": "2026-07-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -20394,6 +20694,7 @@
    ],
    "agregada": "2026-07-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -20465,6 +20766,7 @@
    ],
    "agregada": "2026-07-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -20524,6 +20826,7 @@
    ],
    "agregada": "2026-07-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -20597,6 +20900,7 @@
    ],
    "agregada": "2026-07-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -20657,6 +20961,7 @@
    ],
    "agregada": "2026-07-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -20696,6 +21001,7 @@
    ],
    "agregada": "2026-07-23",
    "hd_desde": null,
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -20777,6 +21083,7 @@
    ],
    "agregada": "2026-07-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -20852,6 +21159,7 @@
    ],
    "agregada": "2026-07-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -20927,6 +21235,7 @@
    ],
    "agregada": "2026-07-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -20988,6 +21297,7 @@
    ],
    "agregada": "2026-07-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -21065,6 +21375,7 @@
    ],
    "agregada": "2026-07-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -21107,6 +21418,7 @@
    "agregada": "2026-07-23",
    "hd_desde": null,
    "prioridad": true,
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -21150,6 +21462,7 @@
    ],
    "agregada": "2026-07-23",
    "hd_desde": null,
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -21193,6 +21506,7 @@
    ],
    "agregada": "2026-07-23",
    "hd_desde": null,
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -21237,6 +21551,7 @@
    ],
    "agregada": "2026-07-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -21270,8 +21585,8 @@
    "plataformas_us": {},
    "link": "https://www.themoviedb.org/movie/47383-el-hombre-de-al-lado/watch?locale=AR",
    "director": [
-    "Gastón Duprat",
-    "Mariano Cohn"
+    "Mariano Cohn",
+    "Gastón Duprat"
    ],
    "reparto": [
     "Rafael Spregelburd",
@@ -21290,6 +21605,7 @@
    ],
    "agregada": "2026-07-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -21349,6 +21665,7 @@
    ],
    "agregada": "2026-07-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -21392,6 +21709,7 @@
    ],
    "agregada": "2026-07-23",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -21455,6 +21773,7 @@
    ],
    "agregada": "2026-07-24",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -21511,6 +21830,7 @@
    ],
    "agregada": "2026-07-28",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -21568,6 +21888,7 @@
    ],
    "agregada": "2026-07-28",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -21647,6 +21968,7 @@
    ],
    "agregada": "2026-07-29",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -21724,6 +22046,7 @@
    ],
    "agregada": "2026-07-29",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -21799,6 +22122,7 @@
    ],
    "agregada": "2026-07-29",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -21877,6 +22201,7 @@
    ],
    "agregada": "2026-07-29",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -21945,6 +22270,7 @@
    ],
    "agregada": "2026-07-29",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -22025,6 +22351,7 @@
    ],
    "agregada": "2026-07-30",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -22089,6 +22416,7 @@
    ],
    "agregada": "2026-07-30",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -22156,6 +22484,7 @@
    ],
    "agregada": "2026-08-01",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -22218,6 +22547,7 @@
    ],
    "agregada": "2026-08-01",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -22293,6 +22623,7 @@
    ],
    "agregada": "2026-08-01",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -22334,6 +22665,7 @@
    ],
    "agregada": "2026-08-02",
    "hd_desde": null,
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -22398,6 +22730,7 @@
    ],
    "agregada": "2026-08-02",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -22469,6 +22802,7 @@
    ],
    "agregada": "2026-08-02",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -22547,6 +22881,7 @@
    ],
    "agregada": "2026-08-05",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -22607,6 +22942,7 @@
    ],
    "agregada": "2026-08-05",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -22678,6 +23014,7 @@
    ],
    "agregada": "2026-08-07",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -22720,6 +23057,7 @@
    ],
    "agregada": "2026-08-07",
    "hd_desde": null,
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -22783,6 +23121,7 @@
    ],
    "agregada": "2026-08-07",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -22837,6 +23176,7 @@
    "agregada": "2026-08-07",
    "hd_desde": "2026-11-16",
    "prioridad": true,
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -22915,6 +23255,7 @@
    ],
    "agregada": "2026-08-11",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -22952,6 +23293,7 @@
    ],
    "agregada": "2026-08-12",
    "hd_desde": null,
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -23009,6 +23351,7 @@
    ],
    "agregada": "2026-08-12",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -23077,6 +23420,7 @@
    ],
    "agregada": "2026-08-14",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -23127,6 +23471,7 @@
    ],
    "agregada": "2026-08-21",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -23197,6 +23542,7 @@
    ],
    "agregada": "2026-08-25",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -23267,6 +23613,7 @@
    ],
    "agregada": "2026-08-26",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -23325,6 +23672,7 @@
    ],
    "agregada": "2026-08-26",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -23385,6 +23733,7 @@
    ],
    "agregada": "2026-08-26",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -23451,6 +23800,7 @@
    ],
    "agregada": "2026-08-26",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -23524,6 +23874,7 @@
    ],
    "agregada": "2026-08-26",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -23533,7 +23884,7 @@
    "fecha": "1957-10-25",
    "poster": "/vz8J8nTbF5JP7PQK4VNVsO8rzCy.jpg",
    "fondo": "/nbMY2UcNnaAr3jrrowzN0NaxQyr.jpg",
-   "puntaje": 8.2,
+   "puntaje": 8.3,
    "sinopsis": "Primera Guerra Mundial (1914-1918). En 1916, en Francia, el general Boulard ordena la conquista de una inexpugnable posición alemana y encarga esa misión al ambicioso general Mireau. El encargado de dirigir el ataque será el coronel Dax. La toma de la colina resulta un infierno, y el regimiento emprende la retirada hacia las trincheras. El alto mando militar, irritado por la derrota, decide imponer al regimiento un terrible castigo que sirva de ejemplo a los demás soldados.",
    "hd": true,
    "motivo": "Disponible en Argentina",
@@ -23596,6 +23947,7 @@
    ],
    "agregada": "2026-08-26",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -23638,6 +23990,7 @@
    ],
    "agregada": "2026-08-30",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -23693,6 +24046,7 @@
    ],
    "agregada": "2026-08-30",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -23752,6 +24106,7 @@
    ],
    "agregada": "2026-08-30",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -23793,6 +24148,7 @@
    ],
    "agregada": "2026-08-30",
    "hd_desde": null,
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -23860,6 +24216,7 @@
    ],
    "agregada": "2026-08-30",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -23919,6 +24276,7 @@
    ],
    "agregada": "2026-08-30",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -23981,6 +24339,7 @@
    ],
    "agregada": "2026-08-30",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -24036,6 +24395,7 @@
    ],
    "agregada": "2026-08-30",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -24096,6 +24456,7 @@
    ],
    "agregada": "2026-08-30",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -24159,6 +24520,7 @@
    ],
    "agregada": "2026-08-30",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -24219,6 +24581,7 @@
    ],
    "agregada": "2026-08-30",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -24286,6 +24649,7 @@
    ],
    "agregada": "2026-08-30",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -24344,6 +24708,7 @@
    ],
    "agregada": "2026-08-30",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -24413,6 +24778,7 @@
    ],
    "agregada": "2026-08-30",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -24484,6 +24850,7 @@
    ],
    "agregada": "2026-08-30",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -24542,6 +24909,7 @@
    ],
    "agregada": "2026-08-30",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -24583,6 +24951,7 @@
    ],
    "agregada": "2026-08-30",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -24642,6 +25011,7 @@
    ],
    "agregada": "2026-08-30",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -24701,6 +25071,7 @@
    ],
    "agregada": "2026-08-30",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -24757,6 +25128,7 @@
    ],
    "agregada": "2026-08-30",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -24797,6 +25169,7 @@
    ],
    "agregada": "2026-08-30",
    "hd_desde": null,
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -24838,6 +25211,7 @@
    ],
    "agregada": "2026-08-30",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -24904,6 +25278,7 @@
    ],
    "agregada": "2026-08-30",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -24966,6 +25341,7 @@
    ],
    "agregada": "2026-09-01",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -25029,6 +25405,7 @@
    ],
    "agregada": "2026-09-02",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -25091,6 +25468,7 @@
    ],
    "agregada": "2026-09-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -25133,6 +25511,7 @@
    ],
    "agregada": "2026-09-05",
    "hd_desde": null,
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -25191,6 +25570,7 @@
    ],
    "agregada": "2026-09-07",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -25268,6 +25648,7 @@
    ],
    "agregada": "2026-09-08",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -25319,6 +25700,7 @@
    ],
    "agregada": "2026-09-08",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -25392,6 +25774,7 @@
    ],
    "agregada": "2026-09-11",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -25447,8 +25830,8 @@
    },
    "link": "https://www.themoviedb.org/movie/109414-this-is-the-end/watch?locale=AR",
    "director": [
-    "Evan Goldberg",
-    "Seth Rogen"
+    "Seth Rogen",
+    "Evan Goldberg"
    ],
    "reparto": [
     "James Franco",
@@ -25466,6 +25849,7 @@
    ],
    "agregada": "2026-09-11",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -25506,6 +25890,7 @@
    ],
    "agregada": "2026-09-12",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -25547,6 +25932,7 @@
    ],
    "agregada": "2026-09-13",
    "hd_desde": null,
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -25592,6 +25978,7 @@
    ],
    "agregada": "2026-09-15",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -25659,6 +26046,7 @@
    ],
    "agregada": "2026-09-16",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -25706,6 +26094,7 @@
    ],
    "agregada": "2026-09-16",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -25763,6 +26152,7 @@
    ],
    "agregada": "2026-09-16",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -25828,6 +26218,7 @@
    ],
    "agregada": "2026-09-16",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -25886,6 +26277,7 @@
    ],
    "agregada": "2026-09-16",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -25935,6 +26327,7 @@
    ],
    "agregada": "2026-09-16",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -25999,6 +26392,7 @@
    "agregada": "2026-09-19",
    "hd_desde": "2026-11-16",
    "prioridad": true,
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -26057,6 +26451,7 @@
    ],
    "agregada": "2026-09-20",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -26096,6 +26491,7 @@
    ],
    "agregada": "2026-09-26",
    "hd_desde": null,
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -26156,6 +26552,7 @@
    ],
    "agregada": "2026-10-03",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -26220,6 +26617,7 @@
    ],
    "agregada": "2026-10-16",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -26287,6 +26685,7 @@
    ],
    "agregada": "2026-10-20",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -26330,6 +26729,7 @@
    "agregada": "2026-10-24",
    "hd_desde": null,
    "prioridad": true,
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -26408,6 +26808,7 @@
    ],
    "agregada": "2026-10-24",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -26476,6 +26877,7 @@
    ],
    "agregada": "2026-10-24",
    "hd_desde": "2026-11-16",
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -26519,6 +26921,7 @@
    "agregada": "2026-11-17",
    "hd_desde": null,
    "prioridad": true,
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -26561,6 +26964,7 @@
    ],
    "agregada": "2026-11-17",
    "hd_desde": null,
+   "en_play": true,
    "en_cc": false
   },
   {
@@ -26570,7 +26974,7 @@
    "fecha": "2026-10-16",
    "poster": "/hcuFuAlGeQy1yKhd3I0hZ5sgCzl.jpg",
    "fondo": "/fnIcdPVaO4JAzfLhv8OVEqFK6a7.jpg",
-   "puntaje": 8.6,
+   "puntaje": 8.5,
    "sinopsis": "Treinta y cuatro días antes de ingresar en prisión, la famosa fundadora de Theranos, Elizabeth Holmes, invita a un equipo de rodaje escéptico a documentar cada uno de sus movimientos. Lo que comienza como un retrato íntimo se convierte en un alucinante viaje de tres años.",
    "hd": true,
    "motivo": "En digital en EE.UU. (Amazon Video, Apple TV Store, Fandango At Home)",
@@ -26615,6 +27019,7 @@
    "agregada": "2026-11-17",
    "hd_desde": "2026-11-25",
    "prioridad": true,
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -26658,6 +27063,7 @@
    "agregada": "2026-11-17",
    "hd_desde": null,
    "prioridad": true,
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -26701,6 +27107,7 @@
    ],
    "hd_desde": null,
    "prioridad": true,
+   "en_play": false,
    "en_cc": false
   },
   {
@@ -26741,6 +27148,7 @@
    ],
    "hd_desde": null,
    "prioridad": true,
+   "en_play": false,
    "en_cc": true
   }
  ]
